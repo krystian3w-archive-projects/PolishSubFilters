@@ -1,0 +1,21 @@
+## Internal Filters
+
+Szybka subskrybcja:
+
+- wewnętrzne [(Subskrybuj)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/KonoromiHimaries/PolishSubFilters/master/internal-filters/wewnetrzne.txt&title=Polskie%20Filtry%20Wewnętrzne) <ul>
+```
+https://raw.githubusercontent.com/KonoromiHimaries/PolishSubFilters/master/internal-filters/wewnetrzne.txt
+```
+</ul>
+
+Informacje:
+
+- listy działają tylko na [uBlock Origin](https://github.com/gorhill/uBlock/releases) lub [Nano Adblocker](https://github.com/NanoAdblocker/NanoCore/releases)
+- wymagane do działania listy filtrów to [EasyList](https://subscribe.adblockplus.org/?location=https://easylist.to/easylist/easylist.txt&title=EasyList), [Polskie Filtry](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock.txt&title=Official%20Polish%20filters%20for%20AdBlock,%20uBlock%20Origin%20and%20AdGuard), [Polskie Filtry Elementów Irytujących](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PolishFiltersTeam/PolishAnnoyanceFilters/master/PPB.txt&title=Polskie%20Filtry%20Elementów%20Irytujących)
+- opcjonalne listy filtrów to [WebAnnoyances](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt&title=Web%20Annoyances%20Ultralist), [Polskie Filtry Społecznościowe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/adblock_social_filters/adblock_social_list.txt&title=Polskie%20Filtry%20Społecznościowe), [KAD - Przekręty](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt&title=KAD%20-%20Przekręty)
+- opcjonalnie dodatki do filtrów to [Nano Defender](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/nano_defender.md#nano-defender-to-dodatek-do-ublock-originnano-adblockera-maj%C4%85cy-za-zadanie-blokowa%C4%87-skrypty-anty-adblock), Decentraleyes, HTTPS Everywhere
+
+Więcej list filtrów znajdziesz [tutaj](https://github.com/MajkiIT/polish-ads-filter#about).
+
+[![Donatuj](https://img.shields.io/website-donate-down-green-red/https/authedmine.com.svg?label=Donatuj&colorB=1caf92)](https://authedmine.com/media/miner.html?key=ZpmDZUFJhHdv1YZHpCHFWhAUQIGa67TV)
+[![Discord](https://img.shields.io/discord/383371243925274626.svg?colorB=7289da&label=Discord)](https://discord.gg/UEWEBqz)
