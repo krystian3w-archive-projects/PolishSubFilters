@@ -17,7 +17,7 @@
 
 ! Rozszerzenia | | + + +
 | :---: | :---: | :---:
-| Tampermonkey | >> | Greasemonkey
+| Tampermonkey | >> | Violentmonkey
 | uBlock Origin Extra | >> | Nano Defender
 | Adblock | >> | uBlock Origin
 
