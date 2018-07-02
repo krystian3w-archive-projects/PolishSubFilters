@@ -1,0 +1,55 @@
+! Title: Wizjer E-Handlu
+! Collaborators: KonoromiHimaries
+! Oświadczenie: https://github.com/MajkiIT/polish-ads-filter/blob/master/STATEMENT.md
+! Last modified: 18.06.2018
+! Version: 8.3
+! Expires: 3 days
+! Wymagane:
+!   Rozszerzenia >> uBlock Origin lub Nano Adblocker
+!   Listy filtrów >> EasyList + Polskie Filtry + Polskie Filtry Elementów Irytujących
+! Zgłoszenia:
+!   Discord >> https://discord.me/polskiefiltry
+! License: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pl
+! Copyright © 2018 MT&Q
+!
+!1$----------------------{ ogólne reguły }----------------------!
+!
+!& podstrona, polecane
+!> https://github.com/MajkiIT/polish-ads-filter/issues/6111
+www.3kropki.pl##.banLeft:nth-of-type(n+2):nth-of-type(-n+3)
+www.3kropki.pl##.banLeft:nth-of-type(n+5):nth-of-type(-n+6)
+!
+!& podserwis
+!> https://github.com/MajkiIT/polish-ads-filter/issues/5819
+krioni.pl##a[href="gfx/intel/"]
+!
+!& reklama
+!> https://github.com/MajkiIT/polish-ads-filter/issues/5816
+conner.pl###box_banner4
+!
+!& reklama, konkurs, autoreklama
+!> https://github.com/MajkiIT/polish-ads-filter/issues/5786
+www.hitech.com.pl##.look_at
+www.hitech.com.pl##.banner_right > .item:nth-of-type(n+2):nth-of-type(-n+4)
+www.hitech.com.pl##.banner_right > .item:nth-of-type(1)
+www.hitech.com.pl##.banner_right > .item:nth-of-type(5)
+!
+!> https://github.com/MajkiIT/polish-ads-filter/issues/5784
+procpu.pl##.conteiner > div:nth-of-type(1)
+!
+!& reklama
+!> https://github.com/MajkiIT/polish-ads-filter/issues/5783
+foxkomputer.pl##p:nth-of-type(2)
+!
+!& reklama, partner
+!> https://github.com/MajkiIT/polish-ads-filter/issues/5778
+www.senetic.pl###banner
+www.senetic.pl##.office365.vendor
+www.senetic.pl##a[href="https://office365.senetic.pl/pakiety-i-ceny/"]
+!
+!& promocja
+!> https://github.com/MajkiIT/polish-ads-filter/issues/5777
+www.zadowolenie.pl##[class^="js-widget_holder  layer_element"]
+www.zadowolenie.pl##[class^="b-offer_banner js-billboard g-mb0"]
+www.zadowolenie.pl##.b-adZone_wide:nth-of-type(5)
+!
