@@ -1,4 +1,4 @@
-# Alternatywy dla popularnych programów, apek i rozszerzeń
+## Alternatywy dla popularnych programów, apek i rozszerzeń
 
 
 ! Programy | | + + +
@@ -13,7 +13,7 @@
 | EDGE | >> | Chrome
 | Pi-hole | >> | AB-Solution
 
-###
+##
 
 ! Rozszerzenia | | + + +
 | :---: | :---: | :---:
@@ -21,7 +21,7 @@
 | uBlock Origin Extra | >> | Nano Defender
 | Adblock | >> | uBlock Origin
 
-###
+##
 
 ! Apki | | + + +
 | :---: | :---: | :---:
