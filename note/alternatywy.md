@@ -5,7 +5,7 @@
 | :---: | :---: | :---:
 | CCleaner | >> | BleachBit
 | μTorrent | >> | qBittorrent
-| WinRAR | >> | 7-Zip
+| WinRAR | >> | 7-Zip, PeaZip
 | Windows Media Player | >> | PotPlayer
 | GG | >> | Telegram
 | Skype | >> | Discord
