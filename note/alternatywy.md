@@ -4,7 +4,7 @@
 ! Programy | | + + +
 | :---: | :---: | :---:
 | CCleaner | >> | BleachBit
-| μTorrent | >> | Tixati, qBittorrent, BiglyBT
+| μTorrent | >> | qBittorrent
 | WebTorrent | >> | Soda Player
 | WinRAR | >> | 7-Zip, PeaZip
 | Windows Media Player | >> | PotPlayer
