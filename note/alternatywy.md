@@ -4,12 +4,13 @@
 ! Programy | | + + +
 | :---: | :---: | :---:
 | CCleaner | >> | BleachBit
-| μTorrent | >> | qBittorrent
+| μTorrent | >> | qBittorrent, BiglyBT
+| WebTorrent | >> | Soda Player
 | WinRAR | >> | 7-Zip, PeaZip
 | Windows Media Player | >> | PotPlayer
 | GG | >> | Telegram
 | Skype | >> | Discord
-| Opera | >> | Vivaldi 
+| Opera | >> | Vivaldi
 | EDGE | >> | Chrome
 | Pi-hole | >> | AB-Solution
 
