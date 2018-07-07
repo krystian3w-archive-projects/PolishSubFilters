@@ -1,8 +1,8 @@
 ! Title: Polskie Filtry Osadzające Nagłówki
 ! Collaborators: KonoromiHimaries, hawkeye116477, yourduskquibbles
 ! Oświadczenie: https://github.com/MajkiIT/polish-ads-filter/blob/master/STATEMENT.md
-! Last modified: 02.07.2018
-! Version: 234.3
+! Last modified: 07.07.2018
+! Version: 235.3
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
@@ -14,6 +14,15 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+mowianamiescie.pl##.navbar-fixed-top.top-bar:style(position: absolute!important;)
+pathofexile.pl###navbar-main:style(position: absolute!important;)
+www.nvidia.pl##.global-nav:style(position: absolute!important; top: 0px!important;)
+muzeumpanatadeusza.ossolineum.pl##.clearfix.header:style(position: absolute!important;)
+www.se.pl##.show:style(position: static!important;)
+codziennikfeministyczny.pl##.page-header:style(position: absolute!important;)
+najtanszedomeny.pl##.fixed.Main-menu:style(position: static!important;)
+www.blasty.pl##.nawigacja-top:style(position: static!important;)
+konsoleigry.pl###header-main:style(position: static!important;)
 www.alkoholeswiata.com###spy
 marciniwuc.com##.sticky.cf.navigation:style(position: static!important;)
 singlemalt.pl##.sticky-header-container.eg-stickyheader
@@ -628,6 +637,7 @@ funhub.pl##.footer-hi.wrapper:style(position: static!important;)
 !
 !3$----------------------{ flanki }----------------------!
 !
+www.kryminalnapolska.pl##.td-pb-span4.tdc-column.vc_column_container.wpb_column.vc_column > .wpb_wrapper:style(position: static!important;)
 najlepszelokaty.pl##.sticky.floating-widget__positioner:style(position: static!important;)
 ndie.pl##.td-pb-span4.tdc-column.vc_column_container.wpb_column.vc_column > .wpb_wrapper:style(position: static!important;)
 dzieje.pl##.is_stuck:style(position: static!important;)
@@ -658,7 +668,7 @@ www.ovh.pl##.menuLogo
 alltube.pl,alltube.tv##section.player[style^="height: calc("]:style(height:calc(100% - 70px)!important;)
 www.crazynauka.pl###cb-nav-logo
 www.fakt.pl##article > .artLeftWrapper > .artLeft > .protected.floatingElem:style(position: static!important;)
-cda-hd.co###fixer:style(position: static!important;)
+cda-hd.co,cda-hd.cc###fixer:style(position: static!important;)
 tuudi.net,pl##.td-ss-main-sidebar:style(position: static!important;)
 !tuudi.net,comparic.pl,newsweb.pl,ndie.pl,cyfrowaekonomia.pl##.td-ss-main-sidebar:style(position: static!important;)
 www.dobreprogramy.pl##.sticky.no-mobile.block:style(position: static!important;)
