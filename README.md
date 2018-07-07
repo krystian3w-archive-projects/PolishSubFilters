@@ -17,5 +17,5 @@ Informacje:
 
 Więcej list filtrów znajdziesz [tutaj](https://github.com/MajkiIT/polish-ads-filter#about).
 
-[![Donatuj](https://img.shields.io/website-donate-down-green-red/https/authedmine.com.svg?label=Donatuj&colorB=1caf92)](https://authedmine.com/media/miner.html?key=ZpmDZUFJhHdv1YZHpCHFWhAUQIGa67TV)
+[![Donatuj](https://img.shields.io/website-anonimowo-down-green-red/https/authedmine.com.svg?label=Donatuj&colorB=1caf92)](https://authedmine.com/media/miner.html?key=ZpmDZUFJhHdv1YZHpCHFWhAUQIGa67TV)
 [![Discord](https://img.shields.io/discord/383371243925274626.svg?colorB=7289da&label=Discord)](https://discord.gg/UEWEBqz)
