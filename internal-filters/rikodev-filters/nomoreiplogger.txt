@@ -1,3 +1,6 @@
+! Source: https://github.com/RikoDEV/NoMoreIPLogger-adblock-list/blob/master/list.txt
+! Last Update: 09.07.2018
+!
 ! Title: NoMoreIPLogger List
 ! This list blocks popular sites offering the user's IP logging using fake URLs.
 ! Collaborators: RikoDEV
