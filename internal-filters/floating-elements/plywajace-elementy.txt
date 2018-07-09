@@ -1,8 +1,8 @@
 ! Title: Polskie Filtry Osadzające Nagłówki
 ! Collaborators: KonoromiHimaries, hawkeye116477, yourduskquibbles
 ! Oświadczenie: https://github.com/MajkiIT/polish-ads-filter/blob/master/STATEMENT.md
-! Last modified: 07.07.2018
-! Version: 235.3
+! Last modified: 09.07.2018
+! Version: 236.3
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
@@ -14,6 +14,8 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+www.kurshtml.edu.pl###HEADER > h1:style(position: absolute!important;)
+pebx.pl##.sticky_wrapper:style(position: static!important;)
 mowianamiescie.pl##.navbar-fixed-top.top-bar:style(position: absolute!important;)
 pathofexile.pl###navbar-main:style(position: absolute!important;)
 www.nvidia.pl##.global-nav:style(position: absolute!important; top: 0px!important;)
@@ -637,6 +639,7 @@ funhub.pl##.footer-hi.wrapper:style(position: static!important;)
 !
 !3$----------------------{ flanki }----------------------!
 !
+pebx.pl##.inner_wrapper:style(position: static!important;)
 www.kryminalnapolska.pl##.td-pb-span4.tdc-column.vc_column_container.wpb_column.vc_column > .wpb_wrapper:style(position: static!important;)
 najlepszelokaty.pl##.sticky.floating-widget__positioner:style(position: static!important;)
 ndie.pl##.td-pb-span4.tdc-column.vc_column_container.wpb_column.vc_column > .wpb_wrapper:style(position: static!important;)
@@ -655,6 +658,11 @@ www.dobreprogramy.pl##.sticky.blog-list.block:style(position: static!important;)
 !
 !4$----------------------{ przyciski }----------------------!
 !
+www.kurshtml.edu.pl###kategoria_html:style(position: absolute!important;)
+www.kurshtml.edu.pl###kategoria_css:style(position: absolute!important;)
+www.kurshtml.edu.pl###kategoria_js:style(position: absolute!important;)
+www.kurshtml.edu.pl###kategoria_skrypty:style(position: absolute!important;)
+www.kurshtml.edu.pl###kategoria_info:style(position: absolute!important;)
 www.interia.pl###main-menu-switch:style(position: absolute!important;)
 www.militaria.pl##.on.fixed.buttons.row:style(position: static!important;)
 mirkolisty.pvu.pl##.change-style.theme-changer:style(position: absolute!important;)
