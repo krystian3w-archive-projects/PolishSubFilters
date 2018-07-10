@@ -1,4 +1,4 @@
-## Alternatywy dla popularnych programów, apek i rozszerzeń
+## Alternatywy dla popularnych programów, apek, rozszerzeń i stron
 
 
 ! Programy | | + + +
@@ -27,3 +27,9 @@
 ! Apki | | + + +
 | :---: | :---: | :---:
 | YouTube | >> | NewPipe
+
+##
+
+! Strony | | + + +
+| :---: | :---: | :---:
+| Google | >> | SearX
