@@ -1,5 +1,5 @@
 ! Source: https://github.com/PolishFiltersTeam/PolishRSSFilters/blob/master/polish_rss_filters.txt
-! Last Update: 09.07.2018
+! Last Update: 11.07.2018
 !
 ! Title: Polskie Filtry RSS
 ! Polish RSS Filters
