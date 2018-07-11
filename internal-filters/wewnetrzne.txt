@@ -3,8 +3,8 @@
 ! Oświadczenie: https://github.com/MajkiIT/polish-ads-filter/blob/master/STATEMENT.md
 ! EULA: Subskrybcja|Użytkowanie listy "Polskie Filtry Wewnętrzne" jest równoznaczna z akceptacją sposobu w jaki działają filtry.
 ! INFO: Aby wyłączyć niepożądaną regułę, należy ją skopiować do zakładki Moje Filtry a następnie między znakami ## wstawić znak @ np. sprawnymarketing.pl#@#.hidden-mobile
-! Last modified: 12.07.2018
-! Version: 419.3
+! Last modified: 11.07.2018
+! Version: 420.3
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
@@ -33,8 +33,10 @@
 www.dobreprogramy.pl###blogWidgetCta
 !
 !& player, ulepszenie
-www.youtube.com##.ytp-progress-bar-container:style(position: relative!important; top: 32px!important;)
-www.youtube.com##.ytp-chrome-controls:style(position: relative!important; top: -22px!important;)
+www.youtube.com##.html5-video-player:not(.ytp-fullscreen) .ytp-progress-bar-container:style(position: relative!important; top: 32px!important;)
+www.youtube.com##.html5-video-player:not(.ytp-fullscreen) .ytp-chrome-controls:style(position: relative!important; top: -12px!important;)
+www.youtube.com##.html5-video-player.ytp-fullscreen .ytp-progress-bar-container:style(position: relative!important; top: 32px!important;)
+www.youtube.com##.html5-video-player.ytp-fullscreen .ytp-chrome-controls:style(position: relative!important; top: -30px!important;)
 !
 ! pusta sekcja, ogólne, zewnętrzne
 mserwery.pl##.container > div.panel-default.panel:nth-of-type(1), .container > div.panel-default.panel:nth-of-type(3)
