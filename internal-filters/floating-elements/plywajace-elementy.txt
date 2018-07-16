@@ -1,8 +1,8 @@
 ! Title: Polskie Filtry Osadzające Nagłówki
 ! Collaborators: KonoromiHimaries, hawkeye116477, yourduskquibbles
 ! Oświadczenie: https://github.com/MajkiIT/polish-ads-filter/blob/master/STATEMENT.md
-! Last modified: 11.07.2018
-! Version: 237.3
+! Last modified: 16.07.2018
+! Version: 238.3
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
@@ -14,6 +14,9 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+www.bliskodziecka.com.pl##.clearfix.bottom-header-wrapper:style(position: static!important;)
+poznajkryptowaluty.com##.fixed-masthead.dt-parent-menu-clickable.full-height.widgets.right.inline-header.masthead:style(position: absolute!important;)
+www.kwantowo.pl##.top-bar-stuck.top-bar-sticky.top-bar-overlay.top-bar:style(position: absolute!important;)
 www.getbacksa.pl###sp-header-wr:style(position: static!important;)
 celiakia.pl##.head-nav:style(position: absolute!important; top: 114px!important;)
 www.dlapolski.pl###site-navigation:style(position: static!important;)
@@ -636,12 +639,14 @@ www.polskieradio.pl##script:inject(setTimeout-defuser.js, scrolling, 25)
 !
 !2$----------------------{ stopki }----------------------!
 !
+interia.pl##.recommend-flybar-block
 alltube.pl,alltube.tv##.navbar-fixed-bottom.navbar:style(position: relative!important;)
 funhub.pl##.footer-hi.wrapper:style(position: static!important;)
 !
 !
 !3$----------------------{ flanki }----------------------!
 !
+twojahistoria.pl###sticker:style(position: static!important;)
 pebx.pl##.inner_wrapper:style(position: static!important;)
 www.kryminalnapolska.pl##.td-pb-span4.tdc-column.vc_column_container.wpb_column.vc_column > .wpb_wrapper:style(position: static!important;)
 najlepszelokaty.pl##.sticky.floating-widget__positioner:style(position: static!important;)
