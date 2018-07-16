@@ -3,8 +3,8 @@
 ! Oświadczenie: https://github.com/MajkiIT/polish-ads-filter/blob/master/STATEMENT.md
 ! EULA: Subskrybcja|Użytkowanie listy "Polskie Filtry Wewnętrzne" jest równoznaczna z akceptacją sposobu w jaki działają filtry.
 ! INFO: Aby wyłączyć niepożądaną regułę, należy ją skopiować do zakładki Moje Filtry a następnie między znakami ## wstawić znak @ np. sprawnymarketing.pl#@#.hidden-mobile
-! Last modified: 15.07.2018
-! Version: 422.3
+! Last modified: 16.07.2018
+! Version: 423.3
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
@@ -50,6 +50,8 @@ www.youtube.com##.html5-video-player.ytp-fullscreen .ytp-chrome-controls:style(p
 mserwery.pl##.container > div.panel-default.panel:nth-of-type(1), .container > div.panel-default.panel:nth-of-type(3)
 !
 ! a-o.ninja
+a-o.ninja###above-navbar
+a-o.ninja##.region-content.region > center
 ||a-o.ninja/wp-content/uploads/dark.jpg$image
 ||a-o.ninja/wp-content/uploads/*/A-O_logo.png$image
 a-o.ninja##.container.header-image
