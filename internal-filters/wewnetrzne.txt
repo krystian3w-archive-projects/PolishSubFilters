@@ -3,8 +3,8 @@
 ! Oświadczenie: https://github.com/MajkiIT/polish-ads-filter/blob/master/STATEMENT.md
 ! EULA: Subskrybcja|Użytkowanie listy "Polskie Filtry Wewnętrzne" jest równoznaczna z akceptacją sposobu w jaki działają filtry.
 ! INFO: Aby wyłączyć niepożądaną regułę, należy ją skopiować do zakładki Moje Filtry a następnie między znakami ## wstawić znak @ np. sprawnymarketing.pl#@#.hidden-mobile
-! Last modified: 16.07.2018
-! Version: 424.3
+! Last modified: 19.07.2018
+! Version: 425.4
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
@@ -29,6 +29,9 @@
 !#include floating-elements/plywajace-elementy.txt
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
+!
+! no-pl, fix, wh, nsfw, f: awrl + ufp
+porndig.com#@#.noadblock
 !
 !& dm, ulepszenie, player
 dailymotion.com##.dmp_Player .np_Darken.np_transition
