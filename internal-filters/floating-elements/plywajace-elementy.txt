@@ -2,7 +2,7 @@
 ! Collaborators: KonoromiHimaries, hawkeye116477, yourduskquibbles
 ! Oświadczenie: https://github.com/MajkiIT/polish-ads-filter/blob/master/STATEMENT.md
 ! Last modified: 19.07.2018
-! Version: 239.3
+! Version: 240.3
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
@@ -611,7 +611,6 @@ fotoblogia.pl##.fixed-header--display.adsize_header.x-header.main-header-small.a
 hosting.wp.pl##.navbar-fixed-top.navbar:style(position: absolute!important;)
 inwestor.wp.pl##.desktop-fixed.jq-header-height:style(position: absolute!important;)
 komorkomania.pl##.fixed-header--display:style(position: absolute!important;)
-m.money.pl###header:style(position: absolute!important;)
 m.sportowefakty.wp.pl###mainheader:style(position: absolute!important;)
 misioweopowiesci.o2.pl##.site-nav:style(position: absolute!important;)
 parenting.pl##.top-header.header:style(position: absolute!important;)
@@ -636,10 +635,7 @@ sport.pl##script:inject(abort-on-property-read.js, gazeta_pl.Player.FloatingPlay
 www.computerworld.pl,www.cxo.pl,www.internetstandard.pl,www.pcworld.pl##script:inject(abort-on-property-read.js, setHeaderService)
 www.igbbaltica.pl##script:inject(abort-current-inline-script.js, $, fixed_header)
 www.polskieradio.pl##script:inject(setTimeout-defuser.js, scrolling, 25)
-!
-!#if !env_mobile
 www.money.pl###fixedHeader
-!#endif
 !
 !
 !2$----------------------{ stopki }----------------------!
