@@ -1,6 +1,8 @@
 ! Source: https://github.com/Yhonay/antipopads/blob/master/popads.txt
 ! Last Update: 20.07.2018
-!
+
+! Uwaga: Nie wchodź w podane niżej strony
+
 ! Version: 6418
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
