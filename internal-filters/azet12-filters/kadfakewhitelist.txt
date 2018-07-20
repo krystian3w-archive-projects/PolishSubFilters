@@ -1,6 +1,6 @@
 ! Source: https://raw.githubusercontent.com/azet12/KAD/gh-pages/assets/other/kadfakewhitelist.txt
 ! Last Update: 20.07.2018
-!
+
 ! Homepage: https://azet12.github.io/KAD
 ! Title: KAD - Whitelista Stron Kontrowersyjnych
 ! Expires: 3 days
