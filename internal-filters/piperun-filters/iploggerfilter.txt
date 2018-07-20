@@ -1,6 +1,6 @@
 ! Source: https://github.com/piperun/iploggerfilter/blob/master/filterlist
 ! Last Update: 20.07.2018
-!
+
 ! Title: Piperun's iplogger filter
 ! Expires: 3 days
 ! Last modified: 20 July 2018
