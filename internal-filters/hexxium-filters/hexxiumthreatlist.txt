@@ -1,6 +1,8 @@
 ! Source: https://github.com/HexxiumCreations/threat-list/blob/gh-pages/hexxiumthreatlist.txt
 ! Last Update: 20.07.2018
 
+! Uwaga: Nie wchodź w podane niżej strony
+
 ! Homepage: https://hexxiumcreations.github.io/threat-list/
 ! Website: https://www.hexxiumcreations.com/projects/malicious-domain-blocking/
 ! Title: Hexxium Creations Threat List
