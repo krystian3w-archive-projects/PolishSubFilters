@@ -95,3 +95,7 @@ userResourcesLocation https://cdn.rawgit.com/NanoAdblocker/NanoFilters/master/Na
 [NanoWhitelist]: https://subscribe.adblockplus.org/?location=https://cdn.rawgit.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoWhitelist.txt&title=Nano%20filters%20-%20Whitelist
 [NanoAnnoyance]: https://subscribe.adblockplus.org/?location=https://cdn.rawgit.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoAnnoyance.txt&title=Nano%20filters%20-%20Annoyance
 [AdblockWarningRemovalList]: https://subscribe.adblockplus.org/?location=https://easylist-downloads.adblockplus.org/antiadblockfilters.txt&title=Adblock%20Warning%20Removal%20List
+
+##
+
+###### oryginany poradnik `https://jspenguin2017.github.io/uBlockProtector/#extra-installation-steps-for-ublock-origin`
