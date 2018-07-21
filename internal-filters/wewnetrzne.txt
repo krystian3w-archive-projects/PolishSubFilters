@@ -4,7 +4,7 @@
 ! EULA: Subskrybcja|Użytkowanie listy "Polskie Filtry Wewnętrzne" jest równoznaczna z akceptacją sposobu w jaki działają filtry.
 ! INFO: Aby wyłączyć niepożądaną regułę, należy ją skopiować do zakładki Moje Filtry a następnie między znakami ## wstawić znak @ np. sprawnymarketing.pl#@#.hidden-mobile
 ! Last modified: 21.07.2018
-! Version: 428.4
+! Version: 429.4
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
@@ -23,6 +23,7 @@
 !#include azet12-filters/kad.txt
 !#include rikodev-filters/sekcje-rss.txt
 !#include yhonay-filters/anti-popads.txt
+!#include anudeep-filters/coinminerlist.txt
 !#include piperun-filters/iploggerfilter.txt
 !#include paid-subscriptions/prenumeraty.txt
 !#include azet12-filters/kadfakewhitelist.txt
