@@ -1,14 +1,14 @@
 ! Source: https://github.com/Yhonay/antipopads/blob/master/popads.txt
-! Last Update: 20.07.2018
+! Last Update: 21.07.2018
 
 ! Uwaga: Nie wchodź w podane niżej strony
 
-! Version: 6418
+! Version: 6433
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
-! Title: Anti popads.net
-! Expires: 3
+! Expires: 3 day
+
 ||aacgeuvaoqbw.com^
 ||aaeqlxdgx.bid^
 ||aahfcroigwso.com^
@@ -319,6 +319,7 @@
 ||bhbkfoybvrl.bid^
 ||bhcpmowwxwbv.com^
 ||bhejerqgrtlq.com^
+||bhfpvqdmjarlk.com^
 ||bhggbeynqhwm.bid^
 ||bhjhijisulwl.com^
 ||bhklyaazmxq.com^
@@ -821,6 +822,7 @@
 ||ditouyldfqgt.com^
 ||diuiyzhao.com^
 ||diwkemnk.bid^
+||djavljmti.com^
 ||djcbhuwplfpui.bid^
 ||djeoxopgw.com^
 ||djhqkoikovr.bid^
@@ -828,6 +830,7 @@
 ||djqercix.com^
 ||djrkauxla.bid^
 ||djtclldgsocbv.bid^
+||djuxmbjauluis.com^
 ||djxvususwvso.com^
 ||dkadbasc.bid^
 ||dkdnvbueigxs.bid^
@@ -2763,6 +2766,7 @@
 ||lcmwchhybzik.bid^
 ||lcnvxuipvq.bid^
 ||lcpqoewrzuxh.com^
+||lcrdolxjoxxlr.com^
 ||lcuprkufusba.com^
 ||lcyncwbacrgz.com^
 ||ldbgrugl.bid^
@@ -2837,6 +2841,7 @@
 ||lkaumkxmzefa.com^
 ||lkdlamrwl.com^
 ||lkfepwhchrlv.bid^
+||lkfuihubbros.com^
 ||lkgcdedbklfse.com^
 ||llbevorurncfcc.bid^
 ||llbynwyuoj.bid^
@@ -3039,6 +3044,7 @@
 ||mdvrxmzofurvkm.com^
 ||meagjivconqt.com^
 ||mecounxmawn.bid^
+||mecsjjkomehyv.com^
 ||meeaowsxneps.com^
 ||megpacokjce.bid^
 ||mehcpazsnzh.com^
@@ -3193,6 +3199,7 @@
 ||mrutbjvgh.com^
 ||mruxsxrnu.com^
 ||mrvzisfsrvs.bid^
+||mrweekseur.com^
 ||mrxvgpzath.bid^
 ||msbmckzmcu.com^
 ||msiegurhgfyl.com^
@@ -3489,6 +3496,7 @@
 ||nyrszeos.bid^
 ||nyvdouydkxmaws.bid^
 ||nyzncfurdrdxfi.com^
+||nyzobnpbcwjwfs.com^
 ||nzbtvquutdr.com^
 ||nzcpdaboaayv.com^
 ||nzssjqjv.bid^
@@ -3790,6 +3798,7 @@
 ||pfhgihce.bid^
 ||pfibgoaqdzbp.com^
 ||pfjwtzlfaivp.com^
+||pfltlwftndq.com^
 ||pfvgazngauezhk.com^
 ||pgkdyhdhul.com^
 ||pgubdmshfz.bid^
@@ -4007,6 +4016,7 @@
 ||qcrvwgsfz.com^
 ||qctltbnn.com^
 ||qcxhpohiwawnmo.bid^
+||qcyqimny.com^
 ||qdajmhpwzdmaji.com^
 ||qdcoqejn.com^
 ||qddgbaux.com^
@@ -4271,6 +4281,7 @@
 ||rdkdexupxcfs.com^
 ||rdlynbosndvx.com^
 ||rdmccvanlx.bid^
+||rdpqiqlirf.com^
 ||rdqyasdstllr.com^
 ||rdvrxbxwxspxd.com^
 ||rdwfotuyp.bid^
@@ -4462,6 +4473,7 @@
 ||rxsazdeoypma.com^
 ||rxuqpktyqixa.com^
 ||rxyeukffow.bid^
+||ryeoanvkettth.com^
 ||ryhrabmmprehm.com^
 ||ryjlaaimxrq.com^
 ||rylkihtmnvsh.com^
@@ -4865,6 +4877,7 @@
 ||togfcqfvarpq.com^
 ||totvsaexihbe.com^
 ||touayfftdwcd.com^
+||touraadhdnfgsa.com^
 ||toyhxqjgqcjo.com^
 ||tpdowdhhn.com^
 ||tperkulpflry.bid^
@@ -5706,6 +5719,7 @@
 ||wwfjhzut.bid^
 ||wwgysckwouvzkm.bid^
 ||wwiqinsra.bid^
+||wwkowjxms.com^
 ||wwyblltamlcr.com^
 ||wwzchzpluwuon.com^
 ||wwznjjvkfqnyvy.com^
@@ -5941,6 +5955,7 @@
 ||xxypskosek.bid^
 ||xycbrnotvcat.com^
 ||xycpjxkkkim.com^
+||xydubrrvpthmat.com^
 ||xyfrnfoijncmu.com^
 ||xygzlbizru.com^
 ||xyiawbjnajcm.bid^
