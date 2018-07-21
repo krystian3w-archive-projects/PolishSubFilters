@@ -6,7 +6,7 @@
 ! Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
 ! Last modified: 18 Jul 2018
 ! Version: 2018071801
-! Expires: 1 day
+! Expires: 3 day
 !
 ! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
 ! GitHub: https://github.com/azet12/KAD
