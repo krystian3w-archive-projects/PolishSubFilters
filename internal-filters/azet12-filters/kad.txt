@@ -1,5 +1,5 @@
 ! Source: https://github.com/azet12/KAD/blob/master/KAD.txt
-! Last Update: 21.07.2018
+! Last Update: 22.07.2018
 
 ! Homepage: https://azet12.github.io/KAD
 ! Title: KAD - Przekręty
@@ -560,20 +560,6 @@
 ||zostan-zwyciezca.com^
 ||zumer.ayz.pl^
 ||zyski-z-innowacji.pl^
-
-! Promocja pseudonauki / Fake news
-! Nieprawdziwe, wprowadzające w błąd informacje lub podobne.
-||bio-chemik24.pl^
-||jerzyzieba.com^
-||odpowiedzialni-rodzice.pl^
-||paulinajanowicz.pl^
-||planetazdrowia.com^
-||stopnop.com.pl^
-||timeforvitamins.com^
-||ukryteterapie.pl^
-||vaccgenocide.wordpress.com^
-||www.odkrywamyzakryte.com^
-||www.witnatura.pl^
 
 ! Strony, które nie są wspierane przez administratorów.
 ! Będą one blokowane, dopóki administracja nie poradzi sobie ze spamem.
