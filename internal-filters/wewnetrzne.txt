@@ -4,7 +4,7 @@
 ! EULA: Subskrybcja|Użytkowanie listy "Polskie Filtry Wewnętrzne" jest równoznaczna z akceptacją sposobu w jaki działają filtry.
 ! INFO: Aby wyłączyć niepożądaną regułę, należy ją skopiować do zakładki Moje Filtry a następnie między znakami ## wstawić znak @ np. sprawnymarketing.pl#@#.hidden-mobile
 ! Last modified: 22.07.2018
-! Version: 430.4
+! Version: 429.4
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
@@ -39,18 +39,18 @@ porndig.com#@#.noadblock
 dailymotion.com##.dmp_Player .np_Darken.np_transition
 !
 !& yt, upiększenia
-drive.google.com,www.youtube.com##.ytp-swatch-background-color.ytp-play-progress:style(background-color: #3385ff !important; background-image: none !important;)
-drive.google.com,www.youtube.com##.ytp-swatch-background-color.ytp-scrubber-button:style(background-color: #3385ff !important; background-image: none !important;)
-drive.google.com,www.youtube.com###progress:style(background-color: #3385ff !important; background-image: none !important;)
+www.youtube.com##.ytp-swatch-background-color.ytp-play-progress:style(background-color: #3385ff !important; background-image: none !important;)
+www.youtube.com##.ytp-swatch-background-color.ytp-scrubber-button:style(background-color: #3385ff !important; background-image: none !important;)
+www.youtube.com###progress:style(background-color: #3385ff !important; background-image: none !important;)
 !
 !& podstrona, konkurs
 www.dobreprogramy.pl###blogWidgetCta
 !
 !& player, ulepszenie
-drive.google.com,www.youtube.com##.html5-video-player:not(.ytp-fullscreen) .ytp-progress-bar-container:style(position: relative!important; top: 32px!important;)
-drive.google.com,www.youtube.com##.html5-video-player:not(.ytp-fullscreen) .ytp-chrome-controls:style(position: relative!important; top: -12px!important;)
-drive.google.com,www.youtube.com##.html5-video-player.ytp-fullscreen .ytp-progress-bar-container:style(position: relative!important; top: 32px!important;)
-drive.google.com,www.youtube.com##.html5-video-player.ytp-fullscreen .ytp-chrome-controls:style(position: relative!important; top: -30px!important;)
+www.youtube.com##.html5-video-player:not(.ytp-fullscreen) .ytp-progress-bar-container:style(position: relative!important; top: 32px!important;)
+www.youtube.com##.html5-video-player:not(.ytp-fullscreen) .ytp-chrome-controls:style(position: relative!important; top: -12px!important;)
+www.youtube.com##.html5-video-player.ytp-fullscreen .ytp-progress-bar-container:style(position: relative!important; top: 32px!important;)
+www.youtube.com##.html5-video-player.ytp-fullscreen .ytp-chrome-controls:style(position: relative!important; top: -30px!important;)
 !
 ! pusta sekcja, ogólne, zewnętrzne
 mserwery.pl##.container > div.panel-default.panel:nth-of-type(1), .container > div.panel-default.panel:nth-of-type(3)
