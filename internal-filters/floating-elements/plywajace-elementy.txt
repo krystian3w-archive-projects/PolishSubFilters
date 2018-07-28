@@ -1,8 +1,8 @@
 ! Title: Polskie Filtry Osadzające Nagłówki
 ! Collaborators: KonoromiHimaries, hawkeye116477, yourduskquibbles
 ! Oświadczenie: https://github.com/MajkiIT/polish-ads-filter/blob/master/STATEMENT.md
-! Last modified: 19.07.2018
-! Version: 240.3
+! Last modified: 28.07.2018
+! Version: 241.3
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
@@ -14,6 +14,17 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+pomagam.pl##.active.js-size-freeze.shar3-panel
+umostrow.pl##.main_menu_wrap:style(position: static!important;)
+madbooks.pl##.wrap-header:style(position: absolute!important;)
+www.apollo.pl###header-page:style(position: absolute!important;)
+drama-online.pl###wpadminbar:style(position: absolute!important;)
+www.iturek.net##.uk-sticky-fixed.uk-sticky:style(position: absolute!important;)
+vodnews.pl###main-nav:style(position: static!important;)
+legalmarketday.com##.sticky:style(position: static!important;)
+animeon.pl##.sticky.ht-header:style(position: absolute!important;)
+www.paranormalne.pl###header_bar:style(position: absolute!important;)
+zespolmi.pl##.navbar-default.navbar-fixed-top.navbar:style(position: absolute!important;)
 www.hearthstone.net.pl###menu-scroll
 forumplaskaziemia.pl###header:style(position: absolute!important;)
 www.bliskodziecka.com.pl##.clearfix.bottom-header-wrapper:style(position: static!important;)
@@ -286,7 +297,6 @@ www.cashless.pl##.fixed.hidden-md-down.menuTopWrap:style(position: static!import
 generacjasmart.pl##.nav-list-container:style(position: static!important;)
 glos24.pl###gkPageTop:style(position: absolute!important;)
 www.pap.pl###header-lower:style(position: static!important;)
-www.empik.com##.empikHeader:style(position: static!important;)
 www.house.pl###topMenuHeader:style(position: absolute!important;)
 winclub.pl###ipsLayout_header:style(position: static!important;)
 mmorpg.org.pl##.navigation:style(position: absolute!important;)
@@ -636,6 +646,7 @@ www.computerworld.pl,www.cxo.pl,www.internetstandard.pl,www.pcworld.pl##script:i
 www.igbbaltica.pl##script:inject(abort-current-inline-script.js, $, fixed_header)
 www.polskieradio.pl##script:inject(setTimeout-defuser.js, scrolling, 25)
 www.money.pl###fixedHeader
+!audioteka.com##[class^="page-head page-head--sticky"]:style(position: static!important;)
 !
 !
 !2$----------------------{ stopki }----------------------!
@@ -647,6 +658,7 @@ funhub.pl##.footer-hi.wrapper:style(position: static!important;)
 !
 !3$----------------------{ flanki }----------------------!
 !
+gloria.tv##.uk-active.sticky:style(position: static!important;)
 twojahistoria.pl###sticker:style(position: static!important;)
 pebx.pl##.inner_wrapper:style(position: static!important;)
 www.kryminalnapolska.pl##.td-pb-span4.tdc-column.vc_column_container.wpb_column.vc_column > .wpb_wrapper:style(position: static!important;)
@@ -679,6 +691,7 @@ mirkolisty.pvu.pl##.change-style.theme-changer:style(position: absolute!importan
 !
 !5$----------------------{ inne }----------------------!
 !
+sport.tvp.pl##.scrolled.js-article-tabs-header:style(position: absolute!important; padding-top: 0px!important;)
 www.termedia.pl###menuFoldCategory > .foldNormal
 www.ebiomasa.pl##.nav-placeholder
 www.ovh.pl##.menuLogo
