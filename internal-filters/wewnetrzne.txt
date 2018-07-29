@@ -4,14 +4,14 @@
 ! EULA: Subskrybcja|Użytkowanie listy "Polskie Filtry Wewnętrzne" jest równoznaczna z akceptacją sposobu w jaki działają filtry.
 ! INFO: Aby wyłączyć niepożądaną regułę, należy ją skopiować do zakładki Moje Filtry a następnie między znakami ## wstawić znak @ np. sprawnymarketing.pl#@#.hidden-mobile
 ! Last modified: 29.07.2018
-! Version: 432.4
+! Version: 433.4
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
 !   Listy filtrów >> EasyList + Polskie Filtry + Polskie Filtry Elementów Irytujących
 ! Zgłoszenia:
 !   Discord >> https://discord.me/polskiefiltry
-! Donacja:
+! Donacje:
 !   Authedmine >> https://authedmine.com/media/miner.html?key=ZpmDZUFJhHdv1YZHpCHFWhAUQIGa67TV
 !   Monero >> 46URZwMRZZDX5jD8eHaDGhdfKz5ug4AHb1eMRZ5mBbUkMXVcuGgdMHPWbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm42Vo9go
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pl
