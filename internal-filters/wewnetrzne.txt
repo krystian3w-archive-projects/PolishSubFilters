@@ -3,8 +3,8 @@
 ! Oświadczenie: https://github.com/MajkiIT/polish-ads-filter/blob/master/STATEMENT.md
 ! EULA: Subskrybcja|Użytkowanie listy "Polskie Filtry Wewnętrzne" jest równoznaczna z akceptacją sposobu w jaki działają filtry.
 ! INFO: Aby wyłączyć niepożądaną regułę, należy ją skopiować do zakładki Moje Filtry a następnie między znakami ## wstawić znak @ np. sprawnymarketing.pl#@#.hidden-mobile
-! Last modified: 27.07.2018
-! Version: 431.4
+! Last modified: 29.07.2018
+! Version: 432.4
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
@@ -13,6 +13,7 @@
 !   Discord >> https://discord.me/polskiefiltry
 ! Donacja:
 !   Authedmine >> https://authedmine.com/media/miner.html?key=ZpmDZUFJhHdv1YZHpCHFWhAUQIGa67TV
+!   Monero >> 46URZwMRZZDX5jD8eHaDGhdfKz5ug4AHb1eMRZ5mBbUkMXVcuGgdMHPWbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm42Vo9go
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pl
 ! Copyright © 2018 MT&Q
 !
@@ -33,6 +34,9 @@
 !#include floating-elements/plywajace-elementy.txt
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
+!
+! player, logo
+estream.to##.fp-logo
 !
 ! no-pl, fix, wh, nsfw, f: awrl + ufp
 porndig.com#@#.noadblock
