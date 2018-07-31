@@ -1,14 +1,14 @@
 ! Source: https://github.com/piperun/iploggerfilter/blob/master/filterlist
-! Last Update: 21.07.2018
-
-! Uwaga: Nie wchodź w podane niżej strony
+! Last Update: 31.07.2018
 
 ! Title: Piperun's iplogger filter
 ! Expires: 3 days
-! Last modified: 20 July 2018
+! Last modified: 31 July 2018
 ! Homepage: https://github.com/piperun/iploggerfilter
-! Contribute: https://github.com/hoshsadiq/adblock-nocoin-list/issues
+! Contribute: https://github.com/piperun/iploggerfilter/issues
 ! License: https://github.com/piperun/iploggerfilter/blob/master/LICENSE
+
+! WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 
 # iploggers
 # Will experiment with $important
@@ -21,7 +21,6 @@
 ||iplis.ru^$important
 ||iplogger.com^$important
 ||iplogger.ru^$important
-||iplogger.org^$important
 ||ipgrabber.ru^$important
 ||ipgraber.ru^$important
 ||yip.su^$important
@@ -120,56 +119,25 @@
 ||ps3cfw.com^$important
 ||yȯutube.com^$important
 ||gyazo.nl^$important
-
-
-# Booters
-||orcahub.com^$important
-||vbooter.org^$important
-||orboot.pw^$important
-||ddos.city^$important
-||restresser.com^$important
-||networkstresser.com^$important
-||vdos-s.com^$important
-||oxystress.eu^$important
-||freebooter.pro^$important
-||bootyou.net^$important
-||critical-boot.com^$important
-||boot4free.com^$important
 ||2no.co^$important
 ||anonfiles.download^$important
 ||bbcbloggers.co.uk^$important
-||blasze.tk^$important
-||bmwforum.co^$important
 ||bucks.as^$important
 ||csgopot.zone^$important
-||cyberh1.xyz^$important
 ||discörd.com^$important
 ||disċordapp.com^$important
 ||downthe.design^$important
 ||gameskeys.shop^$important
-||grabify.link^$important
 ||hbotv.co^$important
 ||i.imger.me^$important
 ||imger.me^$important
-||iplogger.com^$important
-||iplogger.com^$important
-||iplogger.org^$important
-||iplogger.ru^$important
-||leancoding.co^$important
 ||mailble.com^$important
-||minecräft.com^$important
 ||proxyfill.co^$important
-||ps3cfw.com^$important
 ||publicwiki.m^$important
-||quickmessage.io^$important
 ||shört.co^$important
-||spottyfly.com^$important
 ||spötify.com^$important
 ||starbucks.bio^$important
-||starbucksisbadforyou.com^$important
-||starbucksiswrong.com^$important
 ||steamtools.co^$important
-||stopify.co^$important
 ||sĸype.com^$important
 ||transferfiles.cloud^$important
 ||tvshare.co^$important
@@ -184,10 +152,31 @@
 ||yòutube.com^$important
 ||ìṃgur.com^$important
 ||ġooģle.com^$important
+||rikiki.net^$important
+
+# Booters
+||orcahub.com^$important
+||vbooter.org^$important
+||orboot.pw^$important
+!synstress.net
+||ddos.city^$important
+||restresser.com^$important
+||networkstresser.com^$important
+||vdos-s.com^$important
+||oxystress.eu^$important
+||freebooter.pro^$important
+||bootyou.net^$important
+||critical-boot.com^$important
+||boot4free.com^$important
+#||ipstresser.com^$imporant
+
 
 # Third party
+#||aruljohn.com/widget/ip/ip.php
+#||aruljohn.com/widget/zip/zip.js
 ||aruljohn.com/widget/zip/*
 ||aruljohn.com/widget/ip/*
+
 
 # Image hosting
 ||fuglekos.com/profile/*
