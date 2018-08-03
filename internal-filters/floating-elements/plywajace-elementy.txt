@@ -1,8 +1,8 @@
 ! Title: Polskie Filtry Osadzające Nagłówki
 ! Collaborators: KonoromiHimaries, hawkeye116477, yourduskquibbles
 ! Oświadczenie: https://github.com/MajkiIT/polish-ads-filter/blob/master/STATEMENT.md
-! Last modified: 28.07.2018
-! Version: 241.3
+! Last modified: 03.08.2018
+! Version: 242.3
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
@@ -14,6 +14,12 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+otomoto.pl##.header-container, .sticky.offer-header:style(position: absolute!important;)
+docer.pl###masthead-positioner:style(position: absolute!important;)
+www.gierkionline.pl##header:style(position: absolute!important;)
+www.netgun.pl##header:style(position: absolute!important;)
+www.prasa24h.pl##.fixto-fixed.sticky-menu.dark.primary-menu:style(position: static!important;)
+czwartastrona.pl##.with-shadow:style(position: absolute!important;)
 pomagam.pl##.active.js-size-freeze.shar3-panel
 umostrow.pl##.main_menu_wrap:style(position: static!important;)
 madbooks.pl##.wrap-header:style(position: absolute!important;)
@@ -215,7 +221,6 @@ onet.pl##.notificationPrompt
 onet.pl##.pageHeader *:style(transition: none !important;)
 onet.pl##.pageHeader.switch
 onet.pl##.pageHeader:style(position: absolute !important; transition: none !important;)
-otomoto.pl##.header-container:style(position: absolute !important;)
 otomoto.pl##.social-float-bar
 pikio.pl##.td-affix.td-header-main-menu.td-header-row:style(position: absolute !important;)
 player.pl##.navbar-wrapper:style(position: absolute !important;)
@@ -658,6 +663,7 @@ funhub.pl##.footer-hi.wrapper:style(position: static!important;)
 !
 !3$----------------------{ flanki }----------------------!
 !
+www.gierkionline.pl###sidebar:style(position: static!important;)
 gloria.tv##.uk-active.sticky:style(position: static!important;)
 twojahistoria.pl###sticker:style(position: static!important;)
 pebx.pl##.inner_wrapper:style(position: static!important;)
@@ -679,6 +685,7 @@ www.dobreprogramy.pl##.sticky.blog-list.block:style(position: static!important;)
 !
 !4$----------------------{ przyciski }----------------------!
 !
+www.dobreprogramy.pl###topSocial:style(position: static!important;)
 www.kurshtml.edu.pl###kategoria_html:style(position: absolute!important;)
 www.kurshtml.edu.pl###kategoria_css:style(position: absolute!important;)
 www.kurshtml.edu.pl###kategoria_js:style(position: absolute!important;)
