@@ -10,8 +10,6 @@ Informacje:
 - opcjonalne listy filtrów to [WebAnnoyances](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt&title=Web%20Annoyances%20Ultralist), [Polskie Filtry Społecznościowe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/adblock_social_filters/adblock_social_list.txt&title=Polskie%20Filtry%20Społecznościowe), [AdGuard Social Media filter](https://subscribe.adblockplus.org/?location=https://filters.adtidy.org/extension/ublock/filters/4.txt&title=AdGuard%20Social%20Media%20filter)
 - opcjonalnie dodatki do filtrów to [Nano Defender](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/nano_defender.md#nano-defender-to-dodatek-do-ublock-originnano-adblockera-maj%C4%85cy-za-zadanie-blokowa%C4%87-skrypty-anty-adblock), Decentraleyes, HTTPS Everywhere
 
-Więcej list filtrów znajdziesz [tutaj](https://github.com/MajkiIT/polish-ads-filter#about).
-
 [![Donatuj](https://img.shields.io/website-anonimowo-down-green-red/https/authedmine.com.svg?label=Donatuj&colorB=1caf92)](https://authedmine.com/media/miner.html?key=ZpmDZUFJhHdv1YZHpCHFWhAUQIGa67TV)
 [![Discord](https://img.shields.io/discord/383371243925274626.svg?colorB=7289da&label=Discord)](https://discord.gg/UEWEBqz)
 
