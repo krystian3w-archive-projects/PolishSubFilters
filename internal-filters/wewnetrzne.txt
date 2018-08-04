@@ -3,8 +3,8 @@
 ! Oświadczenie: https://github.com/MajkiIT/polish-ads-filter/blob/master/STATEMENT.md
 ! EULA: Subskrybcja|Użytkowanie listy "Polskie Filtry Wewnętrzne" jest równoznaczna z akceptacją sposobu w jaki działają filtry.
 ! INFO: Aby wyłączyć niepożądaną regułę, należy ją skopiować do zakładki Moje Filtry a następnie między znakami ## wstawić znak @ np. sprawnymarketing.pl#@#.hidden-mobile
-! Last modified: 29.07.2018
-! Version: 433.4
+! Last modified: 04.08.2018
+! Version: 434.4
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
@@ -536,6 +536,7 @@ pionki24.pl##.siderightcontent:nth-of-type(34)
 !
 !22$----------------------{ uważaj na }----------------------!
 !
+||check-francemoney56.loan^
 ||soj-764.com^
 !
 ||uwazajnakryptowaluty.pl^
