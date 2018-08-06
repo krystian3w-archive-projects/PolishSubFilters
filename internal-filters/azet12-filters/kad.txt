@@ -1,11 +1,10 @@
 ! Source: https://github.com/azet12/KAD/blob/master/KAD.txt
-! Last Update: 31.07.2018
+! Last Update: 06.08.2018
 
-! Homepage: https://azet12.github.io/KAD
 ! Title: KAD - Przekręty
 ! Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-! Last modified: 31 Jul 2018
-! Version: 2018073101
+! Last modified: 5 Aug 2018
+! Version: 2018080501
 ! Expires: 3 day
 !
 ! Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
@@ -58,6 +57,7 @@
 ||be-wild.pl^
 ||becconet.com^
 ||bellsandroses.pl^
+||best2018games.com^
 ||bestphoneapps.mobi^
 ||bestpromocenter.com^
 ||bestselections.top^
@@ -83,6 +83,7 @@
 ||centrum-pogotowie-komputerowe.warszawa.pl^
 ||centrum-ratuj-swojego-laptopa.warszawa.pl^
 ||centrummarek.pl^
+||centrumofert.com^
 ||chocoslim.pro^
 ||chomikui.pl^
 ||chris-jasnowidz.pl^
@@ -188,17 +189,22 @@
 ||forum-windows.eu^
 ||free-gg.com^
 ||free-steam-code.com^
+||freevbuckx.com^
 ||full-movies-online.cba.pl^
 ||fun-mobi.pl^
 ||fun3.pl^
+||funatyk.com^
 ||fungalor.com^
 ||funskan.pl^
 ||futbolowyswiat.com.pl^
 ||gameinstallfiles.com^
+||gamemine.com^
 ||gamroll.com^
 ||garciniacambogiaactives.pl^
 ||gazetainfo.pl^
+||gemverify.com^
 ||generatorkodow.hpu.pl^
+||getdataback.pl^
 ||getleads.pl^
 ||getspinner.net^
 ||gift-cards.co.pl^
@@ -214,6 +220,7 @@
 ||gotowka-doreki.eu^
 ||gotowkatutaj.pl^
 ||greenbarleyplus.pl^
+||greerlies.pro^
 ||gtl.ru^
 ||hackidogier.pl^
 ||halodzwonek.pl^
@@ -292,6 +299,7 @@
 ||longup.co^
 ||lottoland.pl^
 ||loveaholics.com^
+||lwfjd.today^
 ||maendo.tv^
 ||magviz-secondsz.com^
 ||mangiks.com^
@@ -308,6 +316,7 @@
 ||mobiapp-games.com^
 ||mobila.pl^
 ||mobile-app.pl^
+||modimoda.pl^
 ||modnakolekcja.com^
 ||mojadietanamase.pl^
 ||moje-iq.pl^
@@ -347,6 +356,7 @@
 ||online-zalukaj.eu^
 ||online.pro^
 ||onlinerekruter.com^
+||optimask-pro.com^
 ||oszukacruletke.like.pl^
 ||otosponsorki.pl^
 ||paifemouchoa.com^
@@ -381,6 +391,7 @@
 ||prawdziwyrozwoj.pl^
 ||premium-offers.space^
 ||premiumlinkgenerator.online^
+||princessmask.pro^
 ||probolan50.pl^
 ||profitmaximizer.co^
 ||profitmaximizerpl.com^
@@ -525,11 +536,14 @@
 ||www.geniustrainer.net^
 ||www.informacja-dnia.com^
 ||www.jak-szybko-zarobic.com^
+||www.jghkjl.info^
+||www.killingtonchukka.pl^
 ||www.klikasz-i-masz.com^
 ||www.konkursynagrody.pl^
 ||www.kredytybezbik.eu^
 ||www.lucyfeed.com^
 ||www.m-electro.pl^
+||www.modi4moda.com^
 ||www.moneywin24.com^
 ||www.moviestarplanethack.info^
 ||www.mozebyctwoje.com^
@@ -561,6 +575,7 @@
 ||yourebook.pl^
 ||yourofferpro.com^
 ||yourperlebleue.com^
+||yummymobile.pl^
 ||zabierzglos.pl^
 ||zalukaj-to.com^
 ||zalukajfilmy.pl^
@@ -812,6 +827,7 @@
 ||darmowetesty.com^
 ||datasmierci.pl^
 ||deadwalking.tv^
+||discfile.pl^
 ||dobre-programy.xyz^
 ||dobreprogramy.pro^
 ||doladowania-telefonu.pl^
@@ -843,6 +859,7 @@
 ||file-share365.com^
 ||filebay.org^
 ||filecom.net^
+||filedownloader.pl^
 ||filedownloads.pl^
 ||fileengine.org^
 ||filefinder.pl^
@@ -893,10 +910,12 @@
 ||hdseriale.pl^
 ||highspeed5.net^
 ||hitfilm.pl^
+||hostplik.pl^
 ||hostujmy.pl^
 ||hotawards.pl^
 ||hothub.pl^
 ||hotprizes.pl^
+||i-podgladacz.pl^
 ||i4you.pl^
 ||ilovemobi.com^
 ||instantdownloadsz.com^
@@ -917,7 +936,9 @@
 ||liversely.com^
 ||looool.pl^
 ||losda.com.pl^
+||losowa-gra.pl^
 ||magadownloader.com^
+||max-host.pl^
 ||mediafile.pl^
 ||mediavideo.pl^
 ||mega-gry.com^
@@ -959,6 +980,7 @@
 ||pakiet-steam.pl^
 ||pamietnikiwampirow.tv^
 ||patqut.com^
+||pay.mobiltek.pl^
 ||pay2me.pl^
 ||pl.mevida.me^
 ||pl.mysafesmartphone.com^
@@ -986,6 +1008,8 @@
 ||psialapka.pl^
 ||qubble.com^
 ||quiz-fun.com.my^
+||rapid-host.pl^
+||regme.pl^
 ||restricted.pl^
 ||rzeczyzadarmo.pl^
 ||samnumer.pl^
@@ -1006,11 +1030,13 @@
 ||softsmart.mobi^
 ||spaceforyou.cc^
 ||speedfile.info^
+||sportowy-stream.pl^
 ||steam-wallet-gifts.com^
 ||steam-wallet-money.com^
 ||steamco.de^
 ||steamgrygive.lt.pl^
 ||stebox.pl^
+||stream24.com.pl^
 ||stream24h.pl^
 ||streamgo.pl^
 ||streamuj.org^
@@ -1037,6 +1063,7 @@
 ||videorazr.com^
 ||videoway.net^
 ||vidnet.pl^
+||vids24.pl^
 ||vimeoo.net^
 ||vitrigroup.pl^
 ||vod24.pl^
@@ -1062,10 +1089,12 @@
 ||zalukaj-online.pl^
 ||zapisujemy24.pl^
 ||zarabiajwsieci.5v.pl^
+||zarejestruj-sie.pl^
 ||zasil-konto.tk^
 ||zasilkonto.cba.pl^
 ||zgarnij.net^
 ||zgarnijplik.pl^
+||zmien-kolor.pl^
 ||zumodi.com^
 
 ! Wapster
