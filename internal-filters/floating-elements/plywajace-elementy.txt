@@ -1,8 +1,8 @@
 ! Title: Polskie Filtry Osadzające Nagłówki
 ! Collaborators: KonoromiHimaries, hawkeye116477, yourduskquibbles
 ! Oświadczenie: https://github.com/MajkiIT/polish-ads-filter/blob/master/STATEMENT.md
-! Last modified: 03.08.2018
-! Version: 242.3
+! Last modified: 10.08.2018
+! Version: 243.3
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
@@ -14,6 +14,14 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+cezar-bus.com##.x-navbar-fixed-top.x-navbar:style(position: static!important;)
+www.gwp.pl###flying_header
+www.ppe.pl##.fixedMenu
+www.e-kiosk.pl##.border-bottom.header:style(position: absolute!important;)
+iturek.net##.uk-sticky-fixed.uk-sticky:style(position: absolute!important;)
+pcpobierz.pl###masthead:style(position: static!important;)
+fastshell.pl###topbar:style(position: absolute!important;)
+sznyt.pl##.affix:style(position: absolute!important;)
 otomoto.pl##.header-container, .sticky.offer-header:style(position: absolute!important;)
 docer.pl###masthead-positioner:style(position: absolute!important;)
 www.gierkionline.pl##header:style(position: absolute!important;)
@@ -663,6 +671,7 @@ funhub.pl##.footer-hi.wrapper:style(position: static!important;)
 !
 !3$----------------------{ flanki }----------------------!
 !
+www.polsatnews.pl###stickyColumn:style(position: static!important;)
 www.gierkionline.pl###sidebar:style(position: static!important;)
 gloria.tv##.uk-active.sticky:style(position: static!important;)
 twojahistoria.pl###sticker:style(position: static!important;)
