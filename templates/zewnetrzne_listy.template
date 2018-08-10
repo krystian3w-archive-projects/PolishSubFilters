@@ -22,6 +22,8 @@
 @URLinclude https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt
 !
 !
+!#include privacy-filters/olegwukr-filters.txt
+!#include privacy-filters/tracking-filters.txt
 !#include piperun-filters/iploggerwhitelist.txt
 !#include paid-subscriptions/prenumeraty.txt
 !#include anti-donate-filters/anty-donacje.txt
