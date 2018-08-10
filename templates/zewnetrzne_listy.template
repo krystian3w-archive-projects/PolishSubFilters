@@ -6,6 +6,10 @@
 @URLinclude https://raw.githubusercontent.com/azet12/KAD/gh-pages/assets/other/kadfakewhitelist.txt
 !
 !
+! Source: https://github.com/piperun/iploggerfilter/blob/master/filterlist
+@URLinclude https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
+!
+!
 ! Source: https://raw.githubusercontent.com/PolishFiltersTeam/PolishRSSFilters/master/polish_rss_filters.txt
 @URLinclude https://raw.githubusercontent.com/PolishFiltersTeam/PolishRSSFilters/master/polish_rss_filters.txt
 !
@@ -18,6 +22,7 @@
 @URLinclude https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt
 !
 !
+!#include piperun-filters/iploggerwhitelist.txt
 !#include paid-subscriptions/prenumeraty.txt
 !#include anti-donate-filters/anty-donacje.txt
 !#include e-commerce-filters/wizjer_e-handlu.txt
