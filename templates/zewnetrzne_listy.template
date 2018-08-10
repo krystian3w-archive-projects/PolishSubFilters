@@ -1,7 +1,3 @@
-!#include paid-subscriptions/prenumeraty.txt
-!#include anti-donate-filters/anty-donacje.txt
-!#include e-commerce-filters/wizjer_e-handlu.txt
-!#include floating-elements/plywajace-elementy.txt
 !#include piperun-filters/iploggerwhitelist.txt
 !#include privacy-filters/olegwukr-filters.txt
 !#include privacy-filters/tracking-filters.txt
