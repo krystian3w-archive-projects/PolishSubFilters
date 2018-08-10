@@ -10,15 +10,15 @@
 @URLinclude https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
 !
 !
-! Source: https://raw.githubusercontent.com/PolishFiltersTeam/PolishRSSFilters/master/polish_rss_filters.txt
+! Source: https://github.com/PolishFiltersTeam/PolishRSSFilters/blob/master/polish_rss_filters.txt
 @URLinclude https://raw.githubusercontent.com/PolishFiltersTeam/PolishRSSFilters/master/polish_rss_filters.txt
 !
 !
-! Source: https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
+! Source: https://github.com/Yhonay/antipopads/blob/master/popads.txt
 @URLinclude https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
 !
 !
-! Source: https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt
+! Source: https://github.com/HexxiumCreations/threat-list/blob/gh-pages/hexxiumthreatlist.txt
 @URLinclude https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt
 !
 !
