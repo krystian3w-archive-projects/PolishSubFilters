@@ -1,0 +1,10 @@
+addons:
+  apt:
+    packages:
+    - language-pack-pl
+notifications:
+  email:
+    on_success: never
+    on_failure: always
+script:
+- "./scripts/VICHS_Travis.sh ./internal-filters/zewnetrzne_listy.txt"
