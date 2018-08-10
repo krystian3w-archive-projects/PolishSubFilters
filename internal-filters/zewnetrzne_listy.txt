@@ -1454,7 +1454,7 @@ fili.cc##a[href^="/download/file"]
 ||fuglekos.com/profile/*
 !
 !
-! Source: https://raw.githubusercontent.com/PolishFiltersTeam/PolishRSSFilters/master/polish_rss_filters.txt
+! Source: https://github.com/PolishFiltersTeam/PolishRSSFilters/blob/master/polish_rss_filters.txt
 !@Title: Polskie Filtry RSS
 !@Polish RSS Filters
 !@Codename: RSS
@@ -1645,7 +1645,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 
 !
 !
-! Source: https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
+! Source: https://github.com/Yhonay/antipopads/blob/master/popads.txt
 !@Version: 6590
 !@Title: Anti popads.net
 !@Licence: WTFPL version 2
@@ -8245,7 +8245,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||zzvjaqnkq.bid^
 ||zzwzjidz.bid^!
 !
-! Source: https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt
+! Source: https://github.com/HexxiumCreations/threat-list/blob/gh-pages/hexxiumthreatlist.txt
 !@Homepage: https://hexxiumcreations.github.io/threat-list/
 !@Contribute: https://www.hexxiumcreations.com/report-malicious-domains-and-ips/
 !@Website: https://www.hexxiumcreations.com/projects/malicious-domain-blocking/
