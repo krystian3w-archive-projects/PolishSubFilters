@@ -9183,6 +9183,8 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||findforfun.com^
 !
 !
+!#include privacy-filters/olegwukr-filters.txt
+!#include privacy-filters/tracking-filters.txt
 !#include piperun-filters/iploggerwhitelist.txt
 !#include paid-subscriptions/prenumeraty.txt
 !#include anti-donate-filters/anty-donacje.txt
