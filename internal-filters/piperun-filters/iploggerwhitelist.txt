@@ -1,20 +1,21 @@
 ! Source: https://github.com/piperun/iploggerfilter/blob/master/filterlist
 ! Last Update: 10.08.2018
 ! Title: Piperun's iplogger whitelist
+! Version: 4.1
 ! Expires: 3 days
 ! Homepage: https://github.com/piperun/iploggerfilter
 ! License: https://github.com/piperun/iploggerfilter/blob/master/LICENSE
 ! WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
-@@||go.budurl.co^$important
-@@||dr.tl/*^$important
-@@||bit.do/*^$important
-@@||taveo.net/*^$important
-@@||bit.ly/*^$important
-@@||cur.lv^$important
-@@||slsh.us^$important
-@@||adf.ly^$important
-@@||shorte.st^$important
-@@||biturl.io^$important
-@@||hackforu.ms^$important
-@@||tldr.ly^$important
-@@||wzurl.me^$important
+@@go.budurl.co
+@@dr.tl
+@@bit.do
+@@taveo.net
+@@bit.ly
+@@cur.lv
+@@slsh.us
+@@adf.ly
+@@shorte.st
+@@biturl.io
+@@hackforu.ms
+@@tldr.ly
+@@wzurl.me
