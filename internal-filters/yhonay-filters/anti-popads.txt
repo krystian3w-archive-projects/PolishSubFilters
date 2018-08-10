@@ -1,14 +1,11 @@
 ! Source: https://github.com/Yhonay/antipopads/blob/master/popads.txt
 ! Last Update: 30.07.2018
-
 ! Version: 6532
 ! Title: Anti popads.net
 ! Licence: WTFPL version 2
 ! Homepage: https://github.com/Yhonay/antipopads
 ! Expires: 3 day
-
 ! WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
-
 ||aacgeuvaoqbw.com^
 ||aaeqlxdgx.bid^
 ||aahfcroigwso.com^

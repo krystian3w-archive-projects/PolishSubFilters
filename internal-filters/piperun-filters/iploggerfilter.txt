@@ -1,15 +1,12 @@
 ! Source: https://github.com/piperun/iploggerfilter/blob/master/filterlist
 ! Last Update: 31.07.2018
-
 ! Title: Piperun's iplogger filter
 ! Expires: 3 days
 ! Last modified: 31 July 2018
 ! Homepage: https://github.com/piperun/iploggerfilter
 ! Contribute: https://github.com/piperun/iploggerfilter/issues
 ! License: https://github.com/piperun/iploggerfilter/blob/master/LICENSE
-
 ! WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
-
 # iploggers
 # Will experiment with $important
 ||iplogger.org^$important
@@ -153,7 +150,6 @@
 ||ìṃgur.com^$important
 ||ġooģle.com^$important
 ||rikiki.net^$important
-
 # Booters
 ||orcahub.com^$important
 ||vbooter.org^$important
@@ -169,14 +165,10 @@
 ||critical-boot.com^$important
 ||boot4free.com^$important
 #||ipstresser.com^$imporant
-
-
 # Third party
 #||aruljohn.com/widget/ip/ip.php
 #||aruljohn.com/widget/zip/zip.js
 ||aruljohn.com/widget/zip/*
 ||aruljohn.com/widget/ip/*
-
-
 # Image hosting
 ||fuglekos.com/profile/*

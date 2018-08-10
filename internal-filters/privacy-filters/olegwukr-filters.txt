@@ -1,6 +1,5 @@
 ! Source: https://github.com/olegwukr/polish-privacy-filters/blob/master/adblock.txt
 ! Last Update: 27.07.2018
-
 ! Title: Polish Privacy Filters
 ! Oficjalne polskie filtry prywatności
 ! Last modified: 22 April 2018
@@ -104,5 +103,4 @@ poczta.interia.pl#@#[href*=".hit.gemius.pl"]
 ||www.wp.pl/v*/log/view
 ||x.sare25.com^
 ||ymetrica.com^
-
 !#endif

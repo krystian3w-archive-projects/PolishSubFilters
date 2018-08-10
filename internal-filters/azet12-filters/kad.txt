@@ -1,6 +1,5 @@
 ! Source: https://github.com/azet12/KAD/blob/master/KAD.txt
 ! Last Update: 06.08.2018
-
 ! Title: KAD - Przekręty
 ! Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
 ! Last modified: 5 Aug 2018
@@ -12,10 +11,8 @@
 !
 ! Kontakt, zgloszenia i informacje: https://azet12.github.io/KAD/informacje.html
 ! Licencja: CC BY-SA 4.0.
-
 ! (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 ! (PL) UWAGA: Strony poniżej mogą być szkodliwe. Proszę, nie wchodź na nie, jeśli nie wiesz co robisz!
-
 ! Podejrzane i/lub strony połączone z innymi oszustwami
 ||1050-sklep.com^
 ||20pascals.nl^
@@ -590,14 +587,12 @@
 ||zostan-zwyciezca.com^
 ||zumer.ayz.pl^
 ||zyski-z-innowacji.pl^
-
 ! Strony, które nie są wspierane przez administratorów.
 ! Będą one blokowane, dopóki administracja nie poradzi sobie ze spamem.
 ||cs-passion.pl^
 ||edivision.pl^
 ||eeu.pl^
 ||rfv.pl^
-
 ! Przekierowują do innych stron z przekrętami
 ||9xa.pl^
 ||adresik.gq^
@@ -630,7 +625,6 @@
 ||tr.spinwin.fun^
 ||uvy3.pl^
 ||wap.mobiltek.pl^
-
 ! Szybko wygaszające
 ||10gb.6ka.info^
 ||15b37.skroc.pl^
@@ -714,7 +708,6 @@
 ||zegarysmierci.prv.pl^
 ||zejrzyj-zdjecia.bo.pl^
 ||zgarniij_vouchher.skroc.pl^
-
 ! Szybko wygaszające mobilne
 ||2d1b.top^
 ||4332.ws^
@@ -788,7 +781,6 @@
 ||www.tylko-dla-ciebie.com^
 ||y4681.6128786.com^
 ||zcontentlocker7gpa8a.xyz^
-
 ! Przekręty
 ||1freesoftwareonline.com^
 ||4kplayer.pl^
@@ -1096,7 +1088,6 @@
 ||zgarnijplik.pl^
 ||zmien-kolor.pl^
 ||zumodi.com^
-
 ! Wapster
 ||beka.pl^
 ||bramka-sms-za-darmo.pl^
@@ -1107,7 +1098,6 @@
 ||wapster.pl^
 ||www.gryjava.gsm.pl^
 ||www.wykreslanka.com.pl^
-
 ! Blogspot
 ! fb-podglad5.blogspot.com
 ! fb-podglad6.blogspot.com
@@ -1199,11 +1189,9 @@
 ||zmienkolorfejsazafree.blogspot.com^
 ||zmienkolory*.blogspot.com^
 ||zobaczktopodgladaa.blogspot.com^
-
 ! Inne lub eksperymentalne filtry
 ||apps.facebook.com/jbzqjfk$document,subdocument
 ||apps.facebook.com/1880603628824303$document,subdocument
-
 ! Filtry usuwające natrętne lub wprowadzające w błąd reklamy/obrazy
 ||alltube.tv/static/img/download.png$image
 ||alltube.tv/static/main/.gif$image

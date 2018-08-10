@@ -1421,7 +1421,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 !
 !
 ! Source: https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
-!@Version: 6588
+!@Version: 6589
 !@Title: Anti popads.net
 !@Licence: WTFPL version 2
 !@Homepage: https://github.com/Yhonay/antipopads
@@ -4244,6 +4244,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||laqiccblmxfewa.bid^
 ||lauzlpyl.com^
 ||lavmeebdxwc.com^
+||lbaybxwiklnfe.com^
 ||lbbfzsjmgm.com^
 ||lbbgjozyrgy.com^
 ||lbdrnmkhwgkpdg.bid^
