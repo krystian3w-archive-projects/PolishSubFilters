@@ -3,8 +3,8 @@
 ! Oświadczenie: https://github.com/MajkiIT/polish-ads-filter/blob/master/STATEMENT.md
 ! EULA: Subskrybcja|Użytkowanie listy "Polskie Filtry Wewnętrzne" jest równoznaczna z akceptacją sposobu w jaki działają filtry.
 ! INFO: Aby wyłączyć niepożądaną regułę, należy ją skopiować do zakładki Moje Filtry a następnie między znakami ## wstawić znak @ np. sprawnymarketing.pl#@#.hidden-mobile
-! Last modified: 04.08.2018
-! Version: 434.4
+! Last modified: 10.08.2018
+! Version: 435.4
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
@@ -21,6 +21,10 @@
 !
 !1$----------------------{ listy uzupełniające }----------------------!
 !
+!#include paid-subscriptions/prenumeraty.txt
+!#include anti-donate-filters/anty-donacje.txt
+!#include e-commerce-filters/wizjer_e-handlu.txt
+!#include floating-elements/plywajace-elementy.txt
 !#include zewnetrzne_listy.txt
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
