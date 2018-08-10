@@ -1338,6 +1338,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||22serversupport.com^
 ||findforfun.com^
 !
+!
 ! Source: https://github.com/azet12/KAD/blob/master/KAD.txt
 
 !@Homepage: https://azet12.github.io/KAD
