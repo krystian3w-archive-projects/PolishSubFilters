@@ -45,6 +45,7 @@ for i in "$@"; do
         sed -i '/Adblock Plus 2.0/d' $SEKCJE_KAT/external.temp
         sed -i '/uBlock Origin/d' $SEKCJE_KAT/external.temp
         sed -i '/! Dołączenie listy/d' $SEKCJE_KAT/external.temp
+        sed -i "s|\$important||g" $SEKCJE_KAT/external.temp
         sed -i "s|! |!@|g" $SEKCJE_KAT/external.temp
         sed -e '0,/^@URLinclude/!b; /@URLinclude/{ r '$SEKCJE_KAT/external.temp'' -e 'd }' $KONCOWY > $TYMCZASOWY
         cp -R $TYMCZASOWY $KONCOWY
