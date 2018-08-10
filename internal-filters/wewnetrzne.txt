@@ -21,17 +21,7 @@
 !
 !1$----------------------{ listy uzupełniające }----------------------!
 !
-!#include azet12-filters/kad.txt
-!#include rikodev-filters/sekcje-rss.txt
-!#include yhonay-filters/anti-popads.txt
-!#include piperun-filters/iploggerfilter.txt
-!#include paid-subscriptions/prenumeraty.txt
-!#include anti-donate-filters/anty-donacje.txt
-!#include privacy-filters/olegwukr-filters.txt
-!#include privacy-filters/tracking-filters.txt
-!#include hexxium-filters/hexxiumthreatlist.txt
-!#include e-commerce-filters/wizjer_e-handlu.txt
-!#include floating-elements/plywajace-elementy.txt
+!#include zewnetrzne_listy.txt
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !

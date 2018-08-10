@@ -1,0 +1,20 @@
+! Source: https://github.com/azet12/KAD/blob/master/KAD.txt
+@URLinclude https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
+!
+!
+! Source: https://raw.githubusercontent.com/PolishFiltersTeam/PolishRSSFilters/master/polish_rss_filters.txt
+@URLinclude https://raw.githubusercontent.com/PolishFiltersTeam/PolishRSSFilters/master/polish_rss_filters.txt
+!
+!
+! Source: https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
+@URLinclude https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
+!
+!
+! Source: https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt
+@URLinclude https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt
+!
+!
+!#include paid-subscriptions/prenumeraty.txt
+!#include anti-donate-filters/anty-donacje.txt
+!#include e-commerce-filters/wizjer_e-handlu.txt
+!#include floating-elements/plywajace-elementy.txt
