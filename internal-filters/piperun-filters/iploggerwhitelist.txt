@@ -3,7 +3,6 @@
 ! Expires: 3 days
 ! Homepage: https://github.com/piperun/iploggerfilter
 ! License: https://github.com/piperun/iploggerfilter/blob/master/LICENSE
-! WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
 @@||go.budurl.co^
 @@||dr.tl^
 @@||bit.do^
