@@ -18,6 +18,7 @@
 ! Source: https://github.com/HexxiumCreations/threat-list/blob/gh-pages/hexxiumthreatlist.txt
 @URLinclude https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt
 !
+!
 ! Source: https://github.com/azet12/KAD/blob/master/KAD.txt
 @URLinclude https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
 !
