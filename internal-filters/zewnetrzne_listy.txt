@@ -1229,6 +1229,28 @@ fili.cc##a[href^="/download/file"]
 !
 !
 !
+! Source: https://raw.githubusercontent.com/azet12/KAD/gh-pages/assets/other/kadfakewhitelist.txt
+!@Homepage: https://azet12.github.io/KAD
+!@Title: KAD - Whitelista Stron Kontrowersyjnych
+
+!@Ten filtr wyłącza blokowanie kontrowersyjnych stron przez KAD
+!@https://github.com/azet12/KAD/issues/649
+
+!@Promocja pseudonauki / Fake news
+!@Nieprawdziwe, wprowadzające w błąd informacje lub podobne.
+@@bio-chemik24.pl
+@@jerzyzieba.com
+@@odpowiedzialni-rodzice.pl
+@@paulinajanowicz.pl
+@@planetazdrowia.com
+@@stopnop.com.pl
+@@timeforvitamins.com
+@@ukryteterapie.pl
+@@vaccgenocide.wordpress.com
+@@www.odkrywamyzakryte.com
+@@www.witnatura.pl
+!
+!
 ! Source: https://raw.githubusercontent.com/PolishFiltersTeam/PolishRSSFilters/master/polish_rss_filters.txt
 !@Title: Polskie Filtry RSS
 !@Polish RSS Filters
