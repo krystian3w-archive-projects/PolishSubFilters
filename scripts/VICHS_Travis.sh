@@ -66,7 +66,7 @@ for i in "$@"; do
     
     # Dodawanie zmienionych sekcji do repozytorium git
     #git config --global user.email "PolishJarvis@int.pl"
-    #git config --global user.name "PolishJarvis"
+    git config --global user.name "Travis"
     git add $SEKCJE_KAT/*
     git commit -m "Update sections of $filtr [ci skip]"
     
@@ -94,5 +94,5 @@ for i in "$@"; do
     # Dodawanie zmienionych plików do repozytorium git
     git add $i
     git commit -m "Update $filtr to version $wersja [ci skip]"
-    git push https://username:${GH_TOKEN}@github.com/KonoromiHimaries/PolishSubFilters.git HEAD:master
+    git push https://KonoromiHimaries:${GH_TOKEN}@github.com/KonoromiHimaries/PolishSubFilters.git HEAD:master
 done
