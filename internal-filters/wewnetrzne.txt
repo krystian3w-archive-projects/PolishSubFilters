@@ -4,7 +4,7 @@
 ! EULA: Subskrybcja|Użytkowanie listy "Polskie Filtry Wewnętrzne" jest równoznaczna z akceptacją sposobu w jaki działają filtry.
 ! INFO: Aby wyłączyć niepożądaną regułę, należy ją skopiować do zakładki Moje Filtry a następnie między znakami ## wstawić znak @ np. sprawnymarketing.pl#@#.hidden-mobile
 ! Last modified: 10.08.2018
-! Version: 435.4
+! Version: 436.4
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
@@ -28,6 +28,9 @@
 !#include zewnetrzne_listy.txt
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
+!
+! konkurs, podstrona, przycisk
+www.legalnakultura.pl###konkursy-plugin-container
 !
 ! player, logo
 estream.to##.fp-logo
@@ -56,6 +59,7 @@ www.youtube.com##.html5-video-player.ytp-fullscreen .ytp-chrome-controls:style(p
 mserwery.pl##.container > div.panel-default.panel:nth-of-type(1), .container > div.panel-default.panel:nth-of-type(3)
 !
 ! a-o.ninja
+a-o.ninja##.col-sm-9 > p:nth-of-type(n+1):nth-of-type(-n+2)
 a-o.ninja###above-navbar
 a-o.ninja##.region-content.region > center
 ||a-o.ninja/wp-content/uploads/dark.jpg$image
