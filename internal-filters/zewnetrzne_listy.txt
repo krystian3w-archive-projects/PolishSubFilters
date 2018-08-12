@@ -1340,8 +1340,8 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 !@Homepage: https://azet12.github.io/KAD
 !@Title: KAD - Przekręty
 !@Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: 5 Aug 2018
-!@Version: 2018080501
+!@Last modified: 11 Aug 2018
+!@Version: 2018081101
 !@Expires: 1 day
 !
 !@Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
@@ -1395,6 +1395,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||becconet.com^
 ||bellsandroses.pl^
 ||best2018games.com^
+||bestofpush.com^
 ||bestphoneapps.mobi^
 ||bestpromocenter.com^
 ||bestselections.top^
@@ -1412,10 +1413,12 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||browser-tools.systems^
 ||bustcream-pro.com^
 ||buzzonclick.com^
+||cale-filmy.online^
 ||caly-film-online.pl^
 ||cashcapitalsystem.com^
 ||catashare.pw^
 ||ccsolutions.com.pl^
+||cda-bez-limitu.pl^
 ||centrum-napraw-swojego-laptopa.warszawa.pl^
 ||centrum-pogotowie-komputerowe.warszawa.pl^
 ||centrum-ratuj-swojego-laptopa.warszawa.pl^
@@ -1440,6 +1443,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||czyjtonumertel.pl^
 ||dagcoin.group^
 ||dagcoin.org^
+||dailyadultnews.com^
 ||darmowe-ebooki.com.pl^
 ||darmowefilmy.eu^
 ||dascoin-info.pl^
@@ -1511,10 +1515,15 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||fileice.net^
 ||fileman.pl^
 ||fileoasis.net^
+||filionline.pl^
+||filmhd.ek1.pl^
 ||filmland.pl^
+||filmoosy.pl^
 ||filmowo.com.pl^
 ||filmy-cda.com.pl^
+||filmy-premium.pl^
 ||filmyiseriale.biz^
+||filmyiseriale.pw^
 ||findgiftcode.com^
 ||firead.org^
 ||fireads.pl^
@@ -1665,6 +1674,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||moviestarplanetcheatstool.com^
 ||moviestarplanethacks.pl^
 ||msphacks.net^
+||mylocker.pl^
 ||naj-filmy24.pl^
 ||najlepszenarynku.pl^
 ||nameguess.com^
@@ -1704,8 +1714,10 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||pegasuswebco.com^
 ||photook.vxm.pl^
 ||phytolast.com^
+||pitbull.ek1.pl^
 ||pl-vouchers.com^
 ||pl.superando.net^
+||plajerek.pl^
 ||playfilm.pl^
 ||playmax.co^
 ||playweez.pl^
@@ -1771,6 +1783,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||safensecure.xyz^
 ||sales-express.eu^
 ||seans24.com.pl^
+||seanse24.pl^
 ||sendspace.pw^
 ||serialefilmy.pl^
 ||serwis-laptopow-powisle.pl^
@@ -1781,6 +1794,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||serwislaptopowwarszawa.com.pl^
 ||shoes-4u.pl^
 ||shop-style.pl^
+||shortby.tk^
 ||showup-tv.com.pl^
 ||silawejherowo.pl^
 ||silvets.pl^
@@ -1800,6 +1814,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||spreadyourtentacles.com^
 ||srodmiescie-napraw-laptopa.warszawa.pl^
 ||stuntoffer.com^
+||sundaycashsaver.com^
 ||superdryonline.pl^
 ||superfiles.pl^
 ||supermedia24.pl^
@@ -2589,7 +2604,7 @@ fili.cc##a[href^="/download/file"]
 !
 !
 ! Source: https://github.com/Yhonay/antipopads/blob/master/popads.txt
-!@Version: 6594
+!@Version: 6605
 !@Title: Anti popads.net
 !@Licence: WTFPL version 2
 !@Homepage: https://github.com/Yhonay/antipopads
@@ -2850,6 +2865,7 @@ fili.cc##a[href^="/download/file"]
 ||bakdsoarxjab.com^
 ||bakjtxvku.bid^
 ||baommitouduxo.bid^
+||baphruesqm.com^
 ||batigfkcbwpb.com^
 ||bauffnmtou.com^
 ||bbbrhcxtdkfui.bid^
@@ -4538,6 +4554,7 @@ fili.cc##a[href^="/download/file"]
 ||hsnuutxbmmqry.bid^
 ||hsnvnmjriom.com^
 ||hsoyrqqsludd.com^
+||hsufwxpdtddlh.com^
 ||hsuohkuegd.bid^
 ||hsvqfvjidloc.com^
 ||hsyjdpgetl.bid^
@@ -4762,6 +4779,7 @@ fili.cc##a[href^="/download/file"]
 ||ipcouosurtdqc.bid^
 ||ipdcgsdjkz.bid^
 ||ipdlsrwctdjb.com^
+||ipehunxxyir.com^
 ||iphwttyqzuhucw.bid^
 ||ipllxfcftp.com^
 ||ipndulsempjgb.bid^
@@ -4980,6 +4998,7 @@ fili.cc##a[href^="/download/file"]
 ||jllveksikabohj.bid^
 ||jllzvqolrdu.bid^
 ||jlmirsfthnmh.com^
+||jlmnnrwuqz.com^
 ||jlppkzffsksna.com^
 ||jlqmdejwvezpt.com^
 ||jlqpkoppbxa.com^
@@ -5186,6 +5205,7 @@ fili.cc##a[href^="/download/file"]
 ||kfuwxxspanifp.bid^
 ||kfwhcwoc.com^
 ||kfwpyyctzmpk.com^
+||kfxrukfzqazrs.com^
 ||kfzimhbhjdqa.com^
 ||kgdmlsbtd.com^
 ||kgnxtdcf.bid^
@@ -5509,6 +5529,7 @@ fili.cc##a[href^="/download/file"]
 ||llbevorurncfcc.bid^
 ||llbynwyuoj.bid^
 ||llddarkinywtmg.bid^
+||llhjbwcjnuii.com^
 ||lljtgiwhqtue.com^
 ||llluzqrvfyrbt.com^
 ||llnxfuxszevf.com^
@@ -7889,6 +7910,7 @@ fili.cc##a[href^="/download/file"]
 ||uvyascqbm.bid^
 ||uwdawnsge.bid^
 ||uwfvuohbac.com^
+||uwidtpjwh.com^
 ||uwjczdkytwyhzh.com^
 ||uwnklfxurped.com^
 ||uwpmwpjlxblb.com^
@@ -8137,6 +8159,7 @@ fili.cc##a[href^="/download/file"]
 ||vrrupikcfcf.com^
 ||vrsceilj.bid^
 ||vrwfujmni.bid^
+||vrzparvhipmo.com^
 ||vsfagdicznrdsp.bid^
 ||vsgherxdcfon.com^
 ||vsgumkkc.bid^
@@ -8250,6 +8273,7 @@ fili.cc##a[href^="/download/file"]
 ||wcqlebpges.com^
 ||wcyrdtfpdaqbrq.bid^
 ||wdaomluuf.com^
+||wdjbxcdriyjoeu.com^
 ||wdnalofau.bid^
 ||wdnflsjig.com^
 ||wduygininqbu.com^
@@ -8475,6 +8499,7 @@ fili.cc##a[href^="/download/file"]
 ||wzfxaqhiapptsz.com^
 ||wzismevwhqixlq.com^
 ||wzlgmbmwq.bid^
+||wznnfwhwwjkp.com^
 ||wzyagambcfn.bid^
 ||xacexccntjbrht.com^
 ||xaftihkjg.com^
@@ -8629,6 +8654,7 @@ fili.cc##a[href^="/download/file"]
 ||xrrwwxfj.bid^
 ||xrzjigahrnxsr.bid^
 ||xseczkcysdvc.com^
+||xsgacudwlysw.com^
 ||xshozbwcvj.bid^
 ||xsmjzzrpxq.bid^
 ||xssburizmrmd.bid^
