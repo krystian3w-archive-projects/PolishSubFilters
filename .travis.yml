@@ -7,4 +7,5 @@ notifications:
     on_success: never
     on_failure: always
 script:
+- "./scripts/version_checksum_update_without_templates_auto_Travis.sh"
 - "./scripts/VICHS_Travis.sh ./internal-filters/zewnetrzne_listy.txt"

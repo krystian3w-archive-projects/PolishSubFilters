@@ -66,7 +66,6 @@ for i in "$@"; do
     fi
     
     # Dodawanie zmienionych sekcji do repozytorium git
-    #git config --global user.email "PolishJarvis@int.pl"
     git config --global user.name "Travis"
     git add $SEKCJE_KAT/*
     git commit -m "Update sections of $filtr [ci skip]"
