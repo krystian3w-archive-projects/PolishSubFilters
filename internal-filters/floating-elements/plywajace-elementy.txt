@@ -1,8 +1,8 @@
 ! Title: Polskie Filtry Osadzające Nagłówki
 ! Collaborators: KonoromiHimaries, hawkeye116477, yourduskquibbles
 ! Oświadczenie: https://github.com/MajkiIT/polish-ads-filter/blob/master/STATEMENT.md
-! Last modified: 10.08.2018
-! Version: 243.3
+! Last modified: 15.08.2018
+! Version: 244.3
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
@@ -14,6 +14,12 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+www.recenzjezpazurem.pl###nav:style(position: static!important;)
+pilot.wp.pl###header-trigger:style(position: absolute!important;)
+www.wtkungfu.pl###navbar:style(position: static!important;)
+muzykaiprawo.pl###header:style(position: absolute!important;)
+www.petycjeonline.com###site_menu:style(position: absolute!important;)
+sprawy-karne.biz.pl##.gdlr-header-wrapper:style(position: absolute!important;)
 cezar-bus.com##.x-navbar-fixed-top.x-navbar:style(position: static!important;)
 www.gwp.pl###flying_header
 www.ppe.pl##.fixedMenu
@@ -671,6 +677,7 @@ funhub.pl##.footer-hi.wrapper:style(position: static!important;)
 !
 !3$----------------------{ flanki }----------------------!
 !
+www.petycjeonline.com###signature_form_column:style(position: static!important;)
 www.polsatnews.pl###stickyColumn:style(position: static!important;)
 www.gierkionline.pl###sidebar:style(position: static!important;)
 gloria.tv##.uk-active.sticky:style(position: static!important;)
