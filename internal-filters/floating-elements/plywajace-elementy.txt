@@ -14,6 +14,7 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+woblink.com###top-header:style(position: absolute!important; top: 35px!important;)
 www.recenzjezpazurem.pl###nav:style(position: static!important;)
 pilot.wp.pl###header-trigger:style(position: absolute!important;)
 www.wtkungfu.pl###navbar:style(position: static!important;)
