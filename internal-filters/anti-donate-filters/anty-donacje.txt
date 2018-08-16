@@ -1,7 +1,8 @@
+! Checksum: /h/veQiqQ2zllymTG5vh8Q
 ! Title: Polskie Filtry Anty-Donacyjne
 ! Collaborators: KonoromiHimaries
 ! Oświadczenie: https://github.com/MajkiIT/polish-ads-filter/blob/master/STATEMENT.md
-! Version: 117.3
+! Version: 20180817
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
