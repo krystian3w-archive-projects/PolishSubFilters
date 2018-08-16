@@ -2636,7 +2636,7 @@ fili.cc##a[href^="/download/file"]
 !
 !
 ! Source: https://github.com/Yhonay/antipopads/blob/master/popads.txt
-!@Version: 6632
+!@Version: 6642
 !@Title: Anti popads.net
 !@Licence: WTFPL version 2
 !@Homepage: https://github.com/Yhonay/antipopads
@@ -2724,6 +2724,7 @@ fili.cc##a[href^="/download/file"]
 ||aioxvilwpg.bid^
 ||aiprvqqnhm.com^
 ||airfhtyo.bid^
+||aitdwhmcvlm.com^
 ||ajaeihzlcwvn.com^
 ||ajfziqehnwvz.com^
 ||ajkjnofeqrra.bid^
@@ -2980,6 +2981,7 @@ fili.cc##a[href^="/download/file"]
 ||bictxzszwkwghn.com^
 ||biftbtajfs.bid^
 ||bihzqdflxeelc.com^
+||bimwswreljucxa.com^
 ||binasmdul.com^
 ||birpidnl.com^
 ||birslhmnnc.com^
@@ -3178,6 +3180,7 @@ fili.cc##a[href^="/download/file"]
 ||ccaypkuiauizuh.bid^
 ||cccytihi.bid^
 ||ccefzhxgobjm.com^
+||ccemeoqbqb.com^
 ||ccmoxtwauruz.bid^
 ||ccpnzfts.com^
 ||ccscpyeeiqhs.bid^
@@ -4009,6 +4012,7 @@ fili.cc##a[href^="/download/file"]
 ||fldlyzvhgjq.com^
 ||flkyhwjhp.com^
 ||flmditew.com^
+||flnqkhnqjcmvp.com^
 ||flntdbwafec.com^
 ||flooaiaubf.bid^
 ||fluunrkjjhv.com^
@@ -5688,6 +5692,7 @@ fili.cc##a[href^="/download/file"]
 ||luvstnqpw.com^
 ||luztinhsbzggvr.com^
 ||lvayccwmhdggvi.bid^
+||lvcrcimfmfx.com^
 ||lvcxvjetzvt.com^
 ||lvdtftxgbsiu.com^
 ||lvehrzkgzanurn.com^
@@ -5852,6 +5857,7 @@ fili.cc##a[href^="/download/file"]
 ||mkzllhqhsgq.com^
 ||mlaxgqosoawc.com^
 ||mlbzafthbtsl.com^
+||mldsiekmhy.com^
 ||mlfvoqwjvbzy.bid^
 ||mlgrrqymdsyk.com^
 ||mlhpclmaba.bid^
@@ -6241,6 +6247,7 @@ fili.cc##a[href^="/download/file"]
 ||nyfsjqxopdzvvm.bid^
 ||nyrszeos.bid^
 ||nyvdouydkxmaws.bid^
+||nywpxugigwfzb.com^
 ||nyzncfurdrdxfi.com^
 ||nyzobnpbcwjwfs.com^
 ||nzbtvquutdr.com^
@@ -7874,6 +7881,7 @@ fili.cc##a[href^="/download/file"]
 ||ulnpoxaxici.bid^
 ||uloiugxpg.com^
 ||ulpxnhiugynh.com^
+||ulrryqpp.com^
 ||ulwsjpfxwniz.com^
 ||ulyppmnm.bid^
 ||umafkdswjuwz.bid^
@@ -7942,6 +7950,7 @@ fili.cc##a[href^="/download/file"]
 ||utfffrxmzuvy.com^
 ||utjwhrahb.bid^
 ||utlpwxdt.com^
+||utmcttmdaoqd.com^
 ||utnkeaqurjca.com^
 ||utwhgyjgjw.bid^
 ||utyhzjbwfyrz.bid^
@@ -8329,6 +8338,7 @@ fili.cc##a[href^="/download/file"]
 ||wclnrjxefu.bid^
 ||wcoloqvrhhcf.com^
 ||wcqlebpges.com^
+||wcyqoiyohhav.com^
 ||wcyrdtfpdaqbrq.bid^
 ||wdaomluuf.com^
 ||wdjbxcdriyjoeu.com^
