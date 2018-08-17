@@ -1,6 +1,5 @@
 ! Title: Polskie Filtry Prenumerat
 ! Collaborators: KonoromiHimaries, hawkeye116477
-! Oświadczenie: https://github.com/MajkiIT/polish-ads-filter/blob/master/STATEMENT.md
 ! Version: 6.3
 ! Expires: 3 days
 ! Wymagane:
