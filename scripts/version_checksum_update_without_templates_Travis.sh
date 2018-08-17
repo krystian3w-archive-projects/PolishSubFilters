@@ -44,7 +44,7 @@ for i in "$@"; do
     fi
     
     # Dodawanie zmienionych plików do repozytorium git
-    git config --global user.name "Travis"
+    git config --global user.name "Takamaru"
     git add $i
     git commit -m "Update $filtr to version $wersja [ci skip]"
     git push https://KonoromiHimaries:${GH_TOKEN}@github.com/KonoromiHimaries/PolishSubFilters.git HEAD:master
