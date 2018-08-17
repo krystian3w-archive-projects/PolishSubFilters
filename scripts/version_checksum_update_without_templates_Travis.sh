@@ -5,9 +5,9 @@ for i in "$@"; do
     export TZ=":Poland"
 
     # Aktualizacja daty w polu „Last modified"
-    #export LC_ALL=en_US.UTF-8
-    #data=$(date +"%d %b %Y")
-    #sed -i '/! Last modified:/c\'"! Last modified: $data" $i
+    export LC_ALL=en_US.UTF-8
+    data=$(date +"%d %b %Y")
+    sed -i '/! Last modified:/c\'"! Last modified: $data" $i
 
     # Aktualizacja wersji
     wersja=$(date +"%Y%m%d")
