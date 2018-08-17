@@ -59,6 +59,7 @@ www.youtube.com##.html5-video-player.ytp-fullscreen .ytp-chrome-controls:style(p
 mserwery.pl##.container > div.panel-default.panel:nth-of-type(1), .container > div.panel-default.panel:nth-of-type(3)
 !
 ! a-o.ninja
+a-o.ninja##.clearfix.block-search.block:nth-of-type(n+3):nth-of-type(-n+4)
 a-o.ninja##.block-search.block:nth-of-type(5)
 a-o.ninja##.col-sm-9 > p:nth-of-type(n+1):nth-of-type(-n+2)
 a-o.ninja###above-navbar
@@ -786,11 +787,6 @@ businessinsider.com.pl##.footer .list-pipes:first-of-type:style(margin-top: 15px
 !& sekcja, zew. str, baner
 www.elektroda.pl##a[href="https://www.relpol.pl/Produkty"], a[href="https://www.stercontrol.pl/"], a[href="http://www.hotair.pl/elektroda"], a[href="http://micros.com.pl/pl"], a[href="http://www.gotronik.pl/"]
 www.elektroda.pl##.Opho1hee > .clearfix.topic-box
-!
-! @ tymczasowe @
-!
-a-o.ninja##.clearfix.block-search.block:nth-of-type(3)
-a-o.ninja##.clearfix.block-search.block:nth-of-type(4)
 !
 !
 !39$----------------------{ aplikacje mobilne }----------------------!
