@@ -1,4 +1,4 @@
-! Checksum: NDvX1suC1arFMXqag4wO4g
+! Checksum: 47u6qRY8X8i95ZhaJ6ymcw
 ! Title: Polskie Filtry Prenumerat
 ! Collaborators: KonoromiHimaries, hawkeye116477
 ! Version: 20180817
