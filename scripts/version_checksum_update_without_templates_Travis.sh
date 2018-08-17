@@ -47,5 +47,6 @@ for i in "$@"; do
     git config --global user.name "Takamaru"
     git add $i
     git commit -m "Update $filtr to version $wersja [ci skip]"
+    git pull
     git push https://KonoromiHimaries:${GH_TOKEN}@github.com/KonoromiHimaries/PolishSubFilters.git HEAD:master
 done
