@@ -1,8 +1,12 @@
 ! Checksum: NDvX1suC1arFMXqag4wO4g
 ! Title: Polskie Filtry Prenumerat
 ! Collaborators: KonoromiHimaries, hawkeye116477
+<<<<<<< HEAD
 ! Oświadczenie: https://github.com/MajkiIT/polish-ads-filter/blob/master/STATEMENT.md
 ! Version: 20180817
+=======
+! Version: 6.3
+>>>>>>> 14d729d54b896456c53f02ee86ddb044061e01f1
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
