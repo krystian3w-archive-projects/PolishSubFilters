@@ -5,18 +5,19 @@ for i in "$@"; do
     export TZ=":Poland"
 
     # Aktualizacja daty w polu „Last modified"
-    export LC_ALL=en_US.UTF-8
-    data=$(date +"%d %b %Y")
-    sed -i '/! Last modified:/c\'"! Last modified: $data" $i
+    #export LC_ALL=en_US.UTF-8
+    #data=$(date +"%d %b %Y")
+    #sed -i '/! Last modified:/c\'"! Last modified: $data" $i
 
     # Aktualizacja wersji
+    export LC_ALL=pl_PL.UTF-8
     wersja=$(date +"%Y%m%d")
     sed -i '/! Version:/c\'"! Version: $wersja" $i
 
     # Aktualizacja pola „aktualizacja"
-    export LC_ALL=pl_PL.UTF-8
-    aktualizacja=$(date +"%a, %d %b %Y, %H:%M:%S UTC%:::z")
-    sed -i '/! v./c\'"! v.$wersja aktualizacja: $aktualizacja" $i
+    #export LC_ALL=pl_PL.UTF-8
+    #aktualizacja=$(date +"%a, %d %b %Y, %H:%M:%S UTC%:::z")
+    #sed -i '/! v./c\'"! v.$wersja aktualizacja: $aktualizacja" $i
 
     # Sciezka to miejsce, w którym znajduje się skrypt
     sciezka=$(dirname "$0")
