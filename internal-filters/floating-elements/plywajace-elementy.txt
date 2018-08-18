@@ -13,6 +13,8 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+mfiles.pl###mw-header-container:style(position: absolute!important;)
+mfiles.pl###mw-header-hack:style(position: absolute!important;)
 woblink.com###top-header:style(position: absolute!important; top: 35px!important;)
 www.recenzjezpazurem.pl###nav:style(position: static!important;)
 pilot.wp.pl###header-trigger:style(position: absolute!important;)
