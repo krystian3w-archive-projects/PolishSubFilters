@@ -4,6 +4,7 @@
 !
 !
 ! Source: https://github.com/PolishFiltersTeam/PolishRSSFilters/blob/master/polish_rss_filters.txt
+[Adblock Plus 2.0]
 !@Title: Polskie Filtry RSS
 !@Polish RSS Filters
 !@Codename: RSS
@@ -400,6 +401,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 !
 !
 ! Source: https://github.com/HexxiumCreations/threat-list/blob/gh-pages/hexxiumthreatlist.txt
+[Adblock Plus 2.0]
 !@Homepage: https://hexxiumcreations.github.io/threat-list/
 !@Contribute: https://www.hexxiumcreations.com/report-malicious-domains-and-ips/
 !@Website: https://www.hexxiumcreations.com/projects/malicious-domain-blocking/
@@ -1370,6 +1372,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 !
 !
 ! Source: https://github.com/azet12/KAD/blob/master/KAD.txt
+[Adblock Plus 2.0]
 
 !@Homepage: https://azet12.github.io/KAD
 !@Title: KAD - Przekręty
@@ -2616,6 +2619,7 @@ fili.cc##a[href^="/download/file"]
 !
 !
 ! Source: https://raw.githubusercontent.com/azet12/KAD/gh-pages/assets/other/kadfakewhitelist.txt
+[Adblock Plus 2.0]
 !@Homepage: https://azet12.github.io/KAD
 !@Title: KAD - Whitelista Stron Kontrowersyjnych
 
@@ -2638,7 +2642,7 @@ fili.cc##a[href^="/download/file"]
 !
 !
 ! Source: https://github.com/Yhonay/antipopads/blob/master/popads.txt
-!@Version: 6653
+!@Version: 6655
 !@Title: Anti popads.net
 !@Licence: WTFPL version 2
 !@Homepage: https://github.com/Yhonay/antipopads
@@ -3201,6 +3205,7 @@ fili.cc##a[href^="/download/file"]
 ||ceywprmvjy.com^
 ||cfdmkifknsjt.com^
 ||cfsdtzggpcmr.com^
+||cfskcqrwbog.com^
 ||cfvfjsobudwrsn.com^
 ||cfyvrgvopaejx.com^
 ||cfzskkkmjg.com^
@@ -4975,6 +4980,7 @@ fili.cc##a[href^="/download/file"]
 ||jebfktzfjqghv.bid^
 ||jebuorwrqfflzl.com^
 ||jednyqbb.com^
+||jeeumttalzwt.com^
 ||jeksffryglas.com^
 ||jemopaqkst.com^
 ||jemyvtomzyha.com^
