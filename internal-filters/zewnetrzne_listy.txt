@@ -4,7 +4,6 @@
 !
 !
 ! Source: https://github.com/PolishFiltersTeam/PolishRSSFilters/blob/master/polish_rss_filters.txt
-[Adblock Plus 2.0]
 !@Title: Polskie Filtry RSS
 !@Polish RSS Filters
 !@Codename: RSS
@@ -401,7 +400,6 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 !
 !
 ! Source: https://github.com/HexxiumCreations/threat-list/blob/gh-pages/hexxiumthreatlist.txt
-[Adblock Plus 2.0]
 !@Homepage: https://hexxiumcreations.github.io/threat-list/
 !@Contribute: https://www.hexxiumcreations.com/report-malicious-domains-and-ips/
 !@Website: https://www.hexxiumcreations.com/projects/malicious-domain-blocking/
@@ -1372,7 +1370,6 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 !
 !
 ! Source: https://github.com/azet12/KAD/blob/master/KAD.txt
-[Adblock Plus 2.0]
 
 !@Homepage: https://azet12.github.io/KAD
 !@Title: KAD - Przekręty
@@ -2619,7 +2616,6 @@ fili.cc##a[href^="/download/file"]
 !
 !
 ! Source: https://raw.githubusercontent.com/azet12/KAD/gh-pages/assets/other/kadfakewhitelist.txt
-[Adblock Plus 2.0]
 !@Homepage: https://azet12.github.io/KAD
 !@Title: KAD - Whitelista Stron Kontrowersyjnych
 
