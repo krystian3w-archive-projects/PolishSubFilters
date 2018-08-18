@@ -1,5 +1,5 @@
 ! Title: Piperun's iplogger whitelist
-! Version: 5.1
+! Version: 6.1
 ! Expires: 3 days
 ! Homepage: https://github.com/piperun/iploggerfilter
 ! License: https://github.com/piperun/iploggerfilter/blob/master/LICENSE
