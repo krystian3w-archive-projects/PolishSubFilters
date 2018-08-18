@@ -42,7 +42,7 @@ for i in "$@"; do
         wget -O $SEKCJE_KAT/external.temp "${ZEWNETRZNY}"
         sed -i '/! Checksum/d' $SEKCJE_KAT/external.temp
         sed -i '/!#include /d' $SEKCJE_KAT/external.temp
-        sed -i '/Adblock Plus 2.0/d' $SEKCJE_KAT/external.temp
+        #sed -i '/Adblock Plus 2.0/d' $SEKCJE_KAT/external.temp
         sed -i '/uBlock Origin/d' $SEKCJE_KAT/external.temp
         sed -i '/! Dołączenie listy/d' $SEKCJE_KAT/external.temp
         sed -i "s|\$important||g" $SEKCJE_KAT/external.temp
@@ -74,10 +74,11 @@ for i in "$@"; do
     export TZ=":Poland"
 
     # Aktualizacja daty i godziny w polu „Last modified"
-    modified=$(date +"%a, %d %b %Y, %H:%M:%S UTC%:::z")
-    sed -i "s|@modified|$modified|g" $i
+    #modified=$(date +"%a, %d %b %Y, %H:%M:%S UTC%:::z")
+    #sed -i "s|@modified|$modified|g" $i
 
     # Aktualizacja wersji
+    export LC_ALL=pl_PL.UTF-8
     wersja=$(date +"%Y%m%d%H%M")
     sed -i "s|@wersja|$wersja|g" $i
     
