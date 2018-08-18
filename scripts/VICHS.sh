@@ -42,7 +42,7 @@ for i in "$@"; do
         wget -O $SEKCJE_KAT/external.temp "${ZEWNETRZNY}"
         sed -i '/! Checksum/d' $SEKCJE_KAT/external.temp
         sed -i '/!#include /d' $SEKCJE_KAT/external.temp
-        #sed -i '/Adblock Plus 2.0/d' $SEKCJE_KAT/external.temp
+        sed -i '/Adblock Plus 2.0/d' $SEKCJE_KAT/external.temp
         sed -i '/uBlock Origin/d' $SEKCJE_KAT/external.temp
         sed -i '/! Dołączenie listy/d' $SEKCJE_KAT/external.temp
         sed -i "s|\$important||g" $SEKCJE_KAT/external.temp
