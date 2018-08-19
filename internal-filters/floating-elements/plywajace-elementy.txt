@@ -161,7 +161,6 @@ www.domiporta.pl##.hpFeed.mod:style(position: absolute!important;)
 www.debica24.eu###main_nav:style(position: static!important;)
 www.audiobook.pl###header:style(position: absolute!important;)
 jajco.pl###header:style(position: absolute!important;)
-pl##.td-affix.td-header-gradient.td-header-menu-wrap:style(position: static!important;)
 zegocina.in##.td-affix.td-header-gradient.td-header-menu-wrap:style(position: static!important;)
 marketingprzykawie.pl###fixedArticleHeader
 bezuzyteczna.pl##.fixed.scroll:style(position: static!important;)
@@ -724,7 +723,7 @@ alltube.pl,alltube.tv##section.player[style^="height: calc("]:style(height:calc(
 www.crazynauka.pl###cb-nav-logo
 www.fakt.pl##article > .artLeftWrapper > .artLeft > .protected.floatingElem:style(position: static!important;)
 cda-hd.co,cda-hd.cc###fixer:style(position: static!important;)
-tuudi.net,pl##.td-ss-main-sidebar:style(position: static!important;)
+tuudi.net##.td-ss-main-sidebar:style(position: static!important;)
 !tuudi.net,comparic.pl,newsweb.pl,ndie.pl,cyfrowaekonomia.pl##.td-ss-main-sidebar:style(position: static!important;)
 www.dobreprogramy.pl##.sticky.no-mobile.block:style(position: static!important;)
 crowdmedia.pl##.is_stuck.herald-sticky:style(position: static!important;)
