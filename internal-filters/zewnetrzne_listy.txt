@@ -2638,7 +2638,7 @@ fili.cc##a[href^="/download/file"]
 !
 !
 ! Source: https://github.com/Yhonay/antipopads/blob/master/popads.txt
-!@Version: 6655
+!@Version: 6656
 !@Title: Anti popads.net
 !@Licence: WTFPL version 2
 !@Homepage: https://github.com/Yhonay/antipopads
@@ -6700,6 +6700,7 @@ fili.cc##a[href^="/download/file"]
 ||ptoflpqqqkdk.com^
 ||ptqaqsagtb.bid^
 ||ptqwvynkyhcwo.bid^
+||ptrahwwg.com^
 ||ptrqrnadg.com^
 ||ptsdnvgn.bid^
 ||pttjrlnydgjffv.com^
