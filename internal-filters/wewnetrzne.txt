@@ -29,6 +29,9 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+! nudyzm
+||avatarsb.dpcdn.pl/imgd/Avatar/523762/$image
+!
 ! konkurs, podstrona, przycisk
 www.legalnakultura.pl###konkursy-plugin-container
 !
