@@ -538,63 +538,18 @@ pionki24.pl##.siderightcontent:nth-of-type(3)
 pionki24.pl##.siderightcontent:nth-of-type(34)
 !
 !
-!22$----------------------{ uważaj na }----------------------!
-!
-!> https://niebezpiecznik.pl/post/p-sms-z-numery-info-platnosc883-pl/
-||platnosc883.pl^
-!
-||better2download.com^
-||check-francemoney56.loan^
-||soj-764.com^
-!
-||uwazajnakryptowaluty.pl^
-!
-!> https://niebezpiecznik.pl/post/uwazaj-na-kursy-jezykowe-z-dotacjami-nie-wiadomo-kto-przetwarza-dane-osobowe-ale-mozna-sie-tego-domyslic/
-||rodoabc.pl^
-||edukacja2018.pl^
-||dotacje-swietokrzyskie.pl^
-||ccsolutions.com.pl^
-||dotacja-lubuskie.pl^
-||dotacje-warminsko-mazurskie.pl^
-||dotacje-opolskie.pl^
-||dotacje-podlaskie.pl^
-||dotacje-pomorskie.pl^
-||dotacja-lubelskie.pl^
-||dotacje-podkarpackie.pl^
-||dotacje-zachodniopomorskie.pl^
-||dotacje-kujawsko-pomorskie.pl^
-||dotacje-malopolskie.pl^
-||wyraz-opinie.pl^
-||gamroll.com^
-||nauka-plus.pl^
-||ling.expert^
-||news-polska.pl^
-||quick-eye.pl^
-!
-!> https://niebezpiecznik.pl/post/uwaga-na-e-maile-naklaniajace-polakow-do-podania-swoich-danych-pod-pretekstem-bonow-na-750pln-do-biedronki-tesco-lub-zabki/
-||testclub.pl^
-||zabierzglos.pl^
-||fabryka-prezentow.com.pl^
-||swiatecznybon.pl^
-||twoja-przegladarka.pl^
-||bon-do-marketu.pl^
-||neocraft.kylos.net.pl^
-||s.ecampaign.pl^
-||system.inis.pl^
-!
-!
-!23$----------------------{ sponsorzy }----------------------!
+!22$----------------------{ sponsorzy }----------------------!
 !
 wysokienapiecie.pl##.col-module:nth-of-type(2)
 !
 !
-!24$----------------------{ ankiety }----------------------!
+!23$----------------------{ ankiety }----------------------!
 !
 !> https://github.com/MajkiIT/polish-ads-filter/issues/5148
 dsw.doba.pl###stick-to-left
 !
 !
-!25$----------------------{ tymczasowe }----------------------!
+!24$----------------------{ tymczasowe }----------------------!
 !
 !& komunikat, sprostowanie
 www.pudelek.pl###apologize
@@ -603,7 +558,7 @@ www.pudelek.pl###apologize
 esanok.pl##img[src="http://esanok.pl/dodatki/przeprosiny-mielczarek.jpg"]
 !
 !
-!26$----------------------{ przyciski }----------------------!
+!25$----------------------{ przyciski }----------------------!
 !
 viralka.pl##.stuck.menu-left.boxed.narrow.clearfix.bottom:style(position: static!important;)
 !
@@ -622,7 +577,7 @@ mragowo24.info##.ads.reklama_wysuwana_bok
 patronite.pl##.active.zostan_patronem_menu
 !
 !
-!27$----------------------{ polecane }----------------------!
+!26$----------------------{ polecane }----------------------!
 !
 !& widget, konkurs, event, ogłoszenie
 !> https://github.com/MajkiIT/polish-ads-filter/issues/6616
@@ -660,7 +615,7 @@ www.rynekzdrowia.pl###boxSpodekMCK
 www.fishing-mart.com.pl##td:nth-of-type(2) > .norm11:nth-of-type(4)
 !
 !
-!28$----------------------{ katalogi firm }----------------------!
+!27$----------------------{ katalogi firm }----------------------!
 !
 !& polecane
 !> https://github.com/MajkiIT/polish-ads-filter/issues/6370
@@ -676,31 +631,31 @@ www.ikrotoszyn.pl##a[href="http://www.intermarche.ikrotoszyn.pl/"]
 www.ikrotoszyn.pl##a[href="http://www.szkoleniepsow.ikrotoszyn.pl/"]
 !
 !
-!29$----------------------{ odtwarzacz }----------------------!
+!28$----------------------{ odtwarzacz }----------------------!
 !
 dorzeczy.pl##.muted-player
 !
 !
-!30$----------------------{ autoreklama }----------------------!
+!29$----------------------{ autoreklama }----------------------!
 !
 www.ponapisach.pl##.main-custom-logo
 !
 aszdziennik.pl,innpoland.pl,mamadu.pl##.old-centered.container.footer__box--row
 !
 !
-!31$----------------------{ ankiety - sms premium }----------------------!
+!30$----------------------{ ankiety - sms premium }----------------------!
 !
 www.supertydzien.pl##.widget.row:nth-of-type(n+8):nth-of-type(-n+9)
 www.supertydzien.pl##.widget.row:nth-of-type(n+2):nth-of-type(-n+3)
 !
 !
-!32$----------------------{ fix na zepsute elementy }----------------------!
+!31$----------------------{ fix na zepsute elementy }----------------------!
 !
 olsztyn.wm.pl##.icon-Symbol4-day
 olsztyn.wm.pl##.icon-Symbol9-day
 !
 !
-!33$----------------------{ puste sekcje }----------------------!
+!32$----------------------{ puste sekcje }----------------------!
 !
 !& podstrona
 !> https://github.com/MajkiIT/polish-ads-filter/issues/6138
@@ -743,7 +698,7 @@ elubaczow.com##.posts > .widgettitle:nth-of-type(3)
 kopalniawiedzy.pl##.page-footer > .content-wrapper:style(padding-bottom: 20px!important;)
 !
 !
-!34$----------------------{ badania }----------------------!
+!33$----------------------{ badania }----------------------!
 !
 !& widget, formularz
 twojeip.wp.pl##.header > .wrapper
@@ -752,7 +707,7 @@ twojeip.wp.pl##.header > .wrapper
 www.bankier.pl##iframe[src="https://bankier.polldaddy.com/s/złoty-bankier-zgłoszenie-do-badania?iframe=1"]
 !
 !
-!35$----------------------{ sponsorowane }----------------------!
+!34$----------------------{ sponsorowane }----------------------!
 !
 !& reklama artykułu
 !> https://github.com/MajkiIT/polish-ads-filter/issues/6085
@@ -760,7 +715,7 @@ make-cash.pl##.ipsBox.ipsWidget_vertical.ipsWidget:nth-of-type(3)
 make-cash.pl##.ipsBox.ipsWidget_vertical.ipsWidget:nth-of-type(8)
 !
 !
-!36$----------------------{ ciasteczka - statyczne }----------------------!
+!35$----------------------{ ciasteczka - statyczne }----------------------!
 !
 !& stopka, podstrona
 www.walutywirtualne.pl##table:nth-of-type(3)
@@ -776,7 +731,7 @@ niewygodne.info.pl##tr:nth-of-type(1):has-text(cookies)
 www.kosmonautyka.pl##table:nth-of-type(3)
 !
 !
-!37$----------------------{ ulepszenia - przycinanie sekcji }----------------------!
+!36$----------------------{ ulepszenia - przycinanie sekcji }----------------------!
 !
 !& stopka
 natemat.pl##.old-centered.container.footer__box--row--nav:style(padding:10px!important;)
@@ -788,14 +743,14 @@ businessinsider.com.pl##.top:style(margin-top: 30px !important;)
 businessinsider.com.pl##.footer .list-pipes:first-of-type:style(margin-top: 15px !important;)
 !
 !
-!38$----------------------{ zewnętrzne - niefiltrowane }----------------------!
+!37$----------------------{ zewnętrzne - niefiltrowane }----------------------!
 !
 !& sekcja, zew. str, baner
 www.elektroda.pl##a[href="https://www.relpol.pl/Produkty"], a[href="https://www.stercontrol.pl/"], a[href="http://www.hotair.pl/elektroda"], a[href="http://micros.com.pl/pl"], a[href="http://www.gotronik.pl/"]
 www.elektroda.pl##.Opho1hee > .clearfix.topic-box
 !
 !
-!39$----------------------{ aplikacje mobilne }----------------------!
+!38$----------------------{ aplikacje mobilne }----------------------!
 !
 !& baner, podstrona, zew. str
 open.fm###download-box
@@ -818,13 +773,13 @@ www.gol24.pl##.hide-for-small.pasek-mobile-apps
 pilot.wp.pl##.intro-mobile
 !
 !
-!40$----------------------{ aplikacje }----------------------!
+!39$----------------------{ aplikacje }----------------------!
 !
 !& baner, podstrona, microsoft, zew. str, e-pity
 www.bankier.pl##.border3.boxGrey.box315:nth-of-type(1)
 !
 !
-!41$----------------------{ autopromocja }----------------------!
+!40$----------------------{ autopromocja }----------------------!
 !
 !& kontener, text, podstrona
 !> https://github.com/MajkiIT/polish-ads-filter/issues/6963
@@ -848,20 +803,20 @@ radiozw.com.pl###bigbox > A
 radiozw.com.pl###bigbox > H4
 !
 !
-!42$----------------------{ zachęta do kupna premium }----------------------!
+!41$----------------------{ zachęta do kupna premium }----------------------!
 !
 !& okres testowy, podstrona, baner, popup
 ebd.cda.pl##[class^="pb-premium-promotion pb-context-wrapp pb-context-wrapp-show"]
 !
 !
-!43$----------------------{ eventy }----------------------!
+!42$----------------------{ eventy }----------------------!
 !
 !& baner, tymczasowe
 !> https://github.com/MajkiIT/polish-ads-filter/issues/6574
 lipno-cli.pl##.row:nth-of-type(3)
 !
 !
-!44$----------------------{ ogłoszenia }----------------------!
+!43$----------------------{ ogłoszenia }----------------------!
 !
 !& sekcja, podserwis
 !> https://github.com/MajkiIT/polish-ads-filter/issues/6581
@@ -872,7 +827,7 @@ www.e-pajeczno.pl##.region-sidebar-first.region
 antyweb.pl###job-offer
 !
 !
-!45$----------------------{ adware }----------------------!
+!44$----------------------{ adware }----------------------!
 !
 !& przycisk, menadżer pobierania, podserwis
 !> https://github.com/uBlockOrigin/uAssets/issues/1779
@@ -882,20 +837,20 @@ www.instalki.pl##option[value$="&dm=1"]
 www.infokatowice.pl##.td-header-sp-recs
 !
 !
-!46$----------------------{ anty-whitelist }----------------------!
+!45$----------------------{ anty-whitelist }----------------------!
 !
 !& sekcja, podstrona
 !> https://github.com/MajkiIT/polish-ads-filter/issues/6647
 a-o.ninja##.clearfix.block-search.block:nth-of-type(1)
 !
 !
-!47$----------------------{ oświadczenie }----------------------!
+!46$----------------------{ oświadczenie }----------------------!
 !
 ! komunikat, stopka, przeniesienie odpowiedzialności
 alltube.pl,alltube.tv##footer
 !
 !
-!48$----------------------{ społecznościowe - uzupełnienie }----------------------!
+!47$----------------------{ społecznościowe - uzupełnienie }----------------------!
 !
 ! sekcja, podstrona, post
 www.mpcforum.pl##li.ipsBox.ipsWidget_vertical.ipsWidget:nth-of-type(3)
