@@ -407,15 +407,30 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 !@Expires: 2 days
 !@Report domains not being properly blocked to: support@hexxiumcreations.com
 !@(YYYY/MM/DD)
-!@Version: 20180813
+!@Version: 20180820
 !@USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||5r.ai^
+||hemakeshappy.com^
+||casinomoons.com^
+||d14bvk55lekxdw.cloudfront.net^
+||apping-perfunky.com^
+||abeswaterfront.com^
+||whatthetrack.com^
+||lootjfarm.pw^
+||sloopenarishanik.xyz^
+||efsjdomongowalo.xyz^
+||steamcomnumitly.com^
+||manageskins.com^
+||csgolounig1.xyz^
+||csgolounge.world^
+||bodygraphics.cc^
+||pctonics.com^
 ||myetherget.info^
 ||trade-skins.net^
 ||skinszone.net^
 ||tf2smart.com^
 ||tappydrop.com^
-||skinsbless.com^
 ||tf2crown.com^
 ||tf2winner.com^
 ||tf2wild.com^
@@ -2647,7 +2662,7 @@ fili.cc##a[href^="/download/file"]
 !
 !
 ! Source: https://github.com/Yhonay/antipopads/blob/master/popads.txt
-!@Version: 6659
+!@Version: 6669
 !@Title: Anti popads.net
 !@Licence: WTFPL version 2
 !@Homepage: https://github.com/Yhonay/antipopads
@@ -4111,6 +4126,7 @@ fili.cc##a[href^="/download/file"]
 ||ftqhgapqugv.bid^
 ||fttsgimpiagrwa.com^
 ||ftuisdlnbp.com^
+||ftuohzeijbkm.com^
 ||ftusprfqtu.bid^
 ||ftvkgkkmthed.com^
 ||ftwdbhsztw.com^
@@ -4312,6 +4328,7 @@ fili.cc##a[href^="/download/file"]
 ||goowurzdotcom.bid^
 ||gopamdzgpdrwe.bid^
 ||gosvhpsc.com^
+||gouowkjmewn.com^
 ||gouytrujxuhkzk.bid^
 ||gozfsvoqn.com^
 ||gozmioancm.bid^
@@ -4575,6 +4592,7 @@ fili.cc##a[href^="/download/file"]
 ||hosqkmnjt.com^
 ||hotdzbtmngof.bid^
 ||howjkpaynzwf.com^
+||hoyqhygv.com^
 ||hoytzfyok.bid^
 ||hpabkunldxhpc.com^
 ||hpcniufqp.bid^
@@ -5779,6 +5797,7 @@ fili.cc##a[href^="/download/file"]
 ||mbtalhkebpbpwb.com^
 ||mbyponflbv.bid^
 ||mcagbtdcwklf.com^
+||mcaybfrnrqpmv.com^
 ||mciyblxplucm.bid^
 ||mclwrdzj.bid^
 ||mcrjoftwhprkrx.bid^
@@ -5966,6 +5985,7 @@ fili.cc##a[href^="/download/file"]
 ||msoiqafieh.com^
 ||mspaimzv.com^
 ||msrwoxdkffcl.com^
+||mstmrspnqqevsu.com^
 ||msvgmziu.bid^
 ||mszfmpseoqbu.com^
 ||mtbadedrhcx.bid^
@@ -7013,6 +7033,7 @@ fili.cc##a[href^="/download/file"]
 ||qykxbnflqvjxvk.com^
 ||qynohttywcws.bid^
 ||qysextrlhpoc.bid^
+||qytabshszekf.com^
 ||qyvebeos.com^
 ||qyvpgddwqynp.com^
 ||qyzoejyqbqyd.com^
@@ -7106,6 +7127,7 @@ fili.cc##a[href^="/download/file"]
 ||rhpwhkwzhpy.bid^
 ||rhqkduodhizrr.com^
 ||rhvgtmgkahm.com^
+||rhypgggd.com^
 ||riaetcuycxjz.com^
 ||riaxuuidsnws.bid^
 ||rieyjzuyhigobg.bid^
@@ -7798,6 +7820,7 @@ fili.cc##a[href^="/download/file"]
 ||tzjrmfipwurtc.com^
 ||tzlijsurxh.bid^
 ||tzwcaamgd.bid^
+||tzyvolvenvyim.com^
 ||uaaholcdcx.bid^
 ||uabicxuyovh.com^
 ||uaclvtrcno.bid^
@@ -8664,6 +8687,7 @@ fili.cc##a[href^="/download/file"]
 ||xicnoklyvgldzh.bid^
 ||xicuxxferbnn.com^
 ||xiebddgbseoxa.com^
+||xihkdzijh.com^
 ||ximeldnjuusl.com^
 ||xinpmsvinfmc.bid^
 ||xissjuywmpk.bid^
@@ -9033,6 +9057,7 @@ fili.cc##a[href^="/download/file"]
 ||yuywwcizs.com^
 ||yvfsfoctkls.com^
 ||yvjdvcgomph.bid^
+||yvlhxqxw.com^
 ||yvlmcehqt.com^
 ||yvmosixxo.com^
 ||yvmzmyol.bid^
