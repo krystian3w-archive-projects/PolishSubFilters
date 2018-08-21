@@ -1,0 +1,58 @@
+! Checksum: 000
+! Title: Polskie Filtry Elementów Niebezpiecznych
+! Collaborators: KonoromiHimaries
+! Version: 20180821
+! Expires: 3 days
+! Wymagane:
+!   Rozszerzenia >> uBlock Origin lub Nano Adblocker
+!   Listy filtrów >> EasyList + Polskie Filtry + Polskie Filtry Elementów Irytujących
+! Zgłoszenia:
+!   Discord >> https://discord.me/polskiefiltry
+! License: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pl
+! Copyright © 2018 MT&Q
+!
+!1$----------------------{ uważaj na }----------------------!
+!
+!> https://niebezpiecznik.pl/post/p-sms-z-numery-info-platnosc883-pl/
+||platnosc883.pl^
+!
+||better2download.com^
+||check-francemoney56.loan^
+||soj-764.com^
+!
+||uwazajnakryptowaluty.pl^
+!
+!> https://niebezpiecznik.pl/post/uwazaj-na-kursy-jezykowe-z-dotacjami-nie-wiadomo-kto-przetwarza-dane-osobowe-ale-mozna-sie-tego-domyslic/
+||rodoabc.pl^
+||edukacja2018.pl^
+||dotacje-swietokrzyskie.pl^
+||ccsolutions.com.pl^
+||dotacja-lubuskie.pl^
+||dotacje-warminsko-mazurskie.pl^
+||dotacje-opolskie.pl^
+||dotacje-podlaskie.pl^
+||dotacje-pomorskie.pl^
+||dotacja-lubelskie.pl^
+||dotacje-podkarpackie.pl^
+||dotacje-zachodniopomorskie.pl^
+||dotacje-kujawsko-pomorskie.pl^
+||dotacje-malopolskie.pl^
+||wyraz-opinie.pl^
+||gamroll.com^
+||nauka-plus.pl^
+||ling.expert^
+||news-polska.pl^
+||quick-eye.pl^
+!
+!> https://niebezpiecznik.pl/post/uwaga-na-e-maile-naklaniajace-polakow-do-podania-swoich-danych-pod-pretekstem-bonow-na-750pln-do-biedronki-tesco-lub-zabki/
+||testclub.pl^
+||zabierzglos.pl^
+||fabryka-prezentow.com.pl^
+||swiatecznybon.pl^
+||twoja-przegladarka.pl^
+||bon-do-marketu.pl^
+||neocraft.kylos.net.pl^
+||s.ecampaign.pl^
+||system.inis.pl^
+!
+!
