@@ -1,6 +1,8 @@
+!#if cap_user_stylesheet
 !#include piperun-filters/iploggerwhitelist.txt
 !#include privacy-filters/olegwukr-filters.txt
 !#include privacy-filters/tracking-filters.txt
+!#endif
 !
 !
 ! Source: https://github.com/PolishFiltersTeam/PolishRSSFilters/blob/master/polish_rss_filters.txt
@@ -1389,8 +1391,8 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 !@Homepage: https://azet12.github.io/KAD
 !@Title: KAD - Przekręty
 !@Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: 19 Aug 2018
-!@Version: 2018081901
+!@Last modified: 21 Aug 2018
+!@Version: 2018082103
 !@Expires: 1 day
 !
 !@Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
@@ -1411,12 +1413,14 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||5000-cotydzien.com^
 ||5000cotydzien.net^
 ||5k-player.com^
+||6j4cea2ybg.pl^
 ||7tools.eu^
 ||acaiberryextreme.pl^
 ||adidaspureboost.pl^
 ||adsrv4k.com^
 ||adwcleaner.pl^
 ||adworkmedia.com^
+||afisz24.eu^
 ||africanmango.pl^
 ||africanmango900.pl^
 ||agatameblekonkurs.pl^
@@ -1443,6 +1447,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||az27.pl^
 ||b54m4qbmt0b9.com^
 ||babyeishgames.com^
+||bartekzukiewicz.pl^
 ||bazasprawdzianow.pl^
 ||be-wild.pl^
 ||becconet.com^
@@ -1458,6 +1463,8 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||bitcoinmillionairepro.com^
 ||biznesplay.biz^
 ||blissinstalls.com^
+||blog-in.biz^
+||blog.jacekpaciorek.pl^
 ||blogchanie.com^
 ||bodysecretrevelation.com^
 ||bon-do-marketu.pl^
@@ -1471,10 +1478,10 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||buzzonclick.com^
 ||cale-filmy.online^
 ||caly-film-online.pl^
-||cashcapitalsystem.com^
 ||catashare.pw^
 ||ccsolutions.com.pl^
 ||cda-bez-limitu.pl^
+||cda-filmy.com.pl^
 ||centrum-napraw-swojego-laptopa.warszawa.pl^
 ||centrum-pogotowie-komputerowe.warszawa.pl^
 ||centrum-ratuj-swojego-laptopa.warszawa.pl^
@@ -1501,13 +1508,23 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||dagcoin.org^
 ||dailyadultnews.com^
 ||darmowe-ebooki.com.pl^
+||darmowe-ebooki.net^
 ||darmowefilmy.eu^
 ||dascoin-info.pl^
+||dascoin.com.ng^
 ||dascoin.com.pl^
+||dascoin.com^
 ||dascoin.info.pl^
+||dascoin.prowly.com^
 ||dascoingroup.com^
+||dascoininvest.com^
 ||dascoinmanager.com^
 ||dascoinpolska.com.pl^
+||dascoinpro.pl^
+||dasecosystem.pl^
+||dasmycoin.com^
+||dassystem.eu^
+||daswallet.com^
 ||davor.io^
 ||debadu.com^
 ||designer.ski^
@@ -1534,6 +1551,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||dotacje-warminsko-mazurskie.pl^
 ||dotacje-wielkopolskie.pl^
 ||dotacje-zachodniopomorskie.pl^
+||downloadfile.eu^
 ||downloadtuesday.com^
 ||downloaduj.pl^
 ||dragonflym.com^
@@ -1561,7 +1579,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||expleates.pro^
 ||extragenerators.xyz^
 ||f4u.pl^
-||face-color.com.pl^
+||faceapp.eu^
 ||fb-iq.pl^
 ||fbile.pl^
 ||fbjaki.pl^
@@ -1603,6 +1621,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||fungalor.com^
 ||funskan.pl^
 ||futbolowyswiat.com.pl^
+||futurenet.club^
 ||game-hack.biz^
 ||gameinstallfiles.com^
 ||gamemine.com^
@@ -1688,6 +1707,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||konkursy24.ml^
 ||krdn.pl^
 ||krebsmethod.com^
+||kryptochemik.pl^
 ||kupzytax.pl^
 ||kuriero.pl^
 ||las-rp.pl^
@@ -1709,6 +1729,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||maendo.tv^
 ||magviz-secondsz.com^
 ||mangiks.com^
+||marekporwol.pl^
 ||masenkotrkr.com^
 ||mazowieckiecentrummedyczne.pl^
 ||mediae.pl^
@@ -1718,6 +1739,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||mezczyzna-trendy.pl^
 ||mgid.com^
 ||mieszkania-pokoje-wynajem.pl^
+||mmajerski.pl^
 ||mobiapp-games.com^
 ||mobila.pl^
 ||mobile-app.pl^
@@ -1734,15 +1756,18 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||moviestarplanetcheatstool.com^
 ||moviestarplanethacks.pl^
 ||msphacks.net^
+||mydascoin.pl^
 ||mylocker.pl^
 ||naj-filmy24.pl^
 ||najlepszenarynku.pl^
 ||nameguess.com^
 ||nametests.com^
+||namierz-telefon.com.pl^
 ||namierzanie-telefonu.pl^
 ||napraw-laptopa.waw.pl^
 ||napraw-swojego-laptopa.pl^
 ||naszasa.pl^
+||naszesprawdziany.pl^
 ||netleaders.com^
 ||newmediaz.com^
 ||newpassporn.com^
@@ -1788,11 +1813,13 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||pobierz-ebooki.pl^
 ||pobierz.biz^
 ||pobierzse.pl^
+||pobraniowo.pl^
 ||pogotowie-komputerowe-warszawa.com.pl^
 ||pogotowie-komputerowe24h.warszawa.pl^
 ||pogotowiekomputerowe.net^
 ||pojebol.pl^
 ||pokolorujfb*.glt.pl^
+||pol.boobs-xl.com^
 ||pole-henny.com^
 ||polska-nagroda.com^
 ||powerfactorsaver.com^
@@ -1881,6 +1908,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||supermedia24.pl^
 ||swiatecznybon.pl^
 ||swiatokazji.eu^
+||swiatpobran.pl^
 ||swiezaki.weebly.com^
 ||szaloneupusty.pl^
 ||szamponrevita.pl^
@@ -1903,6 +1931,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||trackgsm.de^
 ||trackgsm.pl^
 ||tracksms.pl^
+||tri-book.pl^
 ||triggerinstalls.com^
 ||trusttastic.com^
 ||turobit.pw^
@@ -1947,6 +1976,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||www.bogata-przyszlosc.com^
 ||www.cichodaje.pl^
 ||www.darmowe-zakupy.com^
+||www.eglobalcentral.pl^
 ||www.fabryka-nagrod.com^
 ||www.fajnefanty.com^
 ||www.geniustrainer.net^
@@ -1969,6 +1999,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||www.oszukacruletke.pl^
 ||www.pieniadze-pieniadze.com^
 ||www.popcornvod.com^
+||www.slawop.net^
 ||www.szalonenagrody.com^
 ||www.szalonepromocje.com^
 ||www.twoj-typ.pl^
@@ -1997,6 +2028,8 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||zalukajfilmy.pl^
 ||zarabiaj-dzis.pl^
 ||zarabiajpieniadze.org^
+||zarabiajwsieci.eu^
+||zarobekok.pl^
 ||zdaj-to.pl^
 ||zmotoryzowani-24.pl^
 ||zmotoryzowani24.pl^
@@ -2004,6 +2037,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||znajdz-numer.pl^
 ||zobacz24.pl^
 ||zostan-zwyciezca.com^
+||zukiewicz.com^
 ||zyski-z-innowacji.pl^
 
 !@Promocja pseudonauki / Fake news
@@ -2041,13 +2075,16 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||livedownloadnet.pl^
 ||mobile-redirection.com^
 ||mobstarr.com^
+||monetizer.info^
 ||myaff.pl^
 ||nu7.pl^
 ||oo.waw.pl^
 ||pliki.pw^
 ||pobieralnia.com.pl^
+||ppl3.pl^
 ||promoferta.pl^
 ||qvjql3e.com^
+||qwer3.pl^
 ||r.xyz1.pl^
 ||rapidsmo.pl^
 ||readyfile.pl^
@@ -2058,7 +2095,10 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||t.app5.pw^
 ||t1ny.in^
 ||tr.spinwin.fun^
+||tyi4.pl^
+||uio7.pl^
 ||uvy3.pl^
+||vcxz.pl^
 ||wap.mobiltek.pl^
 
 !@Szybko wygaszające
@@ -2133,8 +2173,6 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||wniosek-online.co.pl^
 ||wtyczkapodgladacz.bo.pl^
 ||xzegarsmiercix.prv.pl^
-||yadozalamom.pw^
-||yfysudyyymexe.xpg.uol.com.br^
 ||yoyo-zdjecia.bo.pl^
 ||zbierajnagrody.bo.pl^
 ||zegarysmierci.prv.pl^
@@ -2263,6 +2301,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||doladujfona.net^
 ||doladujfona.org^
 ||domniespodzianek.com^
+||downebooks.pl^
 ||downfiles.pl^
 ||download-24.pl^
 ||downloadfiles.pl^
@@ -2278,7 +2317,6 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||ezdownloadpro.info^
 ||failmobile.net^
 ||faktopedia.com.pl^
-||fb-szpieg.com.pl^
 ||fb-view.pl^
 ||fbpodgladacz.wordpress.com^
 ||file-share.pl^
@@ -2290,6 +2328,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||fileengine.org^
 ||filefinder.pl^
 ||filerom.com^
+||files-up.pl^
 ||filescloud.pl^
 ||filesdownloads.pl^
 ||filespeedy.net^
@@ -2423,10 +2462,9 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||pobierz123.pl^
 ||pobierz24.pl^
 ||pobierzgo.pl^
+||pobierzplik.net^
 ||pobierzpliki.net^
 ||pobierzpliki.pl^
-||pobierzteraz.net^
-||pobraniowo*.pl^
 ||polub.co^
 ||pornmania.pl^
 ||profbhack.com^
@@ -2450,7 +2488,6 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||skippyfile.com^
 ||sms4all.pl^
 ||smsiaki.eu^
-||socialappviewer.com.pl^
 ||socialviewapp.com.pl^
 ||soft4click.com^
 ||softsmart.mobi^
@@ -2662,7 +2699,7 @@ fili.cc##a[href^="/download/file"]
 !
 !
 ! Source: https://github.com/Yhonay/antipopads/blob/master/popads.txt
-!@Version: 6669
+!@Version: 6677
 !@Title: Anti popads.net
 !@Licence: WTFPL version 2
 !@Homepage: https://github.com/Yhonay/antipopads
@@ -3990,6 +4027,7 @@ fili.cc##a[href^="/download/file"]
 ||fghtrrasovlsu.com^
 ||fgilgpmoudkzx.bid^
 ||fglwxjklf.com^
+||fgsjjpjhdlfthp.com^
 ||fgvjjulaegidb.com^
 ||fgwsjwiaqtjc.com^
 ||fgxgzjeip.bid^
@@ -5813,6 +5851,7 @@ fili.cc##a[href^="/download/file"]
 ||mdpjnppsbjv.bid^
 ||mdrkqbsirbry.com^
 ||mdsrggcnmybae.bid^
+||mdulmrphzsnvw.com^
 ||mdvrxmzofurvkm.com^
 ||meagjivconqt.com^
 ||mecounxmawn.bid^
@@ -6356,6 +6395,7 @@ fili.cc##a[href^="/download/file"]
 ||ofwznbbxso.com^
 ||ogbamfpcfac.bid^
 ||ogegqayudrypc.bid^
+||ogjascdgq.com^
 ||ogkmakmofd.bid^
 ||ogluyourrvv.com^
 ||ogonhsbjxrxnv.bid^
@@ -6651,6 +6691,7 @@ fili.cc##a[href^="/download/file"]
 ||pminnsodv.com^
 ||pmjnelusn.com^
 ||pmkvqmtjniwtyl.com^
+||pmohsibnim.com^
 ||pmpdqkjio.bid^
 ||pmpeylkaxooynu.bid^
 ||pmpgazgz.bid^
@@ -8655,6 +8696,7 @@ fili.cc##a[href^="/download/file"]
 ||xdcdlfejo.com^
 ||xdiyxgwojtbxft.bid^
 ||xdjeestdoiis.com^
+||xdonzpjglqxi.com^
 ||xdoygumiams.com^
 ||xdqlnidntqmz.com^
 ||xdqoopws.bid^
@@ -8663,6 +8705,7 @@ fili.cc##a[href^="/download/file"]
 ||xdzccbxbmja.bid^
 ||xedwdjnyya.com^
 ||xeeyzkylhgprgx.bid^
+||xeflnvycs.com^
 ||xegavyzkxowj.com^
 ||xegvnhpwytev.com^
 ||xewzazxkmzpc.com^
@@ -9175,6 +9218,7 @@ fili.cc##a[href^="/download/file"]
 ||zggbloudx.com^
 ||zgghentqc.com^
 ||zgobyecdtpfq.bid^
+||zgwuvfye.com^
 ||zgxlwlffm.com^
 ||zgydngnax.bid^
 ||zhabyesrdnvn.com^
@@ -9336,6 +9380,7 @@ fili.cc##a[href^="/download/file"]
 ||zzhgpbovlhinj.com^
 ||zziblxasbl.bid^
 ||zzkrxder.com^
+||zzmyypjedpfxck.com^
 ||zzqnkezokbegc.bid^
 ||zzvjaqnkq.bid^
 ||zzwzjidz.bid^
