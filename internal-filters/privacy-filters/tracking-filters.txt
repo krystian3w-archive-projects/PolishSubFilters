@@ -1,9 +1,8 @@
 ! Source: https://github.com/metaphoricgiraffe/tracking-filters/blob/master/trackingfilters.txt
-! Last Update: 27.07.2018
+! Last Update: 22.08.2018
 ! Title: Privacy filters
 ! Expires: 3 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
-!#if cap_user_stylesheet
 ||lip11t.com
 ||ec.walkme.com/event/log
 ||zendesk.com/api/*/help_center/articles/*/stats
@@ -169,4 +168,3 @@
 ||assets.tumblr.com/images/transparent-pixel.png$image
 ! MEDIUM WHITE LABEL
 ||*.com/_/batch$xmlhttprequest,first-party
-!#endif
