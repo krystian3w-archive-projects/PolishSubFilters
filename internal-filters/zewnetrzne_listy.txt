@@ -11,15 +11,15 @@
 !@Codename: RSS
 !@Description: Filtry blokujące i ukrywające sekcje RSS na polskich stronach.
 !@Używanie Polskich Filtrów RSS jest jednoznaczne ze świadomością co do ich zawartości (co blokują itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika
-!@Last modified: Fri, 17 Aug 2018, 08:42 UTC+02
-!@Version: 201808170842
+!@Last modified: Fri, 24 Aug 2018, 14:54 UTC+02
+!@Version: 201808241454
 !@Expires: 7 days
 !@Support:
 !@  Discord => http://ds.certyficate.it
 !@  Github => https://github.com/PolishFiltersTeam/PolishRSSFilters/issues
 !@License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 !@Copyright © 2018 Polish Filters Team
-!@Aktualizacja: pią, 17 sie 2018, 08:42 UTC+02
+!@Aktualizacja: pią, 24 sie 2018, 14:54 UTC+02
 !
 !
 !@---- GENERAL ELEMENT HIDING RULES --- !
@@ -114,6 +114,7 @@ niezatapialni.com###text-5
 onetech.pl###social
 ozonowanie-powietrza.pl##.art-rss-tag-icon
 pcfaq.pl###rss_icon
+planszowkiwedwoje.pl###HTML7 > .title, [href^="http://planszowki.blogspot.com/feeds/posts/default"]
 policja.pl###social > li:nth-of-type(1)
 polsatsport.pl##.ico-rss
 porozmawiajmyoit.pl##.buzz_rss
@@ -2729,7 +2730,7 @@ fili.cc##a[href^="/download/file"]
 !
 !
 ! Source: https://github.com/Yhonay/antipopads/blob/master/popads.txt
-!@Version: 6694
+!@Version: 6708
 !@Title: Anti popads.net
 !@Licence: WTFPL version 2
 !@Homepage: https://github.com/Yhonay/antipopads
@@ -3161,6 +3162,7 @@ fili.cc##a[href^="/download/file"]
 ||bqscwtvpvugopg.com^
 ||bqyphmwr.bid^
 ||bqytfutmwulr.com^
+||brfyubakyg.com^
 ||brhkraeknmjk.com^
 ||briqsnyafmmkxr.com^
 ||briqumvlvzshh.com^
@@ -3542,6 +3544,7 @@ fili.cc##a[href^="/download/file"]
 ||deouvnqbgflv.com^
 ||deqrdwsjlpjz.com^
 ||derpqpyvym.bid^
+||derqboxqca.com^
 ||dexxxrggi.com^
 ||deyzjaiggwz.com^
 ||dfbtmkwdcajsy.bid^
@@ -3857,6 +3860,7 @@ fili.cc##a[href^="/download/file"]
 ||elsgsgxywj.bid^
 ||eluhhfyxx.com^
 ||elvirvln.com^
+||elwbhndbxfqk.com^
 ||elwwxuigpk.bid^
 ||elxkjyvdo.bid^
 ||elzlogcphhka.com^
@@ -4205,6 +4209,7 @@ fili.cc##a[href^="/download/file"]
 ||ftymjfywuyv.com^
 ||ftymzxmic.com^
 ||ftytssqazcqx.com^
+||fuaawvoqbzza.com^
 ||fubhyuveurmlz.com^
 ||fuckaqunrcjj.bid^
 ||fucrzdux.bid^
@@ -4558,6 +4563,7 @@ fili.cc##a[href^="/download/file"]
 ||hdeiyrdw.bid^
 ||hdimfhptnjgm.bid^
 ||hdmxceunntsy.bid^
+||hdoabbjyyebca.com^
 ||hdweefzvb.bid^
 ||hdwlzheftpin.com^
 ||hdxeyqvfb.bid^
@@ -4578,6 +4584,7 @@ fili.cc##a[href^="/download/file"]
 ||hfgevdzcoocs.com^
 ||hfhhijsewsqn.com^
 ||hfmtqgiqscvg.com^
+||hfslmsbj.com^
 ||hftyrwqjknhzoa.com^
 ||hfyqolbetdprw.bid^
 ||hfzikiht.com^
@@ -4608,6 +4615,7 @@ fili.cc##a[href^="/download/file"]
 ||hixuxtufzqcq.com^
 ||hiypucxjvfka.com^
 ||hjeoncuvklqh.com^
+||hjjdmohuzp.com^
 ||hjnfurphlwsui.bid^
 ||hjopehvzspngi.com^
 ||hjtgpkwppx.bid^
@@ -5074,6 +5082,7 @@ fili.cc##a[href^="/download/file"]
 ||jeakofzseo.com^
 ||jebfktzfjqghv.bid^
 ||jebuorwrqfflzl.com^
+||jecbbkrnfn.com^
 ||jednyqbb.com^
 ||jeeumttalzwt.com^
 ||jeksffryglas.com^
@@ -5365,6 +5374,7 @@ fili.cc##a[href^="/download/file"]
 ||kgvgtudoridc.com^
 ||kgzuerzjysxw.com^
 ||khaklikrt.com^
+||khdmabhykmj.com^
 ||khefhmgfwnnqgv.com^
 ||khexythfkw.com^
 ||khgsbhdw.bid^
@@ -5837,6 +5847,7 @@ fili.cc##a[href^="/download/file"]
 ||lxqoxgijpbmrg.bid^
 ||lxvuwsqp.bid^
 ||lxyjnqpbk.bid^
+||lxymfyptdrast.com^
 ||lyeannqhhf.bid^
 ||lyjcpycaufud.com^
 ||lyovvtevsu.bid^
@@ -6831,6 +6842,7 @@ fili.cc##a[href^="/download/file"]
 ||pviztjecuczh.com^
 ||pvjhglgpil.bid^
 ||pvoplkodbxra.com^
+||pvpqgjkgvszq.com^
 ||pvptwhhkfmog.com^
 ||pvrybwoqcprogc.bid^
 ||pwdmtyzyq.com^
@@ -7121,6 +7133,7 @@ fili.cc##a[href^="/download/file"]
 ||qyzoejyqbqyd.com^
 ||qzadueyzyto.bid^
 ||qzayyghs.bid^
+||qzbnokxxvvpwf.com^
 ||qzcpotzdkfyn.com^
 ||qzpxhebrm.com^
 ||qzpzspna.bid^
@@ -7496,6 +7509,7 @@ fili.cc##a[href^="/download/file"]
 ||slmmjkkvbkyp.com^
 ||sloaltbyucrg.com^
 ||slurolen.com^
+||slwclrwmruuxav.com^
 ||smhqmrxplvnx.com^
 ||smhyvyvnpzigir.com^
 ||smjdypbxapigu.bid^
@@ -8506,6 +8520,7 @@ fili.cc##a[href^="/download/file"]
 ||wgkurvzvd.com^
 ||wglbionuopeh.com^
 ||wgroobsxrnijg.com^
+||wgssxjoac.com^
 ||wgtfdzopmae.com^
 ||wgulihtuzssn.com^
 ||wguuomjdav.com^
