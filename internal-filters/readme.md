@@ -1,5 +1,5 @@
 ```
-https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/internal-filters/wewnetrzne.txt
+https://raw.githubusercontent.com/KonoromiHimaries/PolishSubFilters/master/internal-filters/wewnetrzne.txt
 ```
 
 ```
