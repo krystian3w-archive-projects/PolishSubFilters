@@ -13,6 +13,14 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+buzzed.pl##.g1-sticky-top-wrapper:style(position: static!important;)
+www.rebis.com.pl###background:style(position: static!important;)
+www.rebis.com.pl##.stickyNav.top_bar
+koleo.pl##.hidden.sticky-headers
+www.mblog.boo.pl##.navbar-inverse.navbar:style(position: absolute!important;)
+www.erainformatyki.pl###box-website-header:style(position: static!important;)
+movieneo.com##.navbar-default.navbar:style(position: absolute!important;)
+paradoks.net.pl##.navbar-default.navbar:style(position: absolute!important;)
 www.nieprzeczytane.pl###bStickTopSearch-sticky-wrapper
 blog.pclab.pl###headerwrapper:style(position: static!important;)
 www.intel.pl##.global-menu-simplify:style(position: absolute!important;)
