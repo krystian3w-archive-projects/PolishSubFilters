@@ -2711,7 +2711,7 @@ fili.cc##a[href^="/download/file"]
 !
 !
 ! Source: https://github.com/Yhonay/antipopads/blob/master/popads.txt
-!@Version: 6734
+!@Version: 6740
 !@Title: Anti popads.net
 !@Licence: WTFPL version 2
 !@Homepage: https://github.com/Yhonay/antipopads
@@ -3060,6 +3060,7 @@ fili.cc##a[href^="/download/file"]
 ||bictxzszwkwghn.com^
 ||biftbtajfs.bid^
 ||bihzqdflxeelc.com^
+||bikuetrh.com^
 ||bimwswreljucxa.com^
 ||binasmdul.com^
 ||birpidnl.com^
@@ -3729,6 +3730,7 @@ fili.cc##a[href^="/download/file"]
 ||dzlaodil.com^
 ||dzlpvqbyk.com^
 ||dzmstxov.bid^
+||dzqoubtxsaskdl.com^
 ||dzuklgyo.bid^
 ||dzwagxju.bid^
 ||dzyqqwixizp.com^
@@ -4910,6 +4912,7 @@ fili.cc##a[href^="/download/file"]
 ||invgsoqwtkvxs.bid^
 ||inxhtjrwictg.com^
 ||ioatyggwaypq.com^
+||iogutpkrkkycq.com^
 ||iohyjoomzoufn.bid^
 ||ioighavxylne.com^
 ||ioitfufxdsxtq.bid^
@@ -6257,6 +6260,7 @@ fili.cc##a[href^="/download/file"]
 ||nmtikqygo.com^
 ||nmuwmfgdwpwb.com^
 ||nmxpownvqtc.bid^
+||nmywwgnnkmud.com^
 ||nmzouxbmqghpb.bid^
 ||nnakekwkkh.bid^
 ||nnbestmblotl.com^
@@ -7871,6 +7875,7 @@ fili.cc##a[href^="/download/file"]
 ||tvammzkprvuv.com^
 ||tvbuqvjgqdrfb.bid^
 ||tvesvlvse.com^
+||tvevyrrrnbcbyk.com^
 ||tvexsjvxhb.bid^
 ||tvhyilwkn.com^
 ||tvnetfcgpjq.bid^
@@ -9149,6 +9154,7 @@ fili.cc##a[href^="/download/file"]
 ||ysexxayb.bid^
 ||ysgjivctf.com^
 ||yshsoycsac.com^
+||ysljgoytuyfbg.com^
 ||ysqdjkermxyt.com^
 ||ysrbddieabo.bid^
 ||ysyrcnsb.com^
