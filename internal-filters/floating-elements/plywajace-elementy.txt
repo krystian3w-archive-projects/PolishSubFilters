@@ -13,6 +13,8 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+portal.abczdrowie.pl##.header.top-header:style(position: absolute !important;)
+djoles.pl##.navbar-default.navbar:style(position: absolute!important;)
 buzzed.pl##.g1-sticky-top-wrapper:style(position: static!important;)
 www.rebis.com.pl###background:style(position: static!important;)
 www.rebis.com.pl##.stickyNav.top_bar
@@ -310,7 +312,6 @@ ligaakademicka.pl##.fixed.qodef-fixed-wrapper:style(position: absolute!important
 mmo24.pl###navigation:style(position: static!important;)
 polscygracze.pl###gridlove-header-sticky
 hots24.pl,overwatch.pl,pubg24.pl,gwint24.pl,fonplace.pl,fortnitepolska.pl###sticky-header
-portal.abczdrowie.pl##.header.top-header:style(position: static!important;)
 milanos.pl##.navbar-fixed-top.navbar-default.navbar:style(position: absolute!important;)
 wlkp24.info##.td-header-gradient.td-header-menu-wrap:style(position: static!important;)
 osluzbach.pl###site-navigation:style(position: static!important;)
