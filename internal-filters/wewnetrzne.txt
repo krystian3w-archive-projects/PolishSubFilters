@@ -30,6 +30,9 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+! player, zachęta do rejestracji
+vev.io##.vjs-info-button
+!
 ! tymczasowe, player, nopl
 dramafever.com##.vjs-admarker
 !
