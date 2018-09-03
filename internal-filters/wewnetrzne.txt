@@ -114,7 +114,7 @@ www.tokfm.pl##.tokfm_premium_box
 !& player, logo, auto reklama
 www.cda.pl##.pb-logo
 !
-!& player, fix, zagraniczne
+!& player, fix, nopl
 !> https://github.com/uBlockOrigin/uAssets/issues/2144
 tune.pk##script:inject(abort-on-property-read.js, TuneOverlay)
 !
