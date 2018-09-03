@@ -30,6 +30,9 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+! tymczasowe, player, nopl
+dramafever.com##.vjs-admarker
+!
 ! zewnętrzne, tymczasowe, player
 video.sibnet.ru###vjs-overlayclip-box
 video.sibnet.ru##.vjs-overlayclip-box-close
