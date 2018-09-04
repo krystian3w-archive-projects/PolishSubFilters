@@ -11,15 +11,15 @@
 !@Codename: RSS
 !@Description: Filtry blokujące i ukrywające sekcje RSS na polskich stronach.
 !@Używanie Polskich Filtrów RSS jest jednoznaczne ze świadomością co do ich zawartości (co blokują itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika
-!@Last modified: Sun, 02 Sep 2018, 09:55 UTC+02
-!@Version: 201809020955
+!@Last modified: Tue, 04 Sep 2018, 12:51 UTC+02
+!@Version: 201809041251
 !@Expires: 7 days
 !@Support:
 !@  Discord => http://ds.certyficate.it
 !@  Github => https://github.com/PolishFiltersTeam/PolishRSSFilters/issues
 !@License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 !@Copyright © 2018 Polish Filters Team
-!@Aktualizacja: nie, 02 wrz 2018, 09:55 UTC+02
+!@Aktualizacja: wto, 04 wrz 2018, 12:51 UTC+02
 !
 !
 !@---- GENERAL ELEMENT HIDING RULES --- !
@@ -186,6 +186,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||img.wprost.pl/_i/icon-20-a-soc-rss.png
 ||i.racjonalista.pl/img/rssc.gif
 ||katalogmsp.pl/components/com_sobi2/images/feed.gif
+||kingowiec.pl/data/themes/kingowiec_centralflat/img/i-rss.png
 ||pionki24.pl/images/index_r.png
 ||podsluchane.pl/sdb-rss.png
 ||police24.pl/templates/zp24/images/livemarks.png
@@ -2712,7 +2713,7 @@ fili.cc##a[href^="/download/file"]
 !
 !
 ! Source: https://github.com/Yhonay/antipopads/blob/master/popads.txt
-!@Version: 6773
+!@Version: 6786
 !@Title: Anti popads.net
 !@Licence: WTFPL version 2
 !@Homepage: https://github.com/Yhonay/antipopads
@@ -2778,6 +2779,7 @@ fili.cc##a[href^="/download/file"]
 ||agffpcpi.bid^
 ||agfwzptrqb.bid^
 ||aggntknflhal.com^
+||aggpfmdtzf.com^
 ||agiuvdbcxdirh.com^
 ||agiuzlmavpnlb.com^
 ||aglyzutlhnbtgu.bid^
@@ -2923,6 +2925,7 @@ fili.cc##a[href^="/download/file"]
 ||aubrythgmge.bid^
 ||aueceijyp.bid^
 ||aufyuiavvkf.bid^
+||aultemeztokc.com^
 ||autkmgrbdlbj.com^
 ||avbnzstidjh.com^
 ||avdfcctzwfdk.com^
@@ -3723,6 +3726,7 @@ fili.cc##a[href^="/download/file"]
 ||dxokxbrfl.bid^
 ||dxtveuux.com^
 ||dxurtngzawwe.com^
+||dxzgoyzo.com^
 ||dyazeqpeoykf.com^
 ||dydxtkvmktumjp.com^
 ||dyerbegytfkj.com^
@@ -4025,6 +4029,7 @@ fili.cc##a[href^="/download/file"]
 ||fcjodgfpjiswa.com^
 ||fcveilhtok.com^
 ||fdbqwtqdgcsceh.com^
+||fdbrwxtm.com^
 ||fdbyfnpdcqc.bid^
 ||fddbdlolkxgc.com^
 ||fdeuykfnpdy.com^
@@ -4570,6 +4575,7 @@ fili.cc##a[href^="/download/file"]
 ||hdweefzvb.bid^
 ||hdwlzheftpin.com^
 ||hdxeyqvfb.bid^
+||hdxfyoziizy.com^
 ||heawnqbmsi.bid^
 ||heefwozhlxgz.com^
 ||hefgynqlzwi.com^
@@ -5488,6 +5494,7 @@ fili.cc##a[href^="/download/file"]
 ||krilxjkgttmp.com^
 ||krmuxxubtkrg.com^
 ||krovrhmqgupd.com^
+||krpdqnnb.com^
 ||krsdoqvsmgld.com^
 ||krxexwfnghfu.com^
 ||krxpudrzyvko.com^
@@ -5880,6 +5887,7 @@ fili.cc##a[href^="/download/file"]
 ||maboflgkaxqn.com^
 ||mafndqbvdgkm.com^
 ||magwfymjhils.com^
+||maidlytsnrn.com^
 ||makhhvgdkhwn.com^
 ||malgyhuytbnjb.bid^
 ||mardjxrw.club^
@@ -6383,6 +6391,7 @@ fili.cc##a[href^="/download/file"]
 ||nwrgqhjtullyjs.com^
 ||nwrkyuftlnbzuh.bid^
 ||nwwfnpxxdxjjj.bid^
+||nwwuhiukrq.com^
 ||nwyjcvbazvltas.bid^
 ||nwzawdquu.bid^
 ||nwzexkxx.com^
@@ -7066,6 +7075,7 @@ fili.cc##a[href^="/download/file"]
 ||qpljfpwdpk.com^
 ||qpodgrwu.bid^
 ||qpppobrqizen.com^
+||qpqnbnsnosdss.com^
 ||qpttmgdofkkya.bid^
 ||qqapezviufsh.com^
 ||qqbwymba.com^
@@ -7150,6 +7160,7 @@ fili.cc##a[href^="/download/file"]
 ||qycxhqkddcc.com^
 ||qydpcilzljej.bid^
 ||qyghwcrjaw.bid^
+||qyiiudex.com^
 ||qykxbnflqvjxvk.com^
 ||qynohttywcws.bid^
 ||qysextrlhpoc.bid^
@@ -7210,6 +7221,7 @@ fili.cc##a[href^="/download/file"]
 ||rdkdexupxcfs.com^
 ||rdlynbosndvx.com^
 ||rdmccvanlx.bid^
+||rdooybwcuyg.com^
 ||rdpqiqlirf.com^
 ||rdqyasdstllr.com^
 ||rdvrxbxwxspxd.com^
@@ -7520,6 +7532,7 @@ fili.cc##a[href^="/download/file"]
 ||sjlgoazubflpcs.com^
 ||sjmwugmtfeuu.com^
 ||sjnfgvjizo.bid^
+||sjqpctsz.com^
 ||sjqskcctmv.com^
 ||sjtevvoviqhe.com^
 ||skaulppmndy.bid^
@@ -8849,6 +8862,7 @@ fili.cc##a[href^="/download/file"]
 ||xkbsohnosdmoa.bid^
 ||xkeeqmvs.bid^
 ||xkgitcod.com^
+||xkhxejeaarq.com^
 ||xkotbziugfturl.com^
 ||xkoyfyaqk.com^
 ||xkpogkffibjejj.bid^
