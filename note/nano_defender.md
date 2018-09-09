@@ -46,7 +46,19 @@
 
 2. zainstaluj podane dodatki
 
-3. pamiętaj aby regularnie instalować nowszą wersje dodatku Nano Defender, ponieważ firefox nie obsługuje jego automatycznej aktualizacji
+#### na Firefox Quantum w wersji **mobilnej** ( [działa tylko z ublockiem origin](https://github.com/konoromihimaries/polishsubfilters/blob/master/note/nano_defender.md#aby-zainstalowa%C4%87-nano-defender-z-ublockiem-origin) )
+
+1. wejdź w poniższe linki
+
+<ul>
+
+<code>https://addons.mozilla.org/pl/android/addon/ublock-origin/</code>
+
+<code>https://github.com/LiCybora/NanoDefenderFirefox/releases/</code>
+
+</ul>
+
+2. zainstaluj podane dodatki
 
 ### aby zainstalować nano defender z ublockiem origin
 
