@@ -30,6 +30,10 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+! event, podstrona, konkurs, sponsorowane
+www.elektroda.pl##.bbd
+www.elektroda.pl##.top-post.the-post-list
+!
 ! player, zachęta do rejestracji
 vev.io##.vjs-info-button
 !
