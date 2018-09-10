@@ -1455,8 +1455,8 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 !@Homepage: https://azet12.github.io/KAD
 !@Title: KAD - Przekręty
 !@Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: 28 Aug 2018
-!@Version: 2018082801
+!@Last modified: 9 Sep 2018
+!@Version: 2018090901
 !@Expires: 1 day
 !
 !@Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
@@ -1470,6 +1470,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 
 !@Podejrzane i/lub strony połączone z innymi oszustwami
 ||20pascals.nl^
+||24-fakty.pl^
 ||24hoursready.cf^
 ||2clicksafe.com^
 ||4ksport.pl^
@@ -1503,8 +1504,11 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||areyouabot.net^
 ||areyouahuman.co^
 ||atcofiles.com^
+||atlanticgam.online^
 ||automoney.qtder.com^
 ||automoneygenerator.biz^
+||aveplay.com^
+||aveprize.com^
 ||awarialaptopa.pl^
 ||az27.pl^
 ||b54m4qbmt0b9.com^
@@ -1524,6 +1528,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||bit-coin-trader.com^
 ||bitcoinmillionairepro.com^
 ||biznesplay.biz^
+||blacklinepartners.pl^
 ||blissinstalls.com^
 ||blog-in.biz^
 ||blog.jacekpaciorek.pl^
@@ -1531,6 +1536,9 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||blogonews.com^
 ||bodysecretrevelation.com^
 ||bon-do-marketu.pl^
+||bony-zakupowe.pl^
+||bonydodrogerii.eu^
+||bonyodziezowe.eu^
 ||boobi.biz^
 ||bootstraplugin.com^
 ||botifiles.com^
@@ -1572,6 +1580,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||darmowe-ebooki.com.pl^
 ||darmowe-ebooki.net^
 ||darmowefilmy.eu^
+||das33.io^
 ||dascoin-info.pl^
 ||dascoin.com.ng^
 ||dascoin.com.pl^
@@ -1637,6 +1646,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||exitopolska.com^
 ||expleates.pro^
 ||extragenerators.xyz^
+||f-ads.pl^
 ||f4u.pl^
 ||faceapp.eu^
 ||fasterfiles.net^
@@ -1661,8 +1671,10 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||filmyiseriale.pw^
 ||findgiftcode.com^
 ||firead.org^
+||fireads.online^
 ||fireads.pl^
 ||firebid.pl^
+||firegifts.pl^
 ||firesub.pl^
 ||firrectly.top^
 ||flamefolder.com^
@@ -1688,6 +1700,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||gamezmelt.com^
 ||gamroll.com^
 ||garciniacambogiaactives.pl^
+||gazeta-pl.site^
 ||gazetainfo.pl^
 ||gemverify.com^
 ||generatorkodow.hpu.pl^
@@ -1701,6 +1714,9 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||globalmagazine24.eu^
 ||god.com.pl^
 ||gojiberry500.pl^
+||gokano.com^
+||goldenmark.com^
+||goldsaver.pl^
 ||goodmenonthego.com^
 ||goodsurprises.top^
 ||goswin.info^
@@ -1724,8 +1740,10 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||hitzhita.pl^
 ||hksfa.org^
 ||hohful.com^
+||holdenavenue.pl^
 ||homejailbreak.com^
 ||homevipmall.com^
+||hotokazje.com^
 ||huit.re^
 ||humanverify.net^
 ||i-cda.pl^
@@ -1742,6 +1760,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||instantgiftcodes.com^
 ||instytut-pomocy.pl^
 ||instytutmed.pl^
+||interbuty.pl^
 ||internetowy-sklep.net^
 ||ipzd.pl^
 ||iv24.pl^
@@ -1755,6 +1774,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||jumpers.mobi^
 ||kaie.pl^
 ||kancelariakufieta.pl^
+||karela-sklep.eu^
 ||kartavisa.pl^
 ||keshefoundation.org^
 ||kimera.pl^
@@ -1765,6 +1785,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||klikijuz.com^
 ||kodyrabatowe.16mb.com^
 ||kodyumyslu.pl^
+||konferencje.vantis.pl^
 ||konkursy24.ml^
 ||krdn.pl^
 ||krebsmethod.com^
@@ -1781,15 +1802,18 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||ling.express^
 ||linkdebrideur.xyz^
 ||linkz.it^
+||livioon.com^
 ||lnpush.pl^
 ||longup.co^
 ||lottoland.pl^
 ||loveaholics.com^
 ||lwfjd.today^
 ||maendo.tv^
+||magiskmanager.com^
 ||magviz-secondsz.com^
 ||mangiks.com^
 ||marekporwol.pl^
+||martdiamonds.pl^
 ||masenkotrkr.com^
 ||mazowieckiecentrummedyczne.pl^
 ||mediamax.in.net^
@@ -1856,6 +1880,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||otosponsorki.pl^
 ||paifemouchoa.com^
 ||papla.pl^
+||patterntrader.biz^
 ||pc-data.pl^
 ||pcmban.com^
 ||pcspeedup.com^
@@ -1864,8 +1889,11 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||phytolast.com^
 ||pitbull.ek1.pl^
 ||pl-vouchers.com^
+||pl.fmworld.com^
+||pl.oriflame.com^
 ||pl.superando.net^
 ||plajerek.pl^
+||play-cda.pl^
 ||play-tube.pl^
 ||playfilm.pl^
 ||playgames4u.com^
@@ -1896,6 +1924,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||premium-offers.space^
 ||premiumlinkgenerator.online^
 ||princessmask.pro^
+||private.atlanticgam.es^
 ||prizelava.com^
 ||probolan50.pl^
 ||profitmaximizer.co^
@@ -1906,6 +1935,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||prokino.pl^
 ||promo-max.pl^
 ||promocionesparati.com^
+||provanto.pl^
 ||przyspiesz.pl^
 ||przyspieszkomputer.pl^
 ||psn-code.eu^
@@ -1913,6 +1943,8 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||pynio.pl^
 ||pyracity.info^
 ||qqhacks.net^
+||questraworld.es^
+||questraworld.ru^
 ||quick-eye.pl^
 ||quizzstar.com^
 ||randki-sex.com^
@@ -2013,6 +2045,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||unmillondeutilidades.com^
 ||unverf.com^
 ||updatestar.com^
+||urwijnagrody.pl^
 ||usa.cc^
 ||usunwirusa.pl^
 ||vanssk8hi.pl^
@@ -2028,12 +2061,15 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||vseobuch.ru^
 ||w2mobile.com^
 ||w65.pl^
+||walentynkowyprezent.pl^
 ||warszawski-serwis-laptopow.warszawa.pl^
 ||web-online.pl^
+||wellstar-company.com^
 ||weon.pl^
 ||wielkanagroda.com^
 ||wielkaniespodzianka.pl^
 ||wifiprotector.com^
+||wirtualna-polska.site^
 ||wirtuozseksu.pl^
 ||wizjatv-kody.pl^
 ||wniosek-24h.pl^
@@ -2042,8 +2078,13 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||worldinfoclub.com^
 ||worldoftankscheats.com^
 ||www.a1a.pl^
+||www.amway.com^
+||www.amway.pl^
+||www.avon.com^
+||www.avon.pl^
 ||www.awin.com^
 ||www.bogata-przyszlosc.com^
+||www.cashbackworld.com^
 ||www.cichodaje.pl^
 ||www.darmowe-zakupy.com^
 ||www.dl-server.com^
@@ -2051,6 +2092,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||www.fabryka-nagrod.com^
 ||www.fajnefanty.com^
 ||www.geniustrainer.net^
+||www.globalintergold.com^
 ||www.hostedfiles.net^
 ||www.informacja-dnia.com^
 ||www.jak-szybko-zarobic.com^
@@ -2060,24 +2102,33 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||www.kredytybezbik.eu^
 ||www.lnktime.com^
 ||www.lucyfeed.com^
+||www.lyoness.com^
 ||www.modi4moda.com^
 ||www.moneywin24.com^
 ||www.moviestarplanethack.info^
 ||www.mozebyctwoje.com^
 ||www.mspbooster.com^
+||www.myduolife.com^
+||www.myworld.com^
 ||www.najlepszedlaciebie.com^
+||www.onelife.eu^
 ||www.online-ruletka.pl^
 ||www.oplaca-sie.pl^
+||www.organiclife.com.pl^
 ||www.oszukacruletke.pl^
 ||www.pieniadze-pieniadze.com^
 ||www.popcornvod.com^
+||www.prevalue.pl^
+||www.proventus.com.pl^
 ||www.slawop.net^
 ||www.smart-m-system.com^
+||www.souvre.pl^
 ||www.szalonenagrody.com^
 ||www.szalonepromocje.com^
 ||www.twoj-typ.pl^
 ||www.twoj-voucher.com^
 ||www.twojszczesliwydzien.com^
+||www.vantis-holding.com^
 ||www.videodownloadconverter.com^
 ||www.wytypowany-zwyciezca.com^
 ||www.wytypowany-zwyciezca.pl^
@@ -2102,6 +2153,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||zarabiaj-dzis.pl^
 ||zarabiajpieniadze.org^
 ||zarabiajwsieci.eu^
+||zarabianiefb.club^
 ||zarobekok.pl^
 ||zdaj-to.pl^
 ||zmotoryzowani-24.pl^
@@ -2164,6 +2216,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||stream-online.com.pl^
 ||t1ny.in^
 ||tr.spinwin.fun^
+||track.trackffic.xyz^
 ||tyi4.pl^
 ||uio7.pl^
 ||uvy3.pl^
@@ -2444,6 +2497,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||hotawards.pl^
 ||hothub.pl^
 ||hotprizes.pl^
+||i-chomik.pl^
 ||i-podgladacz.pl^
 ||i4you.pl^
 ||ilovemobi.com^
@@ -2769,7 +2823,7 @@ fili.cc##a[href^="/download/file"]
 !
 !
 ! Source: https://github.com/Yhonay/antipopads/blob/master/popads.txt
-!@Version: 6874
+!@Version: 6897
 !@Title: Anti popads.net
 !@Licence: WTFPL version 2
 !@Homepage: https://github.com/Yhonay/antipopads
@@ -2833,6 +2887,7 @@ fili.cc##a[href^="/download/file"]
 ||afzoyaquhjltdd.com^
 ||agegefpkbll.bid^
 ||agffpcpi.bid^
+||agfqcndiugnr.com^
 ||agfwzptrqb.bid^
 ||aggntknflhal.com^
 ||aggpfmdtzf.com^
@@ -3426,6 +3481,7 @@ fili.cc##a[href^="/download/file"]
 ||cmpkynhhmkni.com^
 ||cmqeojydveotb.bid^
 ||cmqyhtqkhduy.com^
+||cmrppltjs.com^
 ||cmrxvyjyaerf.com^
 ||cmwsdhdyregbyn.bid^
 ||cmyjgtiihmit.bid^
@@ -4442,6 +4498,7 @@ fili.cc##a[href^="/download/file"]
 ||gjjsfchh.bid^
 ||gjvuxnfwsngmux.bid^
 ||gjwqxjqdvtldbh.bid^
+||gkaatcjxwa.com^
 ||gkblyvnioxpd.com^
 ||gkcmxcbmcieykc.com^
 ||gkeahnmvduys.com^
@@ -4645,6 +4702,7 @@ fili.cc##a[href^="/download/file"]
 ||hcggkyhzxzsv.com^
 ||hckmbeebnstnp.bid^
 ||hclccadfmkpw.com^
+||hcqjgkpg.com^
 ||hcrsxbke.com^
 ||hctcdmqp.com^
 ||hcyqwhquqjosn.com^
@@ -4750,6 +4808,7 @@ fili.cc##a[href^="/download/file"]
 ||hnoajsaivjsg.com^
 ||hnopgrab.com^
 ||hnqnftzzytjl.com^
+||hnregzjxsafu.com^
 ||hntpbpeiuajc.com^
 ||hnuhqaslqaqtb.bid^
 ||hnvbfamkwmq.bid^
@@ -5414,6 +5473,7 @@ fili.cc##a[href^="/download/file"]
 ||kadjwdpzxdxd.com^
 ||kahbkhlb.bid^
 ||kallwqgnec.com^
+||kaojrivmhys.com^
 ||kaqtvgcy.bid^
 ||karownxatpbd.com^
 ||katxkxcncwool.com^
@@ -5601,6 +5661,7 @@ fili.cc##a[href^="/download/file"]
 ||ksjjpsjymdekyr.bid^
 ||kslgvaexlw.com^
 ||ksloibpah.com^
+||ksrcnyrntlyfo.com^
 ||ksveztrxudtt.com^
 ||ksxaaoey.bid^
 ||ktbcsulyildmm.com^
@@ -5703,6 +5764,7 @@ fili.cc##a[href^="/download/file"]
 ||kzwddxlpcqww.com^
 ||kzyiepouyib.bid^
 ||kzzqkhxjeytu.com^
+||labdwkqyavb.com^
 ||lacrxqvydzlan.bid^
 ||ladhyjqqgerr.com^
 ||lafvopkskbeuj.bid^
@@ -5991,6 +6053,7 @@ fili.cc##a[href^="/download/file"]
 ||mbflncteg.bid^
 ||mbfvfdkawpoi.com^
 ||mbgvhfotcqsj.com^
+||mbmjqinvsil.com^
 ||mbrxgolis.com^
 ||mbtalhkebpbpwb.com^
 ||mbyponflbv.bid^
@@ -6646,6 +6709,7 @@ fili.cc##a[href^="/download/file"]
 ||olthlikechgq.com^
 ||olwopczjfkng.com^
 ||olxeziuke.com^
+||omakfhugexq.com^
 ||omcozngvtyox.com^
 ||ompzowzfwwfc.com^
 ||omqygrfokyxg.com^
@@ -6695,6 +6759,7 @@ fili.cc##a[href^="/download/file"]
 ||osanmeijvqh.com^
 ||osbblnlmwzcr.com^
 ||osdijxyjdn.bid^
+||oseqbfjtsdz.com^
 ||osevrgzpsu.com^
 ||osewuwcdgfb.bid^
 ||osfipdgo.bid^
@@ -7057,6 +7122,7 @@ fili.cc##a[href^="/download/file"]
 ||qddviluvoq.com^
 ||qdmpxonl.com^
 ||qdpbtrwvmioo.bid^
+||qdpxpnmh.com^
 ||qdqhseenooz.bid^
 ||qdzhsgwj.bid^
 ||qedgufui.bid^
@@ -7192,6 +7258,7 @@ fili.cc##a[href^="/download/file"]
 ||qqapezviufsh.com^
 ||qqbwymba.com^
 ||qqbyfhlctzty.com^
+||qqcbzxwzpmzdcd.com^
 ||qqdnhrkjtmv.bid^
 ||qqfrciwnc.bid^
 ||qqgtevtjnpwd.com^
@@ -7263,6 +7330,7 @@ fili.cc##a[href^="/download/file"]
 ||qwufihkhgxphq.com^
 ||qwvktoqxqum.bid^
 ||qwzhaqtbiygid.com^
+||qxamtnrwxjyy.com^
 ||qxbnmdjmymqa.com^
 ||qxdmmuwiz.bid^
 ||qxekuavasuzgfc.com^
@@ -7629,6 +7697,7 @@ fili.cc##a[href^="/download/file"]
 ||sgmneqaebkzjug.com^
 ||sgpbbfdchy.com^
 ||sgqmhpqrstwzwd.com^
+||shgvuhvf.com^
 ||shhngaasah.com^
 ||shhrbeffgz.com^
 ||shjuivapg.bid^
@@ -7645,6 +7714,7 @@ fili.cc##a[href^="/download/file"]
 ||silrfbopbobw.com^
 ||siogczwibswm.com^
 ||sirablivefbxul.bid^
+||sisrgcvomn.com^
 ||siuhfvgambevyz.bid^
 ||siuletrtmkk.com^
 ||siwtuvvgraum.com^
@@ -7657,6 +7727,7 @@ fili.cc##a[href^="/download/file"]
 ||sjqskcctmv.com^
 ||sjtevvoviqhe.com^
 ||skaulppmndy.bid^
+||skgnompyiusim.com^
 ||skknyxzaixws.com^
 ||sklulpbnbqf.bid^
 ||skoyuoqhcpxol.bid^
@@ -7854,6 +7925,7 @@ fili.cc##a[href^="/download/file"]
 ||tfdssnipmff.com^
 ||tfeywmqsle.com^
 ||tfhqxvakurom.bid^
+||tfijbdegozfh.com^
 ||tflmiurze.bid^
 ||tfmfakhermpr.bid^
 ||tfnzqjjt.bid^
@@ -8265,6 +8337,7 @@ fili.cc##a[href^="/download/file"]
 ||usuanyzr.bid^
 ||usymycvrilyt.com^
 ||uszpxpcoflkl.com^
+||utbclxmcv.com^
 ||utfffrxmzuvy.com^
 ||utjwhrahb.bid^
 ||utlpwxdt.com^
@@ -8294,6 +8367,7 @@ fili.cc##a[href^="/download/file"]
 ||uvstluoomeys.bid^
 ||uvxaafcozjgh.com^
 ||uvyascqbm.bid^
+||uvyfszshvgassp.com^
 ||uwdawnsge.bid^
 ||uwfvuohbac.com^
 ||uwidtpjwh.com^
@@ -8353,6 +8427,7 @@ fili.cc##a[href^="/download/file"]
 ||vagttuyfeuij.com^
 ||vahtbhufjkna.com^
 ||vahufapave.com^
+||vajiyqbb.com^
 ||vaksyrgpkz.com^
 ||vamuglchdpte.com^
 ||vanibwlu.bid^
@@ -8631,6 +8706,7 @@ fili.cc##a[href^="/download/file"]
 ||vywycfxgxqlv.com^
 ||vyycgqgcpes.com^
 ||vyytpvzba.bid^
+||vzhlsmmboaqxlv.com^
 ||vzkrfuzxoh.bid^
 ||vzmnvqiqgxqk.com^
 ||vzozsebg.com^
@@ -8998,6 +9074,7 @@ fili.cc##a[href^="/download/file"]
 ||xkeeqmvs.bid^
 ||xkgitcod.com^
 ||xkhxejeaarq.com^
+||xkjlcqbufdlwrq.com^
 ||xkotbziugfturl.com^
 ||xkoyfyaqk.com^
 ||xkpogkffibjejj.bid^
