@@ -30,6 +30,10 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+! sekcja, podstrona, premium
+!> https://github.com/MajkiIT/polish-ads-filter/issues/8796
+tokfm.pl##[class^="app--podcasts_ad"]
+!
 ! event, podstrona, konkurs, sponsorowane
 www.elektroda.pl##.bbd
 www.elektroda.pl##.top-post.the-post-list
