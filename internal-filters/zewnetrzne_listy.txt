@@ -11,15 +11,15 @@
 !@Codename: RSS
 !@Description: Filtry blokujące i ukrywające sekcje RSS na polskich stronach.
 !@Używanie Polskich Filtrów RSS jest jednoznaczne ze świadomością co do ich zawartości (co blokują itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika
-!@Last modified: Fri, 07 Sep 2018, 23:11 UTC+02
-!@Version: 201809072311
+!@Last modified: Fri, 14 Sep 2018, 19:13 UTC+02
+!@Version: 201809141913
 !@Expires: 7 days
 !@Support:
 !@  Discord => http://ds.certyficate.it
 !@  Github => https://github.com/PolishFiltersTeam/PolishRSSFilters/issues
 !@License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 !@Copyright © 2018 Polish Filters Team
-!@Aktualizacja: pią, 07 wrz 2018, 23:11 UTC+02
+!@Aktualizacja: pią, 14 wrz 2018, 19:13 UTC+02
 !
 !
 !@---- GENERAL ELEMENT HIDING RULES --- !
@@ -46,9 +46,9 @@ blogmtb.pl##.roll4
 blog.avast.com##a.bi-link:nth-of-type(6), .hide-mobile
 bonavita.pl##.jumplist-rss
 bosch-prasa.pl##.WitrynaBoxRssSubscribe
+bydgoszcz.com##[href="https://www.bydgoszcz.com/rss"]
 cashless.pl##.item-184
-centrum.fm##.rss
-channel9.msdn.com##.rss
+centrum.fm,zvami.tv,channel9.msdn.com,debica24.eu##.rss
 comparic.pl###menu-item-264018
 copernicusfestival.com,naukaireligia.pl,filozofiawnauce.pl,copernicuscenter.edu.pl##A[href="/rss.xml"]
 crazynauka.pl###text-5
@@ -96,6 +96,8 @@ kampinoski-pn.gov.pl##.art-layout-cell > .art-post.art-box
 kodeks-drogowy.org###komentarze_nowe_title
 kodi.org.pl##.gk-icon-rss
 kolemsietoczy.pl###menu-sociale > li:nth-child(5)
+korsokolbuszowskie.pl##[href="http://www.korsokolbuszowskie.pl/rss"]
+korsosanockie.pl##[href="http://www.korsosanockie.pl/rss"]
 korso.pl##a[href="http://www.korso.pl/rss"]
 kreskowkazone.pl##.menu:nth-of-type(1) > ul > .menu-li
 krytykapolityczna.pl##a[href="http://krytykapolityczna.pl/rss"]
@@ -128,6 +130,7 @@ programistanaswoim.pl##.widget_custom_html:nth-of-type(3)
 przeglad-finansowy.pl###HTML3 > .widget-content > center
 pswbp.pl##.module-content > a[href^="/index.php/pl"]
 purepc.pl##.foot_03
+radiosochaczew.pl##[href="http://www.radiosochaczew.pl/rss/"]
 rmf24.pl##a[href="#spolecznosc"]
 rmf24.pl##.footer-rss
 rmf.fm###new-footer-icon-rss
@@ -148,11 +151,13 @@ szkolymedyczne.eu###topbar
 tanie-loty.com.pl##.social-links > li:nth-of-type(6)
 telepolis.pl##.big-socials-rss, .col-md-6.col-12 > .justify-content-between.align-items-center.d-flex.section-title
 telesmartfon.pl###meta-3 > ul > li:nth-child(n+2):nth-child(-n+3)
+telewizjazary.pl##[href="http://www.telewizjazary.pl/rss"]
 telko.in##.social li:nth-of-type(3)
 thenews.pl###ctl00_ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_SecondColumn_A_ctl07_ContentDiv > ul > li:nth-of-type(3), span > [href="http://www.thenews.pl/rss"]
 tvn24.pl##.rbox
 tvpogranicze.pl##.sbuttons > li:nth-child(3)
 twoje-seriale.pl##.Syn > ul
+tygodnikoko.pl##[href="http://www.tygodnikoko.pl/rss"]
 tygodnik-rolniczy.pl##a[href="/articles/rss.xml"]
 ubuntu.pl###meta-2 > ul > li:nth-child(n+3):nth-child(-n+4), #atom-links > .dropdown-toggle.dropdown-trigger.nav-link
 ugotuj.to,anetaduk.com,epremki.com,przedsiebiorcy.eu,szczecinek.com,tvpolsat.info,omediach.info##.fa-rss
@@ -2823,7 +2828,7 @@ fili.cc##a[href^="/download/file"]
 !
 !
 ! Source: https://github.com/Yhonay/antipopads/blob/master/popads.txt
-!@Version: 6981
+!@Version: 6989
 !@Title: Anti popads.net
 !@Licence: WTFPL version 2
 !@Homepage: https://github.com/Yhonay/antipopads
@@ -4315,6 +4320,7 @@ fili.cc##a[href^="/download/file"]
 ||fpvfeyjrwlio.com^
 ||fpzxmdjjpphzc.bid^
 ||fqazjwxovxlu.com^
+||fqckdxjgle.com^
 ||fqemzrkwuiaq.bid^
 ||fqesuuyzhxpz.bid^
 ||fqgqosvpodxn.com^
@@ -5502,6 +5508,7 @@ fili.cc##a[href^="/download/file"]
 ||jzbarlrhbicg.com^
 ||jzbskhgpivyl.com^
 ||jzckyzvlxetror.com^
+||jzfzgkepkjcf.com^
 ||jzgtnetghdc.com^
 ||jzigsobgsmxdmr.bid^
 ||jzlzdnvvktcf.com^
@@ -6427,6 +6434,7 @@ fili.cc##a[href^="/download/file"]
 ||newnyqfgkkjht.com^
 ||nfaqnqsfhih.bid^
 ||nfbjwvmndabthb.com^
+||nfbpcvzj.com^
 ||nfdntqlqrgwc.com^
 ||nfefwoasiq.bid^
 ||nfnssadfhxov.com^
@@ -6953,6 +6961,7 @@ fili.cc##a[href^="/download/file"]
 ||phyhggbk.com^
 ||pibizrfgsrkji.bid^
 ||pifaojvaiofw.com^
+||pifsistcwycouc.com^
 ||piljbvnykkt.bid^
 ||pixjqfvlsqvu.com^
 ||piyzmkcxa.bid^
@@ -7640,6 +7649,7 @@ fili.cc##a[href^="/download/file"]
 ||ruijovxeffglgo.bid^
 ||rulgltvmpzig.com^
 ||runwtxeisppmt.com^
+||ruodzaboyf.com^
 ||ruoypiedfpov.com^
 ||ruqckzdjsoe.bid^
 ||rurjxaovebr.bid^
@@ -8129,6 +8139,7 @@ fili.cc##a[href^="/download/file"]
 ||tqcxtxglt.com^
 ||tqdarrhactqc.com^
 ||tqixovpneycfmk.com^
+||tqlypenbt.com^
 ||tqmricveyxphfo.com^
 ||tqpkegddso.com^
 ||tqrtxfqvcxkjiv.com^
@@ -8943,6 +8954,7 @@ fili.cc##a[href^="/download/file"]
 ||wnzzxwysay.com^
 ||woaoqgpq.bid^
 ||woetwakv.bid^
+||woghqyjpiwddme.com^
 ||wohuuwfektlppp.bid^
 ||wolhopys.bid^
 ||wonvagfv.bid^
@@ -9185,6 +9197,7 @@ fili.cc##a[href^="/download/file"]
 ||xmwqbnrbvghq.bid^
 ||xnlxpsbs.com^
 ||xnmphtmerao.bid^
+||xnnbvckd.com^
 ||xnqlhbddabfsy.com^
 ||xnuuzwthzaol.com^
 ||xnvsheyceyjv.com^
