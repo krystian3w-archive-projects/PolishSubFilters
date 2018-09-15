@@ -1,8 +1,6 @@
-!#if cap_user_stylesheet
 !#include piperun-filters/iploggerwhitelist.txt
 !#include privacy-filters/olegwukr-filters.txt
 !#include privacy-filters/tracking-filters.txt
-!#endif
 !
 !
 ! Source: https://github.com/PolishFiltersTeam/PolishRSSFilters/blob/master/polish_rss_filters.txt
