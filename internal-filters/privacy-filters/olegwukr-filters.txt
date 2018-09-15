@@ -1,10 +1,11 @@
 ! Source: https://github.com/olegwukr/polish-privacy-filters/blob/master/adblock.txt
 ! Last Update: 11.08.2018
 !
+! Checksum: F6e0xSe8vc1LvQTKMz+xeQ
 ! Title: Polish Privacy Filters
 ! Last modified: 6 August 2018
 ! Expires: 3 days
-! Version: 2018080602
+! Version: 20180915
 ! Support:
 !   Github >> https://github.com/olegwukr/polish-privacy-filters/issues
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
