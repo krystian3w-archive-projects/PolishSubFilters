@@ -30,34 +30,37 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
-! sekcja, podstrona, premium
+!& sekcja, podstrona, zewnętrzne, ad, wychodzące
+mirrorace.com##.uk-card-body > .uk-text-center.uk-margin-bottom
+!
+!& sekcja, podstrona, premium
 !> https://github.com/MajkiIT/polish-ads-filter/issues/8796
 tokfm.pl##[class^="app--podcasts_ad"]
 !
-! event, podstrona, konkurs, sponsorowane
+!& event, podstrona, konkurs, sponsorowane
 www.elektroda.pl##.bbd
 www.elektroda.pl##.top-post.the-post-list
 !
-! player, zachęta do rejestracji
+!& player, zachęta do rejestracji
 vev.io##.vjs-info-button
 !
-! tymczasowe, player, nopl
+!& tymczasowe, player, nopl
 dramafever.com##.vjs-admarker
 !
-! zewnętrzne, tymczasowe, player
+!& zewnętrzne, tymczasowe, player
 video.sibnet.ru###vjs-overlayclip-box
 video.sibnet.ru##.vjs-overlayclip-box-close
 !
-! nudyzm
+!& nudyzm
 ||avatarsb.dpcdn.pl/imgd/Avatar/523762/$image
 !
-! konkurs, podstrona, przycisk
+!& konkurs, podstrona, przycisk
 www.legalnakultura.pl###konkursy-plugin-container
 !
-! player, logo
+!& player, logo
 estream.to##.fp-logo
 !
-! no-pl, fix, wh, nsfw, f: awrl + ufp
+!& no-pl, fix, wh, nsfw, f: awrl + ufp
 porndig.com#@#.noadblock
 !
 !& dm, ulepszenie, player
