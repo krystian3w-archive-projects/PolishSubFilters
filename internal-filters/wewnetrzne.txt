@@ -30,6 +30,9 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+!& dopasowanie, kosmetyczne
+szukajka.tv##body > .iframe:style(height:calc(187%)!important;)
+!
 !& sekcja, podstrona, zewnętrzne, ad, wychodzące
 mirrorace.com##.uk-card-body > .uk-text-center.uk-margin-bottom
 !
