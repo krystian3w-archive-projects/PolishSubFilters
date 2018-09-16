@@ -13,6 +13,11 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+szukajka.tv##.fix:style(position: absolute !important;)
+szukajka.tv##header:style(position: absolute!important;)
+olszanowska.pl##.navbar-default.navbar:style(position: absolute !important;)
+estradaistudio.pl##header:style(position: static!important;)
+tvs.pl###main-nav:style(position: static!important;)
 portal.abczdrowie.pl##.header.top-header:style(position: absolute !important;)
 djoles.pl##.navbar-default.navbar:style(position: absolute!important;)
 buzzed.pl##.g1-sticky-top-wrapper:style(position: static!important;)
@@ -682,15 +687,10 @@ www.money.pl###fixedHeader
 !audioteka.com##[class^="page-head page-head--sticky"]:style(position: static!important;)
 !
 !
-!2$----------------------{ stopki }----------------------!
+!2$----------------------{ flanki }----------------------!
 !
-interia.pl##.recommend-flybar-block
-alltube.pl,alltube.tv##.navbar-fixed-bottom.navbar:style(position: relative!important;)
-funhub.pl##.footer-hi.wrapper:style(position: static!important;)
-!
-!
-!3$----------------------{ flanki }----------------------!
-!
+tvs.pl##.theiaStickySidebar:style(position: static!important;)
+szukajka.tv##.side:style(position: absolute !important;)
 www.petycjeonline.com###signature_form_column:style(position: static!important;)
 www.polsatnews.pl###stickyColumn:style(position: static!important;)
 www.gierkionline.pl###sidebar:style(position: static!important;)
@@ -713,8 +713,17 @@ www.dobreprogramy.pl##.sticky.non-gfx-list.block:style(position: static!importan
 www.dobreprogramy.pl##.sticky.blog-list.block:style(position: static!important;)
 !
 !
+!3$----------------------{ stopki }----------------------!
+!
+szukajka.tv##footer
+interia.pl##.recommend-flybar-block
+alltube.pl,alltube.tv##.navbar-fixed-bottom.navbar:style(position: relative!important;)
+funhub.pl##.footer-hi.wrapper:style(position: static!important;)
+!
+!
 !4$----------------------{ przyciski }----------------------!
 !
+qoob.name###glt-translate-trigger:style(position: absolute!important;)
 forum.shinden.pl###styliumSetting:style(position: absolute!important;)
 www.dobreprogramy.pl###topSocial:style(position: static!important;)
 www.kurshtml.edu.pl###kategoria_html:style(position: absolute!important;)
