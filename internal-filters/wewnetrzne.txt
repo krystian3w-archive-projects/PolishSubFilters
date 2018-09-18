@@ -30,10 +30,13 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
-! player, nie-powiązane
+!& przycisk, premium, double, podstrona
+www.deezer.com##.topbar-entrypoints.popper-wrapper
+!
+!& player, nie-powiązane
 www.dobreprogramy.pl##.centerhack
 !
-! premium, podstrona
+!& premium, podstrona
 www.cda.pl##.pb-context-body
 !
 !& dopasowanie, kosmetyczne
@@ -89,10 +92,10 @@ www.youtube.com##.html5-video-player:not(.ytp-fullscreen) .ytp-chrome-controls:s
 www.youtube.com##.html5-video-player.ytp-fullscreen .ytp-progress-bar-container:style(position: relative!important; top: 32px!important;)
 www.youtube.com##.html5-video-player.ytp-fullscreen .ytp-chrome-controls:style(position: relative!important; top: -30px!important;)
 !
-! pusta sekcja, ogólne, zewnętrzne
+!& pusta sekcja, ogólne, zewnętrzne
 mserwery.pl##.container > div.panel-default.panel:nth-of-type(1), .container > div.panel-default.panel:nth-of-type(3)
 !
-! a-o.ninja
+!& a-o.ninja
 a-o.ninja##.clearfix.block-search.block:nth-of-type(n+3):nth-of-type(-n+4)
 a-o.ninja##.block-search.block:nth-of-type(5)
 a-o.ninja##.col-sm-9 > p:nth-of-type(n+1):nth-of-type(-n+2)
@@ -107,7 +110,7 @@ a-o.ninja##.header:style(height:calc(100%)!important;)
 a-o.ninja##[href^="https://e-neko.pl/"]
 a-o.ninja##.leaf:nth-of-type(12)
 !
-! baner, podstrona, polecane
+!& baner, podstrona, polecane
 www.gry.jeja.pl##div.game-box-down:nth-of-type(3)
 !
 !& tymczasowe, zewnętrzne, polecane
@@ -231,7 +234,7 @@ moyastacja.pl##.bannerSingle:nth-of-type(2)
 !
 !3$----------------------{ sklepy }----------------------!
 !
-! podstrona, post, lokowanie
+!& podstrona, post, lokowanie
 !> https://github.com/MajkiIT/polish-ads-filter/issues/8291
 ###post_id_ > .post_wrap:has-text(KFD)
 !
