@@ -1,4 +1,4 @@
-! Checksum: /0oHh7CfQZKxbtQ7ZW8p+w
+! Checksum: CDcMuYaeT0zIFLD2G0sKhA
 ! Title: Polskie Filtry Wewnętrzne
 ! Collaborators: KonoromiHimaries, hawkeye116477
 ! Oświadczenie: https://github.com/MajkiIT/polish-ads-filter/blob/master/STATEMENT.md
