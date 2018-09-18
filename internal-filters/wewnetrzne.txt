@@ -30,6 +30,9 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+! player, nie-powiązane
+www.dobreprogramy.pl##.centerhack
+!
 ! premium, podstrona
 www.cda.pl##.pb-context-body
 !
