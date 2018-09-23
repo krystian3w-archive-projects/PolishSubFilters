@@ -30,6 +30,9 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+!& podstrona, promo
+www.helloangielski.pl###text-69
+!
 !& przycisk, premium, double, podstrona
 www.deezer.com##.topbar-entrypoints.popper-wrapper
 !
