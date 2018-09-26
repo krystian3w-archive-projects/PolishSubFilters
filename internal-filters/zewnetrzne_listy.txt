@@ -9,15 +9,15 @@
 !@Codename: RSS
 !@Description: Filtry blokujące i ukrywające sekcje RSS na polskich stronach.
 !@Używanie Polskich Filtrów RSS jest jednoznaczne ze świadomością co do ich zawartości (co blokują itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika
-!@Last modified: Fri, 14 Sep 2018, 19:13 UTC+02
-!@Version: 201809141913
+!@Last modified: Tue, 25 Sep 2018, 19:34 UTC+02
+!@Version: 201809251934
 !@Expires: 7 days
 !@Support:
 !@  Discord => http://ds.certyficate.it
 !@  Github => https://github.com/PolishFiltersTeam/PolishRSSFilters/issues
 !@License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 !@Copyright © 2018 Polish Filters Team
-!@Aktualizacja: pią, 14 wrz 2018, 19:13 UTC+02
+!@Aktualizacja: wto, 25 wrz 2018, 19:34 UTC+02
 !
 !
 !@---- GENERAL ELEMENT HIDING RULES --- !
@@ -64,6 +64,7 @@ emea.flow.microsoft.com##.c-hyperlink[title="RSS"]
 energa-operator.pl###footmenu-item-4
 epremki.com##li:nth-of-type(3) > a[href^="https://epremki.com/misc.php"]
 eurogamer.pl##[href="/rss"]
+exsites.pl##a[title="RSS"]
 farmer.pl##.greyBox
 film.com.pl,smaki.pl##.stay-updated
 florydziak.com###float_feed_box
@@ -113,6 +114,7 @@ nask.pl##li:nth-of-type(4) > .icon-kropka
 naszpradnik.pl##.menu-social-feed
 niebezpiecznik.pl###text-3 > .textwidget > p, .feed
 niezatapialni.com###text-5
+ock.gov.pl,straz.gov.pl##.col-xs-6.col-sm-6.col-md-2.col-lg-2 > h2
 onetech.pl###social
 ozonowanie-powietrza.pl##.art-rss-tag-icon
 pcfaq.pl###rss_icon
@@ -2826,7 +2828,7 @@ fili.cc##a[href^="/download/file"]
 !
 !
 ! Source: https://github.com/Yhonay/antipopads/blob/master/popads.txt
-!@Version: 7126
+!@Version: 7140
 !@Title: Anti popads.net
 !@Licence: WTFPL version 2
 !@Homepage: https://github.com/Yhonay/antipopads
@@ -3560,6 +3562,7 @@ fili.cc##a[href^="/download/file"]
 ||cqhxrlnhzlda.com^
 ||cqieqaxlphdi.com^
 ||cqindhgqi.com^
+||cqjnxsbuplcqri.com^
 ||cqoxufzgev.bid^
 ||cqoyvpldkmqt.com^
 ||cqskvtpeqcp.bid^
@@ -3701,6 +3704,7 @@ fili.cc##a[href^="/download/file"]
 ||deebwmbbytr.com^
 ||degitlwfezpe.com^
 ||dehyogsjbk.bid^
+||deiqehvcdnntg.com^
 ||deouvnqbgflv.com^
 ||deqrdwsjlpjz.com^
 ||dergevqzqi.com^
@@ -4707,6 +4711,7 @@ fili.cc##a[href^="/download/file"]
 ||gwasavfgelbuah.bid^
 ||gwqkliacsn.bid^
 ||gwquuagkjxbq.com^
+||gwxaulcgmizcq.com^
 ||gxdyluyqciac.com^
 ||gxfzlnwlizmur.com^
 ||gxgtmttcaofiq.com^
@@ -5150,6 +5155,7 @@ fili.cc##a[href^="/download/file"]
 ||ilupcgzhagwb.com^
 ||iluwjbuwm.com^
 ||ilvibsabwuza.com^
+||imidshmpzr.com^
 ||imisagsrbci.com^
 ||immgnzenbixuzd.bid^
 ||imnsmvmjrdiwwr.com^
@@ -5220,6 +5226,7 @@ fili.cc##a[href^="/download/file"]
 ||itbiwlsxtigx.com^
 ||itdfougdewupfd.bid^
 ||itgfqliqge.com^
+||itlmnxlauah.com^
 ||itsskxyyi.bid^
 ||itsyuvrlesq.com^
 ||iuabiwhclldt.com^
@@ -5901,6 +5908,7 @@ fili.cc##a[href^="/download/file"]
 ||lcnvxuipvq.bid^
 ||lcpqoewrzuxh.com^
 ||lcrdolxjoxxlr.com^
+||lcsgdwlxrlgq.com^
 ||lcuprkufusba.com^
 ||lcyncwbacrgz.com^
 ||ldbgrugl.bid^
@@ -7547,6 +7555,7 @@ fili.cc##a[href^="/download/file"]
 ||rbrnmvfiambn.bid^
 ||rbrxrcikro.com^
 ||rbsfglbipyfs.com^
+||rbtpsbtzh.com^
 ||rbuowrinsjsx.com^
 ||rbvfibdsouqz.com^
 ||rcappkszvgwxx.com^
@@ -7565,6 +7574,7 @@ fili.cc##a[href^="/download/file"]
 ||rdfpnzisjyiwtu.com^
 ||rdgsjybsyjj.com^
 ||rdikvendxamg.com^
+||rdizmyst.com^
 ||rdkcwothcygu.bid^
 ||rdkdexupxcfs.com^
 ||rdlynbosndvx.com^
@@ -7578,6 +7588,7 @@ fili.cc##a[href^="/download/file"]
 ||regbigltd.bid^
 ||rejbqhagczm.com^
 ||repefwairfkx.com^
+||rereghpaz.com^
 ||rertazmgduxp.com^
 ||rezbzvrbemeb.bid^
 ||rezfubngrzdet.bid^
@@ -7696,6 +7707,7 @@ fili.cc##a[href^="/download/file"]
 ||rptdyukab.bid^
 ||rpulxcwmnuxi.com^
 ||rqgrdrqs.com^
+||rqigvkwoqafpjz.com^
 ||rqjgepzyowyr.com^
 ||rqmlurpad.bid^
 ||rqsndrkezz.com^
@@ -8095,6 +8107,7 @@ fili.cc##a[href^="/download/file"]
 ||tdxuojiufz.bid^
 ||teefpagayhb.com^
 ||tefwraudu.bid^
+||tepazmynhvo.com^
 ||teqceeivmpvv.com^
 ||tevrzjuymzxpk.bid^
 ||tewoutrepozv.bid^
@@ -9254,6 +9267,7 @@ fili.cc##a[href^="/download/file"]
 ||xgznkebnjme.com^
 ||xgzybmbwfmjd.com^
 ||xhewunoklug.com^
+||xhlrlyygx.com^
 ||xhmakwcpmg.bid^
 ||xhvhisywkvha.com^
 ||xhwqginopocs.com^
@@ -9708,8 +9722,10 @@ fili.cc##a[href^="/download/file"]
 ||yzreywobobmw.com^
 ||yzuezvrahok.com^
 ||yzuzfvlzi.com^
+||yzyalgnxo.com^
 ||yzzmcxnlvyymt.com^
 ||zaaireapylyr.com^
+||zaattuotjbkj.com^
 ||zacbwfgqvxan.com^
 ||zacqkexd.com^
 ||zaczpeabsygpdz.bid^
