@@ -13,6 +13,8 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+failtube.pl##nav:style(position: absolute!important;)
+www.komputerswiat.pl###pageHeader:style(position: absolute!important;)
 szukajka.tv##.fix:style(position: absolute !important;)
 szukajka.tv##header:style(position: absolute!important;)
 olszanowska.pl##.navbar-default.navbar:style(position: absolute !important;)
