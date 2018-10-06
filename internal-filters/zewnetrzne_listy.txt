@@ -2758,7 +2758,7 @@ fili.cc##a[href^="/download/file"]
 !
 !
 ! Source: https://github.com/Yhonay/antipopads/blob/master/popads.txt
-!@Version: 5764
+!@Version: 5785
 !@Title: Anti popads.net
 !@Licence: WTFPL version 2
 !@Homepage: https://github.com/Yhonay/antipopads
@@ -3175,6 +3175,7 @@ fili.cc##a[href^="/download/file"]
 ||bktrlzpxcft.bid^
 ||bkuzcrcdh.bid^
 ||bkvrdeiqtgan.bid^
+||bkvwnbkq.com^
 ||bkxkodsmrnqd.com^
 ||blcmacswwmqv.com^
 ||blkivkplpn.com^
@@ -3471,6 +3472,7 @@ fili.cc##a[href^="/download/file"]
 ||cnuxnqgjkjqmky.bid^
 ||cnyblliqyhcs.bid^
 ||cnygzgurqpwop.bid^
+||cofybuwuc.com^
 ||cogxsnvqesph.com^
 ||cohhcaahxxcf.com^
 ||coiphezlzpl.bid^
@@ -3554,6 +3556,7 @@ fili.cc##a[href^="/download/file"]
 ||cuvbcwgenwytrk.bid^
 ||cuxsmovh.bid^
 ||cvffhevoebnz.com^
+||cvhcrbbbfaa.com^
 ||cvhpuccaib.bid^
 ||cvnmmeux.com^
 ||cvwipkjyu.bid^
@@ -4547,6 +4550,7 @@ fili.cc##a[href^="/download/file"]
 ||gmfestfc.com^
 ||gmnozoruyfy.bid^
 ||gmnxupczjmecj.bid^
+||gmquualzdmqtxp.com^
 ||gnadhzstittd.com^
 ||gnaizrodp.com^
 ||gncfttutoiwwq.com^
@@ -4632,6 +4636,7 @@ fili.cc##a[href^="/download/file"]
 ||gtfbvxlmev.com^
 ||gthrdhxhwdt.bid^
 ||gtmonytxxglu.com^
+||gtorsoxdh.com^
 ||gttrngwnuuvy.bid^
 ||gtvnygwfzrhfti.com^
 ||gtxfafvoohbc.com^
@@ -4743,6 +4748,7 @@ fili.cc##a[href^="/download/file"]
 ||hdimfhptnjgm.bid^
 ||hdmxceunntsy.bid^
 ||hdoabbjyyebca.com^
+||hduefoyd.com^
 ||hdweefzvb.bid^
 ||hdwlzheftpin.com^
 ||hdxeyqvfb.bid^
@@ -4770,6 +4776,7 @@ fili.cc##a[href^="/download/file"]
 ||hfyqolbetdprw.bid^
 ||hfzikiht.com^
 ||hgbxmqyqoplpif.com^
+||hgdmzshm.com^
 ||hgdovdnd.com^
 ||hgezwkouu.bid^
 ||hgfgzqwbjnebd.com^
@@ -4874,6 +4881,7 @@ fili.cc##a[href^="/download/file"]
 ||hpmgdwvvqulp.com^
 ||hpnthbgdv.bid^
 ||hpqxznpb.bid^
+||hpsthxyqxqae.com^
 ||hpufwccrmiwz.com^
 ||hpvxmmttf.bid^
 ||hpxbifcd.com^
@@ -5193,6 +5201,7 @@ fili.cc##a[href^="/download/file"]
 ||itlmnxlauah.com^
 ||itsskxyyi.bid^
 ||itsyuvrlesq.com^
+||itzgybxfrbodq.com^
 ||iuabiwhclldt.com^
 ||iuewancpgd.bid^
 ||iuhzosuy.club^
@@ -5290,6 +5299,7 @@ fili.cc##a[href^="/download/file"]
 ||jcwejhrrch.bid^
 ||jcytzfvrm.bid^
 ||jczpcviiurut.bid^
+||jdbovkzjtuup.com^
 ||jdbzloynedpylr.bid^
 ||jdcwnccdx.com^
 ||jdgilrlyqtrly.com^
@@ -5458,6 +5468,7 @@ fili.cc##a[href^="/download/file"]
 ||jqleeknw.com^
 ||jqmcbepfjgks.com^
 ||jqojocdbjpdyk.bid^
+||jqsrfzjgn.com^
 ||jqtftqnkhsw.bid^
 ||jqtsknmobyw.com^
 ||jqtwygdajic.com^
@@ -6161,6 +6172,7 @@ fili.cc##a[href^="/download/file"]
 ||mbflncteg.bid^
 ||mbfvfdkawpoi.com^
 ||mbgvhfotcqsj.com^
+||mbixofultnnd.com^
 ||mbmjqinvsil.com^
 ||mbrxgolis.com^
 ||mbtalhkebpbpwb.com^
@@ -6377,6 +6389,7 @@ fili.cc##a[href^="/download/file"]
 ||mtklywkg.com^
 ||mtlieuvyoikf.com^
 ||mtmzmcztix.com^
+||mtnobdfcgylhuj.com^
 ||mtnysmosgmp.bid^
 ||mtpjldykpuhnmg.bid^
 ||mttyfwtvyumc.com^
@@ -6440,6 +6453,7 @@ fili.cc##a[href^="/download/file"]
 ||mznijqwjkqadk.com^
 ||mzqxeqrmgzxv.com^
 ||mzrhjbbikqm.com^
+||mzzouiciajems.com^
 ||naaifqdqsnxtsp.com^
 ||nahvyfyfpffm.com^
 ||namjixxurjam.com^
@@ -7220,6 +7234,7 @@ fili.cc##a[href^="/download/file"]
 ||pxzacgmr.com^
 ||pycvhwxtqhknb.com^
 ||pydpcqjenhjx.com^
+||pyhtclpgzbe.com^
 ||pyjjxogzlzcxii.bid^
 ||pykexoeeibq.com^
 ||pyscgael.bid^
@@ -7881,6 +7896,7 @@ fili.cc##a[href^="/download/file"]
 ||sfmzbrdtse.com^
 ||sfmziexfvvru.com^
 ||sfpkwhncpllt.com^
+||sfrsuihcubepzd.com^
 ||sfzcbcrwxhic.com^
 ||sfzfjiefentwe.com^
 ||sgccsauvct.bid^
@@ -8323,6 +8339,7 @@ fili.cc##a[href^="/download/file"]
 ||tuxdipdej.com^
 ||tuxphjbzmjfuh.com^
 ||tuxzictbrqietq.com^
+||tuzmouxn.com^
 ||tuzutvisi.com^
 ||tuzvjlqrpzpugj.com^
 ||tuzyaezlaoju.bid^
@@ -8391,6 +8408,7 @@ fili.cc##a[href^="/download/file"]
 ||uafgymcern.com^
 ||ualobhbpjbjtm.bid^
 ||uamfjudim.bid^
+||uanomwcxixed.com^
 ||uaxdkesuxtvu.com^
 ||uazyqjztrhi.bid^
 ||ubazpxeafwjr.com^
@@ -8515,6 +8533,7 @@ fili.cc##a[href^="/download/file"]
 ||umzrccpfbnuu.com^
 ||uncumlzowtkn.com^
 ||unewqmemh.bid^
+||uqihbnpqtwwzdv.com^
 ||usvgzajftrzkr.com^
 ||vfnemtpehzmzwc.com^
 ||vhdvllhgyrjy.com^
@@ -8526,7 +8545,9 @@ fili.cc##a[href^="/download/file"]
 ||wubdkryfkr.com^
 ||xqtymopje.com^
 ||xzwynraczfcq.com^
+||xzywlbgldmpi.com^
 ||ygngaqihz.com^
 ||zcczlrtbbx.com^
 ||zsikmzoehqw.com^
 ||zukipoayrlh.com^
+||zxbzuyuifdqj.com^
