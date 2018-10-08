@@ -1,3 +1,0 @@
-f:
----
-listy filtrów
