@@ -30,6 +30,24 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+!& czasem się buguje
+fili.cc##.blo
+!
+!& logo, player, wew.
+www.yourupload.com##.jw-logo-bottom-left.jw-logo
+!
+!& player, ikony, zbugowane
+vidoza.net##.vjs-topbar
+!
+!& fix, zbugowane, easyprivacy
+@@*$xmlhttprequest,domain=alltube.pl|alltube.tv
+!
+!& non-content, polecane, zew.
+alltube.pl,alltube.tv##.text-center > [href="http://failtube.pl"]
+!
+!& dopasowanie, kosmetyczne
+szukajka.tv##body > .iframe:style(height:calc(122%)!important;)
+!
 !& podstrona, promo
 www.helloangielski.pl###text-69
 !
@@ -41,9 +59,6 @@ www.dobreprogramy.pl##.centerhack
 !
 !& premium, podstrona
 www.cda.pl##.pb-context-body
-!
-!& dopasowanie, kosmetyczne
-szukajka.tv##body > .iframe:style(height:calc(187%)!important;)
 !
 !& sekcja, podstrona, zewnętrzne, ad, wychodzące
 mirrorace.com##.uk-card-body > .uk-text-center.uk-margin-bottom
