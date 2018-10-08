@@ -9,15 +9,15 @@
 !@Codename: RSS
 !@Description: Filtry blokujące i ukrywające sekcje RSS na polskich stronach.
 !@Używanie Polskich Filtrów RSS jest jednoznaczne ze świadomością co do ich zawartości (co blokują itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika
-!@Last modified: Wed, 03 Oct 2018, 09:06 UTC+02
-!@Version: 201810030906
+!@Last modified: Mon, 08 Oct 2018, 12:57 UTC+02
+!@Version: 201810081257
 !@Expires: 7 days
 !@Support:
 !@  Discord => http://ds.certyficate.it
 !@  Github => https://github.com/PolishFiltersTeam/PolishRSSFilters/issues
 !@License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 !@Copyright © 2018 Polish Filters Team
-!@Aktualizacja: śro, 03 paź 2018, 09:06 UTC+02
+!@Aktualizacja: pon, 08 paź 2018, 12:57 UTC+02
 !
 !
 !@---- GENERAL ELEMENT HIDING RULES --- !
@@ -32,6 +32,7 @@ pl##.rss-button
 40ton.net##.clearfix.sidebar-box:nth-of-type(6)
 agora.pl##a[href^="/rss"]
 alilove.pl##.td-icon-rss
+altair.com.pl##.icoRSS
 anyforum.pl##.rs.sicon
 astronomia24.com##.smGlobalBtn.rssBtn
 a-o.ninja##li:nth-of-type(4) > a[href^="https://a-o.ninja/forum/misc.php"]
@@ -142,6 +143,7 @@ sadownictwo.com.pl###socialBox > a:nth-child(6)
 silesiasem.pl###text-6
 skijumping.pl###addition-menu > a:last-child
 skyup.pl##.bradius-fifty.trns-normal.rs.sicon
+slawomirambroziak.pl##a[href="https://slawomirambroziak.pl/feed/"]
 sledzimykonkursy.pl##a[href="http://www.sledzimykonkursy.pl/rss"]
 slodkastrona.com###Subscribe2
 slomski.us###text-4
@@ -2758,7 +2760,7 @@ fili.cc##a[href^="/download/file"]
 !
 !
 ! Source: https://github.com/Yhonay/antipopads/blob/master/popads.txt
-!@Version: 5793
+!@Version: 5796
 !@Title: Anti popads.net
 !@Licence: WTFPL version 2
 !@Homepage: https://github.com/Yhonay/antipopads
@@ -5072,6 +5074,7 @@ fili.cc##a[href^="/download/file"]
 ||igwzuwwtvnywx.com^
 ||igyzmhqbihoi.com^
 ||ihcamesgexiv.com^
+||ihcbfiqkp.com^
 ||ihdrozswbekx.com^
 ||ihfktkrasg.bid^
 ||ihflwxrsptqz.com^
@@ -5082,6 +5085,7 @@ fili.cc##a[href^="/download/file"]
 ||ihqxhokndcfq.com^
 ||ihriduffgkel.com^
 ||ihtatthazitg.bid^
+||ihvmcqojoj.com^
 ||ihzdrktzyrzq.bid^
 ||iialqejeka.com^
 ||iiblzgczrrdiqf.bid^
@@ -8552,6 +8556,7 @@ fili.cc##a[href^="/download/file"]
 ||wjpdgueqasdgeq.com^
 ||wubdkryfkr.com^
 ||xqtymopje.com^
+||xskbsyssik.com^
 ||xzwynraczfcq.com^
 ||xzywlbgldmpi.com^
 ||ygngaqihz.com^
