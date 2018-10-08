@@ -13,6 +13,8 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+prnews.pl##.fixed-enabled.clearfix.menu_wrapper:style(position: static!important;)
+m.joemonster.org##.headroom--not-bottom.headroom:style(position: absolute!important;)
 failtube.pl##nav:style(position: absolute!important;)
 www.komputerswiat.pl###pageHeader:style(position: absolute!important;)
 szukajka.tv##.fix:style(position: absolute !important;)
@@ -691,6 +693,7 @@ www.money.pl###fixedHeader
 !
 !2$----------------------{ flanki }----------------------!
 !
+prnews.pl##.theiaStickySidebar:style(position: static!important;)
 tvs.pl##.theiaStickySidebar:style(position: static!important;)
 szukajka.tv##.side:style(position: absolute !important;)
 www.petycjeonline.com###signature_form_column:style(position: static!important;)
