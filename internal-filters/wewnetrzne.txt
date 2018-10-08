@@ -37,7 +37,7 @@ fili.cc##.blo
 www.yourupload.com##.jw-logo-bottom-left.jw-logo
 !
 !& player, ikony, zbugowane
-vidoza.net##.vjs-topbar
+!vidoza.net##.vjs-topbar
 !
 !& fix, zbugowane, easyprivacy
 @@*$xmlhttprequest,domain=alltube.pl|alltube.tv
