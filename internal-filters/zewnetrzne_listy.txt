@@ -2761,7 +2761,7 @@ fili.cc##a[href^="/download/file"]
 !
 !
 ! Source: https://github.com/Yhonay/antipopads/blob/master/popads.txt
-!@Version: 5796
+!@Version: 5808
 !@Title: Anti popads.net
 !@Licence: WTFPL version 2
 !@Homepage: https://github.com/Yhonay/antipopads
@@ -4521,6 +4521,7 @@ fili.cc##a[href^="/download/file"]
 ||gjfugukpyo.bid^
 ||gjikkwtrstaku.com^
 ||gjjsfchh.bid^
+||gjliurjvfnkymq.com^
 ||gjvuxnfwsngmux.bid^
 ||gjwqxjqdvtldbh.bid^
 ||gkaatcjxwa.com^
@@ -4573,6 +4574,7 @@ fili.cc##a[href^="/download/file"]
 ||gogavdasjtxn.com^
 ||gogergyxl.com^
 ||gojotpbkyqou.bid^
+||golkkzpniri.com^
 ||goowurzdotcom.bid^
 ||gopamdzgpdrwe.bid^
 ||gosvhpsc.com^
@@ -4892,6 +4894,7 @@ fili.cc##a[href^="/download/file"]
 ||hpyqmmaxjrt.bid^
 ||hpzpjalq.bid^
 ||hqaajpaedpux.com^
+||hqgenotbptcu.com^
 ||hqkoismxnocd.com^
 ||hqncduqyzgfugo.com^
 ||hqnyahlpmehp.com^
@@ -5249,6 +5252,7 @@ fili.cc##a[href^="/download/file"]
 ||ixvsxjiw.com^
 ||ixzhwyuxxvxb.com^
 ||ixznwuxokydz.com^
+||iybkbyciv.com^
 ||iygdvith.com^
 ||iyivpsxzgjcarv.bid^
 ||iyjukpbyzsxc.bid^
@@ -6145,6 +6149,7 @@ fili.cc##a[href^="/download/file"]
 ||lxyadcffdpaytd.com^
 ||lxyjnqpbk.bid^
 ||lxymfyptdrast.com^
+||lybmmxah.com^
 ||lyeannqhhf.bid^
 ||lyjcpycaufud.com^
 ||lykuxkxsvvnxqd.com^
@@ -7622,6 +7627,7 @@ fili.cc##a[href^="/download/file"]
 ||rertazmgduxp.com^
 ||rezbzvrbemeb.bid^
 ||rezfubngrzdet.bid^
+||reztksclx.com^
 ||rfbmtfebfcwlgo.com^
 ||rfbrceyxthpj.bid^
 ||rfdujczogfnc.com^
@@ -8259,6 +8265,7 @@ fili.cc##a[href^="/download/file"]
 ||tmvwirgifkkdtn.bid^
 ||tmwhazsjnhip.com^
 ||tmwmigsb.com^
+||tnacywet.com^
 ||tnbgycckfv.bid^
 ||tnbtghpbdvz.bid^
 ||tncexvzu.com^
@@ -8272,6 +8279,7 @@ fili.cc##a[href^="/download/file"]
 ||tnlshxmc.com^
 ||tnmzfygctupqr.bid^
 ||tntqrmqfst.com^
+||tnvghrlg.com^
 ||tnyomnyezzz.bid^
 ||tnznswilqtni.com^
 ||tocotlkfjo.bid^
@@ -8546,16 +8554,20 @@ fili.cc##a[href^="/download/file"]
 ||uncumlzowtkn.com^
 ||unewqmemh.bid^
 ||uqihbnpqtwwzdv.com^
+||uqouplgwlmeqt.com^
 ||usvgzajftrzkr.com^
 ||vfnemtpehzmzwc.com^
 ||vhdvllhgyrjy.com^
+||vickgdkdrwpdt.com^
 ||vkhrnisuky.com^
 ||vndrcewnard.com^
+||vptkyunlzfy.com^
 ||vzlyapss.com^
 ||wblkmmxi.com^
 ||wepyyttx.com^
 ||wjpdgueqasdgeq.com^
 ||wubdkryfkr.com^
+||xnfwhndl.com^
 ||xqtymopje.com^
 ||xskbsyssik.com^
 ||xzwynraczfcq.com^
