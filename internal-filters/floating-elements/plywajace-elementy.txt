@@ -728,6 +728,7 @@ funhub.pl##.footer-hi.wrapper:style(position: static!important;)
 !
 !4$----------------------{ przyciski }----------------------!
 !
+www.dobreprogramy.pl###phContent_SocialControlTop_socialBox:style(position: static!important;)
 qoob.name###glt-translate-trigger:style(position: absolute!important;)
 forum.shinden.pl###styliumSetting:style(position: absolute!important;)
 www.dobreprogramy.pl###topSocial:style(position: static!important;)
