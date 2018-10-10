@@ -9,15 +9,15 @@
 !@Codename: RSS
 !@Description: Filtry blokujące i ukrywające sekcje RSS na polskich stronach.
 !@Używanie Polskich Filtrów RSS jest jednoznaczne ze świadomością co do ich zawartości (co blokują itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika
-!@Last modified: Mon, 08 Oct 2018, 17:47 UTC+02
-!@Version: 201810081747
+!@Last modified: Wed, 10 Oct 2018, 15:53 UTC+02
+!@Version: 201810101553
 !@Expires: 7 days
 !@Support:
 !@  Discord => http://ds.certyficate.it
 !@  Github => https://github.com/PolishFiltersTeam/PolishRSSFilters/issues
 !@License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 !@Copyright © 2018 Polish Filters Team
-!@Aktualizacja: pon, 08 paź 2018, 17:47 UTC+02
+!@Aktualizacja: śro, 10 paź 2018, 15:53 UTC+02
 !
 !
 !@---- GENERAL ELEMENT HIDING RULES --- !
@@ -112,6 +112,7 @@ mattomatti.com##a[href="rss"]
 miziaforum.wordpress.com###leftside > ul > li:nth-of-type(1)
 mmorpg.org.pl##.footer__top > .socials > [href^="/rss"]
 mototube.pl##a[href="http://www.mototube.pl/rss/najnowsze/"]
+mynaszlaku.pl##.socicon-rss
 namyslow.pl##.overflowFix.footerBox:nth-of-type(3) > .footerBoxHeader
 nask.pl##li:nth-of-type(4) > .icon-kropka
 naszpradnik.pl##.menu-social-feed
@@ -423,9 +424,35 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 !@Expires: 2 days
 !@Report domains not being properly blocked to: support@hexxiumcreations.com
 !@(YYYY/MM/DD)
-!@Version: 20180928
+!@Version: 20181010
 !@USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||airdrop-event.com^
+||elon-shares.com^
+||xn--mn8hzgsi.ml^
+||elonteam.space^
+||elon-musk.one^
+||elonmuskairdrop.tech^
+||elonether.tech^
+||splashcase.top^
+||fixskins.com^
+||tf2tain.com^
+||ytgbnmyfljlheue.xyz^
+||steamconnmunutly.com^
+||skinsclock.com^
+||steamdoom.com^
+||qdrop.top^
+||zcases.top^
+||shortdrop.top^
+||daddydrop.top^
+||fallinskin.com^
+||sunnyskins.com^
+||killerdrops.com^
+||lakerdrop.com^
+||serverwellsfago.com^
+||readalertwf.com^
+||skinpatterns.net^
+||tf2tank.com^
 ||crackswall.com^
 ||slateee.com^
 ||csgodel.com^
@@ -2761,7 +2788,7 @@ fili.cc##a[href^="/download/file"]
 !
 !
 ! Source: https://github.com/Yhonay/antipopads/blob/master/popads.txt
-!@Version: 5808
+!@Version: 5819
 !@Title: Anti popads.net
 !@Licence: WTFPL version 2
 !@Homepage: https://github.com/Yhonay/antipopads
@@ -2935,6 +2962,7 @@ fili.cc##a[href^="/download/file"]
 ||aoxntgxf.bid^
 ||aoyfhtarolgemn.bid^
 ||apbwldhfuvnk.com^
+||apddozcgdh.com^
 ||apfbtiqdly.bid^
 ||aphjbgth.com^
 ||apmgzzaej.bid^
@@ -3979,6 +4007,7 @@ fili.cc##a[href^="/download/file"]
 ||ejwocojjv.bid^
 ||ekdamsibldrg.bid^
 ||ekdjdrmqqlc.bid^
+||ekggptrw.com^
 ||ekgmjxjyfzzd.com^
 ||ekhgvpsfrwqm.com^
 ||ekiickqfxqtp.bid^
@@ -4297,6 +4326,7 @@ fili.cc##a[href^="/download/file"]
 ||fpbmjwoebzby.com^
 ||fpdsavexteno.com^
 ||fpguuwnpkvqsq.bid^
+||fpluhtibx.com^
 ||fpnxicejwel.com^
 ||fppgjkkjq.bid^
 ||fpqippsowc.bid^
@@ -4724,6 +4754,7 @@ fili.cc##a[href^="/download/file"]
 ||hasxepvkld.com^
 ||hattifkklbo.bid^
 ||hauvkkwrbme.com^
+||hayxktgbqpmult.com^
 ||hbbxkbjhiiue.bid^
 ||hbchwmrqb.bid^
 ||hbdosljhhpov.bid^
@@ -5232,6 +5263,7 @@ fili.cc##a[href^="/download/file"]
 ||ivyfsbbwsf.com^
 ||iwbwvowdidkuo.com^
 ||iweacndqhiht.com^
+||iwfzluau.com^
 ||iwgdguuz.com^
 ||iwmonrwpeeku.com^
 ||iwnvbdosun.bid^
@@ -5985,6 +6017,7 @@ fili.cc##a[href^="/download/file"]
 ||lkfuihubbros.com^
 ||lkgcdedbklfse.com^
 ||lkksbzcslmeefw.com^
+||lkzvhtetshbu.com^
 ||llbevorurncfcc.bid^
 ||llbynwyuoj.bid^
 ||llddarkinywtmg.bid^
@@ -7796,6 +7829,7 @@ fili.cc##a[href^="/download/file"]
 ||rtwvnrgn.com^
 ||rtxunghyiwiq.com^
 ||rtzhwgpmp.bid^
+||rubxajsomnicfy.com^
 ||rudtedmhm.com^
 ||ruijovxeffglgo.bid^
 ||rulgltvmpzig.com^
@@ -8570,10 +8604,14 @@ fili.cc##a[href^="/download/file"]
 ||xnfwhndl.com^
 ||xqtymopje.com^
 ||xskbsyssik.com^
+||xuqdbqkqgj.com^
 ||xzwynraczfcq.com^
 ||xzywlbgldmpi.com^
 ||ygngaqihz.com^
+||yjwtxskmswcjc.com^
+||zabpkrvgswdroz.com^
 ||zcczlrtbbx.com^
 ||zsikmzoehqw.com^
 ||zukipoayrlh.com^
 ||zxbzuyuifdqj.com^
+||zxeyqwgwsfv.com^
