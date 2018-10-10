@@ -30,6 +30,9 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+!& empty section, tymczasowe, el. zew.
+www.animezone.pl##.site-main > .desktop.rek
+!
 !& czasem się buguje
 fili.cc##.blo
 !
@@ -37,7 +40,7 @@ fili.cc##.blo
 www.yourupload.com##.jw-logo-bottom-left.jw-logo
 !
 !& player, ikony, zbugowane
-!vidoza.net##.vjs-topbar
+vidoza.net##.vjs-topbar-button__icon
 !
 !& fix, zbugowane, easyprivacy
 @@*$xmlhttprequest,domain=alltube.pl|alltube.tv
