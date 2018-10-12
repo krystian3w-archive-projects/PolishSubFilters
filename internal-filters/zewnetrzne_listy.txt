@@ -2788,7 +2788,7 @@ fili.cc##a[href^="/download/file"]
 !
 !
 ! Source: https://github.com/Yhonay/antipopads/blob/master/popads.txt
-!@Version: 5823
+!@Version: 5834
 !@Title: Anti popads.net
 !@Licence: WTFPL version 2
 !@Homepage: https://github.com/Yhonay/antipopads
@@ -4061,6 +4061,7 @@ fili.cc##a[href^="/download/file"]
 ||eotbkgjqu.com^
 ||epernepojkle.com^
 ||epgokiocquxf.com^
+||ephtwbxuqy.com^
 ||eplocjhuxsoj.com^
 ||eplsshzbotknz.bid^
 ||epndtinso.com^
@@ -4222,6 +4223,7 @@ fili.cc##a[href^="/download/file"]
 ||feqyuubaixe.bid^
 ||ffahsidlivqb.bid^
 ||ffbuqvnst.bid^
+||ffcqkvdaklrqkg.com^
 ||ffdkffnj.com^
 ||fffzquckf.com^
 ||ffhwzaenzoue.com^
@@ -4336,6 +4338,7 @@ fili.cc##a[href^="/download/file"]
 ||fpsezlguzzqmfw.bid^
 ||fpslcnjecewd.com^
 ||fpvfeyjrwlio.com^
+||fpxkjlzmkqp.com^
 ||fpzxmdjjpphzc.bid^
 ||fqazjwxovxlu.com^
 ||fqckdxjgle.com^
@@ -4604,6 +4607,7 @@ fili.cc##a[href^="/download/file"]
 ||gofsukrrqhcj.com^
 ||gogavdasjtxn.com^
 ||gogergyxl.com^
+||goiqwteaxvgc.com^
 ||gojotpbkyqou.bid^
 ||golkkzpniri.com^
 ||goowurzdotcom.bid^
@@ -4629,6 +4633,7 @@ fili.cc##a[href^="/download/file"]
 ||gptafybrj.com^
 ||gptkueuaseyut.com^
 ||gptoleeekac.bid^
+||gpudqmly.com^
 ||gpzywrsrcr.com^
 ||gqlaoeyczxsvk.com^
 ||gqlmavnoavcaw.com^
@@ -6175,6 +6180,7 @@ fili.cc##a[href^="/download/file"]
 ||lwysswaxnutn.com^
 ||lxbaocqsmg.bid^
 ||lxcfaekywx.com^
+||lxelgoqzvjfw.com^
 ||lxghhxdcmumk.com^
 ||lxkqybzanzug.com^
 ||lxlisrvzz.com^
@@ -6500,6 +6506,7 @@ fili.cc##a[href^="/download/file"]
 ||mznijqwjkqadk.com^
 ||mzqxeqrmgzxv.com^
 ||mzrhjbbikqm.com^
+||mzwaqcfbx.com^
 ||mzzouiciajems.com^
 ||naaifqdqsnxtsp.com^
 ||nahvyfyfpffm.com^
@@ -7011,6 +7018,7 @@ fili.cc##a[href^="/download/file"]
 ||owwewfaxvpch.com^
 ||owykrhaic.com^
 ||oxanehlscsry.com^
+||oxcpvsxgegd.com^
 ||oxybyiyasgu.bid^
 ||oyaqzikgjw.com^
 ||oybahnktadxjju.com^
@@ -8590,8 +8598,10 @@ fili.cc##a[href^="/download/file"]
 ||unewqmemh.bid^
 ||uqihbnpqtwwzdv.com^
 ||uqouplgwlmeqt.com^
+||uryvzhvgpulaog.com^
 ||usvgzajftrzkr.com^
 ||uvniygdwmoojfm.com^
+||vdldsjqxppi.com^
 ||vfnemtpehzmzwc.com^
 ||vhdvllhgyrjy.com^
 ||vickgdkdrwpdt.com^
@@ -8615,6 +8625,7 @@ fili.cc##a[href^="/download/file"]
 ||yjwtxskmswcjc.com^
 ||zabpkrvgswdroz.com^
 ||zcczlrtbbx.com^
+||zpxlmtujszhixe.com^
 ||zsikmzoehqw.com^
 ||zukipoayrlh.com^
 ||zxbzuyuifdqj.com^
