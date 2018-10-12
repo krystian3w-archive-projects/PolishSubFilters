@@ -21,7 +21,3 @@
 !
 ! Source: https://raw.githubusercontent.com/azet12/KAD/gh-pages/assets/other/kadfakewhitelist.txt
 @URLinclude https://raw.githubusercontent.com/azet12/KAD/gh-pages/assets/other/kadfakewhitelist.txt
-!
-!
-! Source: https://github.com/Yhonay/antipopads/blob/master/popads.txt
-@URLinclude https://raw.githubusercontent.com/Yhonay/antipopads/master/popads.txt
