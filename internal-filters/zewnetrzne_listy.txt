@@ -9,15 +9,15 @@
 !@Codename: RSS
 !@Description: Filtry blokujące i ukrywające sekcje RSS na polskich stronach.
 !@Używanie Polskich Filtrów RSS jest jednoznaczne ze świadomością co do ich zawartości (co blokują itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika
-!@Last modified: Wed, 10 Oct 2018, 15:53 UTC+02
-!@Version: 201810101553
+!@Last modified: Sat, 13 Oct 2018, 20:09 UTC+02
+!@Version: 201810132009
 !@Expires: 7 days
 !@Support:
 !@  Discord => http://ds.certyficate.it
 !@  Github => https://github.com/PolishFiltersTeam/PolishRSSFilters/issues
 !@License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 !@Copyright © 2018 Polish Filters Team
-!@Aktualizacja: śro, 10 paź 2018, 15:53 UTC+02
+!@Aktualizacja: sob, 13 paź 2018, 20:09 UTC+02
 !
 !
 !@---- GENERAL ELEMENT HIDING RULES --- !
@@ -113,6 +113,7 @@ miziaforum.wordpress.com###leftside > ul > li:nth-of-type(1)
 mmorpg.org.pl##.footer__top > .socials > [href^="/rss"]
 mototube.pl##a[href="http://www.mototube.pl/rss/najnowsze/"]
 mynaszlaku.pl##.socicon-rss
+nafrontendzie.pl##div.icon:nth-of-type(3)
 namyslow.pl##.overflowFix.footerBox:nth-of-type(3) > .footerBoxHeader
 nask.pl##li:nth-of-type(4) > .icon-kropka
 naszpradnik.pl##.menu-social-feed
@@ -1492,8 +1493,8 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 !@Homepage: https://azet12.github.io/KAD
 !@Title: KAD - Przekręty
 !@Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: 29 Sep 2018
-!@Version: 2018092901
+!@Last modified: 14 Oct 2018
+!@Version: 2018101401
 !@Expires: 1 day
 !
 !@Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
@@ -1550,6 +1551,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||babyeishgames.com^
 ||bartekzukiewicz.pl^
 ||bazasprawdzianow.pl^
+||bc43.pl^
 ||be-wild.pl^
 ||becconet.com^
 ||bellsandroses.pl^
@@ -1559,6 +1561,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||bestphoneapps.mobi^
 ||bestpromocenter.com^
 ||bestselections.top^
+||bewox.net^
 ||binomo.com^
 ||bit-coin-trader.com^
 ||bitcoinmillionairepro.com^
@@ -1569,6 +1572,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||blog.jacekpaciorek.pl^
 ||blogchanie.com^
 ||blogonews.com^
+||bnewsb.com^
 ||bodysecretrevelation.com^
 ||bon-do-marketu.pl^
 ||bony-zakupowe.pl^
@@ -1576,8 +1580,10 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||bonyodziezowe.eu^
 ||boobi.biz^
 ||bootstraplugin.com^
+||boryskowalski.pl^
 ||botifiles.com^
 ||browser-tools.systems^
+||browsergames2018.com^
 ||bustcream-pro.com^
 ||buzzonclick.com^
 ||cale-filmy.online^
@@ -1660,6 +1666,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||downloaduj.pl^
 ||dragonflym.com^
 ||dwnlad.ws^
+||e-cda.pl^
 ||ebeautyportal.com^
 ||ebook4all.com.pl^
 ||econtent.pl^
@@ -1750,6 +1757,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||gotowka-doreki.eu^
 ||gotowkatutaj.pl^
 ||greenbarleyplus.pl^
+||greerlies.pro^
 ||hackidogier.pl^
 ||halodzwonek.pl^
 ||halopozyczka.pl^
@@ -1771,6 +1779,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||hotokazje.com^
 ||huit.re^
 ||humanverify.net^
+||hurtownia.kolrise.com^
 ||i-cda.pl^
 ||i-mobi.pl^
 ||ibox.green^
@@ -1885,6 +1894,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||notifyday.com^
 ||novumedical.pl^
 ||nowaupadlosc.pl^
+||nyctrk.com^
 ||odbierzdarmowedoladowanie.wordpress.com^
 ||odchudzaniezpasja.pl^
 ||odkryjfb.pl^
@@ -1985,8 +1995,10 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||rosalieeve.pl^
 ||roulettenumber.com^
 ||rtv-delta.com^
+||rtvagdpro.net^
 ||ruletka-systemy.com^
 ||ruletkasystem.eu^
+||s9kkremkr0.com^
 ||sales-express.eu^
 ||sc21.pl^
 ||seans24.com.pl^
@@ -1999,6 +2011,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||serwis-laptopow24.pl^
 ||serwis.kb.help^
 ||serwislaptopowwarszawa.com.pl^
+||shiporama.com^
 ||shoes-4u.pl^
 ||shortby.tk^
 ||showup-tv.com.pl^
@@ -2011,6 +2024,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||solvusoft.com^
 ||speedyshare.com^
 ||spokeo.pl^
+||spotlessweb.com^
 ||sprawdzianyodpowiedzi.pl^
 ||sprawdzianyonline.pl^
 ||sprawdzianyszkolne.pl^
@@ -2037,6 +2051,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||testony.com^
 ||testuj-iq.info^
 ||the-titanium.com^
+||thputr.pro^
 ||tilido.com^
 ||topseans.pl^
 ||track.adsfast.com^
@@ -2048,6 +2063,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||triggerinstalls.com^
 ||trixmaster.online^
 ||trusttastic.com^
+||tuniaf.com^
 ||turobit.pw^
 ||twoja-przegladarka.pl^
 ||twoje-filmy.pl^
@@ -2110,6 +2126,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||www.eglobalcentral.pl^
 ||www.fabryka-nagrod.com^
 ||www.fajnefanty.com^
+||www.filedeposit.eu^
 ||www.forexyestrader.pl^
 ||www.fresh-finance.pl^
 ||www.geniustrainer.net^
@@ -2152,6 +2169,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||www.stopkomornikowi.pl^
 ||www.szalonenagrody.com^
 ||www.szalonepromocje.com^
+||www.telescopethesky.com^
 ||www.twoj-typ.pl^
 ||www.twoj-voucher.com^
 ||www.twojszczesliwydzien.com^
@@ -2166,6 +2184,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||www.zarobicpieniadze.com^
 ||www.zarobicprzezinternet.com^
 ||www.zebrapozyczki.pl^
+||wygrana-wpisz-dane.eu^
 ||xbox1emulator.org^
 ||xbox360emulator.com^
 ||xkomp.net^
@@ -2174,6 +2193,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||yotafiles.com^
 ||yourebook.pl^
 ||yourofferpro.com^
+||yourpayment.online^
 ||yourperlebleue.com^
 ||yummymobile.pl^
 ||zalukajfilmy.pl^
@@ -2200,6 +2220,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||planetazdrowia.com^
 ||polakuleczsiesam.pl^
 ||stopnop.com.pl^
+||szczepienie.info^
 ||timeforvitamins.com^
 ||ukryteterapie.pl^
 ||vaccgenocide.wordpress.com^
@@ -2609,6 +2630,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||videorazr.com^
 ||videoway.net^
 ||vidnet.pl^
+||vidplayer.pl^
 ||vids24.pl^
 ||vimeoo.net^
 ||vitrigroup.pl^
