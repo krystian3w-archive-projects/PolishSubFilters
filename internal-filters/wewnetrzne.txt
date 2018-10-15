@@ -597,10 +597,7 @@ pionki24.pl##.siderightcontent:nth-of-type(34)
 wysokienapiecie.pl##.col-module:nth-of-type(2)
 !
 !
-!23$----------------------{ ankiety }----------------------!
-!
-!> https://github.com/MajkiIT/polish-ads-filter/issues/5148
-dsw.doba.pl###stick-to-left
+!23$----------------------{ --- }----------------------!
 !
 !
 !24$----------------------{ tymczasowe }----------------------!
