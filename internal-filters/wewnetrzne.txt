@@ -30,6 +30,19 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+!& zachęta do rejestracji
+www.seciki.pl###registerBar
+!
+!& odtwarzacz, irytujące, okienko dialogowe
+fm.tuba.pl##script:inject(set-constant.js, confirm, trueFunc)
+!
+!& flustrujące
+wakai.pl##[src="/wp-content/uploads/2018/08/ezgif-1-6847297326.gif"]
+!
+!& sklep
+wakai.pl##.e3lan-post.e3lan, .home-e3lan.e3lan
+wakai.pl###text-29
+!
 !& empty section, tymczasowe, el. zew.
 www.animezone.pl##.site-main > .desktop.rek
 !
