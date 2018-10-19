@@ -13,6 +13,8 @@
 !
 !1$----------------------{ ogólne reguły }----------------------!
 !
+www.esquire.pl##.magazine-subscription-widget.widget
+!
 !& artykuł
 auto-swiat.pl##.rightBox.paperPromo
 www.auto-swiat.pl##.widgetLatestEditionWide
