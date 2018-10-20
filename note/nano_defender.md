@@ -101,10 +101,9 @@ userResourcesLocation https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/N
 
 ### aby subskrybować dodatkowe listy wejdź tutaj
 
+<code>https://polishannoyancefilters.netlify.com/otherfiltersforadblockers/</code>
 
 <code>https://github.com/MajkiIT/polish-ads-filter#about</code>
-
-<code>https://polishannoyancefilters.netlify.com/otherfiltersforadblockers/</code>
 
 <code>https://filterlists.com/</code>
 
