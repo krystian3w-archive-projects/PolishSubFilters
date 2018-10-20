@@ -1,4 +1,4 @@
-## [Nano Defender](https://github.com/jspenguin2017/uBlockProtector/releases) to połączenie skryptu [AAK](https://github.com/reek/anti-adblock-killer/wiki/AAK-Dead-and-Discontinued) z dodatkiem [uBlock Origin Extra](https://github.com/gorhill/uBO-Extra). Używając Nano Defender razem z [uBlockiem Origin](https://github.com/gorhill/uBlock/releases) lub [Nano Adblockerem](https://github.com/NanoAdblocker/NanoCore/releases) nie będziesz musiał przejmować się skryptami anty-adblock które uniemożliwiają dostęp do stron stron.
+## [Nano Defender](https://github.com/jspenguin2017/uBlockProtector/releases) to połączenie skryptu [AAK](https://github.com/reek/anti-adblock-killer/wiki/AAK-Dead-and-Discontinued) z dodatkiem [uBlock Origin Extra](https://github.com/gorhill/uBO-Extra). Używając Nano Defendera razem z [uBlockiem Origin](https://github.com/gorhill/uBlock/releases) lub [Nano Adblockerem](https://github.com/NanoAdblocker/NanoCore/releases) nie będziesz musiał przejmować się skryptami anty-adblock które uniemożliwiają dostęp do stron stron.
 
 ### aby zainstalować nano adblocker z nano defenderem
 
