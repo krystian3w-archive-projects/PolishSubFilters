@@ -77,7 +77,7 @@
 ```
 userResourcesLocation https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoFilters/NanoResources.txt
 ```
-###### `*** zwróć uwagę że to nie jest lista filtrów i dodanie tego źródła do panelu zwykłych list filtrów nie jest sugerowane. ***`
+###### `** zwróć uwagę że to nie jest lista filtrów i dodanie tego źródła do panelu zwykłych list filtrów nie jest sugerowane. **`
 
 ![img-2](https://i.imgur.com/hoxZwxz.png)
 
