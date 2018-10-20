@@ -102,6 +102,8 @@ userResourcesLocation https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/N
 ### aby subskrybować dodatkowe listy wejdź tutaj
 
 <code>https://github.com/MajkiIT/polish-ads-filter#about</code>
+<code>https://polishannoyancefilters.netlify.com/otherfiltersforadblockers/</code>
+<code>https://filterlists.com/</code>
 
 [NanoDefender]: https://subscribe.adblockplus.org/?location=https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoMirror/NanoDefender.txt&title=Nano%20Defender%20Integration
 [NanoBase]: https://subscribe.adblockplus.org/?location=https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoFilters/NanoBase.txt&title=Nano%20filters
