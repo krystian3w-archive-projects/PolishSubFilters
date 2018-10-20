@@ -75,8 +75,9 @@
 
 6. zmień wartość `userResourcesLocation unset` na 
 ```
-userResourcesLocation https://cdn.rawgit.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoResources.txt
+userResourcesLocation https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoFilters/NanoResources.txt
 ```
+###### `*** zwróć uwagę że to nie jest lista filtrów i dodanie tego źródła do panelu list filtrów nie jest sugerowane. ***`
 
 ![img-2](https://i.imgur.com/hoxZwxz.png)
 
@@ -86,13 +87,13 @@ userResourcesLocation https://cdn.rawgit.com/NanoAdblocker/NanoFilters/master/Na
 
 <ul>
 
-([Subskrybuj][NanoDefender]) <code>https://cdn.rawgit.com/NanoAdblocker/NanoFilters/master/NanoMirror/NanoDefender.txt</code>
+([Subskrybuj][NanoDefender]) <code>https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoMirror/NanoDefender.txt</code>
 
-([Subskrybuj][NanoBase]) <code>https://cdn.rawgit.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoBase.txt</code>
+([Subskrybuj][NanoBase]) <code>https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoFilters/NanoBase.txt</code>
 
-([Subskrybuj][NanoWhitelist]) <code>https://cdn.rawgit.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoWhitelist.txt</code>
+([Subskrybuj][NanoWhitelist]) <code>https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoFilters/NanoWhitelist.txt</code>
 
-([Subskrybuj][NanoAnnoyance]) <code>https://cdn.rawgit.com/NanoAdblocker/NanoFilters/master/NanoFilters/NanoAnnoyance.txt</code>
+([Subskrybuj][NanoAnnoyance]) <code>https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoFilters/NanoAnnoyance.txt</code>
 
 ([Subskrybuj][AdblockWarningRemovalList]) <code>https://easylist-downloads.adblockplus.org/antiadblockfilters.txt</code>
 
