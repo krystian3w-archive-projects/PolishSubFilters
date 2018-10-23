@@ -3,6 +3,7 @@
 !
 !#if cap_user_stylesheet
 !
+! Checksum: gpZ/3o+5e6kuMNzs4q2+vg
 ! Title: Polish Privacy Filters
 ! Oficjalne polskie filtry prywatności
 ! Expires: 3 days
