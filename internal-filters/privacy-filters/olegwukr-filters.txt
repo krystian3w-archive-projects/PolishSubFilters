@@ -1,18 +1,17 @@
 ! Source: https://github.com/olegwukr/polish-privacy-filters/blob/master/adblock.txt
-! Last Update: 11.08.2018
+! Last Update: 24.10.2018
 !
-! Checksum: F6e0xSe8vc1LvQTKMz+xeQ
+!#if cap_user_stylesheet
+!
 ! Title: Polish Privacy Filters
-! Last modified: 6 August 2018
+! Oficjalne polskie filtry prywatności
 ! Expires: 3 days
-! Version: 20180915
 ! Support:
 !   Github >> https://github.com/olegwukr/polish-privacy-filters/issues
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
-! Copyright (C) 2018 
-! v.2018080602 aktualizacja: pon, 6 sierpnia 2018, 16:00:00
+! Copyright (C) 2018
 !
-!#if cap_user_stylesheet
+!
 !-----------------------Privacy filters block-----------------------!
 xgemius.js$script
 /gemius/*$script,image
@@ -33,6 +32,7 @@ poczta.interia.pl#@#[href*=".hit.gemius.pl"]
 !
 !
 !-----------------------Privacy filters domains-----------------------!
+/ajax/stats?$image
 .pl/*_ac=kropka-
 /*dc_trk_aid$image,script
 /^(http|https):\/\/(.*)salesmanago\.(pl|com)\/(static|dynamic)\//$script,domain=~salesmanago.com|~salesmanago.pl
@@ -64,6 +64,7 @@ poczta.interia.pl#@#[href*=".hit.gemius.pl"]
 ||histats.com^
 ||hit.gemius.pl^
 ||hitslink.interia.com.pl^
+||iwa3.hit.interia.pl:8443/collector
 ||int.sitestat.com^
 ||intrack.pl^
 ||kozaczek.pl/stats.php$xmlhttprequest
@@ -80,8 +81,9 @@ poczta.interia.pl#@#[href*=".hit.gemius.pl"]
 ||salesbee.pl^
 ||salesbeehive.com^
 ||salesmanago.pl^$third-party
-||smartclick.pl$script
+||smartclick.pl^$script
 ||smpl.hit.ppdb.pl^
+!||sgqcvfjvr.onet.pl^
 ||stat.4u.pl^
 ||stat.dziennik.pl^
 ||stat.onestat.com^
@@ -111,4 +113,10 @@ poczta.interia.pl#@#[href*=".hit.gemius.pl"]
 ||direct.money.pl/*/salechannel.php$popup
 ||direct.money.pl/*/directtrack.php
 ||px.wp.pl^
+||cod.bitrec.com
+!
+!
+! Problem with ads 
+||wylecz.to/media/srv/$image
+!
 !#endif
