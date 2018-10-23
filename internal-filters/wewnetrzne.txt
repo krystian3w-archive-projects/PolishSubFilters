@@ -30,6 +30,21 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+!& empt, widg, button, fix, zew
+www.animezone.pl##body > div:nth-of-type(6)
+!
+!& auto-promo, logo
+przyjazny-linux.tuxblog.pl##body > div:nth-of-type(2)
+!
+!& tymczasowe, zew
+alltube.tv##.col-sm-5 > .text-center
+!
+!& odtwarzacz, fix
+mega.nz##.video-wrapper[data-fullscreen="true"] #video:style(cursor: none!important;)
+!
+!& dub-ele
+www.dobreprogramy.pl###phContent_SocialControlTop_socialBox
+!
 !& zachęta do rejestracji
 www.seciki.pl###registerBar
 !
