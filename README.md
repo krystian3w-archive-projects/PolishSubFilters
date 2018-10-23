@@ -12,5 +12,3 @@ Informacje:
 
 [![Donatuj](https://img.shields.io/website-anonimowo-down-green-red/https/authedmine.com.svg?label=Donatuj&colorB=1caf92)](https://authedmine.com/media/miner.html?key=ZpmDZUFJhHdv1YZHpCHFWhAUQIGa67TV)
 [![Discord](https://img.shields.io/discord/383371243925274626.svg?colorB=7289da&label=Discord)](https://discord.gg/UEWEBqz)
-
-![QR](https://user-images.githubusercontent.com/5884000/42411462-87a8844c-81fc-11e8-8c4c-a2b8a7e4560a.png)
