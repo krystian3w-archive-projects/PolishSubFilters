@@ -6,5 +6,5 @@
 2. zainstaluj streamlink<br/>
 <code>https://github.com/streamlink/streamlink/releases</code>
 
-3. uruchom wiersz polecen i wpisz
+3. uruchom wiersz polecen i wpisz<br/>
 <code>streamlink https://www.twitch.tv/<tu nazwa kanału> best</code>
