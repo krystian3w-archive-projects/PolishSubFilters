@@ -13,6 +13,19 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+oczymlekarze.pl##.fixed.header:style(position: static!important;)
+wprawo.pl###menu-main:style(position: static!important;)
+audycje.tokfm.pl##.hat-body:style(position: absolute!important;)
+filmyonline.tv##.full-page.tt-header:style(position: absolute!important;)
+koduj24.pl###mysticky-nav:style(position: static!important;)
+www.animeholik.pl###PageList1:style(position: static!important;)
+www.pafere.org##.td-header-gradient.td-header-menu-wrap:style(position: static!important;)
+www.wloskielove.pl##.yesAnim.theNavigationBar:style(position: absolute!important;)
+jezykowasilka.pl###masthead:style(position: static!important;)
+scrabble123.pl###header:style(position: absolute!important;)
+przyjazny-linux.tuxblog.pl###masthead:style(position: absolute!important;)
+kupujemy.to###bar:style(position: absolute!important;)
+kodiwpigulce.pl##.main-menu.row:style(position: relative!important;)
 www.kreskowkazone.pl###navigation:style(position: static!important;)
 www.esquire.pl##.fixed-active.main-nav-box:style(position: static!important;)
 www.dobrzemieszkaj.pl###header:style(position: absolute!important;)
@@ -710,6 +723,8 @@ www.money.pl###fixedHeader
 !
 !2$----------------------{ flanki }----------------------!
 !
+www.animeholik.pl###sidebar:style(position: static!important;)
+www.pafere.org##.td-ss-main-sidebar:style(position: static!important;)
 pomoc.poczta.onet.pl##.affix.sidebar__innercontainer:style(position: static!important;)
 prnews.pl##.theiaStickySidebar:style(position: static!important;)
 tvs.pl##.theiaStickySidebar:style(position: static!important;)
@@ -740,6 +755,7 @@ www.dobreprogramy.pl##.sticky.blog-list.block:style(position: static!important;)
 !
 szukajka.tv##footer
 interia.pl##.recommend-flybar-block
+przyjazny-linux.tuxblog.pl###colophon:style(position: static!important;)
 alltube.pl,alltube.tv##.navbar-fixed-bottom.navbar:style(position: relative!important;)
 funhub.pl##.footer-hi.wrapper:style(position: static!important;)
 !
