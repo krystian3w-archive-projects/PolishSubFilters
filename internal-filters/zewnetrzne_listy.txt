@@ -9,15 +9,15 @@
 !@Codename: RSS
 !@Description: Filtry blokujące i ukrywające sekcje RSS na polskich stronach.
 !@Używanie Polskich Filtrów RSS jest jednoznaczne ze świadomością co do ich zawartości (co blokują itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika
-!@Last modified: Thu, 18 Oct 2018, 11:31 UTC+02
-!@Version: 201810181131
+!@Last modified: Thu, 25 Oct 2018, 23:18 UTC+02
+!@Version: 201810252318
 !@Expires: 7 days
 !@Support:
 !@  Discord => http://ds.certyficate.it
 !@  Github => https://github.com/PolishFiltersTeam/PolishRSSFilters/issues
 !@License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 !@Copyright © 2018 Polish Filters Team
-!@Aktualizacja: czw, 18 paź 2018, 11:31 UTC+02
+!@Aktualizacja: czw, 25 paź 2018, 23:18 UTC+02
 !
 !
 !@---- GENERAL ELEMENT HIDING RULES --- !
@@ -77,7 +77,7 @@ forum.linuxmint.pl###button_rss
 forum.paramythology.pl##.footermenu > ul > li:nth-of-type(4) > a[href^="http://www.forum.paramythology.pl/misc.php"]
 forum.satkurier.pl###rss_feed
 forum.unturned.pl##a[href="forums/-/index.rss"]
-fotoblogia.pl##.link-rss
+fotoblogia.pl,fitness.wp.pl,jejswiat.pl,gadzetomania.pl##.link-rss
 gc2.pl##a[href^="http://gc2.pl/forum/misc.php"]
 geekweek.pl###rss-list
 gemius.pl##.btn-tools-rss
@@ -219,7 +219,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ! Source: https://github.com/piperun/iploggerfilter/blob/master/filterlist
 !@Title: Piperun's iplogger filter
 !@Expires: 3 days
-!@Last modified: 31 July 2018
+!@Last modified: 24 October 2018
 !@Homepage: https://github.com/piperun/iploggerfilter
 !@Contribute: https://github.com/piperun/iploggerfilter/issues
 !@License: https://github.com/piperun/iploggerfilter/blob/master/LICENSE
@@ -244,6 +244,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||bmwforum.co^
 ||leancoding.co^
 ||quickmessage.io^
+||quickmessage.us^important
 ||spottyfly.com^
 ||spötify.com^
 ||stopify.co^
@@ -258,6 +259,8 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||cyberh1.xyz^
 ||freegiftcards.co^
 ||rëddït.com^
+||särahah.eu^
+||särahah.pl^important
 ||iany.pl^
 ||my-alts.eu^
 ||l-imgur.pl^
@@ -360,7 +363,7 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||twitch-stats.stream^
 ||twiţter.com^
 ||videoblog.tech^
-||xda-developers.io^
+||xda-developers.us^
 ||yip.su^
 ||yoütu.be^
 ||yoütübe.co^
@@ -369,6 +372,11 @@ ztm.waw.pl###Banneryiztm > a[href^="http://www.ztm.waw.pl/"]:nth-of-type(2)
 ||ìṃgur.com^
 ||ġooģle.com^
 ||rikiki.net^
+||fortnight.space^
+||fortnitechat.site^
+||youshouldclick.us^
+||joinmy.site^
+||watches-my.stream^
 
 # Booters
 ||orcahub.com^
