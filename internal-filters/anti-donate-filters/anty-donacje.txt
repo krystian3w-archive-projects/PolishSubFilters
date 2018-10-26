@@ -13,6 +13,11 @@
 !
 !1$----------------------{ ogólne reguły anty-dotacyjne }----------------------!
 !
+! podstrona
+wprawo.pl##.code-block-4.code-block
+koduj24.pl###header-top
+www.kurshtml.edu.pl##div.box:nth-of-type(3)
+!
 !& paypal
 wakai.pl###menu-item-3538 > a > .fa-cc-paypal.fa
 !
