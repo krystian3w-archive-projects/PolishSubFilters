@@ -13,6 +13,9 @@
 !
 !1$----------------------{ ogólne reguły }----------------------!
 !
+! polecane, podstrona
+oczymlekarze.pl##.default.dobry_wybor_dla_zdrowia_content
+!
 !& podstrona, polecane
 !> https://github.com/MajkiIT/polish-ads-filter/issues/6111
 www.3kropki.pl##.banLeft:nth-of-type(n+2):nth-of-type(-n+3)
