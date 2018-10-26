@@ -1,6 +1,6 @@
-Polskie Filtry Wewnętrzne [(Subskrybuj)](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/KonoromiHimaries/PolishSubFilters/master/internal-filters/wewnetrzne.txt&title=Polskie%20Filtry%20Wewnętrzne)
+Polskie Filtry Wewnętrzne [(Subskrybuj)](https://subscribe.adblockplus.org/?location=https://cdn.staticaly.com/gh/KonoromiHimaries/PolishSubFilters/master/internal-filters/wewnetrzne.txt&title=Polskie%20Filtry%20Wewnętrzne)
 ```
-https://raw.githubusercontent.com/KonoromiHimaries/PolishSubFilters/master/internal-filters/wewnetrzne.txt
+https://cdn.staticaly.com/gh/KonoromiHimaries/PolishSubFilters/master/internal-filters/wewnetrzne.txt
 ```
 
 Informacje:
