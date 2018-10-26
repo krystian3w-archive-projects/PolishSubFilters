@@ -1,7 +1,7 @@
-! Checksum: THnfwXXHTjNkJNUVjvQOpA
+! Checksum: vKsjIxjM8BYjbmkrqDR9sQ
 ! Title: Polskie Filtry Prenumerat
 ! Collaborators: KonoromiHimaries, hawkeye116477
-! Version: 20181019
+! Version: 20181026
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
