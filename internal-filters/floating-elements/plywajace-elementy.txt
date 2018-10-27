@@ -40,7 +40,7 @@ discopolonew.cba.pl##.navbar-default.navbar:style(position: absolute!important;)
 www.nafrontendzie.pl###main-header:style(position: absolute!important;)
 kodzisz.pl###main-nav:style(position: absolute!important;)
 epiotrkow.pl##.menu_new:style(position: static!important;)
-livro.pl###header:style(position: static!important;)
+livro.pl,www.spidersweb.pl,avdotia.kotkowicz.pl,dorzeczy.pl,superhistoria.pl,oxford.pwn.pl###header:style(position: static!important;)
 prnews.pl##.fixed-enabled.clearfix.menu_wrapper:style(position: static!important;)
 m.joemonster.org##.headroom--not-bottom.headroom:style(position: absolute!important;)
 failtube.pl##nav:style(position: absolute!important;)
@@ -136,7 +136,7 @@ www.ebiomasa.pl###sp-header:style(position: static!important;)
 obsluga-informatyczna.com.pl###container_header:style(position: absolute!important;)
 www.ovh.pl##.compressed.topMainMenu:style(position: absolute!important; padding-top: 66px!important)
 www.wykop.pl###new-frame:style(position: absolute!important;)
-www.spidersweb.pl###header:style(position: static!important;)
+
 krypto.net.pl##.sticky-bar.inner-head.inner:style(position: static!important;)
 wielkopolskamagazyn.pl###site-navigation:style(position: static!important;)
 www.polishcustomknives.pl###header-navbar-outer:style(position: static!important;)
@@ -331,7 +331,7 @@ wideoproduktowe.pl###nav-topbar:style(position: absolute !important; transition:
 wiocha.pl##.headerband:style(position: absolute !important;)
 wyborcza.pl###wyborczaHat:style(position: absolute !important;)
 wykop.pl###nav:style(position: absolute !important;)
-zegarkiipasja.pl###header:style(position: absolute !important;)
+
 zegarkiipasja.pl##.hidden-xs.gl-autohide-stickyheader.gl-menu-w100:style(position: absolute !important;)
 zegarkiipasja.pl##.ng-scope.emelu-lightbox-target
 zegarkiipasja.pl##body:style(overflow-x: hidden !important; overflow-y: auto !important;)
@@ -411,7 +411,7 @@ calcoolator.pl##.navbar-default.navbar-fixed-top.navbar:style(position: static!i
 www.nslowo.pl##.td-affix.td-header-gradient.td-header-menu-wrap:style(position: static!important;)
 psychiczni.pl###top:style(position: absolute!important;)
 viralka.pl##.stuck.menu-left.boxed.narrow.clearfix.bottom:style(position: static!important;)
-www.spidersweb.pl###header:style(position: static!important;)
+
 www.filmweb.pl###mainPageHeader:style(position: absolute!important;)
 senda.pl###wrap-header-index:style(position: absolute!important;)
 nczas.com##.td-affix.td-header-gradient.td-header-menu-wrap:style(position: static!important;)
@@ -434,7 +434,7 @@ allegro.pl##.opbox-metrum-header:style(position: static!important;)
 alles-bhp.pl,greattrade.pl,szkolnaspizarnia.pl##.navbar-fixed-top.navbar-inverse.navbar:style(position: absolute!important;)
 alltube.pl,alltube.tv##.navbar-fixed-bottom:style(position: static!important;)
 avdotia.kotkowicz.pl###catcher
-avdotia.kotkowicz.pl###header:style(position: static!important;)
+
 bankobranie.blogspot.com##.tabs-outer:style(position: static!important; display: inline-block!important;)
 creativecommons.org###deed-donate-slide:style(position: static!important;)
 cryptoweb.pl###herald-responsive-header:style(position: absolute!important;)
@@ -443,7 +443,7 @@ dopobrania.pwn.pl##.side-nav:style(position: absolute!important; bottom: auto!im
 doruchow.pl,krosnice.pl##.div_menu_prawe_wysuwane:style(position: absolute!important;)
 dorzeczy.pl###element-header
 dorzeczy.pl,superhistoria.pl###content:style(padding-top: 0px!important)
-dorzeczy.pl,superhistoria.pl###header:style(position: static!important;)
+
 ekai.pl##.infoBarTopContainer:style(position: static!important;)
 ekai.pl##.nav-toggle:style(position: absolute!important;)
 gamedot.pl##.header:style(position: absolute !important;)
@@ -609,7 +609,7 @@ beztajemnic.pwn.pl##.top-bar:style(position: static!important;)
 encyklopedia.pwn.pl,sjp.pwn.pl,slowniki.pwn.pl,translatica.pl###content:style(margin-top: 0px!important;)
 encyklopedia.pwn.pl,sjp.pwn.pl,slowniki.pwn.pl,translatica.pl###search-bar:style(position: static!important;)
 ksiegarnia.pwn.pl,www.pwn.pl##.navbar-fixed-top:style(position: absolute!important;)
-oxford.pwn.pl###header:style(position: static!important;)
+
 tlumaczenia-pwn.pl##.header_2.header_wrapper:style(position: static!important;)
 www.forumzdrowia.pl###search-panel:style(position: static!important;)
 www.forumzdrowia.pl##.header-v4:style(position: static!important;)
