@@ -9,15 +9,15 @@
 !@Codename: RSS
 !@Description: Filtry blokujące i ukrywające sekcje RSS na polskich stronach.
 !@Używanie Polskich Filtrów RSS jest jednoznaczne ze świadomością co do ich zawartości (co blokują itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika
-!@Last modified: Thu, 08 Nov 2018, 21:33 UTC+01
-!@Version: 201811082133
+!@Last modified: Sat, 10 Nov 2018, 22:31 UTC+01
+!@Version: 201811102231
 !@Expires: 7 days
 !@Support:
 !@  Discord => http://ds.certyficate.it
 !@  Github => https://github.com/PolishFiltersTeam/PolishRSSFilters/issues
 !@License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 !@Copyright © 2018 Polish Filters Team
-!@Aktualizacja: czw, 08 lis 2018, 21:33 UTC+01
+!@Aktualizacja: sob, 10 lis 2018, 22:31 UTC+01
 !
 !
 !@Specyficzne reguły ukrywające
@@ -46,6 +46,7 @@ chceauto.pl##.soc01 > [href="/rss/art.php"]
 comparic.pl###menu-item-264018
 copernicusfestival.com,naukaireligia.pl,filozofiawnauce.pl,copernicuscenter.edu.pl##A[href="/rss.xml"]
 crazynauka.pl###text-5
+croatia.hr##.social-media-links--platforms > li:nth-of-type(8)
 czasdzieci.pl##.atom
 czestochowskie24.pl##.item-feed, #social_icons_widget-4 > .widget-title
 digitalassets.pl##.feed-link-wrap
@@ -102,6 +103,7 @@ kreskowkazone.pl##.menu:nth-of-type(1) > ul > .menu-li
 krytykapolityczna.pl##a[href="http://krytykapolityczna.pl/rss"]
 kwadratowyswiat.pl##.bradius-fifty.trns-normal.rs.sicon
 kwestiasmaku.com###block-block-16
+limanowa.in##.icons > .rss
 lookcam.com##li:nth-of-type(4) > [href="/rss/"]
 majsterkowo.pl###sitebox-social-4 > .widget-title
 manjaro.pl###text-3
@@ -437,9 +439,54 @@ pl##.rss-button
 !@Expires: 2 days
 !@Report domains not being properly blocked to: support@hexxiumcreations.com
 !@(YYYY/MM/DD)
-!@Version: 20181010
+!@Version: 20181109
 !@USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||anonymoustool.com^
+||mygiftcard.online^
+||swiftlet.pro^
+||myplaycode.us^
+||gamecheatskip.com^
+||derpy.online^
+||giftoffer.pw^
+||giftcardoffers.club^
+||instagramgifts.com^
+||greatworks.club^
+||ggem.co^
+||freepyp.win^
+||giftcards-kings.com^
+||avonee.com^
+||onlinegen.club^
+||mytrickstips.com^
+||getfreecards.online^
+||freecode.site^
+||sweepstakesgroup.com^
+||skinsflex.com^
+||krakendrop.top^
+||csgozones.net^
+||tf2.ninja^
+||leyvadestgreen.tk^
+||giddyskins.com^
+||opinionshareresearch.com^
+||benhtieudem.com.vn^
+||youploan.com^
+||go.net-dj97.stream^
+||portalbenefit.com^
+||viaprio.com^
+||customersurveygroup.com^
+||tf2call.com^
+||dacases.org^
+||da-cases.com^
+||tf2lod.com^
+||tf2vogue.com^
+||dota2brown.com^
+||cspay.cash^
+||owpzmcidefrayed.review^
+||dczjncbtjg6ye.cloudfront.net^
+||winfreesupport.club^
+||tf2skull.com^
+||sweepstakesbucks.com^
+||getitfreesamples.net^
 ||airdrop-event.com^
 ||elon-shares.com^
 ||xn--mn8hzgsi.ml^
