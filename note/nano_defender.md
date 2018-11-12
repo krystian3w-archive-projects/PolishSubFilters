@@ -71,7 +71,7 @@
 4. zaznacz opcje "Jestem zaawansowanym użytkownikiem"
 
 5. kliknij w ikonkę trzech trybików
-![img-1](https://i.imgur.com/4fOOUO8.png)
+![img-0](https://i.postimg.cc/0jnSS2yx/img-0.png)
 
 6. zmień wartość `userResourcesLocation unset` na 
 ```
@@ -79,7 +79,7 @@ userResourcesLocation https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/N
 ```
 ###### `** zwróć uwagę że to nie jest lista filtrów i dodanie tego źródła do panelu zwykłych list filtrów nie jest sugerowane. **`
 
-![img-2](https://i.imgur.com/hoxZwxz.png)
+![img-1](https://i.postimg.cc/qBxySQXY/img-1.png)
 
 7. kliknij przycisk "Zastosuj zmiany"
 
