@@ -8,7 +8,7 @@
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
-!   Listy filtrów >> EasyList + Polskie Filtry + Polskie Filtry Elementów Irytujących
+!   Listy filtrów >> EasyList + EasyList Polish + Polskie Filtry + Polskie Filtry EI
 ! Zgłoszenia:
 !   Discord >> https://discord.me/polskiefiltry
 ! Donacje:
