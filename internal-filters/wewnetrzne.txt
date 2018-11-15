@@ -30,6 +30,9 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+! anty-copy
+www.wykop.pl##.lb-nav
+!
 ! player, adblock-detect, fix
 vidup.io##.vjs-info-button
 !
