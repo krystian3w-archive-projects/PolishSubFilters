@@ -13,6 +13,8 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+www.dramazone.pl###header:style(position: static!important;)
+kinonet.pl###navbar-main:style(position: static!important;)
 oczymlekarze.pl##.fixed.header:style(position: static!important;)
 wprawo.pl###menu-main:style(position: static!important;)
 audycje.tokfm.pl##.hat-body:style(position: absolute!important;)
