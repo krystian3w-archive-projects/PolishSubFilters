@@ -3,6 +3,7 @@
 !
 !#if cap_user_stylesheet
 !
+! Checksum: dl8VXZWwcnKrkzUD1c4XmQ
 ! Title: Polish Privacy Filters
 ! Oficjalne polskie filtry prywatności
 ! Last modified: 3 November 2018
