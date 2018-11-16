@@ -30,10 +30,14 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
-! anty-copy
+!& tymczasowe
+!> https://www.wykop.pl/wpis/31080707/jak-ktos-chialby-nieco-sobie-poprawic-wyswietlanie/
+streamable.com##.stm-ad-player
+!
+!& anty-copy
 www.wykop.pl##.lb-nav
 !
-! player, adblock-detect, fix
+!& player, adblock-detect, fix
 vidup.io##.vjs-info-button
 !
 !& popup, polecane
