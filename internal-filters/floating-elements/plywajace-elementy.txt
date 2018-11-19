@@ -13,7 +13,7 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
-pogonsportnet.pl###mainheader:style(position: absolute!important;)
+pogonsportnet.pl###mainheader:style(position:absolute!important)
 kinonet.pl###navbar-main:style(position:static!important)
 oczymlekarze.pl##.fixed.header:style(position:static!important)
 wprawo.pl###menu-main:style(position:static!important)
