@@ -1,4 +1,4 @@
-! Checksum: UwJ8FPHSTJqx1Mq35tnocg
+! Checksum: wXSkTQxQULHUlDhc7b0O4w
 ! Title: Polskie Filtry Osadzające Nagłówki
 ! Collaborators: KonoromiHimaries, hawkeye116477, yourduskquibbles
 ! Version: 20181119
