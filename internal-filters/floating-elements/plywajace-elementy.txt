@@ -13,7 +13,6 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
-
 kinonet.pl###navbar-main:style(position:static!important)
 oczymlekarze.pl##.fixed.header:style(position:static!important)
 wprawo.pl###menu-main:style(position:static!important)
@@ -39,7 +38,6 @@ www.semtec.pl###meni:style(position:absolute!important)
 cezarywalenciuk.pl##.top-bar:style(position:absolute!important)
 blog.gft.com###masthead:style(position:absolute!important)
 discopolonew.cba.pl##.navbar-default.navbar:style(position:absolute!important)
-
 kodzisz.pl###main-nav:style(position:absolute!important)
 epiotrkow.pl##.menu_new:style(position:static!important)
 www.dramazone.pl,livro.pl,www.spidersweb.pl,avdotia.kotkowicz.pl,dorzeczy.pl,superhistoria.pl,oxford.pwn.pl###header:style(position:static!important)
@@ -50,8 +48,6 @@ www.komputerswiat.pl###pageHeader:style(position:absolute!important)
 szukajka.tv##.fix:style(position:absolute!important)
 szukajka.tv,www.gierkionline.pl,www.netgun.pl,mlodytechnik.pl,strimi.pl,vod.tvp.pl,www.biofarm.pl,www.artefakt.pl,stopcafe.pl,www.vulcan.edu.pl,www.ofeminin.pl##header:style(position:absolute!important)
 olszanowska.pl##.navbar-default.navbar:style(position:absolute!important)
-
-
 portal.abczdrowie.pl##.header.top-header:style(position:absolute!important)
 djoles.pl##.navbar-default.navbar:style(position:absolute!important)
 buzzed.pl##.g1-sticky-top-wrapper:style(position:static!important)
@@ -80,7 +76,6 @@ www.gwp.pl###flying_header
 www.ppe.pl##.fixedMenu
 www.e-kiosk.pl##.border-bottom.header:style(position:absolute!important)
 iturek.net##.uk-sticky-fixed.uk-sticky:style(position:absolute!important)
-
 fastshell.pl###topbar:style(position:absolute!important)
 sznyt.pl##.affix:style(position:absolute!important)
 otomoto.pl##.header-container, .sticky.offer-header:style(position:absolute!important)
@@ -141,7 +136,6 @@ www.wykop.pl###new-frame:style(position:absolute!important)
 krypto.net.pl##.sticky-bar.inner-head.inner:style(position:static!important)
 wielkopolskamagazyn.pl###site-navigation:style(position:static!important)
 www.polishcustomknives.pl###header-navbar-outer:style(position:static!important)
-
 sadeczanin.info###headerBottomWrapper:style(position:static!important)
 www.gandalf.com.pl###bsa:style(position:static!important)
 etechinfo.pl##.td-affix.td-header-menu-wrap:style(position:static!important)
@@ -450,7 +444,6 @@ infogram.com###top_nav:style(position:absolute!important)
 istotne.pl###main_navigation:style(position:static!important)
 jezykiobce.pl###top-bar-promotions:style(position:absolute!important)
 kodiwpigulce.pl##.is-fixed.sidebar-box:style(position:static!important)
-
 majsterpol.pl###jm-logo-djmenu-bg:style(position:absolute!important)
 ministerstwonaukijazdy.pl###site-navigation:style(position:static!important)
 mojaholandia.nl##.footer-fixed:style(position:static!important)
@@ -546,7 +539,6 @@ www.domiporta.pl##.fixed.page-header:style(position:absolute!important)
 www.gazeta.pl##.hat_dark.page_top > .container-fluid:style(position:static!important)
 www.goldenline.pl##.main-header.symfony:style(position:absolute!important)
 www.komunikaty.pl###rwdHat:style(position:absolute!important)
-
 wyborcza.pl,wyborcza.biz,www.wysokieobcasy.pl###wyborczaHat:style(position:absolute!important)
 cyfrowypolsat.interia.pl##.fixed.doNotResize.v7header:style(position:relative!important)
 deccoria.pl##.sidebar-container:style(position:static!important)
