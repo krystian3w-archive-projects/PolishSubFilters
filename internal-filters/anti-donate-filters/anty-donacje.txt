@@ -13,6 +13,8 @@
 !
 !1$----------------------{ ogólne reguły anty-dotacyjne }----------------------!
 !
+www.opencraft.pl##div.column:nth-of-type(1) > div:nth-of-type(2)
+!
 ! podstrona
 wprawo.pl##.code-block-4.code-block
 koduj24.pl###header-top
