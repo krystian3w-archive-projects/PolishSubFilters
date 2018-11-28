@@ -13,6 +13,8 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+zrabatowani.pl###top-menu:style(position:absolute!important)
+www.gram.pl###nav-main:style(position:absolute!important)
 pogonsportnet.pl###mainheader:style(position:absolute!important)
 kinonet.pl###navbar-main:style(position:static!important)
 oczymlekarze.pl##.fixed.header:style(position:static!important)
