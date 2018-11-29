@@ -1,7 +1,7 @@
 ! Source: https://github.com/metaphoricgiraffe/tracking-filters/blob/master/trackingfilters.txt
 ! Last Update: 29.11.2018
 !
-! Checksum: sFJOy9h5P7L3BUYdUFRC3Q
+! Checksum: tIXT7MscwvjKvJsDt9/XyQ
 ! Title: Privacy filters
 ! Expires: 3 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
