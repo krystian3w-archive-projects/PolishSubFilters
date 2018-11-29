@@ -7,7 +7,7 @@
 ! Version: 20181118
 ! Expires: 3 days
 ! Wymagane:
-!   Rozszerzenia >> uBlock Origin lub Nano Adblocker
+!   Rozszerzenia >> uBlock Origin, Nano Adblocker lub Adguard
 !   Listy filtrów >> EasyList + EasyList Polish + Polskie Filtry + Polskie Filtry EI
 ! Zgłoszenia:
 !   Discord >> https://discord.me/polskiefiltry
