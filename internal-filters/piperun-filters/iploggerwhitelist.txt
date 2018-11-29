@@ -4,16 +4,4 @@
 ! Expires: 3 days
 ! Homepage: https://github.com/piperun/iploggerfilter
 ! License: https://github.com/piperun/iploggerfilter/blob/master/LICENSE
-@@||go.budurl.co^
-@@||dr.tl^
-@@||bit.do^
-@@||taveo.net^
-@@||bit.ly^
-@@||cur.lv^
-@@||slsh.us^
 @@||adf.ly^
-@@||shorte.st^
-@@||biturl.io^
-@@||hackforu.ms^
-@@||tldr.ly^
-@@||wzurl.me^
