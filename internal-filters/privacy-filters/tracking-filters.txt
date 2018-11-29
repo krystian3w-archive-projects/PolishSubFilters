@@ -1,5 +1,5 @@
 ! Source: https://github.com/metaphoricgiraffe/tracking-filters/blob/master/trackingfilters.txt
-! Last Update: 22.08.2018
+! Last Update: 29.11.2018
 !
 ! Checksum: sFJOy9h5P7L3BUYdUFRC3Q
 ! Title: Privacy filters
@@ -8,10 +8,13 @@
 !
 !#if cap_user_stylesheet
 ||lip11t.com
+||echo360.org.au/lesson/*/confused/*$xmlhttprequest
+||echo360.org.au/video/*/viewed$xmlhttprequest
+||echo360.org.au/video/*/played$xmlhttprequest
+||deliver.oztam.com.au/api/meter
 ||ec.walkme.com/event/log
 ||zendesk.com/api/*/help_center/articles/*/stats
 ||n123loi.com
-||imgur.com/b
 ||reddit.com/errors
 ||reddit.com/timings
 ||events.reddit.com
@@ -125,7 +128,7 @@
 ||owlsr.us^
 ||abeagle-public.buzzfeed.com^$xmlhttprequest
 ||*/campusm/insight/log
-!
+
 ! PIXELS
 ||*/campusm/1px.gif
 ||businessinsider.com/assets/images/transparent.gif$image
@@ -143,21 +146,21 @@
 ||*.livestrongcdn.com/ui/images/modules/loading/pixel.gif$image
 ||s1.huffpost.com/images/blank.gif$image
 ||s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/1x1.png?resize=1%2C1$image
-!
+
 ! FACEBOOK
 ||facebook.com/ajax/photos/logging/session_logging.php$important
 ||graph.facebook.com$xmlhttprequest
 ||instagram.com/client_action
 ||instagram.com/client_error
 ||instagram.com/ajax/bz
-!
+
 ! GOOGLE
 ||content.googleapis.com/drive/v2internal/viewerimpressions$xmlhttprequest,first-party
 ||apis.google.com/_/jserror$xmlhttprequest
 ||youtube.com/api/stats
 ||maps.googleapis.com/maps/api/js/StatsService.RecordStats
 ||maps.googleapis.com/maps/api/js/QuotaService.RecordEvent
-!
+
 ! YAHOO
 ||geo.query.yahoo.com
 ||answers.yahoo.com/ros
@@ -174,7 +177,7 @@
 ||ls.srvcs.tumblr.com/services/bblog$xmlhttprequest
 ||tag.researchnow.com
 ||assets.tumblr.com/images/transparent-pixel.png$image
-!
+
 ! MEDIUM WHITE LABEL
 ||*.com/_/batch$xmlhttprequest,first-party
 !#endif
