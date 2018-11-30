@@ -13,6 +13,7 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+lvlup.pro##.main-header:style(position:static!important)
 zrabatowani.pl###top-menu:style(position:absolute!important)
 www.gram.pl###nav-main:style(position:absolute!important)
 pogonsportnet.pl###mainheader:style(position:absolute!important)
