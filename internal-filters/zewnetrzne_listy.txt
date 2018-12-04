@@ -3088,8 +3088,6 @@ fili.cc##a[href^="/download/file"]
 @@www.witnatura.pl
 !
 !
-!#if cap_user_stylesheet
-!
 ! Source: https://github.com/olegwukr/polish-privacy-filters/blob/master/adblock.txt
 !@Title: Polish Privacy Filters
 !@Oficjalne polskie filtry prywatności
@@ -3778,5 +3776,4 @@ zambrow.org##+js(abort-current-inline-script.js,document.getElementById, block)
 vod.pl##.infoCloud:style(position: absolute!important; left: -3000px!important;)
 webinsider.pl##script:inject(setTimeout-defuser.js, AdBlock)
 !
-!#endif
 !#endif
