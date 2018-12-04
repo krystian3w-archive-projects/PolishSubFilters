@@ -1,6 +1,4 @@
 !#include piperun-filters/iploggerwhitelist.txt
-!#include privacy-filters/olegwukr-filters.txt
-!#include privacy-filters/tracking-filters.txt
 !
 !
 ! Source: https://github.com/PolishFiltersTeam/PolishRSSFilters/blob/master/polish_rss_filters.txt
@@ -22,16 +20,20 @@
 ! Source: https://raw.githubusercontent.com/azet12/KAD/gh-pages/assets/other/kadfakewhitelist.txt
 @URLinclude https://raw.githubusercontent.com/azet12/KAD/gh-pages/assets/other/kadfakewhitelist.txt
 !
+!
 !#if cap_user_stylesheet
 !
 ! Source: https://github.com/olegwukr/polish-privacy-filters/blob/master/adblock.txt
 @URLinclude https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/adblock.txt
 !
+!
 ! Source: https://github.com/metaphoricgiraffe/tracking-filters/blob/master/trackingfilters.txt
 @URLinclude https://raw.githubusercontent.com/metaphoricgiraffe/tracking-filters/master/trackingfilters.txt
 !
+!
 ! Source: https://github.com/olegwukr/polish-privacy-filters/blob/master/anti-adblock.txt
 @URLinclude https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/anti-adblock.txt
+!
 !
 !#if ext_ublock
 !
