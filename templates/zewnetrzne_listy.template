@@ -21,3 +21,16 @@
 !
 ! Source: https://raw.githubusercontent.com/azet12/KAD/gh-pages/assets/other/kadfakewhitelist.txt
 @URLinclude https://raw.githubusercontent.com/azet12/KAD/gh-pages/assets/other/kadfakewhitelist.txt
+!
+!#if cap_user_stylesheet
+!
+! Source: https://github.com/olegwukr/polish-privacy-filters/blob/master/anti-adblock.txt
+@URLinclude https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/anti-adblock.txt
+!
+!#if ext_ublock
+!
+! Source: https://github.com/olegwukr/polish-privacy-filters/blob/master/anti-adblock_suplement.txt
+@URLinclude https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/anti-adblock_suplement.txt
+!
+!#endif
+!#endif
