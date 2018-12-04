@@ -24,6 +24,12 @@
 !
 !#if cap_user_stylesheet
 !
+! Source: https://github.com/olegwukr/polish-privacy-filters/blob/master/adblock.txt
+@URLinclude https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/adblock.txt
+!
+! Source: https://github.com/metaphoricgiraffe/tracking-filters/blob/master/trackingfilters.txt
+@URLinclude https://raw.githubusercontent.com/metaphoricgiraffe/tracking-filters/master/trackingfilters.txt
+!
 ! Source: https://github.com/olegwukr/polish-privacy-filters/blob/master/anti-adblock.txt
 @URLinclude https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/anti-adblock.txt
 !
