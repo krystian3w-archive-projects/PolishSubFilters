@@ -3736,8 +3736,6 @@ vod.tvp.pl##.hidden-phone.rectangleWrapper
 ||tvp.pl/video/vod/reklamy/$domain=tvp.pl
 !
 !
-!#if ext_ublock
-!
 ! Source: https://github.com/olegwukr/polish-privacy-filters/blob/master/anti-adblock_suplement.txt
 !@Oficjalne polskie filtry przeciwko alertom o Adblocku
 !@Last modified: 3 December 2018
@@ -3776,4 +3774,3 @@ zambrow.org##+js(abort-current-inline-script.js,document.getElementById, block)
 vod.pl##.infoCloud:style(position: absolute!important; left: -3000px!important;)
 webinsider.pl##script:inject(setTimeout-defuser.js, AdBlock)
 !
-!#endif
