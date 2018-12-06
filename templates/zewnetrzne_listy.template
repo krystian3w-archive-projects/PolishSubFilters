@@ -37,8 +37,8 @@
 !
 !#if ext_ublock
 !
-! Source: https://github.com/olegwukr/polish-privacy-filters/blob/master/anti-adblock_suplement.txt
-@URLinclude https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/anti-adblock_suplement.txt
+! Source: https://github.com/olegwukr/polish-privacy-filters/blob/master/anti-adblock-suplement.txt
+@URLinclude https://raw.githubusercontent.com/olegwukr/polish-privacy-filters/master/anti-adblock-suplement.txt
 !
 !#endif
 !#endif
