@@ -257,9 +257,15 @@
 !@Expires: 2 days
 !@Report domains not being properly blocked to: support@hexxiumcreations.com
 !@(YYYY/MM/DD)
-!@Version: 20181123
+!@Version: 20181205
 !@USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||adultmmogame.com^
+||seneporno.com^
+||tesla-crypto.info^
+||elon-tesla.tech^
+||spacex.gives^
+||musk.click^
 ||steamdesktopauthenticator.com^
 ||tf2dragon.com^
 ||tf2play.com^
@@ -1384,8 +1390,8 @@
 !@Homepage: https://azet12.github.io/KAD
 !@Title: KAD - Przekręty
 !@Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: 19 Nov 2018
-!@Version: 2018111901
+!@Last modified: 5 Dec 2018
+!@Version: 2018120501
 !@Expires: 1 day
 !
 !@Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
@@ -1410,6 +1416,7 @@
 ||acneuro.pl^
 ||acninc.com^
 ||act-natural-sklep.pl^
+||adblock-listefr.com^
 ||adidaspureboost.pl^
 ||adworkmedia.com^
 ||afisz24.eu^
@@ -1442,7 +1449,6 @@
 ||atcofiles.com^
 ||atlanticgam.online^
 ||audio-book.net.pl^
-||automatkredytowy.pl^
 ||automoney.qtder.com^
 ||aveplay.com^
 ||aveprize.com^
@@ -1457,6 +1463,7 @@
 ||bellsandroses.pl^
 ||berryen.com^
 ||best2018games.com^
+||bestbook-library.com^
 ||bestmobiworld.com^
 ||bestofpush.com^
 ||bestphoneapps.mobi^
@@ -1474,6 +1481,7 @@
 ||blogchanie.com^
 ||blogonews.com^
 ||blos24.pl^
+||bmgrp.tk^
 ||bnewsb.com^
 ||bodysecretrevelation.com^
 ||bon-do-marketu.pl^
@@ -1486,12 +1494,15 @@
 ||botifiles.com^
 ||browser-tools.systems^
 ||browsergames2018.com^
+||brumflix.com^
 ||bustcream-pro.com^
+||butypremium.pl^
 ||buzzonclick.com^
 ||cale-filmy.online^
 ||calivita.com^
 ||casada.pl^
 ||catashare.pw^
+||cavotel.com^
 ||cbldc.io^
 ||ccsolutions.com.pl^
 ||cda-bez-limitu.pl^
@@ -1555,6 +1566,7 @@
 ||dnizbiotrue.pl^
 ||dofinancovani-vyukajazyku.cz^
 ||dofinansowania-jezykowe.pl^
+||dom-server.tk^
 ||domowysprzet.pl^
 ||dotacja-dolnoslaskie.pl^
 ||dotacja-lubelskie.pl^
@@ -1699,10 +1711,12 @@
 ||hd.serial.h2g.pl^
 ||hdmovies.pl^
 ||health-line.me^
+||healthy-news.biz^
 ||herbeauty.co^
 ||heredatetime.com^
 ||hibids10.com^
 ||highlandder.com^
+||hitlog.tk^
 ||hitmax.pl^
 ||hitzhita.pl^
 ||hksfa.org^
@@ -1815,6 +1829,7 @@
 ||mojepvpweryfikacja.tk^
 ||mojezakupy.net^
 ||mon.trackmysales.website^
+||morele.info^
 ||motifiles.com^
 ||moviestarplanet-hack.org.pl^
 ||moviestarplanet-haki-i-kody.crazylife.pl^
@@ -1900,6 +1915,7 @@
 ||pogotowiekomputerowe.net^
 ||pokolorujfb*.glt.pl^
 ||pol.boobs-xl.com^
+||poland.fizzyslim.biz^
 ||polska-nagroda.com^
 ||polska-tv.pl^
 ||powerfactorsaver.com^
@@ -1952,6 +1968,7 @@
 ||redrct.online^
 ||reducelant.com^
 ||reimageplus.com^
+||rep.privatesearch.club^
 ||roaringcash.com^
 ||robloxhack.pl^
 ||rodoabc.pl^
@@ -2031,7 +2048,9 @@
 ||tiandepolska.pl^
 ||tiandewarszawa.pl^
 ||tilido.com^
+||tniemyceny.net^
 ||topseans.pl^
+||torrenty--org.pl^
 ||track.adsfast.com^
 ||trackgsm.co.uk^
 ||trackgsm.de^
@@ -2040,12 +2059,14 @@
 ||tri-book.pl^
 ||triggerinstalls.com^
 ||trixmaster.online^
+||trustedirectdownload.com^
 ||trusttastic.com^
 ||tuniaf.com^
 ||turobit.pw^
 ||twoja-przegladarka.pl^
 ||twoje-filmy.pl^
 ||twoje-piekno.pl^
+||tyxuhuramolicul.tk^
 ||ublock.org^
 ||udziele-pozyczki-prywatnie.pl^
 ||ultratrck.com^
@@ -2071,6 +2092,7 @@
 ||vivenso.pl^
 ||vladoblog.info^
 ||votum-sa.pl^
+||vsee.tk^
 ||vseobuch.ru^
 ||w2mobile.com^
 ||w65.pl^
@@ -2135,6 +2157,7 @@
 ||www.forexyestrader.pl^
 ||www.fresh-finance.pl^
 ||www.gano-excel.pl^
+||www.genetrk.com^
 ||www.geniustrainer.net^
 ||www.getcouponsfast.com^
 ||www.globalintergold.com^
@@ -2208,6 +2231,7 @@
 ||www.synergyworldwide.com^
 ||www.szalonenagrody.com^
 ||www.szalonepromocje.com^
+||www.szczesliwydzien.com^
 ||www.teamworkmlm.pl^
 ||www.telescopethesky.com^
 ||www.tiande.pl^
@@ -2215,6 +2239,7 @@
 ||www.tupperware.pl^
 ||www.twoj-typ.pl^
 ||www.twoj-voucher.com^
+||www.twoja-wygrana.com^
 ||www.twojszczesliwydzien.com^
 ||www.vantis-holding.com^
 ||www.vascoart.pl^
@@ -2233,6 +2258,7 @@
 ||www.zinzino.com^
 ||wygrana-konkursu.eu^
 ||wygrana-wpisz-dane.eu^
+||wyleczpc.pl^
 ||xbox1emulator.org^
 ||xbox360emulator.com^
 ||xkomp.net^
@@ -3400,14 +3426,14 @@ poczta.interia.pl#@#[href*=".hit.gemius.pl"]
 ! Source: https://github.com/olegwukr/polish-privacy-filters/blob/master/anti-adblock.txt
 !@Title: Polish Anti Adblock Filters
 !@Oficjalne polskie filtry przeciwko alertom o Adblocku
-!@Last modified: 4 December 2018
+!@Last modified: 6 December 2018
 !@Expires: 2 days
-!@Version: 2018120401
+!@Version: 2018120601
 !@Support:
 !@  Github >> https://github.com/olegwukr/polish-privacy-filters/issues
 !@License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 !@Copyright (C) 2018 
-!@v.2018120401 aktualizacja: wt, 4 grudnia 2018, 21:26:00
+!@v.2018120601 aktualizacja: czw, 6 grudnia 2018, 12:55:00
 !
 !
 !-----------------------Integration of supplement lists for uBlock & AdGuard-----------------------!
@@ -3457,15 +3483,15 @@ imged.pl##.m-puppies-detector
 infoship.pl,infoair.pl,infobike.pl,infotram.pl,inforail.pl,transinfo.pl,infobus.pl###popup_adblock
 ipon.pl##.alert-warning
 istotne.pl##.modal-dialog
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl#@#.pub_300x250
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl#@#.pub_300x250m
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl#@#.pub_728x90
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl#@#.text_ad
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl#@#.text-ad
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl#@#.textAd
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl#@#.text-ad-links
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl#@#.text_ads
-jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl#@#.text-ads
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl,anime-odcinki.pl#@#.pub_300x250
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl,anime-odcinki.pl#@#.pub_300x250m
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl,anime-odcinki.pl#@#.pub_728x90
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl,anime-odcinki.pl#@#.text_ad
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl,anime-odcinki.pl#@#.text-ad
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl,anime-odcinki.pl#@#.textAd
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl,anime-odcinki.pl#@#.text-ad-links
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl,anime-odcinki.pl#@#.text_ads
+jbzdy.pl,kwejk.pl,piwniczkamemow.pl,eszkola.pl,dobreprogramy.pl,interia.pl,kwantowo.pl,katowickisport.pl,imeds.pl,pl.aleteia.org,overwatch.pl,jackcaleib.com,waw4free.pl,dziwneobrazki.pl,fm.tuba.pl,hentai-online.pl,epainfo.pl,bajeczki.org,tvbraniewo24.pl,anime-odcinki.pl#@#.text-ads
 katowickisport.pl#@#.adform-slot
 katowickisport.pl#@##admain
 katowickisport.pl#@##adnp
@@ -3501,7 +3527,7 @@ megawrzuta.pl###popup-1
 memorizer.pl##.adblockInfo
 minecraftpolska.net,pracawgdansku.com.pl#@#[id*="reklama"]
 minecraftpolska.net,pracawgdansku.com.pl#@##reklama
-mmorpg.org.pl,parezja.pl##.adsbygoogle
+mmorpg.org.pl,parezja.pl,forum.purepc.pl##.adsbygoogle
 mojawyspa.co.uk#@#.adtable
 nadajemy.pl###abp_info
 ps3forum.pl###abl
@@ -3742,42 +3768,6 @@ vod.tvp.pl##.hidden-phone.rectangleWrapper
 !#if ext_ublock
 !
 ! Source: https://github.com/olegwukr/polish-privacy-filters/blob/master/anti-adblock_suplement.txt
-!@Oficjalne polskie filtry przeciwko alertom o Adblocku
-!@Last modified: 3 December 2018
-!@Expires: 2 days
-!@Version: 2018120301
-!@Support:
-!@  Github >> https://github.com/olegwukr/polish-privacy-filters/issues
-!@License: https://creativecommons.org/licenses/by-nc-sa/4.0/
-!@Copyright (C) 2018 
-!@v.2018120301 aktualizacja: pon, 3 grudnia 2018, 21:25:00
-!
-!
-!@Adblock
-acmilan.com.pl##+js(set-constant.js, showAds, true)
-alefunny.pl###myModal, .modal-backdrop
-alefunny.pl##.modal-open:style(overflow: auto !important; padding-right: 0px !important;)
-astroweb.pl##script:inject(abort-on-property-read.js, checkAds)
-aternos.org##script:inject(setTimeout-defuser.js, hasAdblock)
-cvninja.pl##script:inject(abort-on-property-write.js, fuckAdBlock)
-dziwnekomiksy.pl##body>*:style(filter: blur(0px) !important;)
-filmweb.pl##script:inject(abort-on-property-read.js, document.onreadystatechange)
-filmweb.pl##script:inject(setTimeout-defuser.js, notDetected)
-fotoblogia.pl,gadzetomania.pl,wp.pl,autokult.pl,komorkomania.pl,medycyna24.pl,smaczneblogi.pl##script:inject(abort-on-property-write.js, __serviceAbModal)
-niezalezna.pl##script:inject(noeval.js)
-pilot.wp.pl##script:inject(set-constant.js, WP.crux.sealed, falseFunc)
-playpuls.pl##+js(setInterval-defuser.js, muted, 8000)
-playpuls.pl##+js(setTimeout-defuser.js, Math.round, 5000)
-skript.pl##script:inject(abort-current-inline-script.js, $, alert)
-skript.pl##script:inject(abort-current-inline-script.js, document.addEventListener, adblocka)
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=twojahistoria.pl,redirect=noopjs
-||wp.hit.gemius.pl/gdejs/xgde.js$script,redirect=noopjs,domain=pilot.wp.pl
-warezdark.pl##script:inject(abort-on-property-write.js, addBlocking)
-zambrow.org##+js(abort-current-inline-script.js,document.getElementById, block)
-!
-!@Rules after Adblock
-vod.pl##.infoCloud:style(position: absolute!important; left: -3000px!important;)
-webinsider.pl##script:inject(setTimeout-defuser.js, AdBlock)
 !
 !#endif
 !#endif
