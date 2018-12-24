@@ -13,6 +13,8 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+cda-tv.pl###header:style(position:static!important)
+oscarrak.pl##.cb-menu-fw.cb-font-header.clearfix.cb-site-padding.cb-nav-bar-wrap:style(position:static!important)
 lvlup.pro##.main-header:style(position:static!important)
 zrabatowani.pl###top-menu:style(position:absolute!important)
 www.gram.pl###nav-main:style(position:absolute!important)
@@ -687,6 +689,7 @@ www.money.pl###fixedHeader
 !
 !2$----------------------{ flanki }----------------------!
 !
+meskietematy.pl##.outer_vraper
 www.animeholik.pl###sidebar:style(position:static!important)
 www.pafere.org##.td-ss-main-sidebar:style(position:static!important)
 pomoc.poczta.onet.pl##.affix.sidebar__innercontainer:style(position:static!important)
