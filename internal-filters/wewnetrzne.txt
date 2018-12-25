@@ -30,6 +30,9 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+!& manifest
+www.komputerswiat.pl###detail > .image
+!
 !& tymczasowe
 !> https://www.wykop.pl/wpis/31080707/jak-ktos-chialby-nieco-sobie-poprawic-wyswietlanie/
 streamable.com##.stm-ad-player
