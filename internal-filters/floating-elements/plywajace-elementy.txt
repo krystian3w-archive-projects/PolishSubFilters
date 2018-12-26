@@ -13,6 +13,7 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+faktykonopne.pl##.fullwidth-header:style(position:absolute!important)
 whatnext.pl##.sticky.moving-header
 cda-tv.pl###header:style(position:static!important)
 oscarrak.pl##.cb-menu-fw.cb-font-header.clearfix.cb-site-padding.cb-nav-bar-wrap:style(position:static!important)
