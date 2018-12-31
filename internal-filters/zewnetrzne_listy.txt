@@ -257,9 +257,11 @@
 !@Expires: 2 days
 !@Report domains not being properly blocked to: support@hexxiumcreations.com
 !@(YYYY/MM/DD)
-!@Version: 20181220
+!@Version: 20181229
 !@USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||skinsblood.pro^
+||acedrop.ml^
 ||steamspecial.org^
 ||adultmmogame.com^
 ||seneporno.com^
@@ -1391,8 +1393,8 @@
 !@Homepage: https://azet12.github.io/KAD
 !@Title: KAD - Przekręty
 !@Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: 5 Dec 2018
-!@Version: 2018120501
+!@Last modified: 29 Dec 2018
+!@Version: 2018122901
 !@Expires: 1 day
 !
 !@Najnowsza wersja zawsze na: https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
@@ -1423,6 +1425,7 @@
 ||afisz24.eu^
 ||africanmango.pl^
 ||africanmango900.pl^
+||airmax97.pl^
 ||akademianaukowa.pl^
 ||akademiazarabianiawinternecie.pl^
 ||akuna.pl^
@@ -1514,6 +1517,7 @@
 ||centrum-ratuj-swojego-laptopa.warszawa.pl^
 ||centrumdxn.pl^
 ||centrummarek.pl^
+||centrumnaukowe.eu^
 ||centrumofert.com^
 ||cheats4u.pl^
 ||chocoslim.pro^
@@ -1567,6 +1571,9 @@
 ||dnizbiotrue.pl^
 ||dofinancovani-vyukajazyku.cz^
 ||dofinansowania-jezykowe.pl^
+||dofinansowanie-malopolskie.pl^
+||dofinansowanie-mazowieckie.pl^
+||dofinansowanie-podkarpackie.pl^
 ||dom-server.tk^
 ||domowysprzet.pl^
 ||dotacja-dolnoslaskie.pl^
@@ -1610,6 +1617,7 @@
 ||ekstrafilmy24.pl^
 ||elektro24h.pl^
 ||elite-crack.ml^
+||emilkrebs.com^
 ||emobi-sys.com^
 ||enbutique.com^
 ||energetix.com.pl^
@@ -1621,6 +1629,7 @@
 ||estream.com.pl^
 ||euco.pl^
 ||euroagd.net^
+||euronicspl.net^
 ||exitopolska.com^
 ||extragenerators.xyz^
 ||f-ads.pl^
@@ -1656,6 +1665,7 @@
 ||firebid.pl^
 ||firegifts.pl^
 ||firesub.pl^
+||fit-buzz.com^
 ||flamefolder.com^
 ||flirtarepertutti.com^
 ||fmg.pl^
@@ -1712,6 +1722,7 @@
 ||hd.serial.h2g.pl^
 ||hdmovies.pl^
 ||health-line.me^
+||health-partner.net^
 ||healthy-news.biz^
 ||herbeauty.co^
 ||heredatetime.com^
@@ -1743,9 +1754,11 @@
 ||instantgiftcodes.com^
 ||instytut-pomocy.pl^
 ||instytutmed.pl^
+||intconnectltd.com^
 ||intelligenttechnologies.pl^
 ||interbuty.pl^
 ||internetowy-sklep.net^
+||inwestujwrozwoj.pl^
 ||ipzd.pl^
 ||iv24.pl^
 ||iwcollege.com^
@@ -1776,6 +1789,7 @@
 ||konkursy24.ml^
 ||krdn.pl^
 ||krebsmethod.com^
+||krebsmethod.it^
 ||kryptochemik.pl^
 ||kupzytax.pl^
 ||kuriero.pl^
@@ -1812,6 +1826,7 @@
 ||mediamax.in.net^
 ||medicreporters.com^
 ||megadownloader.co^
+||megalinguo.com^
 ||menshealthweb.co^
 ||mezczyzna-trendy.pl^
 ||mgid.com^
@@ -1827,6 +1842,7 @@
 ||modnakolekcja.com^
 ||mojadietanamase.pl^
 ||moje-iq.pl^
+||mojepc.net^
 ||mojepvpweryfikacja.tk^
 ||mojezakupy.net^
 ||mon.trackmysales.website^
@@ -1848,6 +1864,7 @@
 ||namierzanie-telefonu.pl^
 ||napraw-laptopa.waw.pl^
 ||napraw-swojego-laptopa.pl^
+||nastim.pl^
 ||naszasa.pl^
 ||naszesprawdziany.pl^
 ||naturabazar.pl^
@@ -1877,7 +1894,9 @@
 ||oswieconykochanek.pl^
 ||oszukacruletke.like.pl^
 ||otosponsorki.pl^
+||outletto24.com^
 ||paifemouchoa.com^
+||pandorabiżuteria.pl^
 ||papla.pl^
 ||patterntrader.biz^
 ||pc-data.pl^
@@ -1928,6 +1947,7 @@
 ||prawdziwyrozwoj.pl^
 ||premium-offers.space^
 ||premiumlinkgenerator.online^
+||prime-management-ltd.com^
 ||princessmask.pro^
 ||private.atlanticgam.es^
 ||prizelava.com^
@@ -1968,6 +1988,7 @@
 ||redirectzone.com^
 ||redrct.online^
 ||reducelant.com^
+||refundacjeregionalne.pl^
 ||reimageplus.com^
 ||rep.privatesearch.club^
 ||roaringcash.com^
@@ -1986,6 +2007,7 @@
 ||seans24.com.pl^
 ||seanse24.pl^
 ||sendspace.pw^
+||senoctis.pl^
 ||serialefilmy.pl^
 ||serwis-laptopow-powisle.pl^
 ||serwis-laptopow.org.pl^
@@ -2105,12 +2127,14 @@
 ||weon.pl^
 ||wielkanagroda.com^
 ||wielkaniespodzianka.pl^
+||wielkopolskie.refundacjeregionalne.pl^
 ||wifiprotector.com^
 ||wirtualna-polska.site^
 ||wirtuozseksu.pl^
 ||wizjatv-kody.pl^
 ||wniosek-24h.pl^
 ||wooptrk.com^
+||workwolf.pl^
 ||world-of-money.eu^
 ||worldinfoclub.com^
 ||worldoftankscheats.com^
@@ -2123,11 +2147,8 @@
 ||www.amway.com^
 ||www.amway.pl^
 ||www.aquacell.pl^
-||www.arbonne.com^
 ||www.as-chwilowka.pl^
 ||www.avita.net.pl^
-||www.avon.com^
-||www.avon.pl^
 ||www.awin.com^
 ||www.betterware.pl^
 ||www.bogata-przyszlosc.com^
@@ -2283,6 +2304,7 @@
 ||zmotoryzowani24.pl^
 ||znajdz-numer.pl^
 ||zobacz24.pl^
+||zoomica.pl^
 ||zostan-zwyciezca.com^
 ||zukiewicz.com^
 ||zyski-z-innowacji.pl^
