@@ -13,6 +13,8 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+www.focus.pl###nav:style(position:static!important)
+anime-odcinki.pl###navbar:style(position:static!important)
 faktykonopne.pl##.fullwidth-header:style(position:absolute!important)
 whatnext.pl##.sticky.moving-header
 cda-tv.pl###header:style(position:static!important)
