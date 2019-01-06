@@ -13,6 +13,9 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+kettei.pl###header:style(position:absolute!important)
+youtubes.pl##.header-layout.navbar-fixed-top.navbar-findcond.navbar:nth-of-type(1):style(position:absolute!important)
+youtubes.pl##.navbarfix.second-header-layout.navbar-default.navbar-findcond.navbar:style(position:static!important)
 www.focus.pl###nav:style(position:static!important)
 anime-odcinki.pl###navbar:style(position:static!important)
 faktykonopne.pl##.fullwidth-header:style(position:absolute!important)
