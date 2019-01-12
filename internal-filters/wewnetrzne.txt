@@ -30,6 +30,9 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+! auto-promo
+www.codzienniefit.pl##.row.opinion-sidebar
+!
 !& manifest
 www.komputerswiat.pl###detail > .image
 !
