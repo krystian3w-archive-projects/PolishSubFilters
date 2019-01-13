@@ -30,6 +30,9 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+! piperun fix, wh
+@@||adf.ly^
+!
 ! auto-promo
 www.codzienniefit.pl##.row.opinion-sidebar
 !
