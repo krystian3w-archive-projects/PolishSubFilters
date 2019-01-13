@@ -1,6 +1,3 @@
-!#include piperun-filters/iploggerwhitelist.txt
-!
-!
 ! Source: https://github.com/piperun/iploggerfilter/blob/master/filterlist
 @URLinclude https://raw.githubusercontent.com/piperun/iploggerfilter/master/filterlist
 !
