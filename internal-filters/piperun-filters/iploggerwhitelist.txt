@@ -1,7 +1,0 @@
-! Checksum: ykQxwqzH4Shu7YtV+PCbHw
-! Title: Piperun's iplogger whitelist
-! Version: 20181129
-! Expires: 3 days
-! Homepage: https://github.com/piperun/iploggerfilter
-! License: https://github.com/piperun/iploggerfilter/blob/master/LICENSE
-@@||adf.ly^
