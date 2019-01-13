@@ -142,9 +142,6 @@ dramafever.com##.vjs-admarker
 video.sibnet.ru###vjs-overlayclip-box
 video.sibnet.ru##.vjs-overlayclip-box-close
 !
-!& nudyzm
-||avatarsb.dpcdn.pl/imgd/Avatar/523762/$image
-!
 !& konkurs, podstrona, przycisk
 www.legalnakultura.pl###konkursy-plugin-container
 !
