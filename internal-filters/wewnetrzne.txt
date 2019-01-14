@@ -30,6 +30,9 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+! wspieraj kanał, tymczasowe, alert
+www.youtube.com##.ytd-popup-container.style-scope.dropdown-content
+!
 ! piperun fix, wh
 @@||adf.ly^
 !
