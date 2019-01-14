@@ -13,6 +13,8 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+www.radio.pl##.player-wrapper:style(position:static!important)
+mensis.pl###header:style(position:static!important)
 magazynwiatr.pl##header:style(position:relative!important)
 www.codzienniefit.pl##.opinion-header-sticky.opinion-header
 kettei.pl###header:style(position:absolute!important)
