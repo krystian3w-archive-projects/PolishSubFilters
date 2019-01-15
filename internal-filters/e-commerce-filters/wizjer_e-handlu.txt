@@ -13,6 +13,9 @@
 !
 !1$----------------------{ ogólne reguły }----------------------!
 !
+! sklep
+mensis.pl###woocommerce_products-2
+!
 ! polecane, podstrona
 oczymlekarze.pl##.default.dobry_wybor_dla_zdrowia_content
 !
