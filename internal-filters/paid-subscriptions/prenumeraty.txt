@@ -13,6 +13,7 @@
 !
 !1$----------------------{ ogólne reguły }----------------------!
 !
+mensis.pl###custom_html-3
 oczymlekarze.pl##.publishing
 oczymlekarze.pl##.w-numerze-right.subpages
 viva.pl##.medium-order-210.subscription
