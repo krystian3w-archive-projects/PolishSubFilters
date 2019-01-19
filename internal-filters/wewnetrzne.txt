@@ -15,7 +15,7 @@
 !   Authedmine >> https://authedmine.com/media/miner.html?key=ZpmDZUFJhHdv1YZHpCHFWhAUQIGa67TV
 !   Monero >> 46URZwMRZZDX5jD8eHaDGhdfKz5ug4AHb1eMRZ5mBbUkMXVcuGgdMHPWbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm42Vo9go
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pl
-! Copyright © 2018 MT&Q
+! Copyright © 2018-2019 MT&Q
 !
 !   Sprawdź dostępne listy filtrów >> https://github.com/MajkiIT/polish-ads-filter#about
 !
