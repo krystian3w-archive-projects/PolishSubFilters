@@ -9,7 +9,7 @@
 ! Zgłoszenia:
 !   Discord >> https://discord.me/polskiefiltry
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pl
-! Copyright © 2018-2019 MT&Q
+! Copyright © 2018-2019 MT&Qn
 !
 !1$----------------------{ nagłówki }----------------------!
 !
