@@ -9,8 +9,6 @@
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin, Nano Adblocker lub Adguard
 !   Listy filtrów >> EasyList + EasyList Polish + Polskie Filtry + Polskie Filtry EI
-! Zgłoszenia:
-!   Discord >> https://discord.me/polskiefiltry
 ! Donacje:
 !   Authedmine >> https://authedmine.com/media/miner.html?key=ZpmDZUFJhHdv1YZHpCHFWhAUQIGa67TV
 !   Monero >> 46URZwMRZZDX5jD8eHaDGhdfKz5ug4AHb1eMRZ5mBbUkMXVcuGgdMHPWbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm42Vo9go
