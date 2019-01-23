@@ -780,7 +780,7 @@ radiopoznan.fm###rm-main-logo-place:style(transition:none!important)
 radiopoznan.fm###rm-top:style(position:absolute!important)
 !
 !
-!5$----------------------{ nopl }----------------------!
+!6$----------------------{ nopl }----------------------!
 !
 ! header
 vup.to##header:style(position:absolute!important)
