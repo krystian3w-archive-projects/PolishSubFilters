@@ -451,7 +451,10 @@ popodrozy.pl##.layout_seselegant_paralex.generic_layout_container
 alltube.tv,alltube.pl##header > .row
 !
 !
-!9$----------------------{ międzykontynentalne }----------------------!
+!9$----------------------{ no-pl }----------------------!
+!
+!& logo, player
+vup.to##div:nth-of-type(2) > div > .logo
 !
 !& ulepszenie, player, logo, podserwis
 vider.info##[class^="jw-logo jw-logo-top-right jw-reset"]
