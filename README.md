@@ -11,4 +11,6 @@ Informacje:
 - opcjonalnie dodatki do filtrów to [Nano Defender](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/nano_defender.md), [Ciasteczkowa Zgoda](https://github.com/PolishFiltersTeam/PolishCookieConsent#polska-ciasteczkowa-zgoda), [Decentraleyes](https://decentraleyes.org/)
 
 [![Donatuj](https://img.shields.io/website-anonimowo-down-green-red/https/authedmine.com.svg?label=Donatuj&colorB=1caf92)](https://authedmine.com/media/miner.html?key=ZpmDZUFJhHdv1YZHpCHFWhAUQIGa67TV)
+<!--
 [![Discord](https://img.shields.io/discord/383371243925274626.svg?colorB=7289da&label=Discord)](https://discord.gg/UEWEBqz)
+-->
