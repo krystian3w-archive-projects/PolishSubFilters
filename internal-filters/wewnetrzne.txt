@@ -30,6 +30,9 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+! yt, auto-stop, anti lock screen
+www.youtube.com##paper-dialog.ytd-popup-container.style-scope
+!
 ! piperun fix, wh
 @@||adf.ly^
 !
