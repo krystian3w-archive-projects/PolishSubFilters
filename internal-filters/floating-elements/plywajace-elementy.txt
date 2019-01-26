@@ -11,6 +11,7 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+ototorun.pl##.l-nav-wrapper:style(position:static!important)
 www.zajadam.pl###topbar:style(position:absolute!important)
 www.radio.pl##.player-wrapper:style(position:static!important)
 mensis.pl###header:style(position:static!important)
@@ -699,6 +700,7 @@ www.money.pl###fixedHeader
 !
 !2$----------------------{ flanki }----------------------!
 !
+ototorun.pl##.c-author:style(position:static!important)
 www.zajadam.pl##.fixed.sidebar-fixed:style(position:static!important)
 meskietematy.pl##.outer_vraper
 www.animeholik.pl###sidebar:style(position:static!important)
