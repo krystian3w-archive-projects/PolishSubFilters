@@ -1,4 +1,4 @@
-! Checksum: R4wJ/zn7fr7Vq/MxCXMgIQ
+! Checksum: Iv4/I8PgaHqCT6p7a3Y8VA
 ! Title: Polskie Filtry Osadzające Nagłówki
 ! Collaborators: KonoromiHimaries, hawkeye116477, yourduskquibbles
 ! Version: 20190127
@@ -56,13 +56,11 @@ blog.gft.com###masthead:style(position:absolute!important)
 discopolonew.cba.pl##.navbar-default.navbar:style(position:absolute!important)
 kodzisz.pl###main-nav:style(position:absolute!important)
 epiotrkow.pl##.menu_new:style(position:static!important)
-www.dramazone.pl,livro.pl,www.spidersweb.pl,avdotia.kotkowicz.pl,dorzeczy.pl,superhistoria.pl,oxford.pwn.pl###header:style(position:static!important)
 prnews.pl##.fixed-enabled.clearfix.menu_wrapper:style(position:static!important)
 m.joemonster.org##.headroom--not-bottom.headroom:style(position:absolute!important)
 failtube.pl##nav:style(position:absolute!important)
 www.komputerswiat.pl###pageHeader:style(position:absolute!important)
 szukajka.tv##.fix:style(position:absolute!important)
-szukajka.tv,www.gierkionline.pl,www.netgun.pl,mlodytechnik.pl,strimi.pl,vod.tvp.pl,www.biofarm.pl,www.artefakt.pl,stopcafe.pl,www.vulcan.edu.pl,www.ofeminin.pl##header:style(position:absolute!important)
 olszanowska.pl##.navbar-default.navbar:style(position:absolute!important)
 portal.abczdrowie.pl##.header.top-header:style(position:absolute!important)
 djoles.pl##.navbar-default.navbar:style(position:absolute!important)
@@ -695,6 +693,8 @@ www.igbbaltica.pl##script:inject(abort-current-inline-script.js, $, fixed_header
 www.polskieradio.pl##script:inject(setTimeout-defuser.js, scrolling, 25)
 www.money.pl###fixedHeader
 scrabble123.pl,www.dobrzemieszkaj.pl,www.blog.gdaq.pl,muzykaiprawo.pl,forumplaskaziemia.pl,www.audiobook.pl,jajco.pl,zegarkiipasja.pl,kresy.pl,forumgliwice.pl,www.benchmark.pl,6krokow.pl,niezalezna.pl,reporters.pl,wprost.pl,yieldbird.com,prenumerata.rp.pl,dlakierowcow.orlen.pl,www.pudelek.tv###header:style(position:absolute!important)
+www.dramazone.pl,livro.pl,www.spidersweb.pl,avdotia.kotkowicz.pl,dorzeczy.pl,superhistoria.pl,oxford.pwn.pl###header:style(position:static!important)
+szukajka.tv,www.gierkionline.pl,www.netgun.pl,mlodytechnik.pl,strimi.pl,vod.tvp.pl,www.biofarm.pl,www.artefakt.pl,stopcafe.pl,www.vulcan.edu.pl,www.ofeminin.pl##header:style(position:absolute!important)
 !audioteka.com##[class^="page-head page-head--sticky"]:style(position:static!important)
 !
 !
