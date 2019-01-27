@@ -11,6 +11,34 @@
 !
 !1$----------------------{ ogólne reguły anty-dotacyjne }----------------------!
 !
+!& darowizna za prace
+jagiellonski24.pl###fundraising
+!
+medianarodowe.com##.donate_cycle
+!
+!> https://github.com/MajkiIT/polish-ads-filter/issues/4848
+tygodnikprzeglad.pl##.footer-darowizna-widgets
+!
+racjonalista.tv###text-14
+!
+pc-geek.pl##.clearfix.sb-content.widget_text
+!
+!> https://github.com/MajkiIT/polish-ads-filter/issues/4832
+3droga.pl###text-5
+3droga.pl###text-4
+3droga.pl###text-3
+!
+trybun.org.pl###widget_simplecatch_adspace_widget-11
+!
+racjonalista.tv###text-4
+!
+ciapkowo.pl###text-7
+!
+prawy.pl###content-main > div:nth-of-type(7)
+prawy.pl###content-main > div:nth-of-type(4)
+!
+polskieradio.com##a[href="../radioton.aspx"]
+!
 www.opencraft.pl##div.column:nth-of-type(1) > div:nth-of-type(2)
 !
 ! podstrona
@@ -109,17 +137,8 @@ obserwatorpolityczny.pl###widget-wrap:nth-of-type(1)
 !
 kodiwpigulce.pl###text-33
 !
-!
-!2$----------------------{ sezonowe }----------------------!
-!
-!
-!3$----------------------{ bitcoin }----------------------!
-!
 !#https://github.com/MajkiIT/polish-ads-filter/issues/4619
 bitcoin-online.pl##.sppb-col-md-6:nth-of-type(2)
-!
-!
-!4$----------------------{ paypal }----------------------!
 !
 !& baner, paypal, zew. str
 !> https://github.com/MajkiIT/polish-ads-filter/issues/6955
@@ -152,7 +171,7 @@ prawicowyinternet.pl##center:nth-of-type(2)
 argonauta.pl##.widget-container:nth-of-type(5)
 !
 !
-!5$----------------------{ międzykontynentalne }----------------------!
+!2$----------------------{ no-pl }----------------------!
 !
 !& widget, formularz, paypal
 help.getadblock.com###ab-donation-box
@@ -166,7 +185,7 @@ creativecommons.org###header-below
 creativecommons.org##.slide-trigger
 !
 !
-!6$----------------------{ patronite & patreon }----------------------!
+!3$----------------------{ patronite & patreon }----------------------!
 !
 a-o.ninja##a[href="https://www.patreon.com/aoninja"]
 !
@@ -177,48 +196,11 @@ totylkoteoria.pl###Image1
 www.stacjafilipa.pl###text-13
 !
 !
-!7$----------------------{ tpay }----------------------!
-!
-!& darowizna za prace
-jagiellonski24.pl###fundraising
-!
-medianarodowe.com##.donate_cycle
-!
-!> https://github.com/MajkiIT/polish-ads-filter/issues/4848
-tygodnikprzeglad.pl##.footer-darowizna-widgets
+!4$----------------------{ inne }----------------------!
 !
 !
-!8$----------------------{ zrzutka }----------------------!
 !
-racjonalista.tv###text-14
-!
-pc-geek.pl##.clearfix.sb-content.widget_text
-!
-!> https://github.com/MajkiIT/polish-ads-filter/issues/4832
-3droga.pl###text-5
-3droga.pl###text-4
-3droga.pl###text-3
-!
-!
-!9$----------------------{ payu }----------------------!
-!
-trybun.org.pl###widget_simplecatch_adspace_widget-11
-!
-!
-!10$----------------------{ tymczasowe }----------------------!
-!
-!
-!11$----------------------{ konta bankowe }----------------------!
-!
-racjonalista.tv###text-4
-!
-ciapkowo.pl###text-7
-!
-prawy.pl###content-main > div:nth-of-type(7)
-prawy.pl###content-main > div:nth-of-type(4)
-!
-!
-!12$----------------------{ 1% podatku }----------------------!
+!5$----------------------{ 1% }----------------------!
 !
 gosc.pl##a[href="http://fundacja.gosc.pl"] > .imgResized.cf
 !
@@ -233,7 +215,7 @@ ciapkowo.pl###text-13
 prawy.pl###leader-wrap
 !
 !
-!13$----------------------{ przyciski }----------------------!
+!6$----------------------{ przyciski }----------------------!
 !
 !& podstrona, paypal, bitcoin, bank
 a-o.ninja##a[href="https://a-o.ninja/dotacjeprzelewybank"]
@@ -241,21 +223,16 @@ a-o.ninja##a[href="https://a-o.ninja/dotacjeprzelewybank"]
 medianarodowe.com##.link_donate
 !
 !
-!14$----------------------{ komunikaty }----------------------!
+!7$----------------------{ komunikaty }----------------------!
 !
 medianarodowe.com##.desc
 !
 a-o.ninja##.clearfix.block-search.block:nth-of-type(2)
 !
 !
-!15$----------------------{ krypto koparki }----------------------!
+!8$----------------------{ krypto koparki }----------------------!
 !
 tvwlodawa.pl###monero-miner-for-coin-hive-3
 tvwlodawa.pl###text-8
 tvwlodawa.pl###text-6 > .widget-top
-!
-!
-!16$----------------------{ fundacje }----------------------!
-!
-polskieradio.com##a[href="../radioton.aspx"]
 !
