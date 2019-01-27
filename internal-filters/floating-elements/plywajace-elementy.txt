@@ -40,7 +40,6 @@ www.animeholik.pl###PageList1:style(position:static!important)
 www.pafere.org##.td-header-gradient.td-header-menu-wrap:style(position:static!important)
 www.wloskielove.pl##.yesAnim.theNavigationBar:style(position:absolute!important)
 pcpobierz.pl,jezykowasilka.pl###masthead:style(position:static!important)
-scrabble123.pl,www.dobrzemieszkaj.pl,www.blog.gdaq.pl,muzykaiprawo.pl,forumplaskaziemia.pl,www.audiobook.pl,jajco.pl,zegarkiipasja.pl,kresy.pl,forumgliwice.pl,www.benchmark.pl,6krokow.pl,niezalezna.pl,reporters.pl,wprost.pl,yieldbird.com,prenumerata.rp.pl,dlakierowcow.orlen.pl,www.pudelek.tv###header:style(position:absolute!important)
 przyjazny-linux.tuxblog.pl###masthead:style(position:absolute!important)
 kupujemy.to###bar:style(position:absolute!important)
 kodiwpigulce.pl##.main-menu.row:style(position:relative!important)
@@ -695,6 +694,7 @@ www.computerworld.pl,www.cxo.pl,www.internetstandard.pl,www.pcworld.pl##script:i
 www.igbbaltica.pl##script:inject(abort-current-inline-script.js, $, fixed_header)
 www.polskieradio.pl##script:inject(setTimeout-defuser.js, scrolling, 25)
 www.money.pl###fixedHeader
+scrabble123.pl,www.dobrzemieszkaj.pl,www.blog.gdaq.pl,muzykaiprawo.pl,forumplaskaziemia.pl,www.audiobook.pl,jajco.pl,zegarkiipasja.pl,kresy.pl,forumgliwice.pl,www.benchmark.pl,6krokow.pl,niezalezna.pl,reporters.pl,wprost.pl,yieldbird.com,prenumerata.rp.pl,dlakierowcow.orlen.pl,www.pudelek.tv###header:style(position:absolute!important)
 !audioteka.com##[class^="page-head page-head--sticky"]:style(position:static!important)
 !
 !
