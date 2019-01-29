@@ -29,13 +29,16 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
-! yt, auto-stop, anti lock screen
+!& konkurs, zachęta do komentarza
+www.taniaksiazka.pl###dodajRecenzje
+!
+!& yt, auto-stop, anti lock screen
 www.youtube.com##paper-dialog.ytd-popup-container.style-scope
 !
-! piperun fix, wh
+!& piperun fix, wh
 @@||adf.ly^
 !
-! auto-promo
+!& auto-promo
 www.codzienniefit.pl##.row.opinion-sidebar
 !
 !& manifest
