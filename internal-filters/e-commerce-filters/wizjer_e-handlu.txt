@@ -11,10 +11,17 @@
 !
 !1$----------------------{ ogólne reguły }----------------------!
 !
-! sklep
+!& sklep, polecane, podstrona, dub-ele
+www.taniaksiazka.pl###FullLeftSmall
+www.taniaksiazka.pl###FullRightSmall
+www.taniaksiazka.pl##.col-right-2
+www.taniaksiazka.pl###BreadWide2
+taniaksiazka.pl##[class^="OpenXAds"]
+!
+!& sklep
 mensis.pl###woocommerce_products-2
 !
-! polecane, podstrona
+!& polecane, podstrona
 oczymlekarze.pl##.default.dobry_wybor_dla_zdrowia_content
 !
 !& podstrona, polecane
