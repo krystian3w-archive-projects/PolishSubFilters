@@ -237,7 +237,7 @@ tvwlodawa.pl###text-8
 tvwlodawa.pl###text-6 > .widget-top
 !
 !
-!8$----------------------{ dobroczynność }----------------------!
+!9$----------------------{ dobroczynność }----------------------!
 !
 www.taniaksiazka.pl##.we-help
 !
