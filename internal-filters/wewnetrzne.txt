@@ -107,7 +107,7 @@ www.yourupload.com##.jw-logo-bottom-left.jw-logo
 vidoza.net##.vjs-topbar-button__icon
 !
 !& fix, zbugowane, easyprivacy
-@@*$xmlhttprequest,domain=alltube.pl|alltube.tv
+@@*$xmlhttprequest,domain=alltube.pl|alltube.tv|szukajka.tv
 !
 !& non-content, polecane, zew.
 alltube.pl,alltube.tv##.text-center > [href="http://failtube.pl"]
