@@ -700,6 +700,7 @@ szukajka.tv,www.gierkionline.pl,www.netgun.pl,mlodytechnik.pl,strimi.pl,vod.tvp.
 !
 !2$----------------------{ flanki }----------------------!
 !
+www.taniaksiazka.pl##.book-price-bg:style(position:static!important)
 ototorun.pl##.c-author:style(position:static!important)
 www.zajadam.pl##.fixed.sidebar-fixed:style(position:static!important)
 meskietematy.pl##.outer_vraper
