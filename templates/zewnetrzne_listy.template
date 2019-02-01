@@ -6,8 +6,8 @@
 @URLinclude https://raw.githubusercontent.com/HexxiumCreations/threat-list/gh-pages/hexxiumthreatlist.txt
 !
 !
-! Source: https://github.com/azet12/KAD/blob/master/KAD.txt
-@URLinclude https://raw.githubusercontent.com/azet12/KAD/master/KAD.txt
+! Source: https://github.com/PolishFiltersTeam/KAD/blob/master/KAD.txt
+@URLinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/KAD.txt
 !
 !
 ! Source: https://raw.githubusercontent.com/azet12/KAD/gh-pages/assets/other/kadfakewhitelist.txt
