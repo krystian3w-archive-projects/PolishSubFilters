@@ -11,6 +11,7 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+kadantiscam.netlify.com###navigation:style(position:static!important)
 ototorun.pl##.l-nav-wrapper:style(position:static!important)
 www.zajadam.pl###topbar:style(position:absolute!important)
 www.radio.pl##.player-wrapper:style(position:static!important)
