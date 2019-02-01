@@ -1457,7 +1457,7 @@
 ||findforfun.com^
 !
 !
-! Source: https://github.com/azet12/KAD/blob/master/KAD.txt
+! Source: https://github.com/PolishFiltersTeam/KAD/blob/master/KAD.txt
 !
 !@Homepage: https://azet12.github.io/KAD
 !@Title: KAD - Przekręty
