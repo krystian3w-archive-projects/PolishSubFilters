@@ -1463,8 +1463,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Wed, 06 Feb 2019, 20:32 UTC+01
-!@Version: 2019.2.6.1
+!@Last modified: Fri, 08 Feb 2019, 16:48 UTC+01
+!@Version: 2019.2.8.1
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0.
 !@Filtrem zarządza Polish Filters Team.
@@ -1978,6 +1978,7 @@
 ||offerzone.click^
 ||ogladaj.online^
 ||ogladamy24.pl^
+||okazyjnie.net^
 ||onecoin.eu^
 ||onlinerekruter.com^
 ||online.pro^
@@ -2206,6 +2207,7 @@
 ||usa.cc^
 ||usunwirusa.pl^
 ||vanssk8hi.pl^
+||vapormax.pl^
 ||vasco-group.eu^
 ||vegatestsklep.pl^
 ||verifycaptcha.com^
@@ -3314,14 +3316,14 @@ pl##.rss-button
 ! Source: https://github.com/olegwukr/polish-privacy-filters/blob/master/adblock.txt
 !@Title: Polish Privacy Filters
 !@Oficjalne polskie filtry prywatności
-!@Last modified: 29 December 2018
+!@Last modified: 9 February 2019
 !@Expires: 3 days
-!@Version: 2018122901
+!@Version: 2019020901
 !@Support:
 !@  Github >> https://github.com/olegwukr/polish-privacy-filters/issues
 !@License: https://creativecommons.org/licenses/by-nc-sa/4.0/
-!@Copyright (C) 2018 
-!@v.2018122902 aktualizacja: sob, 29 grudnia 2018, 14:55:00
+!@Copyright (C) 2019 
+!@v.2019020901 aktualizacja: sob, 9 lutego 2019, 11:35:00
 !
 !
 !-----------------------Privacy filters block-----------------------!
@@ -3372,7 +3374,7 @@ poczta.interia.pl#@#[href*=".hit.gemius.pl"]
 ||edrone.me^$third-party
 ||emisja.adsearch.pl/$xmlhttprequest
 ||entryhit.wp.pl^
-||g.cda.pl/*.php?pixel*=[timestamp]$image
+||g.cda.pl/*.php?pixel$image
 ||gcontent.services.tvn.pl^
 ||gemius.pl^$domain=~www.gemius.pl
 ||histats.com^
