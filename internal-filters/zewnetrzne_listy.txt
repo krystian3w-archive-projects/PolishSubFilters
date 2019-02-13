@@ -1463,8 +1463,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Mon, 11 Feb 2019, 13:38 UTC+01
-!@Version: 2019.2.11.1
+!@Last modified: Tue, 12 Feb 2019, 22:42 UTC+01
+!@Version: 2019.2.12.2
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0.
 !@Filtrem zarządza Polish Filters Team.
@@ -1498,6 +1498,7 @@
 ||africanmango900.pl^
 ||africanmango.pl^
 ||agdkom.net^
+||agdrtv24.net^
 ||airmax97.pl^
 ||akademianaukowa.pl^
 ||akademiazarabianiawinternecie.pl^
@@ -2159,6 +2160,7 @@
 ||szaloneupusty.pl^
 ||szamponrevita.pl^
 ||szczesliwagotowka.pl^
+||szybkanaukapro.pl^
 ||szybkapozyczkateraz.pl^
 ||szybka-pozyczka.com^
 ||szybka-wyplata.pl^
