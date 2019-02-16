@@ -60,6 +60,20 @@
 
 2. zainstaluj podane dodatki
 
+#### na Yandex w wersji **mobilnej** ( [działa tylko z Nano Adblockerem](https://chrome.google.com/webstore/detail/nano-adblocker/gabbbocakeomblphkmmnoamkioajlkfo) )
+
+1. wejdź w poniższe linki
+
+<ul>
+
+<code>https://chrome.google.com/webstore/detail/nano-adblocker/gabbbocakeomblphkmmnoamkioajlkfo</code>
+
+<code>https://chrome.google.com/webstore/detail/nano-defender/ggolfgbegefeeoocgjbmkembbncoadlb</code>
+
+</ul>
+
+2. zainstaluj podane dodatki
+
 ### aby zainstalować nano defender z ublockiem origin
 
 1. zainstaluj ublock origin wraz z nano defenderem
