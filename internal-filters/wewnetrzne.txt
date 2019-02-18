@@ -32,9 +32,6 @@
 !& konkurs, zachęta do komentarza
 www.taniaksiazka.pl###dodajRecenzje
 !
-!& yt, auto-stop, anti lock screen
-www.youtube.com##paper-dialog.ytd-popup-container.style-scope
-!
 !& piperun fix, wh
 @@||adf.ly^
 !
