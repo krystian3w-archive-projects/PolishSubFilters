@@ -1486,8 +1486,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Mon, 18 Feb 2019, 00:33 UTC+01
-!@Version: 2019.2.18.2
+!@Last modified: Tue, 19 Feb 2019, 14:31 UTC+01
+!@Version: 2019.2.19.1
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0.
 !@Filtrem zarządza Polish Filters Team.
@@ -1518,6 +1518,7 @@
 ||adworkmedia.com^
 ||africanmango900.pl^
 ||africanmango.pl^
+||agdeer.com^
 ||agdkom.net^
 ||agdrtv24.net^
 ||airmax97.pl^
@@ -2068,6 +2069,7 @@
 ||programyhakerskie.pl^
 ||prokino.pl^
 ||promocionesparati.com^
+||prooexpert.com^
 ||provanto.pl^
 ||prywatne-pozyczki-24.pl^
 ||przyspieszkomputer.pl^
@@ -2405,6 +2407,7 @@
 ||yourperlebleue.com^
 ||yummymobile.pl^
 ||zakupyagd.net^
+||zakupymax.net^
 ||zalukajfilmy.pl^
 ||zarabiajwsieci.eu^
 ||zarabiaj-dzis.pl^
@@ -2608,6 +2611,12 @@
 ||all-player.pl^
 ||androidsecurityplus.com^
 ||appiq.mobi^
+||apple.com-care-macbook-system.live^
+||apple.com-improve-macos.live^
+||apple.com-repair-macbook.live^
+||apple.com-repair-os.live^
+||apple.com-speedup-macbook.live^
+||apple.com-speedup-macos.live^
 ||appsdorado.com^
 ||astrocash.org^
 ||bazafilmowa.org^
