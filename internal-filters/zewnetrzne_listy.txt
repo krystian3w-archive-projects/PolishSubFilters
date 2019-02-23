@@ -1486,8 +1486,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Thu, 21 Feb 2019, 12:44 UTC+01
-!@Version: 2019.2.21.4
+!@Last modified: Thu, 21 Feb 2019, 20:50 UTC+01
+!@Version: 2019.2.21.6
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0.
 !@Filtrem zarządza Polish Filters Team.
@@ -1681,6 +1681,7 @@
 ||drnona.pl^
 ||dsa.pl^
 ||dwnlad.ws^
+||dzisiejszefakty.xyz^
 ||earthpowerint.com^
 ||easynet.pierre-lang.com^
 ||ebeautyportal.com^
@@ -1854,7 +1855,6 @@
 ||jacketspolska.cn^
 ||jakpodrywacnatinderze.pl^
 ||jetparty.net^
-||johnsmithsmethod.com^
 ||jordenmadsen.com^
 ||jumpers.mobi^
 ||jump.ogtrk.net^
@@ -1921,7 +1921,7 @@
 ||mediamax.in.net^
 ||medicreporters.com^
 ||megadownloader.co^
-||megalinguo.com^
+||megazakupy.net^
 ||menshealthweb.co^
 ||mezczyzna-trendy.pl^
 ||mgid.com^
@@ -1963,7 +1963,6 @@
 ||nasdacoin.io^
 ||nastim.pl^
 ||naszasa.pl^
-||naszesprawdziany.pl^
 ||naturabazar.pl^
 ||naturday.pl^
 ||neomedia24.net^
@@ -1993,6 +1992,7 @@
 ||ogladamy24.pl^
 ||okazyjnie.net^
 ||onecoin.eu^
+||onlineappcheats.com^
 ||onlinerekruter.com^
 ||online.pro^
 ||oplacalna-gotowka.pl^
@@ -2080,7 +2080,6 @@
 ||przyspiesz.pl^
 ||punkt-pozyczka.pl^
 ||px1alsry.com^
-||pynio.pl^
 ||pyracity.info^
 ||pz21.pl^
 ||questraworld.es^
@@ -2160,7 +2159,6 @@
 ||superfiles.pl^
 ||supermedia24.pl^
 ||super-tania-chwilowka.pl^
-||swiatpobran.pl^
 ||swiezaki.weebly.com^
 ||szaloneupusty.pl^
 ||szamponrevita.pl^
@@ -2417,7 +2415,6 @@
 ||zarabiajwsieci.eu^
 ||zarabiaj-dzis.pl^
 ||zarabianiefb.club^
-||zarobekok.pl^
 ||zastrzyk-gotowki.waw.pl^
 ||zdaj-to.pl^
 ||zebrapozyczki.pl^
@@ -2449,14 +2446,16 @@
 ||www.witnatura.pl^
 !
 !@Przekierowują do innych stron z przekrętami
-||1d61713ede9.traffic-c.com^
 ||9xa.pl^
 ||d8x.pl^
 ||eeu.pl^
 ||firecpa.com^
+||gamefiles.pl^
 ||go2cloud.org^
+||grynanecie.pl^
 ||liin.ml^
 ||livedownloadnet.pl^
+||localmeets.club^
 ||mobile-redirection.com^
 ||mobstarr.com^
 ||monetizer.info^
@@ -2467,12 +2466,14 @@
 ||pay.onebip.com^
 ||pliki.pw^
 ||pobieralnia.com.pl^
+||poprof.com^
 ||ppl3.pl^
 ||qvjql3e.com^
 ||qwer3.pl^
 ||readyfile.pl^
 ||rfv.pl^
 ||r.xyz1.pl^
+||sapynews.com^
 ||schington.com^
 ||skroc-link.ga^
 ||sm4ll.in^
@@ -2480,13 +2481,13 @@
 ||syndication.exdynsrv.com^
 ||t1ny.in^
 ||track.trackffic.xyz^
+||traffic-c.com^
 ||tr.spinwin.fun^
 ||tyi4.pl^
 ||uio7.pl^
 ||uvy3.pl^
 ||vcxz.pl^
 ||wap.mobiltek.pl^
-||wwwpoprof.com^
 !
 !@Szybko wygaszające
 ||4ur.click^
@@ -2511,6 +2512,7 @@
 ||download-24.tk^
 ||dvzwh.voluumtrk.com^
 ||easy.eu.ai^
+||ergebnisse.ml^
 ||facebookszpieg.glt.pl^
 ||facebook-color.5v.pl^
 ||face-vip.ujm.pl^
@@ -2618,6 +2620,7 @@
 ||4kplayer.pl^
 ||4kstream.pl^
 ||7228.eu^
+||abbp35.com^
 ||adobe.5v.pl^
 ||ajakbytak.pl^
 ||akazoo.pl^
@@ -2671,7 +2674,6 @@
 ||easydownload.pl^
 ||ebookeo.pl^
 ||eforsa.pl^
-||ergebnisse.ml^
 ||ero-tv.pl^
 ||esemeso.pl^
 ||exeos.ws^
@@ -2724,6 +2726,7 @@
 ||giveskincs.nd.pl^
 ||globile.co^
 ||gogameportal.com^
+||hackerbot.net^
 ||hdseriale.pl^
 ||hitfilm.pl^
 ||host1.5v.pl^
@@ -2799,6 +2802,7 @@
 ||paczkomaty-pl.tk^
 ||pakiet-steam.pl^
 ||pamietnikiwampirow.tv^
+||paraphingxmfevapk.xyz^
 ||pay2me.pl^
 ||pay24iv.com^
 ||pay.mobiltek.pl^
@@ -2851,6 +2855,7 @@
 ||sms-za-darmo.pl^
 ||soft4click.com^
 ||softsmart.mobi^
+||solucjegier.pl^
 ||spaceforyou.cc^
 ||speedfile.info^
 ||sportowy-stream.pl^
