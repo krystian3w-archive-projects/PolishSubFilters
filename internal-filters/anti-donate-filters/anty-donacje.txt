@@ -11,6 +11,8 @@
 !
 !1$----------------------{ ogólne reguły anty-dotacyjne }----------------------!
 !
+zsyp.tv##.trans-hov
+!
 !& darowizna za prace
 jagiellonski24.pl###fundraising
 !
