@@ -11,6 +11,7 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+www.telepolis.pl##header:style(position:absolute!important)
 www.lublin112.pl###main-menu:style(position:absolute!important)
 www.jednoslad.pl###sticky-bar:style(position:absolute!important)
 www.lurker.pl##.header__firstLine.row:style(position:absolute!important)
