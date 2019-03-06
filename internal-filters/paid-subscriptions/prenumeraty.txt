@@ -11,6 +11,8 @@
 !
 !1$----------------------{ ogólne reguły }----------------------!
 !
+www.tysol.pl##div > p
+www.tysol.pl##div:nth-of-type(3) > .news_header
 mensis.pl###custom_html-3
 oczymlekarze.pl##.publishing
 oczymlekarze.pl##.w-numerze-right.subpages
