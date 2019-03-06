@@ -11,6 +11,12 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+fandom.com###globalNavigation:style(position:absolute!important)
+www.wirtualnemedia.pl###fixed-nav
+teamquest.pl##.navbar-fixed-top.navbar-default.navbar:style(position:absolute!important)
+filmowo.co###header:style(position:static!important)
+www.efhr.eu###phantom
+www.akate.pl##.fixed-nav.wrap-nav.wrapper:style(position:static!important)
 www.telepolis.pl##header:style(position:absolute!important)
 www.lublin112.pl###main-menu:style(position:absolute!important)
 www.jednoslad.pl###sticky-bar:style(position:absolute!important)
@@ -705,6 +711,7 @@ szukajka.tv,www.gierkionline.pl,www.netgun.pl,mlodytechnik.pl,strimi.pl,vod.tvp.
 !
 !2$----------------------{ flanki }----------------------!
 !
+wh40k.fandom.com###WikiaAdInContentPlaceHolder:style(position:static!important)
 www.taniaksiazka.pl##.book-price-bg:style(position:static!important)
 ototorun.pl##.c-author:style(position:static!important)
 www.zajadam.pl##.fixed.sidebar-fixed:style(position:static!important)
