@@ -29,6 +29,12 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+! player, logo
+||static.tellerium.com/tele2.png$image
+!
+! app
+miziaforum.com###text-5
+!
 !& konkurs, zachęta do komentarza
 www.taniaksiazka.pl###dodajRecenzje
 !
