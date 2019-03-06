@@ -11,6 +11,11 @@
 !
 !1$----------------------{ ogólne reguły anty-dotacyjne }----------------------!
 !
+miziaforum.com###custom_html-15
+!
+! 1%
+wolnelektury.pl###annoy
+!
 zsyp.tv##.trans-hov
 !
 !& darowizna za prace
