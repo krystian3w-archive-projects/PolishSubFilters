@@ -29,6 +29,15 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+! tymczasowe
+filmweb.pl##+js(abort-current-inline-script.js, decodeURIComponent, newAdblockBoardDisplayed)
+filmweb.pl##body .wswrapper
+filmweb.pl##.wswrapper:style(visibility: hidden !important;)
+filmweb.pl#@#+js(abort-current-inline-script.js, Math.random, adbDetect)
+filmweb.pl#@#+js(setTimeout-defuser.js, notDetected)
+filmweb.pl###+js(set-constant. js,sats, true)
+filmweb.pl##+js(setTimeout-defuser.js, typeof gemius_hcconn, 1500)
+!
 ! player, logo
 ||static.tellerium.com/tele2.png$image
 !
