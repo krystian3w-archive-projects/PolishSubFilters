@@ -11,6 +11,9 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+24tp.pl##.fixed:style(position:absolute!important)
+filmoteka.tv##.header:style(position:absolute!important)
+zrzutka.pl###top-header:style(position:absolute!important)
 fandom.com###globalNavigation:style(position:absolute!important)
 www.wirtualnemedia.pl###fixed-nav
 teamquest.pl##.navbar-fixed-top.navbar-default.navbar:style(position:absolute!important)
