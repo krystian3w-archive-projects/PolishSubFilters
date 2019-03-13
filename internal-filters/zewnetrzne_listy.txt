@@ -1506,8 +1506,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Sun, 10 Mar 2019, 14:21 UTC+01
-!@Version: 2019.3.10.1
+!@Last modified: Wed, 13 Mar 2019, 01:31 UTC+01
+!@Version: 2019.3.13.2
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0.
 !@Filtrem zarządza Polish Filters Team.
@@ -2276,6 +2276,7 @@
 ||wirtualna-polska.site^
 ||wirtuozseksu.pl^
 ||wizjatv-kody.pl^
+||wojciechrudzki.pl^
 ||wooptrk.com^
 ||workwolf.pl^
 ||worldinfoclub.com^
@@ -2777,6 +2778,7 @@
 ||futurepay.globway.eu^
 ||getfilesfrom.net^
 ||getgamecheats.com^
+||gift19.club^
 ||giftsofsnowdown.com^
 ||gigup.net^
 ||giveskincs.nd.pl^
