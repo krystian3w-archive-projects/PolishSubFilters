@@ -254,9 +254,17 @@
 !@Expires: 2 days
 !@Report domains not being properly blocked to: support@hexxiumcreations.com
 !@(YYYY/MM/DD)
-!@Version: 20190227
+!@Version: 20190318
 !@USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||xg4me.com^
+||exauth.fun^
+||csgoalcove.fun^
+||royalboxes.site^
+||mybetsgames.com^
+||wttskins.com^
+||spinthatgame.com^
+||tf2rolling.com^
 ||mediumgroup.tech^
 ||skinsfan.sf^
 ||cslounge.eu^
@@ -1506,8 +1514,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Sat, 16 Mar 2019, 22:46 UTC+01
-!@Version: 2019.3.16.3
+!@Last modified: Tue, 19 Mar 2019, 08:53 UTC+01
+!@Version: 2019.3.19.3
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0.
 !@Filtrem zarządza Polish Filters Team.
@@ -1731,7 +1739,6 @@
 ||ermail.pl^
 ||erunner.pl^
 ||eskk.pl^
-||estream.com.pl^
 ||euco.pl^
 ||euresco.pl^
 ||euroagd.net^
@@ -1816,7 +1823,6 @@
 ||globalmagazine24.eu^
 ||gojiberry500.pl^
 ||gokano.com^
-||goldenmark.com^
 ||goldsaver.pl^
 ||goodmenonthego.com^
 ||gotowkanadowod.pl^
@@ -1916,6 +1922,7 @@
 ||leadn.pl^
 ||leadzu.com^
 ||lead.network^
+||legitstore.pl^
 ||liczbawiadomosci.pl^
 ||life-star.pl^
 ||ling.expert^
@@ -1946,6 +1953,7 @@
 ||mazowieckiecentrummedyczne.pl^
 ||mediaekspert24.pl^
 ||mediamax.in.net^
+||mediasam.net^
 ||medicreporters.com^
 ||megadownloader.co^
 ||megazakupy.net^
@@ -1977,7 +1985,6 @@
 ||moviestarplanet-haki-i-kody.crazylife.pl^
 ||msphacks.net^
 ||myacn.eu^
-||mydascoin.pl^
 ||mylocker.pl^
 ||myway.com^
 ||najlepszenarynku.pl^
@@ -2245,7 +2252,6 @@
 ||urwijnagrody.pl^
 ||usa.cc^
 ||usunwirusa.pl^
-||vanssk8hi.pl^
 ||vapormax.pl^
 ||vasco-group.eu^
 ||vegatestsklep.pl^
@@ -2278,7 +2284,6 @@
 ||wielkaniespodzianka.pl^
 ||wielkopolskie.refundacjeregionalne.pl^
 ||wifiprotector.com^
-||wirtualna-polska.site^
 ||wirtuozseksu.pl^
 ||wizjatv-kody.pl^
 ||wojciechrudzki.pl^
@@ -2704,6 +2709,7 @@
 ||bazafilmowa.org^
 ||beka.pl^
 ||bemydate.mobi^
+||bigbigabum4.live^
 ||bonypodarunkowe.com.pl^
 ||bramka-sms-za-darmo.pl^
 ||buz2mobile.com^
@@ -2721,7 +2727,6 @@
 ||darmowe-doladowania.net.pl^
 ||darmowe-doladowanie.pl^
 ||datasmierci.pl^
-||discfile.pl^
 ||dobreprogramy.pro^
 ||dobre-programy.xyz^
 ||doladowania-telefonu.pl^
@@ -2732,7 +2737,6 @@
 ||downfiles.pl^
 ||downloadfiles.pl^
 ||downloads-mobile.com^
-||download-24.pl^
 ||easydownload.pl^
 ||ebookeo.pl^
 ||eforsa.pl^
@@ -2805,7 +2809,6 @@
 ||instantdownloadsz.com^
 ||interia-token.pl^
 ||interia-zabezpieczenia.pl^
-||iq-testuj.pl^
 ||islandmob.com^
 ||i-chomik.pl^
 ||i-podgladacz.pl^
@@ -2842,7 +2845,6 @@
 ||moviestarplanethackers.co^
 ||msphackonline.com^
 ||msphack.com.pl^
-||msphack.pl^
 ||multico.5v.pl^
 ||mundialove.pl^
 ||myeforsa.pl^
@@ -2902,9 +2904,7 @@
 ||ptgame.eu^
 ||qubble.com^
 ||quiz-fun.com.my^
-||rapid-host.pl^
 ||rap-share.pl^
-||regme.pl^
 ||restricted.pl^
 ||rzeczyzadarmo.pl^
 ||searchrapid.pl^
@@ -2928,7 +2928,6 @@
 ||steamco.de^
 ||steam-wallet-gifts.com^
 ||steam-wallet-money.com^
-||stream24.com.pl^
 ||streamgo.pl^
 ||streamuj.org^
 ||superserwisy.pl^
@@ -2951,7 +2950,6 @@
 ||upshare.org^
 ||uzupelniajdane.ga^
 ||uzupelniajdane.gq^
-||videon.com.pl^
 ||videorazr.com^
 ||videoway.net^
 ||vidnet.pl^
@@ -3141,15 +3139,15 @@ kadantiscam.netlify.com###kadetect
 !@Codename: RSS
 !@Description: Filtry blokujące i ukrywające sekcje RSS na polskich stronach.
 !@Używanie Polskich Filtrów RSS jest jednoznaczne ze świadomością co do ich zawartości (co blokują itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika
-!@Last modified: Mon, 11 Mar 2019, 11:46 UTC+00
-!@Version: 2019.3.7
+!@Last modified: Mon, 18 Mar 2019, 00:55 UTC+01
+!@Version: 2019.3.8
 !@Expires: 7 days
 !@Support:
 !@  Discord => https://discord.me/polskiefiltry
 !@  Github => https://github.com/PolishFiltersTeam/PolishRSSFilters/issues
 !@License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 !@Copyright © 2019 Polish Filters Team
-!@Aktualizacja: Pn, 11 mar 2019, 11:46 UTC+00
+!@Aktualizacja: pon, 18 mar 2019, 00:55 UTC+01
 !
 !
 !@Specyficzne reguły ukrywające
@@ -3189,7 +3187,7 @@ czasdzieci.pl##.atom
 czestochowskie24.pl##.item-feed, #social_icons_widget-4 > .widget-title
 digitalassets.pl##.feed-link-wrap
 diver.net.pl###menumob > a[href="http://feeds.feedburner.com/divernetpl"], .xpd-ele-1
-di.com.pl##.subbelka > ul > li:nth-of-type(6)
+di.com.pl#?#li:-abp-has(a[href$="/rss.html"])
 djoles.com,telepolis.pl,wschodnik.pl,tlp.is,dziennik.com##.icon-rss
 dlapolski.pl##.dashicons-rss
 dobreprogramy.pl##a[href="#rssModal"], .no-mobile.block:nth-of-type(7)
@@ -3206,6 +3204,7 @@ energa-operator.pl###footmenu-item-4
 epremki.com##li:nth-of-type(3) > a[href^="https://epremki.com/misc.php"]
 exsites.pl##a[title="RSS"]
 farmer.pl##.greyBox
+festiwalbiegowy.pl###block-block-52
 filmozercy.com##.c-panel-social__item--rss
 film.com.pl,smaki.pl##.stay-updated
 florydziak.com###float_feed_box
@@ -3246,6 +3245,7 @@ ip.pl##.boxyfoot:nth-of-type(4)
 istotne.pl##.icon_rss
 iwanowice.pl##.rss-wrapper
 izigsm.pl###sectionRight > div.stdBoxContainer:nth-of-type(3) > div.item:nth-of-type(5)
+jak.tv##a[href^="/feed/rss"]
 joomla.pl##.k2FeedIcon
 joomla.pl,testhub.pl##.icon-feed
 kampinoski-pn.gov.pl##.art-layout-cell > .art-post.art-box
@@ -3275,6 +3275,7 @@ marucha.wordpress.com###text-13
 mattomatti.com##a[href="rss"]
 miedzyrzecz.biz##.td-header-sp-top-widget > span.td-social-icon-wrap:nth-of-type(5), .td-social-list > .td_social_rss.td_social_type, .td_block_social_counter.td_block_wrap > .td-block-title-wrap > .block-title
 miziaforum.wordpress.com###leftside > ul > li:nth-of-type(1)
+motokorzysci.pl###footer > div[class] > div[class] > div[class^="platnosci"] > img[alt=""]:nth-of-type(2)
 mototube.pl##a[href="http://www.mototube.pl/rss/najnowsze/"]
 mynaszlaku.pl##.socicon-rss
 nafrontendzie.pl##div.icon:nth-of-type(3)
@@ -3404,10 +3405,10 @@ zuch.media##.fw-footer-social > a:nth-of-type(4)
 !
 !
 !@Ogólne reguły ukrywające
-pl##.rss
 pl##.fa-rss
 pl##.fa-rss-square
 pl##.rss-button
+pl##.rss:not(.block)
 !
 !
 !@Dodatkowe reguły dla uBO & AG
