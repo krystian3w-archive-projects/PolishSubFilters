@@ -11,6 +11,9 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+www.mgsm.pl##.header-container:style(position:absolute!important)
+randomseed.pl##.container-fluid:style(position:absolute!important)
+polakpotrafi.pl##.navi-stick-green.navi:style(position:absolute!important)
 24tp.pl##.fixed:style(position:absolute!important)
 filmoteka.tv##.header:style(position:absolute!important)
 zrzutka.pl###top-header:style(position:absolute!important)
