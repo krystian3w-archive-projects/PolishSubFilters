@@ -29,6 +29,14 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+! pop vid
+scalanie-video190309132821_hd.mp4$domain=miziaforum.com
+miziaforum.com##.videoPopup-on-pageload.YouTubePopUp-Wrap
+!
+! gry, off-top, p.str
+sjp.pwn.pl##.col-lg-3.col-md-4.hidden-sm.hidden-xs > div.col-wrapper.row:nth-of-type(1)
+sjp.pwn.pl##div.col-md-4.col-sm-6.col-xs-12:nth-of-type(4)
+!
 ! tymczasowe
 filmweb.pl##+js(abort-current-inline-script.js, decodeURIComponent, newAdblockBoardDisplayed)
 filmweb.pl##body .wswrapper
