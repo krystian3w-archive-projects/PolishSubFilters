@@ -1,7 +1,7 @@
-! Checksum: otABl69GUFonEWAE7tTYDQ
+! Checksum: v9rd3/KQlPwauCM2sXsRpg
 ! Title: Polskie Filtry Elementów Niebezpiecznych
 ! Collaborators: KonoromiHimaries
-! Version: 20190323
+! Version: 20190324
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
