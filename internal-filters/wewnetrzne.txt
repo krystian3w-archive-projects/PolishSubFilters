@@ -29,9 +29,6 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
-! pop vid
-scalanie-video190309132821_hd.mp4$domain=miziaforum.com
-miziaforum.com##.videoPopup-on-pageload.YouTubePopUp-Wrap
 !
 ! gry, off-top, p.str
 sjp.pwn.pl##.col-lg-3.col-md-4.hidden-sm.hidden-xs > div.col-wrapper.row:nth-of-type(1)
