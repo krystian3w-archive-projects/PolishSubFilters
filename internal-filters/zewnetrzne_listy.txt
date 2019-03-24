@@ -1514,8 +1514,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Fri, 22 Mar 2019, 10:58 UTC+01
-!@Version: 2019.3.22.1
+!@Last modified: Sun, 24 Mar 2019, 15:58 UTC+01
+!@Version: 2019.3.24.1
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0.
 !@Filtrem zarządza Polish Filters Team.
@@ -1561,6 +1561,7 @@
 ||alisto-pozyczki.pl^
 ||allfiles.pl^
 ||alloversuccess.com^
+||alwetagd.pl^
 ||androidgameshacks.com^
 ||ankiety-konsumenckie.pl^
 ||antyspam.net^
@@ -1627,6 +1628,7 @@
 ||browsergames2018.com^
 ||browser-tools.systems^
 ||brumflix.com^
+||btcprofitnow.pro^
 ||bustcream-pro.com^
 ||butypremium.pl^
 ||buty-shoes4u.pl^
@@ -1682,7 +1684,6 @@
 ||dascoininvest.com^
 ||dascoinpolska.com.pl^
 ||dascoin-info.pl^
-||dascoin.com.ng^
 ||dascoin.com.pl^
 ||dascoin.com^
 ||dascoin.prowly.com^
@@ -1786,7 +1787,6 @@
 ||firesub.pl^
 ||fit-buzz.com^
 ||flamefolder.com^
-||flirtarepertutti.com^
 ||fmg.pl^
 ||foreverliving.com^
 ||fortnitehack2018.com^
@@ -1878,7 +1878,6 @@
 ||ipzd.pl^
 ||irpol24.pl^
 ||iv24.pl^
-||iwcollege.com^
 ||i-cda.pl^
 ||i-mobi.pl^
 ||i-store365.com^
@@ -2026,6 +2025,7 @@
 ||ogladaj.online^
 ||ogladamy24.pl^
 ||okazyjnie.net^
+||olympus-markets.com^
 ||onecoin.eu^
 ||onlineappcheats.com^
 ||onlinerekruter.com^
@@ -2056,7 +2056,6 @@
 ||play-tube.pl^
 ||pliczek.pw^
 ||plik-pobierz.pl^
-||pl.btcprofitnow.pro^
 ||pl.coral-club.com^
 ||pl.fmworld.com^
 ||pl.fohow.eu^
@@ -2286,6 +2285,7 @@
 ||wielkopolskie.refundacjeregionalne.pl^
 ||wifiprotector.com^
 ||wirtuozseksu.pl^
+||wisebanc.com^
 ||wizjatv-kody.pl^
 ||wojciechrudzki.pl^
 ||wooptrk.com^
