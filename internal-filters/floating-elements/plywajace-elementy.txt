@@ -12,6 +12,16 @@
 !1$----------------------{ nagłówki }----------------------!
 !
 www.mgsm.pl##.header-container:style(position:absolute!important)
+www.planeta.pl###header__main:style(position:static!important)
+bulldogjob.pl##.navbar-fixed-top.navbar-default.navbar:style(position:absolute!important)
+kompnet.info###top_most:style(position:static!important)
+film.org.pl###bottom-header:style(position:static!important)
+filmowakraina.tv##.affix.navbar-fixed-top.navbar-default.navbar:style(position:absolute!important)
+filmowakraina.tv##.navbar-fixed-top.navbar-default.navbar:style(position:absolute!important)
+seriale.co##.td-affix.td-header-menu-wrap:style(position:static!important)
+applemobile.pl##.cactus-sticky-menu.fix-down-scroll.navbar-default.navbar:style(position:static!important)
+glos24.pl##.header:style(position:absolute!important)
+www.mgsm.pl##.header-container:style(position:absolute!important)
 randomseed.pl##.container-fluid:style(position:absolute!important)
 polakpotrafi.pl##.navi-stick-green.navi:style(position:absolute!important)
 24tp.pl##.fixed:style(position:absolute!important)
