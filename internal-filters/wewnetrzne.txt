@@ -29,6 +29,16 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+! dub ele. wg
+www.planeta.pl##.position__relative.column__content--left
+!
+! premium
+www.cda.pl##.banernadmenu
+www.cda.pl##.wesn-esda-trsif.wesn-esda.wrapp-resp
+!
+! dub. ele, premium
+filmowakraina.tv##.pull-left
+filmowakraina.tv##.text-center.col-sm-3
 !
 ! gry, off-top, p.str
 sjp.pwn.pl##.col-lg-3.col-md-4.hidden-sm.hidden-xs > div.col-wrapper.row:nth-of-type(1)
