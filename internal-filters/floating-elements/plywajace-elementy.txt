@@ -726,6 +726,7 @@ szukajka.tv,www.gierkionline.pl,www.netgun.pl,mlodytechnik.pl,strimi.pl,vod.tvp.
 !
 !2$----------------------{ flanki }----------------------!
 !
+film.org.pl##.fixed.widget-sidebar-page.single-widget-box:style(position:static!important)
 wh40k.fandom.com###WikiaAdInContentPlaceHolder:style(position:static!important)
 www.taniaksiazka.pl##.book-price-bg:style(position:static!important)
 ototorun.pl##.c-author:style(position:static!important)
