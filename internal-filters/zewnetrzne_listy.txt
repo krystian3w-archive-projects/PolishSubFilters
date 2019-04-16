@@ -1562,8 +1562,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Sat, 13 Apr 2019, 22:53 UTC+02
-!@Version: 2019.4.13.1
+!@Last modified: Tue, 16 Apr 2019, 17:00 UTC+02
+!@Version: 2019.4.16.1
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0.
 !@Filtrem zarządza Polish Filters Team.
@@ -1777,6 +1777,7 @@
 ||egofiles.pw^
 ||ekstrafilmy24.pl^
 ||elektro24h.pl^
+||elepta.pl^
 ||elite-crack.ml^
 ||emobi-sys.com^
 ||enbutique.com^
@@ -2181,7 +2182,6 @@
 ||rep.privatesearch.club^
 ||roaringcash.com^
 ||robloxhack.pl^
-||rodoabc.pl^
 ||rosalieeve.pl^
 ||roulettenumber.com^
 ||rozsadnapozyczka.pl^
@@ -2204,7 +2204,6 @@
 ||serialefilmy.pl^
 ||serwislaptopowwarszawa.com.pl^
 ||serwis-laptopow24.pl^
-||serwis-laptopow.warszawa.pl^
 ||serwis.kb.help^
 ||shiporama.com^
 ||shoegallery.com.pl^
@@ -2213,7 +2212,6 @@
 ||showup-tv.com.pl^
 ||silvets.pl^
 ||skidrowreloaded.pl^
-||skleplara.pl^
 ||sklepnecik.pl^
 ||skleptiande.pl^
 ||sklep-colway.com^
@@ -2237,7 +2235,6 @@
 ||sug.com.pl^
 ||sukces.pl^
 ||sundaycashsaver.com^
-||superfiles.pl^
 ||super-tania-chwilowka.pl^
 ||swiezaki.weebly.com^
 ||szaloneupusty.pl^
@@ -2580,9 +2577,7 @@
 ||pobieralnia.com.pl^
 ||poprof.com^
 ||ppl3.pl^
-||qvjql3e.com^
 ||qwer3.pl^
-||readyfile.pl^
 ||rfv.pl^
 ||r.xyz1.pl^
 ||sapynews.com^
@@ -2760,6 +2755,7 @@
 ||catsplit.com^
 ||centrumplay.pl^
 ||check-prizes-now2.life^
+||childcaredaycare.ca^
 ||chomik24.com.pl^
 ||chomik-24.pl^
 ||chron-telefon.com^
@@ -2776,12 +2772,14 @@
 ||doladujfona.org^
 ||domainreward.site^
 ||domniespodzianek.com^
+||dotabet103.com^
 ||downfiles.pl^
 ||downloadfiles.pl^
 ||downloads-mobile.com^
 ||easydownload.pl^
 ||ebookeo.pl^
 ||eforsa.pl^
+||elavepene.us^
 ||ero-tv.pl^
 ||esemeso.pl^
 ||exeos.ws^
@@ -2860,6 +2858,7 @@
 ||jedz-eco.pl^
 ||juicywin.pl^
 ||kasa-sms.pl^
+||kdplay.net^
 ||kekuko.com^
 ||kocham-cie.c0.pl^
 ||kolor.oq.pl^
@@ -2867,6 +2866,7 @@
 ||ksiazka-telefoniczna-online.pl^
 ||ktopodgladamnienafacebooku.wordpress.com^
 ||leadzupc.com^
+||lesemerick.com^
 ||lifehackz.net^
 ||lightcloud.pl^
 ||liversely.com^
@@ -2940,7 +2940,6 @@
 ||pole-henny.com^
 ||pornmania.pl^
 ||po.fyybox.com^
-||profbhack.com^
 ||przejdz.ml^
 ||przepismix.pl^
 ||psialapka.pl^
@@ -2948,6 +2947,7 @@
 ||qubble.com^
 ||quiz-fun.com.my^
 ||rap-share.pl^
+||relayimmo.com^
 ||restricted.pl^
 ||reward2496.harddayforall9.icu^
 ||rzeczyzadarmo.pl^
@@ -2962,6 +2962,7 @@
 ||skippyfile.com^
 ||smsiaki.eu^
 ||sms-za-darmo.pl^
+||sofaforlife.com^
 ||soft4click.com^
 ||softsmart.mobi^
 ||solucjegier.pl^
@@ -2969,6 +2970,7 @@
 ||speedfile.info^
 ||sportowy-stream.pl^
 ||sprawdzikk.v0r.org^
+||ssl.cf6.rackcdn.com^
 ||steamco.de^
 ||steam-wallet-gifts.com^
 ||steam-wallet-money.com^
