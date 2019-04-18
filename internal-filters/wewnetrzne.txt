@@ -1,10 +1,10 @@
-! Checksum: p8KSZS77JTBBWmKY1w3wWA
+! Checksum: WY45u5YZgksj2jL1Jsp08g
 ! Title: Polskie Filtry Wewnętrzne
 ! Collaborators: KonoromiHimaries, hawkeye116477
 ! Oświadczenie: https://github.com/MajkiIT/polish-ads-filter/blob/master/STATEMENT.md
 ! EULA: Subskrybcja|Użytkowanie listy "Polskie Filtry Wewnętrzne" jest równoznaczna z akceptacją sposobu w jaki działają filtry.
 ! INFO: Aby wyłączyć niepożądaną regułę, należy ją skopiować do zakładki Moje Filtry a następnie między znakami ## wstawić znak @ np. sprawnymarketing.pl#@#.hidden-mobile
-! Version: 20190329
+! Version: 20190418
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin, Nano Adblocker lub Adguard
