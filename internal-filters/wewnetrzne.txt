@@ -10,7 +10,7 @@
 !   Rozszerzenia >> uBlock Origin, Nano Adblocker lub Adguard
 !   Listy filtrów >> EasyList + EasyList Polish + Polskie Filtry + Polskie Filtry EI
 ! Zgłoszenia:
-!   Riot >> https://riot.im/app/#/room/!KmCzMNHZKDsflDKbyZ:matrix.org?via=matrix.org
+!   Riot >> https://riot.im/app/#/room/!IPhdjtOfWxVbiddKOo:matrix.org?via=matrix.org
 ! Donacje:
 !   Monero >> 46URZwMRZZDX5jD8eHaDGhdfKz5ug4AHb1eMRZ5mBbUkMXVcuGgdMHPWbwaVe4vUMveKAzAiA4j8xgUi29TpKXpm42Vo9go
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pl
