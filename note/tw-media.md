@@ -17,4 +17,4 @@
 <code>https://github.com/streamlink/streamlink/releases</code>
 
 3. uruchom wiersz poleceń i wpisz<br/>
-<code>streamlink --player "C:\tu_ścieżka_do_programu\tu_nazwa_programu.exe" https://www.twitch.tv/<tu nazwa kanału> 720p30</code>
+<code>streamlink --player "C:\tu_ścieżka_do_programu\tu_nazwa_programu.exe" https://www.twitch.tv/<tu nazwa kanału> 720p</code>
