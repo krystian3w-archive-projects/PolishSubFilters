@@ -8,7 +8,7 @@
 !
 ! Source: https://github.com/PolishFiltersTeam/KAD/blob/master/KAD.txt
 @URLinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/KAD.txt
-!
+@URLinclude https://raw.githubusercontent.com/azet12/KAD/gh-pages/assets/other/kadfakewhitelist.txt
 !
 !#if cap_user_stylesheet
 !
