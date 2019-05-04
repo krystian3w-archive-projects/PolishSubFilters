@@ -29,6 +29,10 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+!& premium, przekierowanie
+||Superfilm.pl^
+||seriale27.pl^
+!
 !& Hexxium wh
 ||rebrand.ly^$badfilter
 !
