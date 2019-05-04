@@ -11,6 +11,9 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+tvpuls.pl##.header:style(position:absolute!important)
+filmbit.ws##.header:style(position:absolute!important)
+itporady.pl##.bg-primary.navbar-dark.sticky-top.navbar-expand-lg.navbar:style(position:static!important)
 slib.pl##.main-menu-wrapper:style(position:static!important)
 itwiz.pl###main-nav:style(position:static!important)
 atlas.bitmarket.pl###site-navigation:style(position:static!important)
@@ -765,6 +768,7 @@ www.dobreprogramy.pl##.sticky.blog-list.block:style(position:static!important)
 !
 !3$----------------------{ stopki }----------------------!
 !
+tvpuls.pl##footer:style(position:absolute!important)
 szukajka.tv##footer
 interia.pl##.recommend-flybar-block
 przyjazny-linux.tuxblog.pl###colophon:style(position:static!important)
