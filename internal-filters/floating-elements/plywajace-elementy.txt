@@ -1,7 +1,7 @@
-! Checksum: DCv5KJEZDMED6r6/gGhIcQ
+! Checksum: Z6xNBpNKm59WfUHYtPow6g
 ! Title: Polskie Filtry Osadzające Nagłówki
 ! Collaborators: KonoromiHimaries, hawkeye116477, yourduskquibbles
-! Version: 20190421
+! Version: 20190504
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
