@@ -10,5 +10,7 @@ Informacje:
 - opcjonalne listy filtrów to [WebAnnoyances](https://subscribe.adblockplus.org/?location=https://cdn.staticaly.com/gh/yourduskquibbles/webannoyances/master/ultralist.txt&title=Web%20Annoyances%20Ultralist), [Polskie Filtry Społecznościowe](https://subscribe.adblockplus.org/?location=https://cdn.staticaly.com/gh/MajkiIT/polish-ads-filter/master/adblock_social_filters/adblock_social_list.txt&title=Polskie%20Filtry%20Społecznościowe)
 - opcjonalnie dodatki do filtrów to [Nano Defender](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/nano_defender.md), [Ciasteczko](https://github.com/PolishFiltersTeam/PolishCookieConsent#polska-ciasteczkowa-zgoda), [Decentraleyes](https://decentraleyes.org/), [HTTPSE](https://www.eff.org/https-everywhere)
 
+- zaincludowane listy których nie trzeba juz dodawać https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/templates/zewnetrzne_listy.template
+
 [![Donatuj](https://img.shields.io/website-anonimowo-down-green-red/https/authedmine.com.svg?label=Donatuj&colorB=1caf92)](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/readme.md)
 [![Riot](https://img.shields.io/badge/Riot-chat-brightgreen.svg)](https://riot.im/app/#/room/!IPhdjtOfWxVbiddKOo:matrix.org?via=matrix.org)
