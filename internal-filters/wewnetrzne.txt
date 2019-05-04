@@ -29,25 +29,25 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
-! Hexxium wh
-@@rebrand.ly^
+!& Hexxium wh
+||rebrand.ly^$badfilter
 !
-! dub ele. wg
+!& dub ele. wg
 www.planeta.pl##.position__relative.column__content--left
 !
-! premium
+!& premium
 www.cda.pl##.banernadmenu
 www.cda.pl##.wesn-esda-trsif.wesn-esda.wrapp-resp
 !
-! dub. ele, premium
+!& dub. ele, premium
 filmowakraina.tv##.pull-left
 filmowakraina.tv##.text-center.col-sm-3
 !
-! gry, off-top, p.str
+!& gry, off-top, p.str
 sjp.pwn.pl##.col-lg-3.col-md-4.hidden-sm.hidden-xs > div.col-wrapper.row:nth-of-type(1)
 sjp.pwn.pl##div.col-md-4.col-sm-6.col-xs-12:nth-of-type(4)
 !
-! tymczasowe
+!& tymczasowe
 filmweb.pl##+js(abort-current-inline-script.js, decodeURIComponent, newAdblockBoardDisplayed)
 filmweb.pl##body .wswrapper
 filmweb.pl##.wswrapper:style(visibility: hidden !important;)
@@ -56,17 +56,17 @@ filmweb.pl#@#+js(setTimeout-defuser.js, notDetected)
 filmweb.pl###+js(set-constant. js,sats, true)
 filmweb.pl##+js(setTimeout-defuser.js, typeof gemius_hcconn, 1500)
 !
-! player, logo
+!& player, logo
 ||static.tellerium.com/tele2.png$image
 !
-! app
+!& app
 miziaforum.com###text-5
 !
 !& konkurs, zachęta do komentarza
 www.taniaksiazka.pl###dodajRecenzje
 !
 !& piperun fix, wh
-@@||adf.ly^
+||adf.ly^$badfilter
 !
 !& auto-promo
 www.codzienniefit.pl##.row.opinion-sidebar
