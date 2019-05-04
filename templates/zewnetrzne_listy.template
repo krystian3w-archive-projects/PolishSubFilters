@@ -9,6 +9,7 @@
 ! Source: https://github.com/PolishFiltersTeam/KAD/blob/master/KAD.txt
 @URLinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/KAD.txt
 !
+!
 !#if cap_user_stylesheet
 !
 ! Source: https://github.com/PolishFiltersTeam/PolishRSSFilters/blob/master/polish_rss_filters.txt
