@@ -254,7 +254,7 @@
 !@Expires: 2 days
 !@Report domains not being properly blocked to: support@hexxiumcreations.com
 !@(YYYY/MM/DD)
-!@Version: 20190503
+!@Version: 20190505
 !@USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
 ||bestlifehere8.life^
@@ -1251,7 +1251,6 @@
 ||mooyork.altervista.org^
 ||bigmoney.icyboards.net^
 ||juioy.gq^
-||rebrand.ly^
 ||lilwilldte.com^
 ||fixincome.online^
 ||peteetub.online^
