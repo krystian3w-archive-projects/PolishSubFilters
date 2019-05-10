@@ -29,6 +29,24 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+!& wh kontrowersyjnych, kad
+!> https://github.com/PolishFiltersTeam/KAD/blob/master/sections/pseudonauka_fake_news.txt    
+||biotalerz.pl^$badfilter
+||bio-chemik24.pl^$badfilter
+||jerzyzieba.com^$badfilter
+||odpowiedzialni-rodzice.pl^$badfilter
+||paulinajanowicz.pl^$badfilter
+||planetazdrowia.com^$badfilter
+||polakuleczsiesam.pl^$badfilter
+||stopnop.com.pl^$badfilter
+||szczepienie.info^$badfilter
+||timeforvitamins.com^$badfilter
+||ukryteterapie.pl^$badfilter
+||vaccgenocide.wordpress.com^$badfilter
+||www.meganiusy.com^$badfilter
+||www.odkrywamyzakryte.com^$badfilter
+||www.witnatura.pl^$badfilter
+!
 !& premium, przekierowanie
 ||Superfilm.pl^
 ||seriale27.pl^
