@@ -11,6 +11,8 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+animes.pl##.clearfix.d-header:style(position:absolute!important)
+www.film-anime.pl###header:style(position:static!important)
 tvpuls.pl##.header:style(position:absolute!important)
 filmbit.ws##.header:style(position:absolute!important)
 itporady.pl##.bg-primary.navbar-dark.sticky-top.navbar-expand-lg.navbar:style(position:static!important)
