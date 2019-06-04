@@ -29,6 +29,9 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+!& nieporządane, inwazyjne treści
+||icdn.2cda.pl/vid/thumbs/*.jpg_ooooxooxox_1280x720.jpg$image
+!
 !& aa-alert
 www.boxfilm.pl###video_player > span
 !
