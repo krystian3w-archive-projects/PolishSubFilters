@@ -11,6 +11,8 @@
 !
 !1$----------------------{ ogólne reguły }----------------------!
 !
+bliskopolski.pl##div.col-sm-4.widget_text:nth-of-type(3), div.col-sm-4.widget_text:nth-of-type(1)
+!
 !& sklep, polecane, podstrona, dub-ele
 www.taniaksiazka.pl###FullLeftSmall
 www.taniaksiazka.pl###FullRightSmall
