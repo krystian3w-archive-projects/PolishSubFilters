@@ -11,6 +11,15 @@
 !
 !1$----------------------{ ogólne reguły anty-dotacyjne }----------------------!
 !
+! patronite
+sejmlog.pl###custom_html-3
+!
+! paypal
+wakai.pl###text-html-widget-8
+!
+! podstrona
+www.imperiumromanum.edu.pl###custom_html-3
+!
 miziaforum.com###custom_html-15
 !
 ! 1%
