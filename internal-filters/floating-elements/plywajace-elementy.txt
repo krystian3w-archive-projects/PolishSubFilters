@@ -11,6 +11,16 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+naekranie.pl##.sticky-top:style(position:static!important)
+2bstyle.pl###mt-menu-wrap:style(position:static!important)
+salon-informacyjny.pl##.hotwp-fixed.clearfix.hotwp-primary-menu-container.hotwp-container:style(position:static!important)
+poradnikprzedsiebiorcy.pl##.header-content-fixed:style(position:static!important)
+bliskopolski.pl###nav:style(position:static!important)
+bajeczki.org###masthead:style(position:absolute!important)
+biznesomania.com.pl##.main-navigation-wrapper:style(position:absolute!important)
+shareinfo.pl###site-navigation:style(position:static!important)
+wirtualny-wojownik.pl##.jeg_navbar.jeg_stickybar:style(position:absolute!important)
+blog.nayma.pl##.headroom.bloginfo
 animes.pl##.clearfix.d-header:style(position:absolute!important)
 www.film-anime.pl###header:style(position:static!important)
 tvpuls.pl##.header:style(position:absolute!important)
@@ -729,6 +739,8 @@ szukajka.tv,www.gierkionline.pl,www.netgun.pl,mlodytechnik.pl,strimi.pl,vod.tvp.
 !
 !2$----------------------{ flanki }----------------------!
 !
+oscarrak.pl##.clearfix.cb-sidebar:style(position:static!important)
+biznesomania.com.pl##.theiaStickySidebar:style(position:static!important)
 film.org.pl##.fixed.widget-sidebar-page.single-widget-box:style(position:static!important)
 wh40k.fandom.com###WikiaAdInContentPlaceHolder:style(position:static!important)
 www.taniaksiazka.pl##.book-price-bg:style(position:static!important)
