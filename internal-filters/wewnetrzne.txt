@@ -29,6 +29,9 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+!& cookie, static
+animeforgods.pl##.footer-content
+!
 !& webbinar, event
 oscarrak.pl###custom_html-3
 !
