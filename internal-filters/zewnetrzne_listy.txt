@@ -2399,8 +2399,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Tue, 02 Jul 2019, 11:49 UTC+02
-!@Version: 2019.7.2.2
+!@Last modified: Thu, 04 Jul 2019, 12:47 UTC+02
+!@Version: 2019.7.4.1
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0.
 !@Filtrem zarządza Polish Filters Team.
@@ -3729,6 +3729,7 @@
 ||darmowetesty.com^
 ||darmowe-doladowania.net.pl^
 ||darmowe-doladowanie.pl^
+||derikaosos.info^
 ||dobreprogramy.pro^
 ||dobre-programy.xyz^
 ||doladowania-telefonu.pl^
@@ -4031,6 +4032,7 @@
 ||vidplayer.pl^
 ||vimeoo.net^
 ||vod24.pl^
+||vtopiuops.info^
 ||wapster.malutki.pl^
 ||wapster.pl^
 ||weartexhibitions.com^
