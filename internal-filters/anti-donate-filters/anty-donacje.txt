@@ -11,9 +11,6 @@
 !
 !1$----------------------{ ogólne reguły anty-dotacyjne }----------------------!
 !
-!> https://github.com/PolishFiltersTeam/PolishAnnoyanceFilters/issues/1642#issuecomment-508938202
-kulturaliberalna.pl##.bottom-bar
-!
 ! patronite
 sejmlog.pl###custom_html-3
 !
