@@ -2399,8 +2399,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Sat, 06 Jul 2019, 09:32 UTC+02
-!@Version: 2019.7.6.1
+!@Last modified: Sun, 07 Jul 2019, 01:56 UTC+02
+!@Version: 2019.7.7.4
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0.
 !@Filtrem zarządza Polish Filters Team.
@@ -3663,6 +3663,7 @@
 ||zgarniij_vouchher.skroc.pl^
 !
 !@Przekręty
+/^https?:\/\/(.*\.|)(apps?|best|game|mobile|prize|reward|sweeps)[0-9]{2,8}\.[a-z]{5,15}[0-9]{2,8}\.(agency|icu|life|live)\//$document
 ||1freesoftwareonline.com^
 ||4kplayer.pl^
 ||4kstream.pl^
@@ -3693,17 +3694,11 @@
 ||apple.com-speedup-macos.live^
 ||apple.com-speed-macos.live^
 ||appsdorado.com^
-||apps*.hooliday*.agency^
-||apps*.wtflife*.life^
-||app*.bigbigabum*.live^
-||app*.hardmonday*.agency^
-||app*.something-wrong*.agency^
 ||aseanlegaltech.com^
 ||astrocash.org^
 ||bazafilmowa.org^
 ||beka.pl^
 ||bemydate.mobi^
-||best*.whoisyourd*.agency^
 ||bookbugg.com^
 ||bramka-sms-za-darmo.pl^
 ||brave-browser.info^
@@ -3802,8 +3797,6 @@
 ||funsolo.net^
 ||funtoonez.com^
 ||futurepay.globway.eu^
-||game*.sadman*.agency^
-||game*.ttxssayyes*.agency^
 ||gayza.net^
 ||getfilesfrom.net^
 ||getgamecheats.com^
@@ -3881,9 +3874,6 @@
 ||megolbassia.com^
 ||mobgames.mobi^
 ||mobileaps.co^
-||mobile*.funysmile*.agency^
-||mobile*.harddayforal*.life^
-||mobile*.trydaytoday*.live^
 ||mobsfun.com^
 ||momoxxio.com^
 ||movienet.pl^
@@ -3947,8 +3937,6 @@
 ||pod004.site^
 ||pornmania.pl^
 ||po.fyybox.com^
-||prize*.greenyourday*.agency^
-||prize*.ttxsr*.agency^
 ||profitmaximum.pl^
 ||przejdz.ml^
 ||przepismix.pl^
@@ -3962,11 +3950,6 @@
 ||ravlw.nearbysluts.net^
 ||relayimmo.com^
 ||restricted.pl^
-||reward*.harddayforal*.icu^
-||reward*.linetotime*.agency^
-||reward*.srli*.agency^
-||reward*.trueredirect*.icu^
-||reward*.whoisyourd*.icu^
 ||risingindianews.com^
 ||rzeczyzadarmo.pl^
 ||sarnisas.info^
@@ -4001,10 +3984,6 @@
 ||streamgo.pl^
 ||streamuj.org^
 ||superserwisy.pl^
-||sweeps*.checkyourtime*.agency^
-||sweeps*.jumpringpring*.agency^
-||sweeps*.something-wrong*.agency^
-||sweeps*.whoisyourd*.live^
 ||s-pay24.com^
 ||teenzforfun.com^
 ||telewizja-internetowa24.pl^
