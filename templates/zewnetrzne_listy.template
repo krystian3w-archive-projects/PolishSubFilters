@@ -10,6 +10,10 @@
 @URLinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/KAD.txt
 !
 !
+! Source: https://github.com/PolishFiltersTeam/KAD/blob/gh-pages/assets/other/kadfakewhitelist_suplement.txt
+@URLinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/gh-pages/assets/other/kadfakewhitelist_suplement.txt
+!
+!
 !#if cap_user_stylesheet
 !
 ! Source: https://github.com/PolishFiltersTeam/PolishRSSFilters/blob/master/polish_rss_filters.txt
