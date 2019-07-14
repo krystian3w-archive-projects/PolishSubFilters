@@ -254,9 +254,66 @@
 !@Expires: 2 days
 !@Report domains not being properly blocked to: support@hexxiumcreations.com
 !@(YYYY/MM/DD)
-!@Version: 20190710
+!@Version: 20190713
 !@USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||greenyourday69.agency^
+||sporters1.com^
+||daylimovie.com^
+||collbleum.xyz^
+||cinemago.us^
+||saliensbets.com^
+||battlexbet.com^
+||onionfiles.com^
+||peekabogift.com^
+||movies-shows.com^
+||hdmovieswatch.pw^
+||fullmovieis.org^
+||kill-streak.com^
+||watchhighlycurrentprogram.icu^
+||putlockers.me^
+||putlockers.as^
+||movie-pass.live^
+||putlockers.cz^
+||softwareso.app^
+||csmvcecup.com^
+||mvccup.info^
+||cscmcup.com^
+||randkeys.site^
+||bestplay.vip^
+||freeitemstf2.com^
+||tf2offers.com^
+||primewire.to^
+||primewire.ac^
+||bamstargram.com^
+||central-messages.com^
+||putlocker.kz^
+||wilrolachenho.pro^
+||fastmediaz.com^
+||pushmobilenews.com^
+||just-watch-it.com^
+||watch123movies.live^
+||checking-in-progress.com^
+||kingsport3.com^
+||fakesemoiin24.com^
+||faceit.link^
+||magna-gift.com^
+||gamexspin.fun^
+||csray.cf^
+||tortiksurprise.pro^
+||steamcomrnnunutu.com^
+||csgoland.ga^
+||historicskins.fun^
+||csgowash.ga^
+||csgocasino.ga^
+||csgolaw.com^
+||csgotripple.pro^
+||skinsbarter.pro^
+||skinsluck.pro^
+||eazyskins.ru^
+||luckydrop.space^
+||freeskinz.fun^
+||luckyrulett.gq^
 ||gogetsplendidapps.com^
 ||emkei.cz^
 ||ellendegeneresgift2019real.blogspot.com^
@@ -302,7 +359,6 @@
 ||xdatpubg.com^
 ||yourgameroll.com^
 ||xyourgamesbundle.com^
-||xgame-key.top^
 ||datgameroulette.com^
 ||xforce-drop.top^
 ||gamexxkey.com^
@@ -2107,7 +2163,6 @@
 ||mysteamgames.co^
 ||steamspecial.com^
 ||steamreward.com^
-||freesteamkeys.com^
 ||steamcodegenerator.online^
 ||steamwallet-codes.com^
 ||freesteamcodes.gripbuilds.com^
@@ -2413,8 +2468,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Fri, 12 Jul 2019, 15:43 UTC+02
-!@Version: 2019.7.12.1
+!@Last modified: Sat, 13 Jul 2019, 16:51 UTC+02
+!@Version: 2019.7.13.1
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0.
 !@Filtrem zarządza Polish Filters Team.
@@ -2924,6 +2979,7 @@
 ||naturday.pl^
 ||neomedia24.net^
 ||neomediamax.net^
+||neomedia.in.net^
 ||neopozyczki.pl^
 ||neospes.com^
 ||neotech.in.net^
@@ -3702,6 +3758,7 @@
 ||apple.com-scan-mac.live^
 ||apple.com-scan.live^
 ||apple.com-shield-device.live^
+||apple.com-shield.live^
 ||apple.com-speedup-macbook.live^
 ||apple.com-speedup-macos.live^
 ||apple.com-speed-macos.live^
