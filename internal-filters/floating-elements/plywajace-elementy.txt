@@ -11,6 +11,7 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+www.radiomaryja.pl###header:style(position:absolute!important)
 naekranie.pl##.sticky-top:style(position:static!important)
 2bstyle.pl###mt-menu-wrap:style(position:static!important)
 salon-informacyjny.pl##.hotwp-fixed.clearfix.hotwp-primary-menu-container.hotwp-container:style(position:static!important)
