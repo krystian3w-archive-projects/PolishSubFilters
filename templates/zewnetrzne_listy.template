@@ -14,10 +14,6 @@
 @URLinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/gh-pages/assets/other/kadfakewhitelist_suplement.txt
 !
 !
-! Source: https://github.com/DandelionSprout/adfilt/blob/master/ListAgainstFakeOrInoptimalAdblockers.txt
-@URLinclude https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ListAgainstFakeOrInoptimalAdblockers.txt
-!
-!
 !
 !#if cap_user_stylesheet
 !
