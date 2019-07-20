@@ -2468,8 +2468,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Fri, 19 Jul 2019, 15:10 UTC+02
-!@Version: 2019.7.19.1
+!@Last modified: Sat, 20 Jul 2019, 16:49 UTC+02
+!@Version: 2019.7.20.4
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0.
 !@Filtrem zarządza Polish Filters Team.
@@ -3529,6 +3529,9 @@
 ||biotalerz.pl^
 ||bio-chemik24.pl^
 ||cobolito.pl^
+||detoxpolska.pl^
+||globalhealingcenter.com^
+||gotsprouts.com^
 ||jerzyzieba.com^
 ||mabello.pl^
 ||meganiusy.com^
@@ -3537,6 +3540,7 @@
 ||odkrywamyzakryte.com^
 ||paulinajanowicz.pl^
 ||planetazdrowia.com^
+||planet-tachyon.com^
 ||polakuleczsiesam.pl^
 ||stopnop.com.pl^
 ||szczepienie.info^
@@ -3866,6 +3870,8 @@
 ||finanse-payu.pl^
 ||firecash.org^
 ||fixfuturetype-restclicks.icu^
+||footoografie-pobieralnia.eu^
+||fotoografie-pobierz.eu^
 ||freegiftcode.com^
 ||freehackpl.com^
 ||freeminecraftgiftcode.net^
@@ -3922,6 +3928,7 @@
 ||kipokahynr.xyz^
 ||kocham-cie.c0.pl^
 ||kolor.oq.pl^
+||komornik-gov.tk^
 ||konkursy.de^
 ||ksiazka-telefoniczna-online.pl^
 ||ktopodgladamnienafacebooku.wordpress.com^
@@ -3978,6 +3985,7 @@
 ||onlinewideo.pl^
 ||onlyfiles.net^
 ||openwrt.com^
+||oplac-zaleglosc.eu^
 ||oplatyi.pl^
 ||orange-kodzik.890m.com^
 ||paczkomaty-pl.tk^
@@ -4009,11 +4017,14 @@
 ||pl.mysafesmartphone.com^
 ||pl.team^
 ||pl.tvplusnewtab.com^
+||pobieralnie-plikow.eu^
 ||pobieram-plik.pl^
 ||pobierane.pl^
 ||pobierz24.pl^
 ||pobierzgo.pl^
 ||pobierzpliki.pl^
+||pobierz-pliczek.eu^
+||pobiieerz-fotografiee.eu^
 ||pod004.site^
 ||pornmania.pl^
 ||po.fyybox.com^
@@ -4269,6 +4280,9 @@ kadantiscam.netlify.com###kadetect
 ||biotalerz.pl^$badfilter
 ||bio-chemik24.pl^$badfilter
 ||cobolito.pl^$badfilter
+||detoxpolska.pl^$badfilter
+||globalhealingcenter.com^$badfilter
+||gotsprouts.com^$badfilter
 ||jerzyzieba.com^$badfilter
 ||mabello.pl^$badfilter
 ||meganiusy.com^$badfilter
@@ -4277,6 +4291,7 @@ kadantiscam.netlify.com###kadetect
 ||odkrywamyzakryte.com^$badfilter
 ||paulinajanowicz.pl^$badfilter
 ||planetazdrowia.com^$badfilter
+||planet-tachyon.com^$badfilter
 ||polakuleczsiesam.pl^$badfilter
 ||stopnop.com.pl^$badfilter
 ||szczepienie.info^$badfilter
@@ -4605,14 +4620,14 @@ pl##.rss:not(.block)
 ! Source: https://github.com/olegwukr/polish-privacy-filters/blob/master/adblock.txt
 !@Title: Polish Privacy Filters
 !@Oficjalne polskie filtry prywatności
-!@Last modified: 9 June 2019
-!@Expires: 2 days
-!@Version: 2019060901
+!@Last modified: 19 July 2019
+!@Expires: 1 day
+!@Version: 2019071901
 !@Support:
 !@  Github >> https://github.com/olegwukr/polish-privacy-filters/issues
 !@License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 !@Copyright (C) 2019 
-!@v.2019060901 aktualizacja: nie, 9 kwietnia 2019, 17:10:00
+!@v.2019071901 aktualizacja: ptk, 19 lipiec 2019, 18:25:00
 !
 !
 !-----------------------Privacy filters block-----------------------!
@@ -4725,6 +4740,8 @@ poczta.interia.pl#@#[href*=".hit.gemius.pl"]
 ||unknow.now.sh^
 ||devhub.pl^
 ||licznik.telvinet.pl/cgi-bin/tcounter.cgi$image
+||snrbox.com^
+||snrcdn.net^
 !
 !
 !@Problem with ads 
