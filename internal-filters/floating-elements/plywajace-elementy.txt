@@ -11,6 +11,10 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+www.dramaqueen.pl###wpadminbar:style(position:absolute!important)
+medianarodowe.com##.stuck.nav-primary:style(position:static!important)
+jbzdy.co###top:style(position:absolute!important)
+www.centrumxp.pl###header:style(position:static!important)
 www.radiomaryja.pl###header:style(position:absolute!important)
 naekranie.pl##.sticky-top:style(position:static!important)
 2bstyle.pl###mt-menu-wrap:style(position:static!important)
