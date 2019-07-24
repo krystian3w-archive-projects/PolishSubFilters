@@ -2474,8 +2474,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Wed, 24 Jul 2019, 17:34 UTC+02
-!@Version: 2019.7.24.2
+!@Last modified: Wed, 24 Jul 2019, 18:11 UTC+02
+!@Version: 2019.7.24.3
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0.
 !@Filtrem zarządza Polish Filters Team.
@@ -2602,7 +2602,6 @@
 ||buzzonclick.com^
 ||calivita.com^
 ||casada.pl^
-||catashare.pw^
 ||cavotel.com^
 ||cbldc.io^
 ||cda-bez-limitu.pl^
@@ -2691,11 +2690,9 @@
 ||ebook4all.com.pl^
 ||ebookipdf.pl^
 ||ebuty.net.pl^
-||econtent.pl^
 ||ecoslimmer.pro^
 ||eco-flow.pl^
 ||ecpp.pl^
-||egofiles.pw^
 ||ekstrafilmy24.pl^
 ||electrocity24.pl^
 ||elektro24h.pl^
@@ -2767,6 +2764,7 @@
 ||fortnitehack2018.com^
 ||fortnite-vbuck.com^
 ||fotowalkowska.pl^
+||foto-office.pl^
 ||freevbucks-fortnite.pl^
 ||freevbuckx.com^
 ||free-gg.com^
@@ -2858,6 +2856,7 @@
 ||i-store365.com^
 ||jacketspolska.cn^
 ||jakpodrywacnatinderze.pl^
+||jete.pl^
 ||jezyckiszuszwol.pl^
 ||jordenmadsen.com^
 ||judomiedzyrzecz.pl^
@@ -2868,6 +2867,7 @@
 ||kajakiperkoz.pl^
 ||kancelariaae.pl^
 ||kancelariakufieta.pl^
+||kancelarialewickich.pl^
 ||karela-sklep.eu^
 ||kartavisa.pl^
 ||kickz4u.pl^
@@ -2901,7 +2901,6 @@
 ||kwaterapodgruszka.pl^
 ||lampeberger.com.pl^
 ||laolle.com^
-||laptemex.net^
 ||las-rp.pl^
 ||lauretta-larix.eu^
 ||ldrcp.pl^
@@ -2953,7 +2952,6 @@
 ||mobilerewards.io^
 ||mobile-app.pl^
 ||mobverify.com^
-||modimoda.pl^
 ||mojadietanamase.pl^
 ||mojapsina.com^
 ||mojepc.net^
@@ -3042,7 +3040,6 @@
 ||playweez.pl^
 ||play-cda.pl^
 ||play-tube.pl^
-||pliczek.pw^
 ||plik-pobierz.pl^
 ||pl.coral-club.com^
 ||pl.fmworld.com^
@@ -3063,7 +3060,6 @@
 ||pol.boobs-xl.com^
 ||pomocnapozyczka.pro^
 ||powerfactorsaver.com^
-||pozyczkahit.pl^
 ||pozyczka-minutowa.pl^
 ||pozyczka-sms.pl^
 ||pozyczka-tanio-szybko.pl^
@@ -3080,6 +3076,7 @@
 ||premium.ihuh.pl^
 ||prime-management-ltd.com^
 ||princessmask.pro^
+||pritom.pl^
 ||private.atlanticgam.es^
 ||prizelava.com^
 ||probolan50.pl^
@@ -3111,7 +3108,6 @@
 ||racerstore.pl^
 ||ramissio.com^
 ||randki-sex.com^
-||rapideo.pw^
 ||rbxfree.com^
 ||realgift.men^
 ||real-app.date^
@@ -3159,6 +3155,7 @@
 ||silvets.pl^
 ||siniaki.pl^
 ||sklep466452.shoparena.pl^
+||skleplara.pl^
 ||skleptiande.pl^
 ||sklep-colway.com^
 ||sklep-colway.pl^
@@ -3189,7 +3186,6 @@
 ||sug.com.pl^
 ||sukces.pl^
 ||sundaycashsaver.com^
-||super-tania-chwilowka.pl^
 ||swiezaki.weebly.com^
 ||szaloneupusty.pl^
 ||szamponrevita.pl^
@@ -3208,7 +3204,6 @@
 ||tembakan.pl^
 ||tengofoxfiles.com^
 ||testony.com^
-||testuj-iq.info^
 ||thermomix.vorwerk.pl^
 ||the-titanium.com^
 ||thputr.pro^
@@ -3222,7 +3217,6 @@
 ||topseans.pl^
 ||torrenty--org.pl^
 ||trackgsm.co.uk^
-||trackgsm.pl^
 ||tracksms.pl^
 ||track.adsfast.com^
 ||triggerinstalls.com^
@@ -3231,7 +3225,6 @@
 ||trusttastic.com^
 ||trybikowo.pl^
 ||tuniaf.com^
-||turobit.pw^
 ||twoje-piekno.pl^
 ||tysiaczek.pl^
 ||tyxuhuramolicul.tk^
@@ -3516,6 +3509,7 @@
 ||zakupeo.com^
 ||zakupyagd.net^
 ||zakupymax.net^
+||zakupyrtvagd.pl^
 ||zalukajfilmy.pl^
 ||zapraszamybowarto.pl^
 ||zdaj-to.pl^
@@ -3525,7 +3519,6 @@
 ||zmotoryzowani24.pl^
 ||znajdz-numer.pl^
 ||zobacz24.pl^
-||zosprp-wagrowiec.pl^
 ||zskleczany.pl^
 ||zukiewicz.com^
 ||zyski-z-innowacji.pl^
@@ -3694,7 +3687,6 @@
 ||odbierz-paysafecard.ujm.pl^
 ||onef.cf^
 ||onlineslotmaschine.com^
-||p986524.pl^
 ||parkingcrew.net^
 ||pffn.pl.tn^
 ||phonesecure.mobi^
@@ -3713,14 +3705,11 @@
 ||rdraff.com-app1.site^
 ||rekrutacja.zafriko.pl^
 ||ringtonepartner.com^
-||samsung-win-1k.com^
-||samsung-win-3k.com^
 ||sexopia.pl^
 ||skinsycs.89.pl^
 ||smartoffer.site^
 ||smiercidata.5v.pl^
 ||snap.cba.pl^
-||snekdeal.com^
 ||something-wrong5.agency^
 ||something-wrong9.agency^
 ||special-promotion.online^
@@ -3919,7 +3908,6 @@
 ||insanepays.com^
 ||instantdownloadsz.com^
 ||interia-zabezpieczenia.pl^
-||internet-security-73bd67kl.tk^
 ||investreviewier.com^
 ||islandmob.com^
 ||itsweeps3.space^
@@ -4019,7 +4007,6 @@
 ||plikson24.pl^
 ||plikson.pl^
 ||pliks.pl^
-||pl-ticket.today^
 ||pl.allsports4free.club^
 ||pl.dailyoffer.top^
 ||pl.mevida.me^
