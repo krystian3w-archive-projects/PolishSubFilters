@@ -12,7 +12,8 @@ Informacje:
 - opcjonalnie dodatki to [Nano Defender](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/nano_defender.md), [Cookie](https://github.com/PolishFiltersTeam/PolishCookieConsent#polska-ciasteczkowa-zgoda), [Decentraleyes](https://decentraleyes.org/), [HTTPSE](https://www.eff.org/https-everywhere), [Canvas](https://add0n.com/canvas-fingerprint-blocker.html), [G](https://palant.de/2011/11/28/google-yandex-search-link-fix/), [PP](https://github.com/cowlicks/privacypossum#readme)
 - zaincludowane listy których nie trzeba już dodawać [zewnetrzne_listy.template](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/templates/zewnetrzne_listy.template)
 
-Firefox tip https://www.privacytools.io/browsers/#about_config
+- firefox tip https://www.privacytools.io/browsers/#about_config
+- check dns https://www.cloudflare.com/ssl/encrypted-sni/
 
 [![Donatuj](https://img.shields.io/website-anonimowo-down-green-red/https/authedmine.com.svg?label=Donatuj&colorB=1caf92)](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/readme.md)
 [![Riot](https://img.shields.io/badge/Riot-chat-brightgreen.svg)](https://riot.im/app/#/room/!IPhdjtOfWxVbiddKOo:matrix.org?via=matrix.org)
