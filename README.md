@@ -13,7 +13,7 @@ Informacje:
 - zaincludowane listy których nie trzeba już dodawać [zewnetrzne_listy.template](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/templates/zewnetrzne_listy.template)
 
 firefox tip https://www.privacytools.io/browsers/#about_config <br/>
-chromium tip https://github.com/iridium-browser/tracker/wiki/Differences-between-Iridium-and-Chromium
+chromium tip [https://github.com/iridium-browser/]https://github.com/iridium-browser/tracker/wiki/Differences-between-Iridium-and-Chromium)
 
 [![Donatuj](https://img.shields.io/website-anonimowo-down-green-red/https/authedmine.com.svg?label=Donatuj&colorB=1caf92)](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/readme.md)
 [![Riot](https://img.shields.io/badge/Riot-chat-brightgreen.svg)](https://riot.im/app/#/room/!IPhdjtOfWxVbiddKOo:matrix.org?via=matrix.org)
