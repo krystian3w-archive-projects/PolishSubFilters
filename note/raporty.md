@@ -1,6 +1,6 @@
 - rek, zewn. ogólne [ENG]
-  - proste do easylist https://github.com/easylist/easylist/issues
-  - trudne do ublock https://github.com/uBlockOrigin/uBlock-issues/issues
+  - proste do https://github.com/easylist/easylist/issues
+  - trudne do https://github.com/uBlockOrigin/uBlock-issues/issues
 - rek, zewn. ogólne [PL]
   - https://github.com/MajkiIT/polish-ads-filter/issues
 
