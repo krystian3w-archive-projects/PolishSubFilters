@@ -30,6 +30,9 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+!& layout-fix, spam, aggresive
+www.youtube.com###clarify-box
+!
 !& cookie, static
 animeforgods.pl##.footer-content
 !
