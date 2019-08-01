@@ -11,6 +11,15 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+www.radiozet.pl###header-main:style(position:static!important)
+wizaz.pl###navigation-fixed
+wizaz.pl###navigation:style(position:absolute!important)
+porady.sympatia.onet.pl##.navigation.hide-for-small-only:style(position:static!important)
+zapytaj.onet.pl###header:style(position:static!important)
+seksuologbeztabu.pl###masthead:style(position:absolute!important)
+www.linux.pl###jm-top-bar:style(position:static!important)
+ddwloclawek.pl##.header-scroll.mainMenu.belka_slide
+geek.justjoin.it###masthead:style(position:static!important)
 www.dramaqueen.pl###wpadminbar:style(position:absolute!important)
 medianarodowe.com##.stuck.nav-primary:style(position:static!important)
 jbzdy.co###top:style(position:absolute!important)
