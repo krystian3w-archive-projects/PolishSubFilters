@@ -2474,8 +2474,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Tue, 30 Jul 2019, 22:57 UTC+02
-!@Version: 2019.7.30.3
+!@Last modified: Thu, 01 Aug 2019, 23:29 UTC+02
+!@Version: 2019.8.1.2
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0.
 !@Filtrem zarządza Polish Filters Team.
@@ -3189,6 +3189,7 @@
 ||sug.com.pl^
 ||sukces.pl^
 ||sundaycashsaver.com^
+||swietna-pozyczka.pl^
 ||swiezaki.weebly.com^
 ||szaloneupusty.pl^
 ||szamponrevita.pl^
@@ -3941,6 +3942,7 @@
 ||l00tfiilues.lepfj.site^
 ||leadzupc.com^
 ||learn2upgrade.find4bettervideoing.info^
+||legalniewsieci.*^$domain=~legalniewsieci.pl
 ||lesemerick.com^
 ||letswinstuff.com^
 ||lifehackz.net^
