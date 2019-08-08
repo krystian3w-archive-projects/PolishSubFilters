@@ -2474,8 +2474,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtr chroniący przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Tue, 06 Aug 2019, 16:47 UTC+02
-!@Version: 2019.8.6.2
+!@Last modified: Thu, 08 Aug 2019, 11:41 UTC+02
+!@Version: 2019.8.8.1
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0.
 !@Filtrem zarządza Polish Filters Team.
@@ -2870,6 +2870,7 @@
 ||kancelarialewickich.pl^
 ||karela-sklep.eu^
 ||kartavisa.pl^
+||kelerisriders.pl^
 ||kickz4u.pl^
 ||kiddabadam.com^
 ||kimera.pl^
@@ -2937,6 +2938,7 @@
 ||mediaexpres.in.net^
 ||mediamanago.pl^
 ||mediamax.in.net^
+||mediartvagd.in.net^
 ||mediasam.net^
 ||medicreporters.com^
 ||medios.in.net^
@@ -2968,6 +2970,7 @@
 ||moviestarplanet-hack.org.pl^
 ||moviestarplanet-haki-i-kody.crazylife.pl^
 ||msphacks.net^
+||muflena.pl^
 ||music.jbl-solo.com^
 ||muverbo.pl^
 ||myacn.eu^
@@ -3952,7 +3955,7 @@
 ||l00tfiilues.lepfj.site^
 ||leadzupc.com^
 ||learn2upgrade.find4bettervideoing.info^
-||legalniewsieci.*^$domain=~legalniewsieci.pl
+||legalniewsieci.*^$domain=~legalniewsieci.pl|~list-manage.com
 ||lesemerick.com^
 ||letswinstuff.com^
 ||lifehackz.net^
@@ -4775,6 +4778,7 @@ poczta.interia.pl#@#[href*=".hit.gemius.pl"]
 !@Expires: 1 days
 !@Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
+||spclient.wg.spotify.com/metrics-backend/
 ||spclient.wg.spotify.com/melody/v1/logging
 ||spclient.wg.spotify.com/gabo-receiver-service/*$xmlhttprequest
 ||unsplash.com##a[href^="https://srv.buysellads.com/"]
