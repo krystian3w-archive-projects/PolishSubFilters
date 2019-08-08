@@ -11,6 +11,11 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+pikio.pl##.header:style(position:static!important)
+natubie.pl###mainNavBar:style(position:absolute!important)
+polskieradio24.pl##.fixed.pr24-menu:style(position:absolute!important)
+www.crn.pl###nav:style(position:static!important)
+www.benchmark.pl###nav:style(position:absolute!important)
 www.radiozet.pl###header-main:style(position:static!important)
 wizaz.pl###navigation-fixed
 wizaz.pl###navigation:style(position:absolute!important)
