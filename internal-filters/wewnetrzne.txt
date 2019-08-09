@@ -30,6 +30,9 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+! spark, wh
+||gounlimited.to^$badfilter
+!
 !& layout-fix, spam, aggresive
 www.youtube.com###clarify-box
 !
