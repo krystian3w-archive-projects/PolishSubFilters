@@ -11,6 +11,15 @@
 !
 !1$----------------------{ ogólne reguły anty-dotacyjne }----------------------!
 !
+klubjagiellonski.pl##.block-content_breaker_zbiorka.block-content_breaker.source
+!
+! zrzutka, zbiórka
+dzienniknarodowy.pl###custom_html-9
+histmag.org##a[href^="https://histmag.org/Histmag-wesprzyj-nas-9745"]:nth-of-type(1)
+!
+! aukcja
+weszlo.com##.textwidget
+!
 !& patronite
 sejmlog.pl###custom_html-3
 !
