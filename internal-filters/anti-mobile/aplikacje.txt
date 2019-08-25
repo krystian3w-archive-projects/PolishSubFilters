@@ -1,7 +1,7 @@
-! Checksum: wVdxGgTtQEib6bgLwr6kXA
+! Checksum: 
 ! Title: Polskie Filtry Anty-Mobilne
 ! Collaborators: KonoromiHimaries
-! Version: 20190825
+! Version: 20190724
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
@@ -11,4 +11,5 @@
 !
 !1$----------------------{ ogólne reguły mobilne }----------------------!
 !
+
 !
