@@ -11,5 +11,6 @@
 !
 !1$----------------------{ ogólne reguły mobilne }----------------------!
 !
-
+! anty mobilne
+weszlo.com##.col-xs-12.col-md-4
 !
