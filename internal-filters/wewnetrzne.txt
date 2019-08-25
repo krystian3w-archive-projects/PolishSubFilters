@@ -30,9 +30,6 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
-! anty mobilne
-weszlo.com##.col-xs-12.col-md-4
-!
 ! rek, autosugestia, promo, powiązane
 dzienniknarodowy.pl##a[href^="https://www.dobrykantor.pl"]:nth-of-type(2)
 !
