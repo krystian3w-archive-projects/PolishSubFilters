@@ -25,8 +25,8 @@
 !#include paid-subscriptions/prenumeraty.txt
 !#include anti-donate-filters/anty-donacje.txt
 !#include e-commerce-filters/wizjer_e-handlu.txt
+!#include unattractive-domians/niebezpieczne.txt
 !#include floating-elements/plywajace-elementy.txt
-!#include danger-domians/elementy-niebezpieczne.txt
 !#include zewnetrzne_listy.txt
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
