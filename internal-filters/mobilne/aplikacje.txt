@@ -1,0 +1,15 @@
+! Checksum: 
+! Title: Polskie Filtry Anty-Mobilne
+! Collaborators: KonoromiHimaries
+! Version: 20190724
+! Expires: 3 days
+! Wymagane:
+!   Rozszerzenia >> uBlock Origin lub Nano Adblocker
+!   Listy filtrów >> EasyList + EasyList Polish + Polskie Filtry + Polskie Filtry EI
+! License: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pl
+! Copyright © 2018-2019 MT&Qn
+!
+!1$----------------------{ ogólne reguły mobilne }----------------------!
+!
+
+!
