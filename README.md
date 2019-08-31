@@ -12,8 +12,8 @@ Informacje:
 - opcjonalnie dodatki to [Nano Defender](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/nano_defender.md), [Cookie](https://github.com/PolishFiltersTeam/PolishCookieConsent#polska-ciasteczkowa-zgoda), [Decentraleyes](https://decentraleyes.org/), [HTTPSE](https://www.eff.org/https-everywhere), [Canvas](https://add0n.com/canvas-fingerprint-blocker.html), [G](https://palant.de/2011/11/28/google-yandex-search-link-fix/), [PP](https://github.com/cowlicks/privacypossum#readme)
 - extra zaincludowane listy z auto-aktualizacją co 24h [zewnetrzne_listy.template](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/templates/zewnetrzne_listy.template)
 
-~ firefox tip https://www.privacytools.io/browsers/#about_config </br>
-~ chromium tip [https://github.com/iridium-browser/tracker/wiki](https://github.com/iridium-browser/tracker/wiki/Differences-between-Iridium-and-Chromium) </br>
+~ firefox https://www.privacytools.io/browsers/#about_config </br>
+~ chromium [https://github.com/iridium-browser/tracker/wiki](https://github.com/iridium-browser/tracker/wiki/Differences-between-Iridium-and-Chromium) </br>
 ~ dns [gist](https://gist.github.com/ookangzheng/c8fba46fe1dbcc8152e3231f53f91e86) ~ vpn [gist](https://gist.github.com/joepie91/5a9909939e6ce7d09e29) ~ useragent [note](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/pp-media.md) ~ search [wiki](https://github.com/asciimoo/searx/wiki/Searx-instances#alive-and-running)
 
 [![Donatuj](https://img.shields.io/website-anonimowo-down-green-red/https/authedmine.com.svg?label=Donatuj&colorB=1caf92)](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/readme.md)
