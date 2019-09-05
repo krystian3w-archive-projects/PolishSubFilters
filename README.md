@@ -14,7 +14,7 @@ Informacje:
 
 ~ firefox https://www.privacytools.io/browsers/#about_config </br>
 ~ chromium [https://github.com/iridium-browser/tracker/wiki](https://github.com/iridium-browser/tracker/wiki/Differences-between-Iridium-and-Chromium) </br>
-~ dns [gist](https://gist.github.com/ookangzheng/c8fba46fe1dbcc8152e3231f53f91e86) ~ vpn [gist](https://gist.github.com/joepie91/5a9909939e6ce7d09e29) ~ useragent [note](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/pp-media.md) ~ search [wiki](https://github.com/asciimoo/searx/wiki/Searx-instances#alive-and-running)
+~ dns [gist](https://gist.github.com/ookangzheng/c8fba46fe1dbcc8152e3231f53f91e86) ~ vpn [gist](https://gist.github.com/joepie91/5a9909939e6ce7d09e29) ~ useragent [note](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/pp-media.md) ~ search [wiki](https://github.com/asciimoo/searx/wiki/Searx-instances#alive-and-running) ~ script [ytbe](https://greasyfork.org/en/scripts/370461-invidious-redirect)
 
 [![Donatuj](https://img.shields.io/website-anonimowo-down-green-red/https/authedmine.com.svg?label=Donatuj&colorB=1caf92)](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/readme.md)
 [![Riot](https://img.shields.io/badge/Riot-chat-brightgreen.svg)](https://riot.im/app/#/room/!IPhdjtOfWxVbiddKOo:matrix.org?via=matrix.org)
