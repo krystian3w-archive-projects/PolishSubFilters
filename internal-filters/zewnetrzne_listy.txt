@@ -75,10 +75,10 @@
 
 # Standalones:
 ||blasze.tk^
-||blasze.com^$imporant
+||blasze.com^$important
 ||myiptest.com/img.php^
 #ikwyd.com - see https://iknowwhatyoudownload.com, they automask links behind google shorterner, use redirect tracing
-||ikwyd.com^$imporant
+||ikwyd.com^$important
 #ps3cfw.com/cool.php?item=tracking id
 ||ps3cfw.com^
 #dead but parent alive
@@ -216,7 +216,7 @@
 ||bootyou.net^
 ||critical-boot.com^
 ||boot4free.com^
-#||ipstresser.com^$imporant
+#||ipstresser.com^$important
 
 # Third party #
 ||aruljohn.com/widget/zip/*
@@ -5074,7 +5074,7 @@ poczta.interia.pl#@#[href*=".hit.gemius.pl"]
 ||spclient.wg.spotify.com/metrics-backend/
 ||spclient.wg.spotify.com/melody/v1/logging
 ||spclient.wg.spotify.com/gabo-receiver-service/*$xmlhttprequest
-||unsplash.com##a[href^="https://srv.buysellads.com/"]
+unsplash.com##a[href^="https://srv.buysellads.com/"]
 ||lip11t.com
 ||echo360.org.au/lesson/*/confused/*$xmlhttprequest
 ||echo360.org.au/video/*/viewed$xmlhttprequest
