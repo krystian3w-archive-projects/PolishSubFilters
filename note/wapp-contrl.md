@@ -1,1 +1,1 @@
-<code>https://wpd.app/</code>
+<code>https://github.com/blackholeearth/Win10_BrightnessSlider/releases</code>
