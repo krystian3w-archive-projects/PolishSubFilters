@@ -17,3 +17,4 @@ Informacje:
 ~ dns [gist](https://gist.github.com/ookangzheng/c8fba46fe1dbcc8152e3231f53f91e86) / vpn [gist](https://gist.github.com/joepie91/5a9909939e6ce7d09e29) / useragent [note](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/pp-media.md) / search [wiki](https://github.com/asciimoo/searx/wiki/Searx-instances#alive-and-running) / script [yt](https://greasyfork.org/en/scripts/370461-invidious-redirect)
 
 [![Riot](https://img.shields.io/badge/Riot-chat-brightgreen.svg)](https://riot.im/app/#/room/!IPhdjtOfWxVbiddKOo:matrix.org?via=matrix.org)
+[![Leak](https://img.shields.io/badge/Leak-Check-orange.svg)](https://browserleaks.com/)
