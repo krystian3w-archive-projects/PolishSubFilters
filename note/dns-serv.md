@@ -10,8 +10,31 @@ https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Daemon+-+Stubby
 https://gist.github.com/ookangzheng/c8fba46fe1dbcc8152e3231f53f91e86
 ```
 
-#### check hash
+### Check hash
 
 ```
 echo | openssl s_client -connect 'IP HERE' 2>/dev/null | openssl x509 -pubkey -noout | openssl pkey -pubin -outform der | openssl dgst -sha256 -binary | openssl enc -base64
+```
+
+##
+
+
+### Windows
+
+#### download
+```
+https://dnsprivacy.org/wiki/display/DP/Windows+installer+for+Stubby
+```
+
+
+#### copy stubby.bat.lnk from
+```
+C:\Program Files\Stubby
+```
+
+#### to
+
+click win+r
+```
+shell:startup
 ```
