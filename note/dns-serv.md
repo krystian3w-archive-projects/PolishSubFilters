@@ -34,10 +34,12 @@ C:\Program Files\Stubby
 
 #### to
 
-click win+r
+click win+r and paste
 ```
 shell:startup
 ```
+
+##
 
 ### Linux
 
