@@ -59,7 +59,7 @@ cp /etc/resolv.conf.save /etc/resolv.conf
 
 ##
 
-### DNS
+### Local DNS
 
 ipv4
 ```
