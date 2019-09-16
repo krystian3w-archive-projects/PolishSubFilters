@@ -18,6 +18,29 @@ echo | openssl s_client -connect 'IP HERE' 2>/dev/null | openssl x509 -pubkey -n
 
 ##
 
+### Config
+
+```
+upstream_recursive_servers:
+  - address_data: 146.185.167.43
+    tls_auth_name: "dot.securedns.eu"
+    tls_pubkey_pinset:
+      - digest: "sha256"
+        value: h3mufC43MEqRD6uE4lz6gAgULZ5/riqH/E+U+jE3H8g=
+  - address_data: 94.130.110.185
+    tls_auth_name: "ns1.dnsprivacy.at"
+    tls_pubkey_pinset:
+      - digest: "sha256"
+        value: vqVQ9TcoR9RDY3TpO0MTXw1YQLjF44zdN3/4PkLwtEY=
+  - address_data: 94.130.110.178
+    tls_auth_name: "ns2.dnsprivacy.at"
+    tls_pubkey_pinset:
+      - digest: "sha256"
+        value: s5Em89o0kigwfBF1gcXWd8zlATSWVXsJ6ecZfmBDTKg=
+```
+
+##
+
 
 ### Windows
 
