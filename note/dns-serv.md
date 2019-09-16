@@ -38,3 +38,21 @@ click win+r
 ```
 shell:startup
 ```
+
+### Linux
+
+```
+apt install stubby
+```
+
+```
+nano /etc/resolv.conf
+cp /etc/resolv.conf /etc/resolv.conf.save
+```
+
+#### create start.sh
+
+```
+sudo screen -s stubby -dm stubby sudo stubby
+cp /etc/resolv.conf.save /etc/resolv.conf
+```
