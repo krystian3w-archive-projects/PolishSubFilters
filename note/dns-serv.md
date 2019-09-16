@@ -27,7 +27,7 @@ https://dnsprivacy.org/wiki/display/DP/Windows+installer+for+Stubby
 ```
 
 
-#### copy stubby.bat.lnk from
+#### unpack and copy stubby.bat.lnk from
 ```
 C:\Program Files\Stubby
 ```
