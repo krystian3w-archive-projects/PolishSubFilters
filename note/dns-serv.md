@@ -59,7 +59,7 @@ cp /etc/resolv.conf.save /etc/resolv.conf
 
 ##
 
-### Test
+### Test it
 
 ```
 https://www.dnsleaktest.com/
