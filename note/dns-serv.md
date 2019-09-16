@@ -37,11 +37,6 @@ C:\Program Files\Stubby
 shell:startup
 ```
 
-### Test
-
-```
-https://www.dnsleaktest.com/
-```
 ##
 
 ### Linux
@@ -60,4 +55,12 @@ cp /etc/resolv.conf /etc/resolv.conf.save
 ```
 sudo screen -s stubby -dm stubby sudo stubby
 cp /etc/resolv.conf.save /etc/resolv.conf
+```
+
+##
+
+### Test
+
+```
+https://www.dnsleaktest.com/
 ```
