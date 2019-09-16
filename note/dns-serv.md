@@ -59,7 +59,7 @@ cp /etc/resolv.conf.save /etc/resolv.conf
 
 ##
 
-### change dns
+### Change dns
 
 ipv4
 ```
