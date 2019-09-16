@@ -59,6 +59,18 @@ cp /etc/resolv.conf.save /etc/resolv.conf
 
 ##
 
+### change dns
+
+ipv4
+```
+127.0.0.1
+```
+
+ipv6
+```
+::1
+```
+
 ### Test it
 
 ```
