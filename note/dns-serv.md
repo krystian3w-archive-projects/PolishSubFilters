@@ -32,9 +32,7 @@ https://dnsprivacy.org/wiki/display/DP/Windows+installer+for+Stubby
 C:\Program Files\Stubby
 ```
 
-#### to
-
-click win+r and paste
+#### click win+r and paste
 ```
 shell:startup
 ```
