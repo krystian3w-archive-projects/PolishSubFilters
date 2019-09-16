@@ -74,7 +74,7 @@
 
 2. zainstaluj podane dodatki
 
-#### na Kiwi Browser w wersji **mobilnej** ( [działa tylko z Nano Adblockerem](https://chrome.google.com/webstore/detail/nano-adblocker/gabbbocakeomblphkmmnoamkioajlkfo) )
+#### na Kiwi Browser w wersji **mobilnej**
 
 1. wejdź w poniższe linki
 
