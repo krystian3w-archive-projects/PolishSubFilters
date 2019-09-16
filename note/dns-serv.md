@@ -37,6 +37,11 @@ C:\Program Files\Stubby
 shell:startup
 ```
 
+### Test
+
+```
+https://www.dnsleaktest.com/
+```
 ##
 
 ### Linux
