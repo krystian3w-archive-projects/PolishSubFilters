@@ -14,7 +14,7 @@ Informacje:
 
 ~ firefox https://www.privacytools.io/browsers/#about_config </br>
 ~ chromium [https://github.com/iridium-browser/tracker/wiki](https://github.com/iridium-browser/tracker/wiki/Differences-between-Iridium-and-Chromium) </br>
-~ dns [md](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/dns-serv.md) / vpn [gist](https://gist.github.com/joepie91/5a9909939e6ce7d09e29) / useragent [note](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/pp-media.md) / search [md](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/search-serv.md) / w10 [md](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/w10-servic.md)
+~ dns [md](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/dns-serv.md) / vpn [gist](https://gist.github.com/joepie91/5a9909939e6ce7d09e29) / useragent [md](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/pp-media.md) / search [md](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/search-serv.md) / w10 [md](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/w10-servic.md)
 
 [![Riot](https://img.shields.io/badge/Riot-chat-brightgreen.svg)](https://riot.im/app/#/room/!IPhdjtOfWxVbiddKOo:matrix.org?via=matrix.org)
 [![Leak](https://img.shields.io/badge/Leak-check-orange.svg)](https://browserleaks.com/)
