@@ -21,8 +21,6 @@ echo | openssl s_client -connect 'IP HERE' 2>/dev/null | openssl x509 -pubkey -n
 
 
 ### Windows
-
-#### download
 ```
 https://dnsprivacy.org/wiki/display/DP/Windows+installer+for+Stubby
 ```
