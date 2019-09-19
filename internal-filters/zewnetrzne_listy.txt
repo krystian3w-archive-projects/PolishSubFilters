@@ -2729,8 +2729,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Mon, 16 Sep 2019, 19:26 UTC+02
-!@Version: 2019.9.16.0
+!@Last modified: Thu, 19 Sep 2019, 13:06 UTC+02
+!@Version: 2019.9.19.0
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -2762,6 +2762,7 @@
 ||act-natural.pl^
 ||act.poznan.pl^
 ||adamkepinski.pl^
+||adapterylaptopa.com^
 ||adblock-listefr.com^
 ||adidasbuty.pl^
 ||adidasterrexsolo.pl^
@@ -2863,6 +2864,7 @@
 ||bmgrp.tk^
 ||bnewsb.com^
 ||bodysecretrevelation.com^
+||bonnisi.com^
 ||boobi.biz^
 ||bootstraplugin.com^
 ||boryskowalski.pl^
@@ -3117,7 +3119,6 @@
 ||girrrly.com^
 ||glinkss.com^
 ||globalintergold.com^
-||globalmagazine24.eu^
 ||gojiberry500.pl^
 ||gokano.com^
 ||goldsaver.pl^
@@ -3158,7 +3159,6 @@
 ||homejailbreak.com^
 ||homgar.pl^
 ||hostedfiles.net^
-||hotokazje.com^
 ||humanverify.net^
 ||hunterstyle24.com^
 ||hunterstyle.pl^
@@ -3280,6 +3280,7 @@
 ||mariuszpelczarski.pl^
 ||mariza.com.pl^
 ||marketpremium.pl^
+||marsonic.pl^
 ||martdiamonds.pl^
 ||marykay.pl^
 ||masenkotrkr.com^
@@ -3369,6 +3370,7 @@
 ||normour.com^
 ||norton.pl^
 ||notifyday.com^
+||novits4.com^
 ||novumedical.pl^
 ||nowaupadlosc.pl^
 ||nowa.k-link-poland.pl^
@@ -3452,6 +3454,7 @@
 ||pol.boobs-xl.com^
 ||pomocnapozyczka.pro^
 ||popcornvod.com^
+||popshoes.pl^
 ||poradniaszczecin.pl^
 ||powerfactorsaver.com^
 ||pozycjeseksualne.pl^
@@ -3542,7 +3545,6 @@
 ||rushpay.pl^
 ||rzetelna-pozyczka.pl^
 ||s9kkremkr0.com^
-||sales-express.eu^
 ||salomonsklep.online^
 ||salomonwyprzedaz.pl^
 ||santos24.net^
@@ -3750,7 +3752,6 @@
 ||wrig.pl^
 ||wszystkododomu.net^
 ||wygrana-konkursu.eu^
-||wygrana-wpisz-dane.eu^
 ||wyjazd24.pl^
 ||wyleczpc.pl^
 ||wyspaofert.com^
@@ -3786,6 +3787,7 @@
 ||zennoa.com^
 ||zespolbefree.pl^
 ||zespolmayol.pl^
+||zieloneswiatki.pl^
 ||zinzino.com^
 ||zmotoryzowani24.pl^
 ||znajdz-numer.pl^
@@ -4027,6 +4029,7 @@
 ||allplayer.pl^
 ||all-player.pl^
 ||androidsecurityplus.com^
+||anetakurier.info^
 ||appandroider.com^
 ||appiq.mobi^
 ||apple-*.deviceoffergiveaways.icu^
@@ -4057,6 +4060,7 @@
 ||chomik-24.pl^
 ||chron-telefon.com^
 ||circultural.com^
+||climblike.com^
 ||colormessa.info^
 ||cool4mob.com^
 ||coreplays.com^
@@ -4195,7 +4199,6 @@
 ||infonews24.com.pl^
 ||inpost24.me^
 ||insanepays.com^
-||instantdownloadsz.com^
 ||interia-zabezpieczenia.pl^
 ||investreviewier.com^
 ||islandmob.com^
