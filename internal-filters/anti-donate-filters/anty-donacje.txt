@@ -1,7 +1,7 @@
-! Checksum: NkTiiwbMJFMofV051rq3uQ
+! Checksum: 7tcd+1e1hyblF67+BmtW1w
 ! Title: Polskie Filtry Anty-Donacyjne
 ! Collaborators: KonoromiHimaries
-! Version: 20190825
+! Version: 20190920
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
