@@ -11,6 +11,8 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+natemat.pl##.navbar-default.navbar:style(position:static!important)
+rzetelnafirma.pl###rzfNavbar:style(position:absolute!important)
 zakazanaprawda.pl###nav-wrapper:style(position:static!important)
 klubjagiellonski.pl###topbar_mobile:style(position:absolute!important)
 prawy.pl###top:style(position:absolute!important)
