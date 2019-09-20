@@ -31,13 +31,23 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+!& wh, kad
+!> https://github.com/PolishFiltersTeam/KAD/issues/961
+||kupujemy.to^$badfilter
+!
+!& zew, non-content
+fili.cc###menu > li:nth-of-type(3)
+!
+!& extension, bug
+###DeepLWidget
+!
 ! rek, autosugestia, promo, powiązane
 dzienniknarodowy.pl##a[href^="https://www.dobrykantor.pl"]:nth-of-type(2)
 !
-! self-promo
+!& self-promo
 www.centrumxp.pl##section.sidebar-news-grid:nth-of-type(1):has-text(REKLAMA)
 !
-! spark, wh
+!& spark, wh
 ||www.interia.pl^$badfilter
 ||gounlimited.to^$badfilter
 !
