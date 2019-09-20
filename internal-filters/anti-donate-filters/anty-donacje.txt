@@ -84,12 +84,6 @@ searx.me##div.panel-default.panel:nth-of-type(2)
 !& donacja, baner, podstrona, paypal, bitcoin
 searx.me##.panel-default.panel:nth-of-type(1)
 !
-!& baner, text, sms, donacja, irytujące, premium
-jackcaleib.com##div.smsb1.col-sm:nth-of-type(1)
-jackcaleib.com##[href="http://jackcaleib.com/regulamin-sms.pdf"]
-!& baner, text, pod strona, paypal, donacja, irytujące, premium
-jackcaleib.com##div.smsb1.col-sm:nth-of-type(2)
-!
 !& baner, animowany, topka, podstrona, bank
 poradnik.ngo.pl##.top-ngo-darowizna
 !
