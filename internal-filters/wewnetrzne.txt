@@ -55,9 +55,6 @@ www.centrumxp.pl##section.sidebar-news-grid:nth-of-type(1):has-text(REKLAMA)
 !& layout-fix, spam, aggresive
 www.youtube.com###clarify-box
 !
-!& cookie, static
-animeforgods.pl##.footer-content
-!
 !& webbinar, event
 oscarrak.pl###custom_html-3
 !
@@ -857,22 +854,6 @@ www.bankier.pl##iframe[src="https://bankier.polldaddy.com/s/złoty-bankier-zgło
 !& reklama artykułu
 !> https://github.com/MajkiIT/polish-ads-filter/issues/6085
 make-cash.pl##.ipsBox.ipsWidget_vertical.ipsWidget:nth-of-type(3), .ipsBox.ipsWidget_vertical.ipsWidget:nth-of-type(8)
-!
-!
-!35$----------------------{ ciasteczka - statyczne }----------------------!
-!
-!& stopka, podstrona
-www.walutywirtualne.pl##table:nth-of-type(3)
-!
-!& komunikat
-niewygodne.info.pl##tr:nth-of-type(1):has-text(cookies)
-!
-!& komunikat
-!> https://github.com/MajkiIT/polish-ads-filter/issues/6296
-24wspolnota.pl##.container > .col-sm-12.col-md-4
-!
-!& komunikat
-www.kosmonautyka.pl##table:nth-of-type(3)
 !
 !
 !36$----------------------{ ulepszenia - przycinanie sekcji }----------------------!
