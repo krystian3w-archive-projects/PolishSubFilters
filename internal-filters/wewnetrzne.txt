@@ -21,12 +21,12 @@
 !
 !1$----------------------{ listy uzupełniające }----------------------!
 !
-!#include static-elements/cookie.txt
 !#include anti-mob-elements/aplikacje.txt
 !#include paid-subscriptions/prenumeraty.txt
 !#include anti-donate-filters/anty-donacje.txt
 !#include e-commerce-filters/wizjer_e-handlu.txt
 !#include unattractive-domians/niebezpieczne.txt
+!#include unexpected-static-elements/kokiesy.txt
 !#include floating-elements/plywajace-elementy.txt
 !#include zewnetrzne_listy.txt
 !
