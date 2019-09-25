@@ -21,6 +21,7 @@
 !
 !1$----------------------{ listy uzupełniające }----------------------!
 !
+!#include static-elements/cookie.txt
 !#include anti-mob-elements/aplikacje.txt
 !#include paid-subscriptions/prenumeraty.txt
 !#include anti-donate-filters/anty-donacje.txt
