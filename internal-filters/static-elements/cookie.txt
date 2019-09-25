@@ -1,4 +1,4 @@
-! Checksum: v9rd3/KQlPwauCM2sXsRpg
+! Checksum: VK5qVZoJ2vlFyaHFZ2JCRA
 ! Title: Polskie Filtry Statycznych Cookie
 ! Collaborators: KonoromiHimaries
 ! Version: 20190925
