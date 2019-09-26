@@ -1,7 +1,7 @@
-! Checksum: 4MUt6aaqpl/gFsmg2x4Jtw
+! Checksum: 0drApelKYfBKqISUYJzaYg
 ! Title: Polskie Filtry Statycznych Cookie
 ! Collaborators: KonoromiHimaries
-! Version: 20190925
+! Version: 20190926
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
