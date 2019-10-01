@@ -13,7 +13,7 @@ Informacje:
 - extra zaincludowane listy z auto-aktualizacją co 24h [zewnetrzne_listy.template](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/templates/zewnetrzne_listy.template)
 
 ~ firefox https://www.privacytools.io/browsers/#about_config </br>
-~ chromium [https://github.com/macchrome/winchrome/releases/](https://github.com/macchrome/winchrome/releases/) </br>
+~ chromium [https://github.com/macchrome/winchrome/releases](https://github.com/macchrome/winchrome/releases/) </br>
 ~ dns [md](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/dns-serv.md#readme) / vpn [gist](https://gist.github.com/joepie91/5a9909939e6ce7d09e29) / useragent [md](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/pp-media.md#readme) / search [md](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/search-serv.md#readme) / w10 [md](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/w10-servic.md#readme)
 
 [![Riot](https://img.shields.io/badge/Riot-chat-brightgreen.svg)](https://riot.im/app/#/room/!IPhdjtOfWxVbiddKOo:matrix.org?via=matrix.org)
