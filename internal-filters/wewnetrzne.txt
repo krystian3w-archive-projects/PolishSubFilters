@@ -32,6 +32,9 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+!& non-content, polecane, player
+ebd.cda.pl##.pb-ad-pause-plt-content
+!
 !& wh, kad
 !> https://github.com/PolishFiltersTeam/KAD/issues/961
 ||kupujemy.to^$badfilter
