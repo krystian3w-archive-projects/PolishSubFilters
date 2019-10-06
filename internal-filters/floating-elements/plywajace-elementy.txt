@@ -11,6 +11,8 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+infomiasto.eu###site-header-main:style(position:static!important)
+roadtripbus.pl##header:style(position:static!important)
 anime-odcinki.pl##.vb_buddy_floating_strip
 obcas.pl###mvp-nav-wrap:style(position:static!important)
 www.openwire.tv##.sticky.fixed-top:style(position:absolute!important)
