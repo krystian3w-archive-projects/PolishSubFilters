@@ -11,6 +11,7 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+hitydiscopolo.pl###navigation:style(position:static!important)
 infomiasto.eu###site-header-main:style(position:static!important)
 roadtripbus.pl##header:style(position:static!important)
 anime-odcinki.pl##.vb_buddy_floating_strip
