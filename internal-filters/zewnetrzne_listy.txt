@@ -2813,8 +2813,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Mon, 07 Oct 2019, 21:21 UTC+02
-!@Version: 2019.10.7.2
+!@Last modified: Wed, 09 Oct 2019, 18:35 UTC+02
+!@Version: 2019.10.9.1
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -3085,6 +3085,7 @@
 ||electroline.pl^
 ||elektro24h.pl^
 ||elektromax.in.net^
+||elektronicznyswiat.pl^
 ||elepta.pl^
 ||elite-crack.ml^
 ||emobi-sys.com^
@@ -3270,6 +3271,7 @@
 ||i-store365.com^
 ||jacketspolska.cn^
 ||jakpodrywacnatinderze.pl^
+||jakpuch.pl^
 ||jak-szybko-zarobic.com^
 ||jasnypoker.pl^
 ||jelitto.pl^
@@ -3287,6 +3289,7 @@
 ||kancelariakufieta.pl^
 ||kancelarialewickich.pl^
 ||kartavisa.pl^
+||keenbuty.pl^
 ||kenseeart.pl^
 ||kickstore.pl^
 ||kickz4u.pl^
@@ -4161,6 +4164,7 @@
 ||brkhukuk.com^
 ||broadpeakdefense.com^
 ||brooklynlilly.com^
+||btcprofitnow.website^
 ||btc-forum.pl^
 ||bubblelife70.life^
 ||bulbulstore.com^
@@ -4171,6 +4175,7 @@
 ||carambaba.com^
 ||careervsjob.com^
 ||carolinakurier.com^
+||carsev.eu^
 ||catsplit.com^
 ||cbdnewsdirect.com^
 ||cclive.istage.cloud^
@@ -4195,6 +4200,8 @@
 ||codenpic.com^
 ||colorking.es^
 ||colormessa.info^
+||compartnew.eu^
+||conviktus.eu^
 ||cool4mob.com^
 ||coreplays.com^
 ||covergt.com^
@@ -4237,15 +4244,18 @@
 ||drmarins.com^
 ||dspinner.net^
 ||durakbufecengelkoy.com^
-||dywanypers.pl^
 ||easydownload.pl^
 ||easypdfcombine.com^
 ||easy-service.org^
 ||ebookeo.pl^
 ||ecampuskbds.com^
+||ecdi14.eu^
+||ecdi15.eu^
+||ecdi19.eu^
 ||echelona.net^
 ||eforsa.pl^
 ||ekerisiltihaliyikama.com^
+||ekipl.eu^
 ||ekonkarserai.com^
 ||elavepene.us^
 ||electroenchufe.com^
@@ -4253,6 +4263,7 @@
 ||elememory.com^
 ||elwirakurier.com^
 ||endofhisrope.net^
+||ericius.eu^
 ||eroscenter.co.il^
 ||eroutks.co^
 ||ero-tv.pl^
@@ -4385,6 +4396,7 @@
 ||hexistrading.com^
 ||highamnet.co.uk^
 ||higo.net^
+||historieludzkie*.online^
 ||hitfilm.pl^
 ||holyurbanhotel.com^
 ||horafoo.xyz^
@@ -4437,6 +4449,9 @@
 ||keqiang.pro^
 ||ketabnema.com^
 ||ketorecipeslchf.site^
+||kibo1.eu^
+||kibogroup.eu^
+||kiboinvest.eu^
 ||kiepscy.evai.pl^
 ||kipokahynr.xyz^
 ||kirstenbijlsma.com^
@@ -4471,6 +4486,8 @@
 ||liversely.com^
 ||losowa-gra.pl^
 ||lottizzazionesavarra.it^
+||lp.macapps-centers.club^
+||lp.speedytools.club^
 ||macandwin.theforcontentingvideosystems.icu^
 ||maccleaner.space^
 ||maceju.com^
@@ -4613,6 +4630,7 @@
 ||powaifinearts.org^
 ||po.fyybox.com^
 ||pramodkumarsingh.000webhostapp.com^
+||proecogroup.eu^
 ||profitmaximum.pl^
 ||projectolynx.com^
 ||pronhubhd.com^
@@ -4673,6 +4691,7 @@
 ||shinden-anime.info^
 ||showmeflix.com^
 ||showsplash.com^
+||sigma1.eu^
 ||sirijayareddypsychologist.com^
 ||skidrowcrack.com^
 ||skinycs.pl^
@@ -4684,6 +4703,7 @@
 ||soft4click.com^
 ||softmania.pl^
 ||softsmart.mobi^
+||solarpl.pl^
 ||solucjegier.pl^
 ||soo.sg^
 ||spaceforyou.cc^
@@ -4765,10 +4785,13 @@
 ||uzupelniajdane.gq^
 ||valuesmatter.com.au^
 ||vanscheers.com^
+||varlan.eu^
 ||vemalandsafaris.com^
 ||vidnet.pl^
 ||vidplayer.pl^
 ||vimeoo.net^
+||vivo1.eu^
+||vivo4.eu^
 ||vod24.pl^
 ||vtopiuops.info^
 ||w3brasil.com^
@@ -4785,6 +4808,7 @@
 ||wiadomosci.ct8.pl^
 ||widget-eforsa.pl^
 ||wincleanerpro.com^
+||windpl.org^
 ||wisdementive.info^
 ||womenempowermentpakistan.com^
 ||wpcache-blogger.com^
