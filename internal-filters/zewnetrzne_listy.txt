@@ -2813,8 +2813,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Tue, 15 Oct 2019, 15:08 UTC+02
-!@Version: 2019.10.15.0
+!@Last modified: Sat, 19 Oct 2019, 17:25 UTC+02
+!@Version: 2019.10.19.5
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -3804,6 +3804,7 @@
 ||vseobuch.ru^
 ||w2mobile.com^
 ||w65.pl^
+||wardon.pl^
 ||wartomiec.pl^
 ||wdrodzenaratunek.pl^
 ||web-online.pl^
@@ -3881,6 +3882,7 @@
 ||fitsekret.pl^
 ||globalhealingcenter.com^
 ||gotsprouts.com^
+||homoseksualizm.edu.pl^
 ||jerzyzieba.com^
 ||mabello.pl^
 ||meganiusy.com^
@@ -3895,6 +3897,7 @@
 ||szczepienie.info^
 ||timeforvitamins.com^
 ||ukryteterapie.pl^
+||vaccgenocide.blogspot.com^
 ||vaccgenocide.wordpress.com^
 ||witnatura.pl^
 !
@@ -4183,6 +4186,7 @@
 ||catsplit.com^
 ||cbdnewsdirect.com^
 ||cclive.istage.cloud^
+||cda24.net^
 ||cda-flix.pl^
 ||cengizguler.com.tr^
 ||centrolinguisticorobert.com^
@@ -4341,6 +4345,7 @@
 ||fixfuturetype-restclicks.icu^
 ||flashplayerload.com^
 ||fliteilex.com^
+||florentynakurier.com^
 ||followergods.com^
 ||following-technology.com^
 ||footoografie-pobieralnia.eu^
@@ -4350,6 +4355,7 @@
 ||fotoografie-pobierz.eu^
 ||foxnib.com^
 ||foxrpas.com^
+||franciszkakurier.com^
 ||freefollower.eu^
 ||freegiftcode.com^
 ||freehackpl.com^
@@ -4581,6 +4587,7 @@
 ||oplatyi.pl^
 ||orange-kodzik.890m.com^
 ||otomoto-pl.eu^
+||otomoto.group^
 ||otube.pl^$document
 ||overcreative.com^
 ||paczkomaty-pl.tk^
@@ -4656,6 +4663,9 @@
 ||pulsebiznesu.xyz^
 ||pulse-biznesowe.xyz^
 ||puls-sukcesu.net^
+||pzu-doplaty.pl^
+||pzu-sa.eu^
+||pzu.services^
 ||qubble.com^
 ||quiz-fun.com.my^
 ||radiorage.com^
@@ -4822,6 +4832,7 @@
 ||wincleanerpro.com^
 ||windpl.org^
 ||wisdementive.info^
+||wolyncalyfilm.wordpress.com^
 ||womenempowermentpakistan.com^
 ||wpcache-blogger.com^
 ||wplogin.5v.pl^
@@ -4847,6 +4858,7 @@
 ||yuppipuppy.com^
 ||za10groszy.pl^
 ||zajonc.de^
+||zalukaj24.com^
 ||zalukaj24.pl^
 ||zalukaj-cda.pl^
 ||zalukaj-online.pl^
@@ -4985,6 +4997,7 @@ kadantiscam.netlify.com###kadetect
 ||fitsekret.pl^$badfilter
 ||globalhealingcenter.com^$badfilter
 ||gotsprouts.com^$badfilter
+||homoseksualizm.edu.pl^$badfilter
 ||jerzyzieba.com^$badfilter
 ||mabello.pl^$badfilter
 ||meganiusy.com^$badfilter
@@ -4999,6 +5012,7 @@ kadantiscam.netlify.com###kadetect
 ||szczepienie.info^$badfilter
 ||timeforvitamins.com^$badfilter
 ||ukryteterapie.pl^$badfilter
+||vaccgenocide.blogspot.com^$badfilter
 ||vaccgenocide.wordpress.com^$badfilter
 ||witnatura.pl^$badfilter
 !
