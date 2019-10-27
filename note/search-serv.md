@@ -1,4 +1,4 @@
-## Search Engine
+## Search Engines
 ```
 https://stats.searx.xyz/
 ```
