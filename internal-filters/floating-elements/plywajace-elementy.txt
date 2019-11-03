@@ -11,6 +11,10 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+netfilmy.pl###navbar-main:style(position:absolute!important)
+www.przepisy.pl##.navigation-wrap:style(position:absolute!important)
+www.przepisy.pl###main-menu-top-search:style(position:absolute!important)
+www.przepisy.pl###main-menu-top:style(position:absolute!important)
 www.kalendarzswiat.pl###menu_bar_wrap:style(position:static!important)
 centrum-dramy.pl###header:style(position:static!important)
 housemafia.pl###menu:style(position:static!important)
