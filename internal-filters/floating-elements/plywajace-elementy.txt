@@ -854,6 +854,7 @@ www.kurshtml.edu.pl###kategoria_info:style(position:absolute!important)
 www.interia.pl###main-menu-switch:style(position:absolute!important)
 www.militaria.pl##.on.fixed.buttons.row:style(position:static!important)
 mirkolisty.pvu.pl##.change-style.theme-changer:style(position:absolute!important)
+radio111.pl##.page-footer:style(position:static!important)
 !
 !
 !5$----------------------{ inne }----------------------!
@@ -875,7 +876,6 @@ miastons.pl##.sidebar-column-primary.sidebar-column.col-sm-4:style(position:stat
 radiopoznan.fm###privacyPolicyBox
 radiopoznan.fm###rm-main-logo-place:style(transition:none!important)
 radiopoznan.fm###rm-top:style(position:absolute!important)
-radio111.pl##.page-footer:style(position:static!important)
 !
 !
 !6$----------------------{ nopl }----------------------!
