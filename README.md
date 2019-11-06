@@ -1,4 +1,4 @@
-Polskie Filtry Wewnętrzne [(Subskrybuj)](https://subscribe.adblockplus.org/?location=https://cdn.staticaly.com/gh/KonoromiHimaries/PolishSubFilters/master/internal-filters/wewnetrzne.txt&title=Polskie%20Filtry%20Wewnętrzne)
+Polskie Filtry Wewnętrzne [(Subskrybuj)](https://adguardteam.github.io/AnonymousRedirect/redirect.html?url=https://subscribe.adblockplus.org/?location=https://cdn.staticaly.com/gh/KonoromiHimaries/PolishSubFilters/master/internal-filters/wewnetrzne.txt&title=Polskie%20Filtry%20Wewnętrzne)
 ```
 https://cdn.staticaly.com/gh/KonoromiHimaries/PolishSubFilters/master/internal-filters/wewnetrzne.txt
 ```
