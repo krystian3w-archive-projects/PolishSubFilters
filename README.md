@@ -12,7 +12,7 @@ Informacje:
 - opcjonalnie dodatki to [Nano Defender](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/nano_defender.md#readme), [C](https://github.com/PolishFiltersTeam/PolishCookieConsent#polska-ciasteczkowa-zgoda), [Decentraleyes](https://decentraleyes.org/), [HTTPSE](https://www.eff.org/https-everywhere), [Canvas](https://add0n.com/canvas-fingerprint-blocker.html), [Url](https://gitlab.com/KevinRoebert/ClearUrls/tree/master#readme), [PP](https://github.com/cowlicks/privacypossum#readme), [Ex](https://gbhackers.com/css-exfil-vulnerability/)
 - extra zaincludowane listy z auto-aktualizacją co 24h [zewnetrzne_listy.template](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/templates/zewnetrzne_listy.template)
 
-~ firefox [https://github.com/qarmin/Instrukcje-i-Tutoriale](https://github.com/qarmin/Instrukcje-i-Tutoriale/blob/master/FirefoxBezpieczenstwo.md#readme) </br>
+~ firefox [https://github.com/qarmin/instrukcje-i-tutoriale](https://github.com/qarmin/Instrukcje-i-Tutoriale/blob/master/FirefoxBezpieczenstwo.md#readme) </br>
 ~ chromium [https://github.com/henrypp/chrlauncher](https://github.com/henrypp/chrlauncher#chrlauncher-----) / [EXT](https://github.com/NeverDecaf/chromium-web-store#chromium-web-store) </br>
 ~ dns [md](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/dns-serv.md#readme) / vpn [gist](https://gist.github.com/joepie91/5a9909939e6ce7d09e29) / useragent [md](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/pp-media.md#readme) / search [md](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/search-serv.md#readme) / w10 [md](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/w10-servic.md#readme)
 
