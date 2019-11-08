@@ -32,6 +32,15 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+! afilliacja, no-pl
+www.bitchute.com##.affiliate-container
+!
+! adb-det, no-pl
+vev.red##.vjs-info-button
+!
+! ad-protect, info, player, no-pl
+k-vid.net##.alert-type
+!
 !& non-content, polecane, player
 ebd.cda.pl##.pb-ad-pause-plt-content
 !
