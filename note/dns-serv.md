@@ -56,6 +56,12 @@ sudo screen -s stubby -dm stubby sudo stubby
 cp /etc/resolv.conf.save /etc/resolv.conf
 ```
 
+#### select new dns
+
+```
+nano /etc/stubby/stubby.yml
+```
+
 ##
 
 ### Local DNS
