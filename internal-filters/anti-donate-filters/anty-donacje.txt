@@ -11,6 +11,7 @@
 !
 !1$----------------------{ ogólne reguły anty-dotacyjne }----------------------!
 !
+historykon.pl##.donate
 klubjagiellonski.pl##.block-content_breaker_zbiorka.block-content_breaker.source
 !
 ! zrzutka, zbiórka
