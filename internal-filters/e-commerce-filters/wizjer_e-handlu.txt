@@ -1,7 +1,7 @@
-! Checksum: +SPUx1aifNsFsVdUNqf4DA
+! Checksum: aC7iDp55qWAyWM8KuQakPA
 ! Title: Wizjer E-Handlu
 ! Collaborators: KonoromiHimaries
-! Version: 20190825
+! Version: 20191110
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
