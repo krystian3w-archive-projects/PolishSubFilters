@@ -1,2 +1,2 @@
 twitter.com >> nitter.net <br/>
-youtube.com >> invidio.us
+youtube.com >> instances.invidio.us
