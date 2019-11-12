@@ -32,6 +32,9 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+! ref, text, no-pl
+hooktube.com###video-list-prom > div
+!
 ! afilliacja, no-pl
 www.bitchute.com##.affiliate-container
 !
