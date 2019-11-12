@@ -9,5 +9,10 @@ https://greasyfork.org/en/scripts/384972-youtube-to-hooktube <br/>
 https://greasyfork.org/en/scripts/375264-youtube-to-invidious <br/>
 https://userstyles.org/styles/147878/hooktube-dark-theme
 
-### source
+### change source
 https://instances.invidio.us
+
+open **Youtube to Invidious** js
+```
+var instance='paste-here.your-instance';
+```
