@@ -1,6 +1,3 @@
-### inspiration
-https://android.com.pl/news/272987-youtube-ban-za-blokowanie-reklam/
-
 ### install
 
 https://github.com/violentmonkey/violentmonkey#readme <br/>
