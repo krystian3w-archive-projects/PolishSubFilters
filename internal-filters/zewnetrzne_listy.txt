@@ -2813,8 +2813,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Wed, 13 Nov 2019, 18:58 UTC+01
-!@Version: 2019.11.13.0
+!@Last modified: Sat, 16 Nov 2019, 15:09 UTC+01
+!@Version: 2019.11.16.1
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -2916,6 +2916,7 @@
 ||banvar.com^
 ||barip15.com^
 ||bartekzukiewicz.pl^
+||bazarownia.pl^
 ||bazartani.pl^
 ||bazasprawdzianow.pl^
 ||bc43.pl^
@@ -3073,6 +3074,7 @@
 ||ebook4all.com.pl^
 ||ebuty.net.pl^
 ||ebuty.org.pl^
+||eccoobuwie.pl^
 ||ecoflow.pl^
 ||ecomotto.pl^
 ||ecoslimmer.pro^
@@ -3671,6 +3673,7 @@
 ||slimak-pozyczki.pl^
 ||slowkariera.pl^
 ||smart-m-system.com^
+||smoketech.pl^
 ||sms-z-internetu.pl^
 ||sneakersshop.pl^
 ||sneakerstore.com.pl^
@@ -3889,6 +3892,7 @@
 ||bio-chemik24.pl^
 ||cobolito.pl^
 ||detoxpolska.pl^
+||digdeeper.neocities.org^
 ||fitsekret.pl^
 ||globalhealingcenter.com^
 ||gotsprouts.com^
@@ -3904,6 +3908,7 @@
 ||planetazdrowia.com^
 ||planet-tachyon.com^
 ||polakuleczsiesam.pl^
+||spyware.neocities.org^
 ||stopnop.com.pl^
 ||szczepienie.info^
 ||timeforvitamins.com^
@@ -3939,6 +3944,7 @@
 ||eeu.pl^
 ||eworldtrack.com^
 ||feernews.biz^
+||filmowo.co^
 ||firecpa.com^
 ||flixsport.co^
 ||fomaska.com^
@@ -3959,6 +3965,7 @@
 ||localmeets.club^
 ||luckyducknet.com^
 ||masiodls.com^
+||mdd68xwtofd2g4h.cjpyqf.live^
 ||miresnahapsi.pro^
 ||mobile-redirection.com^
 ||mobstarr.com^
@@ -4127,8 +4134,8 @@
 ||zgarniij_vouchher.skroc.pl^
 !
 !@Przekręty
-/^https?:\/\/(.*\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps).[a-z-]{5,22}[0-9]{1,8}\.info\//$document,domain=info
 /^https?:\/\/(.*\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)[0-9]{2,8}\.[a-z-]{5,22}[0-9]{1,8}\.(agency|icu|life|live)\//$document,domain=agency|icu|life|live
+/^https?:\/\/(.*\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)\.[a-z-]{5,22}[0-9]{1,8}\.info\//$document,domain=info
 ||1channelhd.xyz^
 ||4kplayer.pl^
 ||4kstream.pl^
@@ -4325,6 +4332,7 @@
 ||elememory.com^
 ||elwirakurier.com^
 ||endofhisrope.net^
+||ergjt.bxugac.live^
 ||ericius.eu^
 ||eroscenter.co.il^
 ||eroutks.co^
@@ -4566,6 +4574,7 @@
 ||limkon.com^
 ||listennewsnetwork.com^
 ||liversely.com^
+||locked3.com^
 ||losowa-gra.pl^
 ||lottizzazionesavarra.it^
 ||lp.macapps-centers.club^
@@ -4824,6 +4833,7 @@
 ||steam-wallet-gifts.com^
 ||steam-wallet-money.com^
 ||streamgo.pl^
+||strony-fotograficzne.eu^
 ||structures-made-easy.co.uk^
 ||sukhumvithomes.com^
 ||sunflagsteel.com^
@@ -4922,6 +4932,7 @@
 ||wplogin.5v.pl^
 ||wuus.org.cn^
 ||wwebsservice.info^
+||www-apple-com-anti-virus-systems.virus-removals.com^
 ||www-apple-com-virus-removal-systems.fixingit.solutions^
 ||wx-xcx.xyz^
 ||wybierz-nagrode.pl^
@@ -4944,6 +4955,7 @@
 ||zajonc.de^
 ||zalukaj24.com^
 ||zalukaj24.pl^
+||zalukajvod.pl^
 ||zalukaj-cda.pl^
 ||zalukaj-online.pl^
 ||zalukaj.cc^
@@ -5082,6 +5094,7 @@ kadantiscam.netlify.com###kadetect
 ||bio-chemik24.pl^$badfilter
 ||cobolito.pl^$badfilter
 ||detoxpolska.pl^$badfilter
+||digdeeper.neocities.org^$badfilter
 ||fitsekret.pl^$badfilter
 ||globalhealingcenter.com^$badfilter
 ||gotsprouts.com^$badfilter
@@ -5097,6 +5110,7 @@ kadantiscam.netlify.com###kadetect
 ||planetazdrowia.com^$badfilter
 ||planet-tachyon.com^$badfilter
 ||polakuleczsiesam.pl^$badfilter
+||spyware.neocities.org^$badfilter
 ||stopnop.com.pl^$badfilter
 ||szczepienie.info^$badfilter
 ||timeforvitamins.com^$badfilter
