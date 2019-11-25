@@ -2813,8 +2813,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Sun, 24 Nov 2019, 00:11 UTC+01
-!@Version: 2019.11.24.0
+!@Last modified: Mon, 25 Nov 2019, 17:14 UTC+01
+!@Version: 2019.11.25.0
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -3297,6 +3297,7 @@
 ||kancelariaae.pl^$all
 ||kancelariakufieta.pl^$all
 ||kancelarialewickich.pl^$all
+||kancelariaskawina.pl^$all
 ||kantorfrank.pl^$all
 ||karatbars.com^$all
 ||karokorale.pl^$all
@@ -3539,6 +3540,7 @@
 ||pl.oriflame.com^$all
 ||pl.siberianhealth.com^$all
 ||pl.superando.net^$all
+||pmanager.pl^$all
 ||pmpj.pl^$all
 ||pm-international.com^$all
 ||pobierz-online.co.pl^$all
@@ -4323,6 +4325,7 @@
 ||download.weatherblink.com^$all
 ||drapart.org^$all
 ||drmarins.com^$all
+||drunt.at^$all
 ||dspinner.net^$all
 ||dultrasolutions.duckdns.org^$all
 ||durakbufecengelkoy.com^$all
@@ -4602,6 +4605,7 @@
 ||madmulla.duckdns.org^$all
 ||magadownloader.com^$all
 ||magnumbd.com^$all
+||maiamirainy.at^$all
 ||makanaliabadian.ir^$all
 ||maliciousdns.msftncsi.com^$all
 ||mantoropols.xyz^$all
@@ -4743,6 +4747,7 @@
 ||policja24.eu
 ||pornmania.pl^$all
 ||posed2shade.com^$all
+||post-341478.info^$all
 ||powaifinearts.org^$all
 ||po.fyybox.com^$all
 ||praize19791.duckdns.org^$all
@@ -5504,14 +5509,14 @@ pl##.rss:not(.block)
 ! Source: https://github.com/olegwukr/polish-privacy-filters/blob/master/adblock.txt
 !@Title: Polish Privacy Filters
 !@Oficjalne polskie filtry prywatności
-!@Last modified: 23 November 2019
+!@Last modified: 25 November 2019
 !@Expires: 2 days
-!@Version: 2019112302
+!@Version: 2019112502
 !@Support:
 !@  Github >> https://github.com/olegwukr/polish-privacy-filters/issues
 !@License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 !@Copyright (C) 2019
-!@v.2019112302 aktualizacja: sob, 23 listopada 2019, 11:20:00
+!@v.2019112502 aktualizacja: pon, 25 listopada 2019, 10:45:00
 !
 !
 !-----------------------Privacy filters block-----------------------!
@@ -5630,6 +5635,7 @@ poczta.interia.pl#@#[href*=".hit.gemius.pl"]
 ||snrbox.com^
 ||snrcdn.net^
 ||ps.polt.pl^
+||buybox.click^$script,domain=~buybox.click
 !
 !
 !@Problem with ads 
