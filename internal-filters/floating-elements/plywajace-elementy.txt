@@ -11,6 +11,7 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+individi.pl###site-navigation:style(position:static!important)
 netfilmy.pl###navbar-main:style(position:absolute!important)
 www.przepisy.pl##.navigation-wrap:style(position:absolute!important)
 www.przepisy.pl###main-menu-top-search:style(position:absolute!important)
@@ -882,5 +883,6 @@ radiopoznan.fm###rm-top:style(position:absolute!important)
 !
 ! header
 vup.to##header:style(position:absolute!important)
+animexin.xyz###CssMenu:style(position:absolute!important)
 !
 !
