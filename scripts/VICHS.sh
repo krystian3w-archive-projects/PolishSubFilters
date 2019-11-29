@@ -93,9 +93,6 @@ for i in "$@"; do
     sed -i "/! Checksum: /c\! Checksum: $suma_k" $i
     rm -r $i.chk
 
-    # test
-    sed -i "/! ^ /c\! ^$all" $i
-
     # Dodawanie zmienionych plików do repozytorium git
     git add $i
     printf "Podaj rozszerzony opis commita do listy filtrów $filtr, np 'Fix #1, fix #2' (bez ciapek; jeśli nie chcesz rozszerzonego opisu, to możesz po prostu nic nie wpisywać): "
