@@ -92,6 +92,9 @@ for i in "$@"; do
     sed -i "/! Checksum: /c\! Checksum: $suma_k" $i
     rm -r $i.chk
     
+    # test
+    sed -i "/! ^ /c\! ^$all" $i
+    
     # Dodawanie zmienionych plików do repozytorium git
     git add $i
     git commit -m "Update $filtr to version $wersja [ci skip]"
