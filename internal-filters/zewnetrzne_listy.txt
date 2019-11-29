@@ -2832,8 +2832,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Thu, 28 Nov 2019, 21:14 UTC+01
-!@Version: 2019.11.28.2
+!@Last modified: Fri, 29 Nov 2019, 21:42 UTC+01
+!@Version: 2019.11.29.2
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -3513,6 +3513,7 @@
 ||nikeairhuarache.pl^$all
 ||nikeairmaxjewell.pl^$all
 ||nikehuarache.pl^$all
+||nikewholesale.pl^$all
 ||nkuop.com^$all
 ||nnkml.com^$all
 ||noblindevelopment.pl^$all
@@ -3556,6 +3557,7 @@
 ||oponykarbownik.pl^$all
 ||optidee.nl^$all
 ||optimask-pro.com^$all
+||oranzadaklub.pl^$all
 ||organiclife.com.pl^$all
 ||organogold.com^$all
 ||osrodek-ojczyzna.pl^$all
@@ -3907,6 +3909,7 @@
 ||wellstar-company.com^$all
 ||wellu.eu^$all
 ||wernet.pl^$all
+||werxwer.pl^$all
 ||wesklan.pl^$all
 ||wiecznieczwarty.com.pl^$all
 ||wielkanagroda.com^$all
@@ -3997,6 +4000,7 @@
 ||planet-tachyon.com^$all
 ||polakuleczsiesam.pl^$all
 ||spyware.neocities.org^$all
+||stopgender.pl^$all
 ||stopnop.com.pl^$all
 ||szczepienie.info^$all
 ||timeforvitamins.com^$all
@@ -4783,6 +4787,7 @@
 ||onlinewideo.pl^$all
 ||onlyfiles.net^$all
 ||opel.km.ua^$all
+||openwire.tv^$all
 ||openwrt.com^$all
 ||oplac24.com^$all
 ||oplac-zaleglosc.eu^$all
@@ -5264,6 +5269,7 @@ kadantiscam.netlify.com###kadetect
 ||planet-tachyon.com^$all,badfilter
 ||polakuleczsiesam.pl^$all,badfilter
 ||spyware.neocities.org^$all,badfilter
+||stopgender.pl^$all,badfilter
 ||stopnop.com.pl^$all,badfilter
 ||szczepienie.info^$all,badfilter
 ||timeforvitamins.com^$all,badfilter
