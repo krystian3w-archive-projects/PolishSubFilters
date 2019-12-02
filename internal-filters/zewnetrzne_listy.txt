@@ -2832,8 +2832,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Fri, 29 Nov 2019, 21:42 UTC+01
-!@Version: 2019.11.29.2
+!@Last modified: Mon, 02 Dec 2019, 15:19 UTC+01
+!@Version: 2019.12.2.1
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -2856,7 +2856,6 @@
 ||20pascals.nl^$all
 ||24hoursready.cf^$all
 ||a1a.pl^$all
-||ablip.pl^$all
 ||acaiberryextreme.pl^$all
 ||acneuro.pl^$all
 ||acninc.com^$all
@@ -2891,6 +2890,7 @@
 ||aleshop.pl^$all
 ||alexsoff.com^$all
 ||alfapro.pl^$all
+||aliexokazje.pl^$all
 ||alisto-pozyczki.pl^$all
 ||alle-perfumy.pl^$all
 ||allfiles.pl^$all
@@ -3224,6 +3224,7 @@
 ||futurenet.club^$all
 ||f-ads.pl^$all
 ||gadajzdrow.eu^$all
+||galaktykakultury.pl^$all
 ||gameinstallfiles.com^$all
 ||gamemine.com^$all
 ||games-solution.com^$all
@@ -3299,7 +3300,6 @@
 ||ibox.green^$all
 ||ibrainer.net^$all
 ||idgarin.com^$all
-||ifilefinder.com^$all
 ||igrzyskasto.pl^$all
 ||ihydroflaskshop.com^$all
 ||ilonaiwanska.pl^$all
@@ -3347,7 +3347,6 @@
 ||kartavisa.pl^$all
 ||keenbuty.pl^$all
 ||keepitavocado.com^$all
-||kenseeart.pl^$all
 ||kickstore.pl^$all
 ||kickz4u.pl^$all
 ||killingtonchukka.pl^$all
@@ -3474,7 +3473,6 @@
 ||moviestarplanet-hack.org.pl^$all
 ||moviestarplanet-haki-i-kody.crazylife.pl^$all
 ||mozebyctwoje.com^$all
-||msphacks.net^$all
 ||mulchingknoxville.com^$all
 ||muverbo.pl^$all
 ||myacn.eu^$all
@@ -3703,7 +3701,6 @@
 ||roboclean-poland.com^$all
 ||rosalieeve.pl^$all
 ||roulettenumber.com^$all
-||rowerowyrajd.pl^$all
 ||rs-druk.pl^$all
 ||rtvagdpro.net^$all
 ||rubris.org^$all
@@ -3801,7 +3798,6 @@
 ||szalonepromocje.com^$all
 ||szaloneupusty.pl^$all
 ||szamponrevita.pl^$all
-||szczesliwagotowka.pl^$all
 ||szczesliwydzien.com^$all
 ||szoping.net^$all
 ||szybkapozyczkateraz.pl^$all
@@ -3818,7 +3814,6 @@
 ||teespoon.co^$all
 ||teleaudio.pl^$all
 ||telemediaa.pl^$all
-||tembakan.pl^$all
 ||tengofoxfiles.com^$all
 ||terazmieszkanie.pl^$all
 ||terrex.pl^$all
@@ -3847,7 +3842,6 @@
 ||trustedirectdownload.com^$all
 ||trusttastic.com^$all
 ||trybikowo.pl^$all
-||tslinfo.pl^$all
 ||tuniaf.com^$all
 ||tupperware.pl^$all
 ||twochefs-pizzeria.pl^$all
@@ -3904,7 +3898,6 @@
 ||wallynosa.com^$all
 ||wardon.pl^$all
 ||wartomiec.pl^$all
-||wdrodzenaratunek.pl^$all
 ||web-online.pl^$all
 ||wellstar-company.com^$all
 ||wellu.eu^$all
@@ -3941,8 +3934,6 @@
 ||xbox360emulator.com^$all
 ||xmlgrab.com^$all
 ||xn--pandorabiuteria-qkd.pl^$all
-||xpeanuts.pl^$all
-||xruletka.pl^$all
 ||xtrak.me^$all
 ||ychicenter.com^$all
 ||yotafiles.com^$all
@@ -4239,7 +4230,6 @@
 ||7fantasma.duckdns.org^$all
 ||24fakty-sniadaniowe.pl^$all
 ||50kaweek.live^$all
-||7218.pl^$all
 ||7228.eu^$all
 ||59055.cn^$all
 ||abbp35.com^$all
@@ -4260,7 +4250,9 @@
 ||aldocontreras.com^$all
 ||alejandravalladares.com.ve^$all
 ||alldc.pw^$all
+||allegro.media.pl^$all
 ||allegro.pl-nowe-regulamin*.*.com^$all
+||allegro.targi.pl^$all
 ||allonline.pl^$all
 ||allplayer.pl^$all
 ||all-player.pl^$all
@@ -4377,7 +4369,6 @@
 ||cs.nailrr.com^$all
 ||customernoble.com^$all
 ||cybermagicindia.com^$all
-||cyber-tarcza.pl^$all
 ||daily-jokes.net^$all
 ||danangluxury.com^$all
 ||dark-forum.net^$all
@@ -4389,7 +4380,6 @@
 ||dephantomz.duckdns.org^$all
 ||derikaosos.info^$all
 ||deviwijiyanti.web.id^$all
-||dhlaplikacja.pl^$all
 ||dhl-24.pl^$all
 ||dirproperties.com^$all
 ||discsplay.com^$all
@@ -4608,7 +4598,6 @@
 ||infonews24.com.pl^$all
 ||inovscope.pt^$all
 ||inpost24.me^$all
-||inpost24.tk^$all
 ||insanepays.com^$all
 ||install.pdfconverterhd.com^$all
 ||interia-zabezpieczenia.pl^$all
@@ -4693,6 +4682,7 @@
 ||lp.moviesearchcenter.com^$all
 ||lp.speedytools.club^$all
 ||lubimyzycie.com^$all
+||luxkur.online^$all
 ||macandwin.theforcontentingvideosystems.icu^$all
 ||maccleaner.space^$all
 ||maceju.com^$all
@@ -4892,6 +4882,7 @@
 ||rangreality.com^$all
 ||rap-share.pl^$all
 ||ravlw.nearbysluts.net^$all
+||rcplus.net.pl^$all
 ||realnyzarobek.pl^$all
 ||refferalstaff.com^$all
 ||reg-me.pl^$all
@@ -4924,7 +4915,6 @@
 ||secure4app.com^$all
 ||secure-eplatnosc.com^$all
 ||secure-pge.eu^$all
-||seriale.org.pl^$all
 ||serialowo.pl^$all
 ||sexmonitor.net^$all
 ||sexmonitor.top^$all
@@ -5246,38 +5236,6 @@ kadantiscam.netlify.com###kadetect
 !
 !
 ! Source: https://github.com/PolishFiltersTeam/KAD/blob/gh-pages/assets/other/kadfakewhitelist_suplement.txt
-!@Liczba użytych filtrów "0 na 0" wynika z użycia modyfikatora badfilter.
-||aju.pl^$all,badfilter
-||biotalerz.pl^$all,badfilter
-||bio-chemik24.pl^$all,badfilter
-||cobolito.pl^$all,badfilter
-||detoxpolska.pl^$all,badfilter
-||digdeeper.neocities.org^$all,badfilter
-||fitsekret.pl^$all,badfilter
-||globalhealingcenter.com^$all,badfilter
-||gotsprouts.com^$all,badfilter
-||homoseksualizm.edu.pl^$all,badfilter
-||jerzyzieba.com^$all,badfilter
-||mabello.pl^$all,badfilter
-||meganiusy.com^$all,badfilter
-||misja-cera.pl^$all,badfilter
-||naturalraport.pl^$all,badfilter
-||newsstories.live^$all,badfilter
-||odkrywamyzakryte.com^$all,badfilter
-||paulinajanowicz.pl^$all,badfilter
-||planetazdrowia.com^$all,badfilter
-||planet-tachyon.com^$all,badfilter
-||polakuleczsiesam.pl^$all,badfilter
-||spyware.neocities.org^$all,badfilter
-||stopgender.pl^$all,badfilter
-||stopnop.com.pl^$all,badfilter
-||szczepienie.info^$all,badfilter
-||timeforvitamins.com^$all,badfilter
-||torsionfield.eu^$all,badfilter
-||ukryteterapie.pl^$all,badfilter
-||vaccgenocide.blogspot.com^$all,badfilter
-||vaccgenocide.wordpress.com^$all,badfilter
-||witnatura.pl^$all,badfilter
 !
 !
 !
@@ -5289,14 +5247,14 @@ kadantiscam.netlify.com###kadetect
 !@Codename: PASS
 !@Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 !@Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-!@Last modified: Mon, 18 Nov 2019, 00:55 UTC+01
-!@Version: 2019.11.2
+!@Last modified: Mon, 02 Dec 2019, 00:55 UTC+01
+!@Version: 2019.12.0
 !@Expires: 7 days
 !@Support:
 !@  Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 !@License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 !@Copyright © 2019 Polish Filters Team
-!@Aktualizacja: pon, 18 lis 2019, 00:55 UTC+01
+!@Aktualizacja: pon, 02 gru 2019, 00:55 UTC+01
 !
 !
 !@Specyficzne reguły ukrywające
@@ -5388,6 +5346,7 @@ fundacjawolnosci.org###menu-item-2756
 gazeo.pl##.rss-blue
 gazetabaltycka.pl##.share > ul > li:nth-of-type(13)
 gbpizs.gov.pl##.ikona-menu.bip-rss
+gb.pl##.xy.socIco
 gc2.pl##a[href^="http://gc2.pl/forum/misc.php"]
 geekweek.pl###rss-list
 gemius.pl##.btn-tools-rss
@@ -5644,14 +5603,14 @@ pl##.rss:not(.block)
 ! Source: https://github.com/olegwukr/polish-privacy-filters/blob/master/adblock.txt
 !@Title: Polish Privacy Filters
 !@Oficjalne polskie filtry prywatności
-!@Last modified: 25 November 2019
+!@Last modified: 2 December 2019
 !@Expires: 2 days
-!@Version: 2019112502
+!@Version: 2019120201
 !@Support:
 !@  Github >> https://github.com/olegwukr/polish-privacy-filters/issues
 !@License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 !@Copyright (C) 2019
-!@v.2019112502 aktualizacja: pon, 25 listopada 2019, 10:45:00
+!@v.2019120201 aktualizacja: pon, 2 grudnia 2019, 15:50:00
 !
 !
 !-----------------------Privacy filters block-----------------------!
@@ -5771,6 +5730,7 @@ poczta.interia.pl#@#[href*=".hit.gemius.pl"]
 ||snrcdn.net^
 ||ps.polt.pl^
 ||buybox.click^$script,domain=~buybox.click
+||pixel6.wp.pl^
 !
 !
 !@Problem with ads 
