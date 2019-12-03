@@ -30,10 +30,10 @@ https://github.com/netblue30/firejail
 `yay ufw`
 
 ### open ports
-`ufw allow to paste-ip-here port 22 proto tcp`
+`sudo ufw allow to paste-ip-here port 22 proto tcp`
 
 ##### start and check
 ```
-status ufw enable
-status ufw status
+sudo ufw enable
+sudo ufw status
 ```
