@@ -19,6 +19,8 @@ https://github.com/netblue30/firejail
 #### autoconfig
 `sudo firecfg`
 
+##
+
 ### ufw
 
 ##### deb
