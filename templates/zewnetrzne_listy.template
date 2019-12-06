@@ -10,8 +10,8 @@
 @URLinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/master/KAD.txt
 !
 !
-! Source: https://github.com/PolishFiltersTeam/KAD/blob/gh-pages/assets/other/kadfakewhitelist_suplement.txt
-@URLinclude https://raw.githubusercontent.com/PolishFiltersTeam/KAD/gh-pages/assets/other/kadfakewhitelist_suplement.txt
+! Source: https://github.com/PolishFiltersTeam/KAD/blob/master/KAD.txt
+@URLinclude https://raw.githubusercontent.com/azet12/KAD/gh-pages/assets/other/kadfakewhitelist.txt
 !
 !
 !
