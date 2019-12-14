@@ -2886,8 +2886,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Tue, 10 Dec 2019, 22:32 UTC+01
-!@Version: 2019.12.10.7
+!@Last modified: Fri, 13 Dec 2019, 18:41 UTC+01
+!@Version: 2019.12.13.0
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -4853,6 +4853,7 @@
 ||paraphingxmfevapk.xyz^$all
 ||patrickglobalusa.com^$all
 ||pay2me.pl^$all
+||payu20-paczka24.com^$all
 ||paywu.net^$all
 ||pay.mobiltek.pl^$all
 ||pep-egypt.com^$all
@@ -4897,7 +4898,7 @@
 ||pod004.site^$all
 ||podologik.ca^$all
 ||poland-news.pl^$all
-||policja24.eu
+||policja24.eu^$all
 ||polska-gazeta-dnia.pl^$all
 ||polskie-newsy.com.pl^$all
 ||polski-poranek-pl.com^$all
@@ -5716,20 +5717,21 @@ pl##.rss:not(.block)
 ! Source: https://github.com/olegwukr/polish-privacy-filters/blob/master/adblock.txt
 !@Title: Polish Privacy Filters
 !@Oficjalne polskie filtry prywatności
-!@Last modified: 7 December 2019
+!@Last modified: 12 December 2019
 !@Expires: 2 days
-!@Version: 2019120701
+!@Version: 2019121201
 !@Support:
 !@  Github >> https://github.com/olegwukr/polish-privacy-filters/issues
 !@License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 !@Copyright (C) 2019
-!@v.2019120701 aktualizacja: sob, 7 grudnia 2019, 20:50:00
+!@v.2019121201 aktualizacja: czw, 12 grudnia 2019, 20:30:00
 !
 !
 !-----------------------Privacy filters block-----------------------!
 xgemius.js$script
 /gemius/*$script,image
 /js/gemius.js$script
+/gemiuslib.js$script
 !
 !
 !-----------------------Privacy filters 2-----------------------!
