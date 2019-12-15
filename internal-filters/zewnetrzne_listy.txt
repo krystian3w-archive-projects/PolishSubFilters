@@ -2886,8 +2886,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Fri, 13 Dec 2019, 18:41 UTC+01
-!@Version: 2019.12.13.0
+!@Last modified: Sun, 15 Dec 2019, 18:05 UTC+01
+!@Version: 2019.12.15.1
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -2907,6 +2907,7 @@
 ||4skype.pl^$all
 ||5k-player.com^$all
 ||7tools.eu^$all
+||9print.pl^$all
 ||20pascals.nl^$all
 ||24hoursready.cf^$all
 ||a1a.pl^$all
@@ -3344,7 +3345,6 @@
 ||hollistersklep.com^$all
 ||hollisterwarszawa.pl^$all
 ||homeagd.in.net^$all
-||homeekspert.net^$all
 ||homeexpres.net^$all
 ||homejailbreak.com^$all
 ||homemedia.in.net^$all
@@ -3516,10 +3516,8 @@
 ||mojepc.net^$all
 ||mojezakupy.net^$all
 ||moneywin24.com^$all
-||monkeychanct.com^$all
 ||mon.trackmysales.website^$all
 ||morceko.pl^$all
-||morele.info^$all
 ||morena.in.net^$all
 ||morinda.com^$all
 ||motifiles.com^$all
@@ -3553,7 +3551,6 @@
 ||naturday.pl^$all
 ||nb574.pl^$all
 ||neomedia24.net^$all
-||neomediamax.net^$all
 ||neomedia.in.net^$all
 ||neonetmax.in.net^$all
 ||neopozyczki.pl^$all
@@ -3611,6 +3608,7 @@
 ||oponykarbownik.pl^$all
 ||optidee.nl^$all
 ||optimask-pro.com^$all
+||optimus-partner.pl^$all
 ||oranzadaklub.pl^$all
 ||organiclife.com.pl^$all
 ||organogold.com^$all
@@ -3618,7 +3616,6 @@
 ||oswieconykochanek.pl^$all
 ||oszukacruletke.like.pl^$all
 ||oszukacruletke.pl^$all
-||outeletowo.com^$all
 ||outletowo.com^$all
 ||outletto24.com^$all
 ||ovb.pl^$all
@@ -3638,7 +3635,6 @@
 ||perfect-coll.pl^$all
 ||phuwinstal.pl^$all
 ||phytolast.com^$all
-||pierre-emoi.fr^$all
 ||pierre-lang.com^$all
 ||pitbull.ek1.pl^$all
 ||plastiquedesign.pl^$all
@@ -3783,7 +3779,6 @@
 ||serwislaptopowwarszawa.com.pl^$all
 ||serwis-laptopow24.pl^$all
 ||serwis.kb.help^$all
-||sfemble.pl^$all
 ||shidokan-lodz.pl^$all
 ||shiporama.com^$all
 ||shoegallery.com.pl^$all
@@ -4282,24 +4277,19 @@
 ||4kplayer.pl^$all
 ||4kstream.pl^$all
 ||7dot.cn^$all
-||7fantasma.duckdns.org^$all
 ||24fakty-sniadaniowe.pl^$all
 ||50kaweek.live^$all
 ||7228.eu^$all
 ||59055.cn^$all
-||Qoooglie.biz^$all
 ||abbp35.com^$all
 ||absolutezeros.duckdns.org^$all
 ||adamdelivery.pl^$all
 ||adidas-collection.club^$all
 ||adobe.5v.pl^$all
-||ad-noise.net^$all
-||ad-servicestats.net^$all
 ||agipasesores.com^$all
 ||agricoletrade.com^$all
 ||ailegro.pl.ua^$all
 ||akazoo.pl^$all
-||akeemdom.com^$all
 ||aktpl.com^$all
 ||albajifood.com^$all
 ||alcaido.com^$all
@@ -4331,7 +4321,6 @@
 ||appsdorado.com^$all
 ||apps.co.pl^$all
 ||app*.kromtech.net^$all
-||arm2pie.com^$all
 ||aseanlegaltech.com^$all
 ||aspenholding.com^$all
 ||aspenholding.co^$all
@@ -4373,8 +4362,6 @@
 ||btc-forum.pl^$all
 ||bubblelife70.life^$all
 ||bulbulstore.com^$all
-||businessdirectnessource.com^$all
-||business-made-fun.com^$all
 ||buz2mobile.com^$all
 ||calodobowe-wiadomosci-pl.eu^$all
 ||caneserve.com^$all
@@ -4395,7 +4382,6 @@
 ||cezaevinegonder.com^$all
 ||cfotim.live^$all
 ||challengeforme.com^$all
-||charmedno1.com^$all
 ||check-prizes-now2.life^$all
 ||chefeladlevi.com^$all
 ||choljai.info^$all
@@ -4403,7 +4389,6 @@
 ||chomik-24.pl^$all
 ||chron-telefon.com^$all
 ||ciekawehistorie.pl^$all
-||cigape.net^$all
 ||cinemaplanet.pl^$all
 ||cinematicfanatic.com^$all
 ||circultural.com^$all
@@ -4421,8 +4406,6 @@
 ||covergt.com^$all
 ||cpagrip.com^$all
 ||credito.com.pl^$all
-||cribdare2no.com^$all
-||crisptic01.net^$all
 ||cs.nailrr.com^$all
 ||customernoble.com^$all
 ||cybermagicindia.com^$all
@@ -4454,7 +4437,6 @@
 ||domniespodzianek.com^$all
 ||doski.by^$all
 ||dotabet103.com^$all
-||dowelsobject.com^$all
 ||download24.site^$all
 ||downloadfiles.pl^$all
 ||downloads-mobile.com^$all
@@ -4489,7 +4471,6 @@
 ||endofhisrope.net^$all
 ||ergjt.bxugac.live^$all
 ||ericius.eu^$all
-||eroscenter.co.il^$all
 ||eroutks.co^$all
 ||ero-tv.pl^$all
 ||esemeso.pl^$all
@@ -4567,10 +4548,8 @@
 ||fliteilex.com^$all
 ||florentynakurier.com^$all
 ||followergods.com^$all
-||following-technology.com^$all
 ||footoografie-pobieralnia.eu^$all
 ||forfollow.net^$all
-||forgotten-deals.com^$all
 ||forstriko.com^$all
 ||fotki-kliknij.eu^$all
 ||fotoografie-pobierz.eu^$all
@@ -4649,7 +4628,6 @@
 ||hotel-bristol.lu^$all
 ||hothub.pl^$all
 ||hotnews24h.pl^$all
-||housedman.com^$all
 ||hpaudiobooksfree.com^$all
 ||idealnafigura.com^$all
 ||ilovemobi.com^$all
@@ -4669,7 +4647,6 @@
 ||irbf.com^$all
 ||irismal.com^$all
 ||islandmob.com^$all
-||itemagic.net^$all
 ||itorrenty.org^$all
 ||itsweeps3.space^$all
 ||i-chomikuj.pl^$all
@@ -4766,11 +4743,9 @@
 ||mega-gry.com^$all
 ||megolbassia.com^$all
 ||mergedocsnow.com^$all
-||micraamber.net^$all
 ||microsoft-server-update.ml^$all
 ||mientayweb.com^$all
 ||millionways.duckdns.org^$all
-||mimicrice.com^$all
 ||minmin96.xyz^$all
 ||mnpasalubong.com^$all
 ||mobgames.mobi^$all
@@ -4804,7 +4779,6 @@
 ||nautili.us^$all
 ||nav1002.ath.cx^$all
 ||needforfile.net^$all
-||neshoitry.ddns.net^$all
 ||netfilmy.pl^$all
 ||netpipe.warzonedns.com^$all
 ||neurorehabtraining.com^$all
@@ -4861,7 +4835,6 @@
 ||performquickintenselyfile.icu^$all
 ||phikunprogramming.com^$all
 ||phonenewmessage.com^$all
-||phoneysoap.com^$all
 ||pinamo.pl^$all
 ||pininfarina.dynalias.com^$all
 ||pinkstar.pl^$all
@@ -4904,7 +4877,6 @@
 ||polski-poranek-pl.com^$all
 ||polski-poranek.pl^$all
 ||pornmania.pl^$all
-||posed2shade.com^$all
 ||post-341478.info^$all
 ||powaifinearts.org^$all
 ||po.fyybox.com^$all
@@ -4930,18 +4902,15 @@
 ||puls-sukcesu.net^$all
 ||purchasedyouasa.co^$all
 ||pzu.services^$all
-||qoooglie.biz^$all
 ||qooqle-billing.eu^$all
 ||qooqle-pay.com^$all
 ||qooqle-pay.eu^$all
 ||qooqle-play.com^$all
 ||qooqle-play.eu^$all
 ||qooqle-sklep.eu^$all
-||qplaywin.com^$all
 ||qubble.com^$all
 ||quiz-fun.com.my^$all
 ||radiorage.com^$all
-||rampagegramar.com^$all
 ||randewoo.ir^$all
 ||randomelements.co.uk^$all
 ||rangreality.com^$all
@@ -4951,7 +4920,6 @@
 ||realnyzarobek.pl^$all
 ||refferalstaff.com^$all
 ||reg-me.pl^$all
-||rehabretie.com^$all
 ||relayimmo.com^$all
 ||reloffersstart.co^$all
 ||restricted.pl^$all
@@ -4966,8 +4934,6 @@
 ||rowanyne.ooo^$all
 ||roznehistorie.pl^$all
 ||rubi4edit.com^$all
-||rubiccrum.com^$all
-||rubriccrumb.com^$all
 ||run-germany.com^$all
 ||rzeczyzadarmo.pl^$all
 ||saarthieduhub.com^$all
@@ -5006,7 +4972,6 @@
 ||soo.sg^$all
 ||spaceforyou.cc^$all
 ||speedfile.info^$all
-||speedynewsclips.com^$all
 ||sportowystream.pl^$all
 ||sportowy-stream.pl^$all
 ||sportplus.pro^$all
@@ -5042,7 +5007,6 @@
 ||tankhoi.vn^$all
 ||tariqul.info^$all
 ||team4heat.net^$all
-||teatac4bath.com^$all
 ||teccenter.xyz^$all
 ||techiwant.com^$all
 ||technowebs.xyz^$all
@@ -5058,7 +5022,6 @@
 ||tematyczne-rozmowy.pl^$all
 ||tematyczne-wywiady.pl^$all
 ||terazty24.eu^$all
-||theeraser94.ddns.net^$all
 ||thefortunatenutrition.com^$all
 ||themovienation.com^$all
 ||thepropertydealerz.com^$all
@@ -5066,7 +5029,6 @@
 ||thinhvuongmedia.com^$all
 ||think1.com^$all
 ||thongtindonganh.vn^$all
-||th-games.com^$all
 ||tinyfilehost.com^$all
 ||tinyfileshost.com^$all
 ||todolize.com^$all
@@ -5091,10 +5053,8 @@
 ||twojhoroskop.com^$all
 ||udater.net^$all
 ||ulink.pl^$all
-||unite3tubes.com^$all
 ||unitedmedsshop.com^$all
 ||unitedproductsllc.net^$all
-||unwashedsound.com^$all
 ||update-1.com^$all
 ||update.*sf*.online^$all
 ||upgradecheck12.thebestwaystofindreliablesoftwares.surf^$all
@@ -5138,7 +5098,6 @@
 ||wizjalokalna24.pl^$all
 ||wolyncalyfilm.wordpress.com^$all
 ||womenempowermentpakistan.com^$all
-||wpcache-blogger.com^$all
 ||wplogin.5v.pl^$all
 ||wszyscyrodacy.com^$all
 ||wszystko-na-temat.pl^$all
