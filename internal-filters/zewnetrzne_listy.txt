@@ -2886,8 +2886,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Tue, 17 Dec 2019, 23:24 UTC+01
-!@Version: 2019.12.17.1
+!@Last modified: Fri, 20 Dec 2019, 11:56 UTC+01
+!@Version: 2019.12.20.0
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -3589,6 +3589,7 @@
 ||odkryjfb.pl^$all
 ||odlootowy.pl^$all
 ||offerzone.click^$all
+||ogladajfilmy.pl^$all
 ||ogladaj.online^$all
 ||ogladamy24.pl^$all
 ||ogrodekedukacyjny.pl^$all
@@ -4471,6 +4472,7 @@
 ||elememory.com^$all
 ||elwirakurier.com^$all
 ||endofhisrope.net^$all
+||epaka247.net^$all
 ||ergjt.bxugac.live^$all
 ||ericius.eu^$all
 ||eroutks.co^$all
@@ -4543,6 +4545,7 @@
 ||financial-times-appp.github.io^$all
 ||financial.org^$all
 ||finanse-payu.pl^$all
+||findfiooos.xyz^$all
 ||firecash.org^$all
 ||fitchciapara.com^$all
 ||fixfuturetype-restclicks.icu^$all
@@ -4661,6 +4664,7 @@
 ||jannatkhah.ir^$all
 ||jasaweb.biz^$all
 ||jmbase.my^$all
+||joplionnsld.xyz^$all
 ||juicywin.pl^$all
 ||jutup.pl^$all
 ||kaaryathalo.com^$all
@@ -4829,6 +4833,7 @@
 ||paraphingxmfevapk.xyz^$all
 ||patrickglobalusa.com^$all
 ||pay2me.pl^$all
+||pay24-paczka.com^$all
 ||payu20-paczka24.com^$all
 ||paywu.net^$all
 ||pay.mobiltek.pl^$all
@@ -4948,6 +4953,7 @@
 ||secure4app.com^$all
 ||secure-eplatnosc.com^$all
 ||secure-pge.eu^$all
+||seioodsoi.club^$all
 ||serialowo.pl^$all
 ||sexmonitor.net^$all
 ||sexmonitor.top^$all
@@ -5085,6 +5091,7 @@
 ||webtoprostezarub.xaa.pl^$all
 ||weryfikacjadanych.ml^$all
 ||weryfikacjadanych.tk^$all
+||whenbuyyousale.co^$all
 ||wiadomosci-onet24.ml^$all
 ||wiadomosci-onet24.pl^$all
 ||wiadomosci-onet24.tk^$all
@@ -5678,14 +5685,14 @@ pl##.rss:not(.block)
 ! Source: https://github.com/olegwukr/polish-privacy-filters/blob/master/adblock.txt
 !@Title: Polish Privacy Filters
 !@Oficjalne polskie filtry prywatności
-!@Last modified: 18 December 2019
+!@Last modified: 19 December 2019
 !@Expires: 2 days
-!@Version: 2019121801
+!@Version: 2019121901
 !@Support:
 !@  Github >> https://github.com/olegwukr/polish-privacy-filters/issues
 !@License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 !@Copyright (C) 2019
-!@v.2019121801 aktualizacja: sr 18 grudnia 2019, 21:30:00
+!@v.2019121901 aktualizacja: czw, 19 grudnia 2019, 18:30:00
 !
 !
 !-----------------------Privacy filters block-----------------------!
@@ -5705,7 +5712,7 @@ xgemius.js$script
 motorolasolutions.com##.tealiumMo2TriggerButton
 naekranie.pl###adocean-screening-layer > .inner-wrap
 naekranie.pl###adocean-screening-layer > .single-news
-poczta.interia.pl#@#[href*=".hit.gemius.pl"]
+poczta.interia.pl,film.interia.pl#@#[href*=".hit.gemius.pl"]
 !
 !
 !-----------------------Privacy filters domains-----------------------!
