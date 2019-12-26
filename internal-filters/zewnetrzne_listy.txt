@@ -260,9 +260,34 @@
 !@Expires: 2 days
 !@Report domains not being properly blocked to: support@hexxiumcreations.com
 !@(YYYY/MM/DD)
-!@Version: 20191209
+!@Version: 20191224
 !@USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||x5vs5cup.com^
+||xmastercup.com^
+||tf2cuplay.com^
+||rustoria.store^
+||gg-esea.com^
+||msiworldcup.com^
+||triple-hat.store^
+||hat2store.com^
+||freebtcgenerator.eu^
+||bitcoingenerator.tools^
+||bithoney.io^
+||bitcoingenerator.app^
+||bitcoin-generator.info^
+||btcgenerator.pro^
+||btc-generator.online^
+||bitcoingenerator2019.org^
+||generate-bitcoin.com^
+||cryptoclouds.tech^
+||bitgen.website^
+||online-bitcoin-generator.com^
+||bitcoin-generator.live^
+||elonmuskgift.com^
+||pvproyal.com^
+||crazyxroulette.com^
+||playingcup.com^
 ||d2gameday.com^
 ||new-movies-shows.com^
 ||backpacktf.store^
@@ -2886,8 +2911,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Mon, 23 Dec 2019, 10:49 UTC+01
-!@Version: 2019.12.23.0
+!@Last modified: Wed, 25 Dec 2019, 16:38 UTC+01
+!@Version: 2019.12.25.0
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -4860,6 +4885,7 @@
 ||podologik.ca^$all
 ||poland-news.pl^$all
 ||policja24.eu^$all
+||polskapaczka24.net^$all
 ||polska-gazeta-dnia.pl^$all
 ||polskieinformacje24.eu^$all
 ||polskie-newsy.com.pl^$all
