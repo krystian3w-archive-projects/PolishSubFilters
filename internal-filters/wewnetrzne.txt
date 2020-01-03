@@ -32,6 +32,8 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+||obcas.pl^$popup,domain=animezone.pl
+!
 ! ref, text, no-pl
 hooktube.com###video-list-prom > div
 !
