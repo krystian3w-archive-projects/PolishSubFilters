@@ -5,8 +5,6 @@ https://add0n.com/stylus.html
 
 ### add scripts
 
-https://greasyfork.org/en/scripts/384972-youtube-to-hooktube <br/>
-or
 https://greasyfork.org/en/scripts/370461-invidious-redirect <br/>
 
 https://greasyfork.org/en/scripts/375264-youtube-to-invidious <br/>
