@@ -1,3 +1,8 @@
+### before if you want to system safe
+```
+https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/safe-linux.md
+```
+
 # WireGuard
 ```
 https://github.com/angristan/wireguard-install#readme
