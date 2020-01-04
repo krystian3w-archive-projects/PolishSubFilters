@@ -5,10 +5,10 @@ https://github.com/angristan/wireguard-install#readme
 
 run
 ```
-curl -O https://raw.githubusercontent.com/angristan/wireguard-install/master/wireguard-install.sh
+sudo curl -O https://raw.githubusercontent.com/angristan/wireguard-install/master/wireguard-install.sh
 chmod +x wireguard-install.sh
 
-./wireguard-install.sh
+sudo ./wireguard-install.sh
 ```
 
 # Yggdrasil
@@ -23,7 +23,7 @@ egrep -o "https.*yggdrasil\-.*$(sudo dpkg --print-architecture).deb" | \
 while read line; do curl -O $line && sudo dpkg -i $(basename $line); done
 ```
 ```
-nano /etc/yggdrasil.conf
+sudo nano /etc/yggdrasil.conf
 ```
 
 peers
