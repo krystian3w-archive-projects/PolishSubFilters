@@ -2910,8 +2910,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Fri, 03 Jan 2020, 11:12 UTC+01
-!@Version: 2020.1.3.0
+!@Last modified: Fri, 03 Jan 2020, 19:26 UTC+01
+!@Version: 2020.1.3.4
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -3055,6 +3055,7 @@
 ||boryskowalski.pl^$all
 ||botifiles.com^$all
 ||brumflix.com^$all
+||bshellz.pl^$all
 ||bueongi.pl^$all
 ||bustcream-pro.com^$all
 ||butyadidas.pl^$all
@@ -3107,6 +3108,7 @@
 ||concash.pl^$all
 ||contentlocked.xyz^$all
 ||contentlockingnetworks.com^$all
+||contestlight.pl^$all
 ||cool-technology.com^$all
 ||corneliafunke.pl^$all
 ||cpabuild.com^$all
@@ -3116,10 +3118,13 @@
 ||crediko.pl^$all
 ||credy.pl^$all
 ||cristianlay.com^$all
+||crossfitchojnice.pl^$all
 ||csgoskinsproject.pl^$all
+||cs-fpg.pl^$all
 ||cs-podhale.pl^$all
 ||cultland.pl^$all
 ||cultsneaks.pl^$all
+||cweis-gorka.pl^$all
 ||cyxiangjishoptk.gq^$all
 ||dagcoin.org^$all
 ||dailyadultnews.com^$all
@@ -3137,6 +3142,7 @@
 ||dassystem.eu^$all
 ||daswallet.com^$all
 ||davor.io^$all
+||dbo2.pl^$all
 ||decynsire.com^$all
 ||deepshoes.pl^$all
 ||deloxar.pl^$all
@@ -3185,6 +3191,7 @@
 ||ecpp.pl^$all
 ||eddie-hovawart.pl^$all
 ||edofinansowania.eu^$all
+||eduhull.pl^$all
 ||eglobalcentral.pl^$all
 ||ekoinnowacyjne.pl^$all
 ||ekstrafilmy24.pl^$all
@@ -3295,6 +3302,7 @@
 ||f-ads.pl^$all
 ||gadajzdrow.eu^$all
 ||galaktykakultury.pl^$all
+||galeriamdm.pl^$all
 ||gameinstallfiles.com^$all
 ||gamemine.com^$all
 ||games-solution.com^$all
@@ -3346,6 +3354,7 @@
 ||health-line.me^$all
 ||health-partner.net^$all
 ||heets-polska.eu^$all
+||helidog.pl^$all
 ||herbalife.pl^$all
 ||herbeauty.co^$all
 ||heredatetime.com^$all
@@ -3371,8 +3380,10 @@
 ||idgarin.com^$all
 ||igrzyskasto.pl^$all
 ||ihydroflaskshop.com^$all
+||ikaart.pl^$all
 ||ilonaiwanska.pl^$all
 ||imperiumczerniizlota.pl^$all
+||impulsband.pl^$all
 ||inagrody.pl^$all
 ||indabox.pl^$all
 ||infogrypa.pl^$all
@@ -3406,6 +3417,7 @@
 ||kacpslaw.pl^$all
 ||kaie.pl^$all
 ||kajakiperkoz.pl^$all
+||kamapolska.pl^$all
 ||kancelariaae.pl^$all
 ||kancelariakufieta.pl^$all
 ||kancelarialewickich.pl^$all
@@ -3423,6 +3435,7 @@
 ||kino-tv.pl^$all
 ||kinujemy.pl^$all
 ||kirchbaum.pl^$all
+||kitcarforum.pl^$all
 ||kixshop.pl^$all
 ||kl21.pl^$all
 ||klikasz-i-masz.com^$all
@@ -3442,6 +3455,7 @@
 ||kresowy-dworek.pl^$all
 ||kryptochemik.pl^$all
 ||krzyjahu.pl^$all
+||ksiazkatunele.pl^$all
 ||ksiazkiokomunikacji.pl^$all
 ||kupgo.net^$all
 ||kupujemy.to^$all
@@ -3489,6 +3503,7 @@
 ||mariuszpelczarski.pl^$all
 ||mariza.com.pl^$all
 ||marketpremium.pl^$all
+||markocars.pl^$all
 ||marsonic.pl^$all
 ||martdiamonds.pl^$all
 ||marykay.pl^$all
@@ -3537,6 +3552,7 @@
 ||moviestarplanet-hack.org.pl^$all
 ||moviestarplanet-haki-i-kody.crazylife.pl^$all
 ||mozebyctwoje.com^$all
+||mstk.pl^$all
 ||muverbo.pl^$all
 ||myacn.eu^$all
 ||mydlokreacja.pl^$all
@@ -3580,6 +3596,7 @@
 ||normour.com^$all
 ||norton.pl^$all
 ||notifyday.com^$all
+||novamotylarnia.pl^$all
 ||novaxdesign.com^$all
 ||novits4.com^$all
 ||novumedical.pl^$all
@@ -3645,6 +3662,9 @@
 ||phytolast.com^$all
 ||pierre-lang.com^$all
 ||pitbull.ek1.pl^$all
+||pitfree.pl^$all
+||pixelbus.pl^$all
+||pizzaramzes.pl^$all
 ||plastiquedesign.pl^$all
 ||platinumprestige.pl^$all
 ||playfilm.pl^$all
@@ -3675,6 +3695,7 @@
 ||polska-tv.pl^$all
 ||polskifilm.com.pl^$all
 ||pomocnapozyczka.pro^$all
+||pomozbudowac.pl^$all
 ||popcornvod.com^$all
 ||popshoes.pl^$all
 ||portaldruku.pl^$all
@@ -3721,6 +3742,7 @@
 ||provida.pl^$all
 ||przyspieszkomputer.pl^$all
 ||przyspiesz.pl^$all
+||psiakademia.pl^$all
 ||pszczelezycie.pl^$all
 ||puna.pl^$all
 ||px1alsry.com^$all
@@ -3732,6 +3754,7 @@
 ||quizzstar.com^$all
 ||racerstore.pl^$all
 ||rainbow.pl^$all
+||rakietowaliga.pl^$all
 ||ralphlaurenskleponline.pl^$all
 ||ralplauran.com^$all
 ||ramissio.com^$all
@@ -3754,6 +3777,7 @@
 ||registrationofaccount.com^$all
 ||reimageplus.com^$all
 ||rep.privatesearch.club^$all
+||restauracjasiesta.pl^$all
 ||retrortv.in.net^$all
 ||riverparkbaseball.org^$all
 ||robloxhack.pl^$all
@@ -3797,6 +3821,7 @@
 ||siniaki.pl^$all
 ||sklep466452.shoparena.pl^$all
 ||skleptiande.pl^$all
+||sklep-bio.pl^$all
 ||sklep-colway.com^$all
 ||sklep-colway.pl^$all
 ||sklep.ekoenergia24.eu^$all
@@ -3804,6 +3829,7 @@
 ||slawop.net^$all
 ||slimak-pozyczki.pl^$all
 ||slowkariera.pl^$all
+||smartraport.pl^$all
 ||smart-m-system.com^$all
 ||smoketech.pl^$all
 ||sms-z-internetu.pl^$all
@@ -3820,8 +3846,10 @@
 ||souvre.pl^$all
 ||spatiumdg.pl^$all
 ||speedyshare.com^$all
+||speedy.com.pl^$all
 ||spokeo.pl^$all
 ||sportef.pl^$all
+||sportowedzialdowo.pl^$all
 ||sportsklep.com.pl^$all
 ||spotlessweb.com^$all
 ||sprawdzianyodpowiedzi.pl^$all
@@ -3847,6 +3875,7 @@
 ||sukces.pl^$all
 ||supplementum.pl^$all
 ||suuntosklep.online^$all
+||swce.pl^$all
 ||swietna-pozyczka.pl^$all
 ||swiezaki.weebly.com^$all
 ||synergyworldwide.com^$all
@@ -3892,6 +3921,7 @@
 ||top-oferty.net^$all
 ||torrenty--org.pl^$all
 ||totucafe.pl^$all
+||townhill.pl^$all
 ||toysoutlet.pl^$all
 ||tracksms.pl^$all
 ||track.adsfast.com^$all
@@ -3975,6 +4005,7 @@
 ||wpunkcie.pl^$all
 ||wraplo.pl^$all
 ||wrig.pl^$all
+||wszystkiemiasta.pl^$all
 ||wszystkododomu.net^$all
 ||wyjasniamy.eu^$all
 ||wyjazd24.pl^$all
@@ -4012,6 +4043,7 @@
 ||zespolbefree.pl^$all
 ||zespolmayol.pl^$all
 ||zielonadrewutnia.pl^$all
+||zielonakaruzela.pl^$all
 ||zinzino.com^$all
 ||zmotoryzowani24.pl^$all
 ||znajdz-numer.pl^$all
@@ -4819,6 +4851,7 @@
 ||oplac-zaleglosc.eu^$all
 ||oplatyi.pl^$all
 ||orange-kodzik.890m.com^$all
+||oszczedzanie-na-ekranie.pl^$all
 ||otomoto.group^$all
 ||otube.pl^$document
 ||overcreative.com^$all
@@ -5053,7 +5086,6 @@
 ||tvjovem.net^$all
 ||tvnewtop.pro^$all
 ||tvnowapp.net^$all
-||tvoszczedzanie-na-ekranie.pl^$all
 ||tv-internetowa.pl^$all
 ||tv-maniak.pl^$all
 ||twojapaczka-24.com^$all
@@ -5133,14 +5165,7 @@
 ||yuppipuppy.com^$all
 ||za10groszy.pl^$all
 ||zajonc.de^$all
-||zalukaj24.com^$all
-||zalukaj24.pl^$all
-||zalukajvod.pl^$all
-||zalukaj-cda.pl^$all
-||zalukaj-online.pl^$all
-||zalukaj.cc^$all
-||zalukaj.org^$all
-||zalukaj.ws^$all
+||zalukaj*.*^$all,domain=~zalukaj.com
 ||zamowienia-priorytetowe.pl^$all
 ||zaplata*.tk^$all
 ||zarabativaisazartom.net^$all
