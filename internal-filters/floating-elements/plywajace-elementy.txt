@@ -377,7 +377,7 @@ o2.pl##body:style(overflow-x:hidden!important;overflow-y:auto!important)
 onet.pl##.notificationPrompt
 onet.pl##.pageHeader *:style(transition:none!important)
 onet.pl##.pageHeader.switch
-onet.pl##.pageHeader:style(position:absolute!important;transition:none!important)
+~poczta.onet.pl,onet.pl##.pageHeader:style(position:absolute!important;transition:none!important)
 otomoto.pl##.social-float-bar
 pikio.pl##.td-affix.td-header-main-menu.td-header-row:style(position:absolute!important)
 player.pl##.navbar-wrapper:style(position:absolute!important)
