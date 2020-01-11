@@ -726,7 +726,9 @@ www.t-mobile-trendy.pl##.menuBox:style(position:absolute!important)
 www.zumi.pl##.mainHeader:style(position:absolute!important)
 faktypofaktach.tvn24.pl,szklokontaktowe.tvn24.pl##.bgHeaderMain:style(position:absolute!important)
 faktypofaktach.tvn24.pl,szklokontaktowe.tvn24.pl##.small.headerContainer:style(position:absolute!important)
-m.telewizjarepublika.pl,estradaistudio.pl,faktypofaktach.tvn24.pl,szklokontaktowe.tvn24.pl##header:style(position:static!important)
+m.telewizjarepublika.pl,estradaistudio.pl,tvn24.pl##header:style(position:static!important)
+faktypofaktach.tvn24.pl,szklokontaktowe.tvn24.pl##body:style(padding-top:0!important)
+szklokontaktowe.tvn24.pl##header:style(position:relative!important;top:-28px!important;padding-bottom:5px!important)
 kontakt24.tvn24.pl##.menu-main:style(position:absolute!important;top:28px!important)
 kulinarni.tvn.pl##.bgHolder > header:style(position:absolute!important)
 player.pl##.navbar-wrapper.js-navbar-scroll.navbar-wrapper--sticky:style(position:static!important)
@@ -862,7 +864,7 @@ sport.tvp.pl##.scrolled.js-article-tabs-header:style(position:absolute!important
 www.termedia.pl###menuFoldCategory > .foldNormal
 www.ebiomasa.pl##.nav-placeholder
 www.ovh.pl##.menuLogo
-alltube.pl,alltube.tv##section.player[style^="height: calc("]:style(height:calc(100%-70px)!important)
+alltube.pl,alltube.tv##section.player[style^="height: calc("]:style(height:calc(100% - 70px)!important)
 www.crazynauka.pl###cb-nav-logo
 www.fakt.pl##article > .artLeftWrapper > .artLeft > .protected.floatingElem:style(position:static!important)
 cda-hd.co,cda-hd.cc###fixer:style(position:static!important)
