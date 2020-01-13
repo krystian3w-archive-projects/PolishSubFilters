@@ -2910,8 +2910,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Sat, 11 Jan 2020, 00:01 UTC+01
-!@Version: 2020.1.11.0
+!@Last modified: Sun, 12 Jan 2020, 23:25 UTC+01
+!@Version: 2020.1.12.5
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -2979,6 +2979,7 @@
 ||akademianaukowa.pl^$all
 ||akademiasw.pl^$all
 ||akademiazarabianiawinternecie.pl^$all
+||akcjainijob.pl^$all
 ||akredytowane.pl^$all
 ||akuna.pl^$all
 ||akwariumkrakow.pl^$all
@@ -3086,7 +3087,9 @@
 ||bezpieczne-nieruchomosci.pl^$all
 ||be-wild.pl^$all
 ||bfglasses.com^$all
+||bgprojekt.pl^$all
 ||bianchispizza.com^$all
+||bibliodro.pl^$all
 ||binomo.com^$all
 ||bitcoinmillionairepro.com^$all
 ||bit-coin-trader.com^$all
@@ -3109,6 +3112,7 @@
 ||bombazakupowa.com^$all
 ||bonnisi.com^$all
 ||boobi.biz^$all
+||bookeria.pl^$all
 ||bootstraplugin.com^$all
 ||bordosalon.pl^$all
 ||boryskowalski.pl^$all
@@ -3116,6 +3120,7 @@
 ||bramax-poznan.pl^$all
 ||brevio.pl^$all
 ||britney.com.pl^$all
+||brns.pl^$all
 ||brumflix.com^$all
 ||brzozowyzagajnik.pl^$all
 ||bshellz.pl^$all
@@ -3160,6 +3165,7 @@
 ||cdsportadapte91.fr^$all
 ||cedino.pl^$all
 ||cello24.net^$all
+||centrumanimal.pl^$all
 ||centrumcesar.pl^$all
 ||centrumdxn.pl^$all
 ||centrummarek.pl^$all
@@ -3219,6 +3225,7 @@
 ||cpabuild.com^$all
 ||cpbldi.com^$all
 ||cpbld.co^$all
+||cpb.com.pl^$all
 ||cpm10.com^$all
 ||crediko.pl^$all
 ||credy.pl^$all
@@ -3281,6 +3288,7 @@
 ||dom-server.tk^$all
 ||dopalacze-sklep.org^$all
 ||doslubu24.pl^$all
+||doulawpoznaniu.pl^$all
 ||downloadfile.eu^$all
 ||downloadtuesday.com^$all
 ||downloaduj.pl^$all
@@ -3390,6 +3398,7 @@
 ||fabrykaagd.com.pl^$all
 ||fabryka-mebli.com^$all
 ||fabryka-nagrod.com^$all
+||facedesign.pl^$all
 ||fajnefanty.com^$all
 ||familyclean.pl^$all
 ||fargofinanse.pl^$all
@@ -3433,6 +3442,7 @@
 ||forexyestrader.pl^$all
 ||fortnitehack2018.com^$all
 ||fortnite-vbuck.com^$all
+||fotobraj.pl^$all
 ||fotokaszuby.pl^$all
 ||fotokraci.pl^$all
 ||fotolajt.pl^$all
@@ -3459,8 +3469,10 @@
 ||galeriamdm.pl^$all
 ||gameinstallfiles.com^$all
 ||gamemine.com^$all
+||games4girls.pl^$all
 ||games-solution.com^$all
 ||gametalk.pl^$all
+||gamevision.pl^$all
 ||gamezmelt.com^$all
 ||game-hack.biz^$all
 ||gano-excel.pl^$all
@@ -3468,6 +3480,7 @@
 ||gatuzo.eu^$all
 ||gazetainfo.pl^$all
 ||gazeta-pl.site^$all
+||gazo-progress.com.pl^$all
 ||gbptest.net^$all
 ||gbtitansrfc.com^$all
 ||geekbook.pl^$all
@@ -3486,6 +3499,7 @@
 ||gh-cup.pl^$all
 ||gift-cards.co.pl^$all
 ||gikon.pl^$all
+||gilotyna.com.pl^$all
 ||gimnazjumniedrzwica.pl^$all
 ||girrrly.com^$all
 ||gladiatorarena.pl^$all
@@ -3499,6 +3513,8 @@
 ||goldendayspa.pl^$all
 ||goldsaver.pl^$all
 ||goodmenonthego.com^$all
+||gopost.pl^$all
+||gopssztutowo.pl^$all
 ||gothic4u.pl^$all
 ||gotowkanadowod.pl^$all
 ||gotowkanadzis.pl^$all
@@ -3560,6 +3576,7 @@
 ||hotchkissflowersco.com^$all
 ||humanverify.net^$all
 ||hunterstyle24.com^$all
+||hurtowniaolenka.pl^$all
 ||ibox.green^$all
 ||ibrainer.net^$all
 ||ideatur.pl^$all
@@ -3584,6 +3601,7 @@
 ||intelligenttechnologies.pl^$all
 ||investpedia.pl^$all
 ||inwestujwrozwoj.pl^$all
+||ipeachy.pl^$all
 ||ipzd.pl^$all
 ||itcity.pl^$all
 ||itvwro.pl^$all
@@ -3644,6 +3662,7 @@
 ||kixshop.pl^$all
 ||kl21.pl^$all
 ||klikasz-i-masz.com^$all
+||kloikg.pl^$all
 ||kodyrabatowe.16mb.com^$all
 ||kodyumyslu.pl^$all
 ||kofiup.pl^$all
@@ -3680,6 +3699,7 @@
 ||kuriero.pl^$all
 ||kurtkiwyprzedaz.pl^$all
 ||kwaterynasezon.pl^$all
+||kwiaty-wiosenne.pl^$all
 ||kyani.com^$all
 ||lacostepolska.pl^$all
 ||lamariette.pl^$all
@@ -3694,12 +3714,14 @@
 ||leadzu.com^$all
 ||lead.network^$all
 ||lebakwatery.pl^$all
+||leenlife.com.pl^$all
 ||lemologia.pl^$all
 ||leyda.pl^$all
 ||lgw500.com^$all
 ||life-star.pl^$all
 ||linkdebrideur.xyz^$all
 ||linkz.it^$all
+||literaturafaktu.pl^$all
 ||livioon.com^$all
 ||lnaff.pl^$all
 ||lnktime.com^$all
@@ -3708,6 +3730,7 @@
 ||lomzynskie.pl^$all
 ||longup.co^$all
 ||lopon.pl^$all
+||lorete.pl^$all
 ||lottoland.pl^$all
 ||loveaholics.com^$all
 ||lp-wip.pl^$all
@@ -3723,6 +3746,7 @@
 ||magdalenatul.pl^$all
 ||magiczne-cytaty.pl^$all
 ||magiskmanager.com^$all
+||maksymrzeminski.pl^$all
 ||malkarsklep.pl^$all
 ||manaslu.pl^$all
 ||mania-perfum.pl^$all
@@ -3743,6 +3767,7 @@
 ||matfi.pl^$all
 ||maungatautarilodge.com^$all
 ||mazur-rejs.pl^$all
+||mcms.com.pl^$all
 ||meatloafcake.com^$all
 ||medgenetix.pl^$all
 ||mediaekspert24.pl^$all
@@ -3802,11 +3827,13 @@
 ||moviestarplanethack.info^$all
 ||moviestarplanet-hack.org.pl^$all
 ||moviestarplanet-haki-i-kody.crazylife.pl^$all
+||moyodo.pl^$all
 ||mozebyctwoje.com^$all
 ||mstk.pl^$all
 ||mueller.com.pl^$all
 ||muralovemiasto.pl^$all
 ||musicistheweapon.pl^$all
+||music-design.pl^$all
 ||musika.pl^$all
 ||muverbo.pl^$all
 ||muzyczne-atelier.pl^$all
@@ -3839,6 +3866,7 @@
 ||nb574.pl^$all
 ||nbbuty.pl^$all
 ||nbwyprzedaz.pl^$all
+||nebulait.pl^$all
 ||neomedia24.net^$all
 ||neomedia.in.net^$all
 ||neonetmax.in.net^$all
@@ -3851,6 +3879,7 @@
 ||newmediaz.com^$all
 ||newpassporn.com^$all
 ||newtechagd.net^$all
+||nicobloc.pl^$all
 ||niechoruje.pl^$all
 ||nikeairhuarache.pl^$all
 ||nikeairmaxjewell.pl^$all
@@ -3913,6 +3942,7 @@
 ||onlinerekruter.com^$all
 ||online-ruletka.pl^$all
 ||online.pro^$all
+||onlyfutbol.pl^$all
 ||openscotland.pl^$all
 ||oplaca-sie.pl^$all
 ||oponykarbownik.pl^$all
@@ -3922,6 +3952,7 @@
 ||oranzadaklub.pl^$all
 ||organiclife.com.pl^$all
 ||organogold.com^$all
+||osiedlecetnarskiego.pl^$all
 ||oswieconykochanek.pl^$all
 ||oszukacruletke.like.pl^$all
 ||oszukacruletke.pl^$all
@@ -3971,6 +4002,7 @@
 ||play-tube.pl^$all
 ||plazowapolska.pl^$all
 ||plik-pobierz.pl^$all
+||pljestnaj.pl^$all
 ||plustokenofficial.com^$all
 ||pl.coral-club.com^$all
 ||pl.fmworld.com^$all
@@ -3987,7 +4019,9 @@
 ||pobierznet.pl^$all
 ||pobierz-online.co.pl^$all
 ||pobierz.biz^$all
+||pociagdoukrainy.pl^$all
 ||podarujmamiesukienke.pl^$all
+||podbiegi.pl^$all
 ||pogodaparyz.pl^$all
 ||pojzn.pl^$all
 ||pokolorujfb*.glt.pl^$all
@@ -3998,6 +4032,7 @@
 ||polska-tv.pl^$all
 ||polskifilm.com.pl^$all
 ||poltradewaletko.pl^$all
+||pomelostudio.pl^$all
 ||pomerania-bn.pl^$all
 ||pomocnapozyczka.pro^$all
 ||pomozbudowac.pl^$all
@@ -4044,6 +4079,7 @@
 ||proimagephoto.pl^$all
 ||projektyxella.pl^$all
 ||prokino.pl^$all
+||promediapr.pl^$all
 ||promocionesparati.com^$all
 ||promocjaadidas.pl^$all
 ||promonster.pl^$all
@@ -4057,6 +4093,7 @@
 ||przyspieszkomputer.pl^$all
 ||przyspiesz.pl^$all
 ||psiakademia.pl^$all
+||pspsport.pl^$all
 ||pszczelezycie.pl^$all
 ||pumapl.pl^$all
 ||pumaskleponline.pl^$all
@@ -4067,6 +4104,7 @@
 ||pyracity.info^$all
 ||pz21.pl^$all
 ||qbrak.pl^$all
+||qianhua.pl^$all
 ||quadykielce.pl^$all
 ||questraworld.es^$all
 ||questraworld.ru^$all
@@ -4111,11 +4149,13 @@
 ||restaurato.pl^$all
 ||retrortv.in.net^$all
 ||re-uspol.pl^$all
+||riverbed.pl^$all
 ||riverparkbaseball.org^$all
 ||robloxhack.pl^$all
 ||roboclean-poland.com^$all
 ||roofgardenrecords.com^$all
 ||rosalieeve.pl^$all
+||rosa-wypoczynek.pl^$all
 ||roswell47.pl^$all
 ||roulettenumber.com^$all
 ||royalestate.com.pl^$all
@@ -4144,9 +4184,11 @@
 ||seanse24.pl^$all
 ||seansobox.pl^$all
 ||sebbike.pl^$all
+||secondland.pl^$all
 ||securebiz.pl^$all
 ||sendspace.pl^$all
 ||sendspace.pw^$all
+||seobar.pl^$all
 ||seomarkecik.pl^$all
 ||serendipitygalenite.club^$all
 ||seriale24.com.pl^$all
@@ -4245,6 +4287,7 @@
 ||statmach.pl^$all
 ||statystykaopisowa.pl^$all
 ||stenplus.onewaywinner.com^$all
+||steroidsworld.pl^$all
 ||stevija.pl^$all
 ||stkk.pl^$all
 ||stopkomornikowi.pl^$all
@@ -4253,6 +4296,7 @@
 ||streetrulez.pl^$all
 ||strefabezstresu.pl^$all
 ||strefagotyku.pl^$all
+||strefarho.pl^$all
 ||strefa-filmu.pl^$all
 ||studioformy-synergia.pl^$all
 ||stuntoffer.com^$all
@@ -4300,6 +4344,7 @@
 ||tanie-wapnowanie.pl^$all
 ||technologia24.com^$all
 ||teespoon.co^$all
+||tekston.pl^$all
 ||teleaudio.pl^$all
 ||telemediaa.pl^$all
 ||tengofoxfiles.com^$all
@@ -4358,6 +4403,7 @@
 ||tustrzelin.pl^$all
 ||twierdza-wroclaw.pl^$all
 ||twochefs-pizzeria.pl^$all
+||twoja-kariera.pl^$all
 ||twoja-wygrana.com^$all
 ||twoje-piekno.pl^$all
 ||twojszczesliwydzien.com^$all
@@ -4382,6 +4428,7 @@
 ||ultraexpert.pl^$all
 ||ultratrck.com^$all
 ||unhallowed.pl^$all
+||unident-union.pl^$all
 ||unmillondeutilidades.com^$all
 ||unverf.com^$all
 ||updatestar.com^$all
@@ -4417,6 +4464,7 @@
 ||vipcheats.us^$all
 ||vipon.pl^$all
 ||virtualsklep.com^$all
+||visalink.pl^$all
 ||vision2020.pl^$all
 ||viskon.pl^$all
 ||visvet.pl^$all
@@ -4502,6 +4550,7 @@
 ||zaprojektujiwybuduj.pl^$all
 ||zarobek4u.com^$all
 ||zarobicpieniadze.com^$all
+||zawijawa.pl^$all
 ||zbudujmy-pustelnie.pl^$all
 ||zdaj-to.pl^$all
 ||zebrapozyczki.pl^$all
@@ -4875,6 +4924,7 @@
 ||btc-forum.pl^$all
 ||bubblelife70.life^$all
 ||bulbulstore.com^$all
+||businesspuls.online^$all
 ||buz2mobile.com^$all
 ||calodobowe-wiadomosci-pl.eu^$all
 ||caneserve.com^$all
@@ -4938,6 +4988,7 @@
 ||dnmultiglobal.duckdns.org^$all
 ||dobreprogramy.pro^$all
 ||dobre-programy.xyz^$all
+||dobry-fryzjer.lublin.lu^$all
 ||doctopdftech.com^$all
 ||dogongulong.vn^$all
 ||doladowania-telefonu.pl^$all
@@ -5058,6 +5109,7 @@
 ||finansoweswiry.pl^$all
 ||findfiooos.xyz^$all
 ||firecash.org^$all
+||firma-tuningowa.lublin.click^$all
 ||fitchciapara.com^$all
 ||fixfuturetype-restclicks.icu^$all
 ||flashplayerload.com^$all
@@ -5142,10 +5194,12 @@
 ||hostplik.pl^$all
 ||hostujmy.pl^$all
 ||hotelkrome.com^$all
+||hotellwowlublin.lubuskie.lu^$all
 ||hotel-bristol.lu^$all
 ||hothub.pl^$all
 ||hotnews24h.pl^$all
 ||hpaudiobooksfree.com^$all
+||iconsumerstocksymbol.icu^$all
 ||idealnafigura.com^$all
 ||ilovemobi.com^$all
 ||industry-deals.com^$all
@@ -5253,6 +5307,7 @@
 ||maxitrade.com^$all
 ||max-host.pl^$all
 ||maymaychihai.com^$all
+||mechaonik.nsx.pl^$all
 ||mediafile.pl^$all
 ||mediavideo.pl^$all
 ||megacloudz.net^$all
@@ -5316,6 +5371,7 @@
 ||nonstopvideos.pl^$all
 ||nowa-oplata.net^$all
 ||nowinki.blog-online.eu^$all
+||nowosczdrowieporadyvlc.pl^$all
 ||nsfund.mn^$all
 ||nympropiedades.cl^$all
 ||n-mobile.net^$all
@@ -5375,6 +5431,8 @@
 ||plikson24.pl^$all
 ||plikson.pl^$all
 ||pliks.pl^$all
+||ploskonax.com^$all
+||pl-pulsbiz.net^$all
 ||pl.allsports4free.club^$all
 ||pl.dailyoffer.top^$all
 ||pl.mevida.me^$all
@@ -5388,6 +5446,7 @@
 ||pobierzpliki.pl^$all
 ||pobierz-pliczek.eu^$all
 ||pobiieerz-fotografiee.eu^$all
+||poczta-polska.net^$all
 ||pod004.site^$all
 ||podologik.ca^$all
 ||poland-news.pl^$all
@@ -5403,6 +5462,7 @@
 ||post-341478.info^$all
 ||powaifinearts.org^$all
 ||po.fyybox.com^$all
+||ppl-puls.gloryft.com^$all
 ||praize19791.duckdns.org^$all
 ||pramodkumarsingh.000webhostapp.com^$all
 ||proecogroup.eu^$all
@@ -5424,6 +5484,7 @@
 ||psialapka.pl^$all
 ||pulsebiznesu.xyz^$all
 ||pulse-biznesowe.xyz^$all
+||puls-biznesu.info^$all
 ||puls-sukcesu.net^$all
 ||purchasedyouasa.co^$all
 ||pzu.services^$all
@@ -5445,6 +5506,7 @@
 ||realnyzarobek.pl^$all
 ||refferalstaff.com^$all
 ||reg-me.pl^$all
+||rehabilitant.rzeszow.re^$all
 ||relayimmo.com^$all
 ||reloffersstart.co^$all
 ||restricted.pl^$all
@@ -5463,6 +5525,7 @@
 ||rzeczyzadarmo.pl^$all
 ||saarthieduhub.com^$all
 ||sabiosdelamor.co^$all
+||salonmotoryzacyjny.lublin.ovh^$all
 ||samuraibangalore.com^$all
 ||sarnisas.info^$all
 ||saxtorph.net^$all
@@ -5487,6 +5550,7 @@
 ||skippyfile.com^$all
 ||smartcare.xja.pl^$all
 ||smartconnect.duckdns.org^$all
+||smkmotala.com^$all
 ||smsiaki.eu^$all
 ||sms-za-darmo.pl^$all
 ||sniadanioweinfo.pl^$all
@@ -5514,6 +5578,7 @@
 ||steamco.de^$all
 ||steam-wallet-gifts.com^$all
 ||steam-wallet-money.com^$all
+||stomatologia-w.lublin.lu^$all
 ||streamgo.pl^$all
 ||strony-fotograficzne.eu^$all
 ||structures-made-easy.co.uk^$all
@@ -5525,6 +5590,7 @@
 ||super-pay.me^$all
 ||syds588.cn^$all
 ||syncgreatlyquicksystem.icu^$all
+||szkolenie.m.poznan.pm^$all
 ||szlonepromocje.com^$all
 ||szmoldparts.com^$all
 ||s-pay24.com^$all
@@ -5545,6 +5611,7 @@
 ||tematyczne-rozmowy-pl.eu^$all
 ||tematyczne-rozmowy.pl^$all
 ||tematyczne-wywiady.pl^$all
+||temporary.nsx.pl^$all
 ||terazty24.eu^$all
 ||thedash.pt^$all
 ||thefortunatenutrition.com^$all
@@ -5839,14 +5906,14 @@ kadantiscam.netlify.com###kadetect
 !@Codename: PASS
 !@Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 !@Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-!@Last modified: Mon, 06 Jan 2020, 00:55 UTC+01
-!@Version: 2020.1.0
+!@Last modified: Mon, 13 Jan 2020, 00:55 UTC+01
+!@Version: 2020.1.1
 !@Expires: 7 days
 !@Support:
 !@  Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 !@License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 !@Copyright © 2020 Polish Filters Team
-!@Aktualizacja: pon, 06 sty 2020, 00:55 UTC+01
+!@Aktualizacja: pon, 13 sty 2020, 00:55 UTC+01
 !
 !
 !@Specyficzne reguły ukrywające
@@ -5974,8 +6041,8 @@ istotne.pl##.icon_rss
 iwanowice.pl##.rss-wrapper
 izigsm.pl###sectionRight > div.stdBoxContainer:nth-of-type(3) > div.item:nth-of-type(5)
 jak.tv##a[href^="/feed/rss"]
-joomla.pl##.k2FeedIcon
 joomla.pl,testhub.pl##.icon-feed
+joomla.pl,waszaturystyka.pl##.k2FeedIcon
 kampinoski-pn.gov.pl##.art-layout-cell > .art-post.art-box
 katowice24.info##.rst-list-social > li:nth-of-type(4)
 kochanamama.pl##.pmpIRss, .pmpB > div > div:nth-of-type(1)
@@ -5994,7 +6061,7 @@ kulinarne.info##div.text-center > a[href$="/feed"], div.p-3.col-md-4:nth-of-type
 kwestiasmaku.com###block-block-16
 linuxporady.pl###heatmapthemead-rss-social-icon
 lodzkie.pl##.jj_sl_rss
-lookcam.com,pcfaq.pl###rss_icon
+lookcam.com,lookcam.live,pcfaq.pl###rss_icon
 lotos.pl##.footer__socialMenu > li:nth-of-type(4)
 lubanski.eu##.rss-box > .posts-icon
 majsterkowo.pl###sitebox-social-4 > .widget-title
@@ -6012,6 +6079,7 @@ mojaniderlandia.pl,mojanorwegia.pl##.newRss
 mojewypiekiinietylko.com,www.freestyle.pl###rss-link
 motokorzysci.pl###footer > div[class] > div[class] > div[class^="platnosci"] > img[alt=""]:nth-of-type(2)
 mototube.pl##a[href="http://www.mototube.pl/rss/najnowsze/"]
+mpk.krakow.pl##a[href="/pl/kanaly-rss/"]
 mvno-gsm.pl##.widget_rss_links.widget
 mynaszlaku.pl##.socicon-rss
 m.niedziela.pl##a > .mdi-rss-box.mdi
@@ -6089,6 +6157,8 @@ sledzimykonkursy.pl##a[href="http://www.sledzimykonkursy.pl/rss"]
 slodkastrona.com###Subscribe2
 slomski.us###text-4
 sneakershop.pl###links_footer_3 > li > .footer_links_sub > li:nth-of-type(2)
+socialpress.pl##a.header_second_row__social_search__sm:nth-of-type(4)
+socialpress.pl##.follow_us.container-fluid
 sp4.pisz.pl##.er-rss-tag-icon
 spece.it##.group.sidebar-top > p
 spece.it##.social-links > li:nth-of-type(3)
@@ -6200,7 +6270,7 @@ pl##.rss:not(.block)
 !
 !
 !@Dodatkowe reguły dla uBO & AG
-!#if (!adguard_ext_android_cb && !adguard_ext_safari && !adguard_app_ios)
+!#if (!adguard_ext_android_cb && !adguard_app_ios)
 !#endif
 !
 !
