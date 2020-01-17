@@ -29,6 +29,10 @@ https://duckduckgo.com/?q=%s
 https://www.mojeek.com/search?q=%s
 ```
 
+```
+https://www.qwant.com/?q=%s
+```
+
 ### Firefox
 
 ```
