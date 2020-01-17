@@ -21,3 +21,7 @@ https://searx.site/?q=%s&categories=general&language=pl-PL
 ```
 https://duckduckgo.com/?q=%s
 ```
+
+```
+https://www.mojeek.com/search?q=%s
+```
