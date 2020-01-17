@@ -32,9 +32,13 @@ https://www.mojeek.com/search?q=%s
 ### Firefox
 
 ```
-https://addons.mozilla.org/pl/firefox/addon/privacytools-searx/?src=search
+https://addons.mozilla.org/pl/firefox/addon/privacytools-searx/
 ```
 
 ```
-https://addons.mozilla.org/pl/firefox/addon/mojeek-uk-community/?src=search
+https://addons.mozilla.org/pl/firefox/addon/mojeek-uk-community/
+```
+
+```
+https://addons.mozilla.org/en-US/firefox/addon/qwant-lite/
 ```
