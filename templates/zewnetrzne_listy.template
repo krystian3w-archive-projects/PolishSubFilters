@@ -17,8 +17,8 @@
 !
 !#if cap_user_stylesheet
 !
-! Source: https://github.com/PolishFiltersTeam/PolishRSSFilters/blob/master/polish_rss_filters.txt
-@URLinclude https://raw.githubusercontent.com/PolishFiltersTeam/PolishRSSFilters/master/polish_rss_filters.txt
+! Source: https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/blob/master/polish_rss_filters.txt
+@URLinclude https://raw.githubusercontent.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/master/polish_rss_filters.txt
 !
 !
 ! Source: https://github.com/olegwukr/polish-privacy-filters/blob/master/adblock.txt
