@@ -11,6 +11,8 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+wydawnictwoliterackie.pl##.all:style(position:absolute!important)
+wydawnictwoliterackie.pl##body > .top-box:style(position:static!important)
 individi.pl###site-navigation:style(position:static!important)
 netfilmy.pl###navbar-main:style(position:absolute!important)
 www.przepisy.pl##.navigation-wrap:style(position:absolute!important)
