@@ -32,6 +32,10 @@
 !
 !2$----------------------{ ogólne reguły wewnętrzne }----------------------!
 !
+!& tlo
+!> https://github.com/MajkiIT/polish-ads-filter/issues/15545
+wydawnictwoliterackie.pl##.rightIndexBanner, .leftIndexBanner
+!
 ||obcas.pl^$popup,domain=animezone.pl
 !
 ! ref, text, no-pl
