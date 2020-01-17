@@ -5,6 +5,9 @@ https://stats.searx.xyz/
 ```
 https://duckduckgo.com/
 ```
+```
+https://www.mojeek.com/
+```
 
 ### Chrome
 
