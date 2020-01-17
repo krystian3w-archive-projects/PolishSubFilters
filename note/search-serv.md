@@ -25,3 +25,13 @@ https://duckduckgo.com/?q=%s
 ```
 https://www.mojeek.com/search?q=%s
 ```
+
+### Firefox
+
+```
+https://addons.mozilla.org/pl/firefox/addon/privacytools-searx/?src=search
+```
+
+```
+https://addons.mozilla.org/pl/firefox/addon/mojeek-uk-community/?src=search
+```
