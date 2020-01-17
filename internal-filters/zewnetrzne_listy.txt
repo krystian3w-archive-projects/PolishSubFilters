@@ -2910,8 +2910,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Wed, 15 Jan 2020, 19:31 UTC+01
-!@Version: 2020.1.15.2
+!@Last modified: Thu, 16 Jan 2020, 21:00 UTC+01
+!@Version: 2020.1.16.1
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -4866,7 +4866,9 @@
 ||7dot.cn^$all
 ||24fakty-sniadaniowe.pl^$all
 ||50kaweek.live^$all
+||50kzl.pl^$all
 ||7228.eu^$all
+||50000zl.site^$all
 ||59055.cn^$all
 ||abbp35.com^$all
 ||absolutezeros.duckdns.org^$all
@@ -4928,6 +4930,7 @@
 ||best-sales.top^$all
 ||bikelovers.blog.br^$all
 ||bitcoins-profit.com^$all
+||bitcoin-revolution.pl^$all
 ||bitcoin-trader-app.com^$all
 ||biyunhui.com^$all
 ||blockchainjoblist.com^$all
@@ -4970,6 +4973,7 @@
 ||challengeforme.com^$all
 ||check-prizes-now2.life^$all
 ||chefeladlevi.com^$all
+||chengjiaoyou.com^$all
 ||choljai.info^$all
 ||chomik24.com.pl^$all
 ||chomik-24.pl^$all
@@ -5007,6 +5011,7 @@
 ||derikaosos.info^$all
 ||deviwijiyanti.web.id^$all
 ||dhl-24.pl^$all
+||dhl-paczka.eu^$all
 ||dirproperties.com^$all
 ||discsplay.com^$all
 ||djarumgol.com^$all
@@ -5390,12 +5395,14 @@
 ||newszone.pro^$all
 ||news-deck.at^$all
 ||news-onet24.pl^$all
+||news.bit-poland.club^$all
 ||nfbio.com^$all
 ||ngomavibe.co.ke^$all
 ||njb-gmbh.com^$all
 ||nomadztruck.com^$all
 ||nonstopvideos.pl^$all
 ||nowa-oplata.net^$all
+||nowina-pb.pl^$all
 ||nowinki.blog-online.eu^$all
 ||nowosczdrowieporadyvlc.pl^$all
 ||nsfund.mn^$all
@@ -5471,7 +5478,10 @@
 ||pobierzpliki.pl^$all
 ||pobierz-pliczek.eu^$all
 ||pobiieerz-fotografiee.eu^$all
+||pocztapolska48.net^$all
 ||poczta-polska.net^$all
+||pocztexpolska24.com^$all
+||pocztex-48.net^$all
 ||pod004.site^$all
 ||podologik.ca^$all
 ||poland-news.pl^$all
@@ -5507,6 +5517,7 @@
 ||przepismix.pl^$all
 ||przesyleczki.com^$all
 ||psialapka.pl^$all
+||pulsbiznesu.xyz^$all
 ||pulsebiznesu.xyz^$all
 ||pulse-biznesowe.xyz^$all
 ||puls-biznesu.info^$all
@@ -5615,6 +5626,7 @@
 ||super-pay.me^$all
 ||syds588.cn^$all
 ||syncgreatlyquicksystem.icu^$all
+||system-team-online.site^$all
 ||szkolenie.m.poznan.pm^$all
 ||szlonepromocje.com^$all
 ||szmoldparts.com^$all
@@ -5717,6 +5729,7 @@
 ||wirtualne-media.pl^$all
 ||wisdementive.info^$all
 ||wizjalokalna24.pl^$all
+||wolnezycie.info^$all
 ||wolyncalyfilm.wordpress.com^$all
 ||womenempowermentpakistan.com^$all
 ||wosp.online^$all
@@ -6303,14 +6316,14 @@ pl##.rss:not(.block)
 ! Source: https://github.com/olegwukr/polish-privacy-filters/blob/master/adblock.txt
 !@Title: Polish Privacy Filters
 !@Oficjalne polskie filtry prywatności
-!@Last modified: 10 January 2020
+!@Last modified: 16 January 2020
 !@Expires: 2 days
-!@Version: 2020011001
+!@Version: 2020011601
 !@Support:
 !@  Github >> https://github.com/olegwukr/polish-privacy-filters/issues
 !@License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 !@Copyright (C) 2020
-!@v.2020011001 aktualizacja: ptk, 10 stycznia 2020, 09:40:00
+!@v.2020011601 aktualizacja: czw, 16 stycznia 2020, 19:40:00
 !
 !
 !-----------------------Privacy filters block-----------------------!
@@ -6437,6 +6450,7 @@ poczta.interia.pl,film.interia.pl#@#[href*=".hit.gemius.pl"]
 ||mautic.sfanews.pl^
 ||asmsalesforce.pl^
 ||privacy-center.org^
+||getresponsepl.com/script/ga.js$script
 !
 !
 !@Problem with ads 
