@@ -3649,8 +3649,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Mon, 27 Jan 2020, 18:41 UTC+01
-!@Version: 2020.1.27.3
+!@Last modified: Wed, 29 Jan 2020, 19:05 UTC+01
+!@Version: 2020.1.29.2
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -3663,9 +3663,10 @@
 !@(PL) UWAGA: Strony poniżej mogą być szkodliwe. Proszę, nie wchodź na nie, jeśli nie wiesz co robisz!
 !
 !@Podejrzane i/lub strony połączone z innymi oszustwami
-!||sgipn.pl^$all,domain=~francuskie
-!||tanitimberlandbuty.pl^$all,domain=~wloskie
+!||sgipn.pl^$all,domain=~francuskie.fr|chaussurespumaonline.fr
+!||tanitimberlandbuty.pl^$all,domain=~wloskie.it|nikesaldi.it
 |https://aten.com/$document
+||1elt.pl^$all
 ||2easy.pl^$all
 ||4ksport.pl^$all
 ||4life.com^$all
@@ -3701,7 +3702,6 @@
 ||adidasbuty.pl^$all
 ||adidasoutletsklep.pl^$all
 ||adidaspl.pl^$all
-||adidasskleppolska.pl^$all
 ||adidasterrex.pl^$all
 ||adidaswarszawa.pl^$all
 ||adidaswyprzedaz.pl^$all
@@ -3720,6 +3720,7 @@
 ||agdrtv24.net^$all
 ||agdrtv.net^$all
 ||agencjared.pl^$all
+||agenty.pl^$all
 ||agnieszkasulkowska.pl^$all
 ||agronorth.pl^$all
 ||airhuarache.pl^$all
@@ -3744,6 +3745,7 @@
 ||aleshop.pl^$all
 ||alexsoff.com^$all
 ||ale-dowcip.pl^$all
+||alim.com.pl^$all
 ||allenit.pl^$all
 ||alle-perfumy.pl^$all
 ||allfiles.pl^$all
@@ -3753,6 +3755,7 @@
 ||alteregocafe.pl^$all
 ||altid-ad.com^$all
 ||alwetagd.pl^$all
+||amadaxtreme.pl^$all
 ||amc.info^$all
 ||amikamusic.com^$all
 ||amptrading.pl^$all
@@ -3789,7 +3792,6 @@
 ||artimpression.pl^$all
 ||artisszkola.pl^$all
 ||artmalwa.pl^$all
-||artom-dtp.pl^$all
 ||asicsgel.pl^$all
 ||asicsoutlet.pl^$all
 ||asicspl.pl^$all
@@ -3806,8 +3808,10 @@
 ||audmax.pl^$all
 ||aureus-miedzychod.pl^$all
 ||autodestino.pl^$all
+||autokemar.pl^$all
 ||autoprzewodnik.com.pl^$all
 ||autosalonpomorski.pl^$all
+||autotapeta.pl^$all
 ||avantfestival.pl^$all
 ||avanti-pizza.pl^$all
 ||avema.pl^$all
@@ -3838,6 +3842,7 @@
 ||behavioriks.pl^$all
 ||berkano-koty.pl^$all
 ||berryen.com^$all
+||bert24.com^$all
 ||besavia.pl^$all
 ||beskidzkasala.pl^$all
 ||best2018games.com^$all
@@ -3875,6 +3880,7 @@
 ||blog-in.biz^$all
 ||blog.jacekpaciorek.pl^$all
 ||blubox.pl^$all
+||bluesgarager.pl^$all
 ||bmgrp.tk^$all
 ||bmwklubbydgoszcz.pl^$all
 ||bnewsb.com^$all
@@ -3886,6 +3892,7 @@
 ||bonnisi.com^$all
 ||boobi.biz^$all
 ||bookeria.pl^$all
+||boomrent.pl^$all
 ||bootstraplugin.com^$all
 ||bordosalon.pl^$all
 ||boryskowalski.pl^$all
@@ -3895,17 +3902,18 @@
 ||brevio.pl^$all
 ||britney.com.pl^$all
 ||brns.pl^$all
+||browarkaliski.pl^$all
 ||brumflix.com^$all
 ||brzozowyzagajnik.pl^$all
 ||brzuchfit.pl^$all
 ||bshellz.pl^$all
 ||buddyway.pl^$all
-||bueongi.pl^$all
 ||buforstudio.pl^$all
 ||bustcream-pro.com^$all
 ||butyadidas.pl^$all
 ||butycatpolska.pl^$all
 ||butycrocstanio.pl^$all
+||butydrmartens.pl^$all
 ||butyfila.pl^$all
 ||butyfitflop.pl^$all
 ||butyjordansklep.pl^$all
@@ -3914,6 +3922,7 @@
 ||butynewb.pl^$all
 ||butyniketanio.pl^$all
 ||butypremium.pl^$all
+||butypromocje.pl^$all
 ||butypumasklep.pl^$all
 ||butyreebokcrossfit.pl^$all
 ||butyreebokonline.pl^$all
@@ -3929,6 +3938,7 @@
 ||buty-superstar.pl^$all
 ||buzzihome.com^$all
 ||buzzonclick.com^$all
+||caferoskosz.pl^$all
 ||caffeepolit.pl^$all
 ||calcionostra.pl^$all
 ||calivita.com^$all
@@ -3936,7 +3946,6 @@
 ||camerasgo.com^$all
 ||camerashomeby.com^$all
 ||camiliana.pl^$all
-||canadakurtka.pl^$all
 ||capri-zwolen.pl^$all
 ||casadasklep.pl^$all
 ||casada.pl^$all
@@ -3951,7 +3960,6 @@
 ||cedino.pl^$all
 ||cello24.net^$all
 ||centrumanimal.pl^$all
-||centrumcesar.pl^$all
 ||centrumdxn.pl^$all
 ||centrummarek.pl^$all
 ||centrumnaukowe.eu^$all
@@ -3967,12 +3975,10 @@
 ||chipcar.pl^$all
 ||chocoslim.pro^$all
 ||choengmon-beach.com^$all
-||chomikui.pl^$all
 ||chorywdomu.pl^$all
 ||chotto-ippuku.com^$all
 ||chris-jasnowidz.pl^$all
 ||chuckbutyonline.pl^$all
-||chucktaylorallstar.pl^$all
 ||chucktaylor.pl^$all
 ||chukka.pl^$all
 ||chytra-swinka.pl^$all
@@ -4057,13 +4063,13 @@
 ||dascoin.com^$all
 ||dascoin.prowly.com^$all
 ||dasecosystem.pl^$all
-||dashkafashion.pl^$all
 ||dassystem.eu^$all
+||dastrade.top^$all
 ||daswallet.com^$all
 ||davor.io^$all
 ||dbo2.pl^$all
-||ddgrawer.pl^$all
 ||dearlife.pl^$all
+||deathcaller.pl^$all
 ||decodorebasic.pl^$all
 ||decorefect.pl^$all
 ||decynsire.com^$all
@@ -4077,6 +4083,7 @@
 ||diapress.pl^$all
 ||dietovo.pl^$all
 ||dietstars.pro^$all
+||digalovski.pl^$all
 ||diorsklep.pl^$all
 ||dirtythekitchen.com^$all
 ||dketrade.top^$all
@@ -4116,6 +4123,7 @@
 ||drsaritabhalerao.com^$all
 ||dsa.pl^$all
 ||dubaikidcare.com^$all
+||ducatisti.pl^$all
 ||dwnlad.ws^$all
 ||dxn2u.com^$all
 ||dziendobry.org.pl^$all
@@ -4130,8 +4138,6 @@
 ||eccobuty.pl^$all
 ||eccooutlet.pl^$all
 ||eccopl.pl^$all
-||eccopromocje.pl^$all
-||eccosoft.pl^$all
 ||ecobutysklep.com^$all
 ||ecoflow.pl^$all
 ||ecomotto.pl^$all
@@ -4155,6 +4161,7 @@
 ||elektro24h.pl^$all
 ||elektromax.in.net^$all
 ||elektronicznyswiat.pl^$all
+||elementium-shop.pl^$all
 ||elepta.pl^$all
 ||elitesse.pl^$all
 ||elite-crack.ml^$all
@@ -4167,11 +4174,13 @@
 ||energetix.com.pl^$all
 ||enigmaescape.pl^$all
 ||enormo.pl^$all
+||entotc.pl^$all
 ||eonline.pl^$all
 ||epicreactflyknit.pl^$all
 ||epliki24.pl^$all
 ||epremki.eu^$all
 ||eqology.com^$all
+||erbudokna.pl^$all
 ||ergocentrum.pl^$all
 ||ergopro.pl^$all
 ||ermach.com.pl^$all
@@ -4183,6 +4192,7 @@
 ||eskk.pl^$all
 ||esneakersy.com^$all
 ||esneakers.net.pl^$all
+||etamina.pl^$all
 ||etilang.pl^$all
 ||euco.pl^$all
 ||euroagd.in.net^$all
@@ -4193,8 +4203,10 @@
 ||europeancupkyokushin.pl^$all
 ||europronet.net^$all
 ||eurortv.net^$all
+||eventownik.pl^$all
 ||excelz.com^$all
 ||exitopolska.com^$all
+||expertadvisor.pl^$all
 ||extragenerators.xyz^$all
 ||exw-wallet.com^$all
 ||exxotel.com^$all
@@ -4226,6 +4238,7 @@
 ||fevitum.pl^$all
 ||fforum.pisz.pl^$all
 ||fhgfffdsf9.appspot.com^$all
+||fhusebo.pl^$all
 ||fightfly.pl^$all
 ||filapoland.pl^$all
 ||fila-lala.pl^$all
@@ -4245,6 +4258,7 @@
 ||filo-shop.pl^$all
 ||finansedladziecka.pl^$all
 ||finclub.pl^$all
+||finezo.pl^$all
 ||fireads.online^$all
 ||fireads.pl^$all
 ||firead.org^$all
@@ -4262,6 +4276,7 @@
 ||forexyestrader.pl^$all
 ||fortnitehack2018.com^$all
 ||fortnite-vbuck.com^$all
+||foto2.pl^$all
 ||fotobraj.pl^$all
 ||fotokaszuby.pl^$all
 ||fotokraci.pl^$all
@@ -4272,6 +4287,7 @@
 ||freshcoffeenetwork.com^$all
 ||fresh-finance.pl^$all
 ||frio.com.pl^$all
+||fromako.pl^$all
 ||fsgliwice.pl^$all
 ||full-movies-online.cba.pl^$all
 ||funatyk.com^$all
@@ -4287,7 +4303,6 @@
 ||g3architekci.pl^$all
 ||gabinetnewline.pl^$all
 ||gadajzdrow.eu^$all
-||galaktykakultury.pl^$all
 ||galeriamdm.pl^$all
 ||gallcom.pl^$all
 ||gameinstallfiles.com^$all
@@ -4298,6 +4313,7 @@
 ||gamevision.pl^$all
 ||gamezmelt.com^$all
 ||game-hack.biz^$all
+||gangkarpiarzy.pl^$all
 ||gano-excel.pl^$all
 ||garciniacambogiaactives.pl^$all
 ||gatuzo.eu^$all
@@ -4325,6 +4341,7 @@
 ||gikon.pl^$all
 ||gilotyna.com.pl^$all
 ||gimnazjumniedrzwica.pl^$all
+||gimnazjumrogi.pl^$all
 ||girrrly.com^$all
 ||gladiatorarena.pl^$all
 ||glinkss.com^$all
@@ -4332,7 +4349,7 @@
 ||globalcontact.pl^$all
 ||globalintergold.com^$all
 ||gmagazyn.pl^$all
-||gmp-poland.pl^$all
+||gnprojekt.pl^$all
 ||goforfun.pl^$all
 ||gojiberry500.pl^$all
 ||gokano.com^$all
@@ -4343,6 +4360,7 @@
 ||gopost.pl^$all
 ||gopssztutowo.pl^$all
 ||gothic4u.pl^$all
+||gotime.pl^$all
 ||gotowkanadowod.pl^$all
 ||gotowkanadzis.pl^$all
 ||gotowkatutaj.pl^$all
@@ -4366,11 +4384,11 @@
 ||gryonline24h.pl^$all
 ||grypsuj.pl^$all
 ||gt2000.pl^$all
+||guitarforce.pl^$all
 ||gustaw-harnas.pl^$all
 ||gysannapolis.com^$all
 ||hackidogier.pl^$all
 ||hacki-czity.pl^$all
-||haftreklama.pl^$all
 ||halcashpoland.pl^$all
 ||halodzwonek.pl^$all
 ||halopozyczka.pl^$all
@@ -4446,6 +4464,7 @@
 ||instytutmed.pl^$all
 ||instytut-pomocy.pl^$all
 ||intelligenttechnologies.pl^$all
+||interlingo.pl^$all
 ||invent-themes.pl^$all
 ||investpedia.pl^$all
 ||inwestujwrozwoj.pl^$all
@@ -4479,6 +4498,7 @@
 ||jemwdomu.pl^$all
 ||jeunesseglobal.com^$all
 ||jezyk-norwesk.pl^$all
+||jont.pl^$all
 ||jordenmadsen.com^$all
 ||jsauto.pl^$all
 ||judomiedzyrzecz.pl^$all
@@ -4519,6 +4539,7 @@
 ||kickz4u.pl^$all
 ||kidstudio.pl^$all
 ||kierujswiadomie.pl^$all
+||kierunkowy48.pl^$all
 ||killingtonchukka.pl^$all
 ||kinoman-tv.pl^$all
 ||kinotek.pl^$all
@@ -4530,6 +4551,7 @@
 ||kiwiapartament.pl^$all
 ||kixshop.pl^$all
 ||kl21.pl^$all
+||klasterbhp.pl^$all
 ||klikasz-i-masz.com^$all
 ||kloikg.pl^$all
 ||kmelektryk.pl^$all
@@ -4550,11 +4572,10 @@
 ||kororoweszyszki.pl^$all
 ||korphan.pl^$all
 ||korpowscy.pl^$all
-||koszaryasg.pl^$all
 ||kotwicowisko.pl^$all
-||kpzielinski.pl^$all
 ||kpzkaj.pl^$all
 ||krakowparkiety.pl^$all
+||krasnal-zlotoweczka.pl^$all
 ||krdn.pl^$all
 ||kredkowo.pl^$all
 ||kredytybezbik.eu^$all
@@ -4584,6 +4605,7 @@
 ||lahony.pl^$all
 ||lamariette.pl^$all
 ||lampeberger.com.pl^$all
+||lancuchymaggi.pl^$all
 ||laolle.com^$all
 ||las-rp.pl^$all
 ||lauretta-larix.eu^$all
@@ -4591,6 +4613,7 @@
 ||lavylites.com^$all
 ||lcmusic.pl^$all
 ||ldrcp.pl^$all
+||leaderhouse.pl^$all
 ||leadn.pl^$all
 ||leadzu.com^$all
 ||lead.network^$all
@@ -4609,11 +4632,13 @@
 ||linkdebrideur.xyz^$all
 ||linkz.it^$all
 ||literaturafaktu.pl^$all
+||literatur.pl^$all
 ||livioon.com^$all
 ||lnaff.pl^$all
 ||lnktime.com^$all
 ||lnpush.pl^$all
 ||lobik.pl^$all
+||localpressawards.pl^$all
 ||loktrk.com^$all
 ||lommi.pl^$all
 ||lomniczanie.pl^$all
@@ -4623,6 +4648,7 @@
 ||lopkajny.pl^$all
 ||lopon.pl^$all
 ||lorete.pl^$all
+||lotosart.pl^$all
 ||lottoland.pl^$all
 ||louboutinpoland.pl^$all
 ||loveaholics.com^$all
@@ -4648,6 +4674,7 @@
 ||mandldental.com^$all
 ||mania-perfum.pl^$all
 ||manilis.com^$all
+||marcin-rozycki.pl^$all
 ||marekdoniec.com^$all
 ||marekporwol.pl^$all
 ||mariancabanski.pl^$all
@@ -4672,6 +4699,7 @@
 ||mazur-rejs.pl^$all
 ||mcms.com.pl^$all
 ||mct-sklepl.pl^$all
+||meanings-co.pl^$all
 ||meatloafcake.com^$all
 ||medgenetix.pl^$all
 ||mediaexpres.in.net^$all
@@ -4703,6 +4731,7 @@
 ||mieszkania-pokoje-wynajem.pl^$all
 ||mieszkanie-bochnia.pl^$all
 ||migdalowachata.pl^$all
+||miodowyskarbiec.pl^$all
 ||missinsomnia.pl^$all
 ||mistrzmotywacji.pl^$all
 ||mkaltenpflege24h.pl^$all
@@ -4716,7 +4745,7 @@
 ||mobilnyurlop.pl^$all
 ||mobiluj.sk^$all
 ||mobverify.com^$all
-||mocnyfull.com.pl^$all
+||modelalfa.pl^$all
 ||modelkompetencyjny.pl^$all
 ||modwebpro.pl^$all
 ||mohacz.pl^$all
@@ -4746,6 +4775,7 @@
 ||moyodo.pl^$all
 ||mozebyctwoje.com^$all
 ||mpearsondance.com^$all
+||mpideas.pl^$all
 ||mstk.pl^$all
 ||mtdeejays.pl^$all
 ||mtpn.pl^$all
@@ -4768,7 +4798,6 @@
 ||myway.com^$all
 ||myworld.com^$all
 ||my-motivator.pl^$all
-||m-events.pl^$all
 ||nabazarze.pl^$all
 ||nagrodzkaart.pl^$all
 ||najlepszebiurorachunkowe.pl^$all
@@ -4784,6 +4813,7 @@
 ||napraw-laptopa.waw.pl^$all
 ||naprocare.pl^$all
 ||nasdacoin.io^$all
+||nashop.pl^$all
 ||nassy.pl^$all
 ||naszeteksty.pl^$all
 ||naturabazar.pl^$all
@@ -4792,8 +4822,10 @@
 ||nb574.pl^$all
 ||nbbuty.pl^$all
 ||nbwyprzedaz.pl^$all
+||ncrtrade.top^$all
 ||nebulait.pl^$all
 ||nek.com.pl^$all
+||neocam.pl^$all
 ||neomedia24.net^$all
 ||neomedia.in.net^$all
 ||neonetmax.in.net^$all
@@ -4810,14 +4842,16 @@
 ||nicobloc.pl^$all
 ||nicolosi.pl^$all
 ||niechoruje.pl^$all
+||nikeairadidaszx.pl^$all
 ||nikeairhuarache.pl^$all
 ||nikeairmaxjewell.pl^$all
 ||nikedctstore.pl^$all
 ||nikehuarache.pl^$all
 ||nikepromocja.pl^$all
-||nikesklep.pl^$all
 ||nikewholesale.pl^$all
 ||niskamaskincare.pl^$all
+||nkbutysportowe.com^$all
+||nknikeair.pl^$all
 ||nkpolskaallegro.pl^$all
 ||nkuop.com^$all
 ||nnkml.com^$all
@@ -4832,6 +4866,7 @@
 ||northfacesklep.pl^$all
 ||norton.pl^$all
 ||notifyday.com^$all
+||novadolina.pl^$all
 ||novamask.pl^$all
 ||novamotylarnia.pl^$all
 ||novaxdesign.com^$all
@@ -4870,12 +4905,12 @@
 ||ogladamy24.pl^$all
 ||okazjeinternetowe.pl^$all
 ||okazyjnie.net^$all
-||okno-house.pl^$all
 ||okularyaviator.pl^$all
 ||olbart.pl^$all
 ||olszowskidesign.pl^$all
 ||olubin.pl^$all
 ||olympus-markets.com^$all
+||omagro.pl^$all
 ||omegakredyt.com^$all
 ||omega-best.org^$all
 ||omnistor.pl^$all
@@ -4894,6 +4929,7 @@
 ||oranzadaklub.pl^$all
 ||organiclife.com.pl^$all
 ||organogold.com^$all
+||ortygdanskie.pl^$all
 ||osiedlecetnarskiego.pl^$all
 ||osiedlelipce.pl^$all
 ||osphutastara.pl^$all
@@ -4906,6 +4942,7 @@
 ||ovb.pl^$all
 ||owio.pl^$all
 ||ozebox.pl^$all
+||pacyfka99.pl^$all
 ||paifemouchoa.com^$all
 ||pajos4.com^$all
 ||pakukgroup.com^$all
@@ -4961,6 +4998,7 @@
 ||plik-pobierz.pl^$all
 ||pljestnaj.pl^$all
 ||plustokenofficial.com^$all
+||pl-huda.myshopify.com^$all
 ||pl.coral-club.com^$all
 ||pl.fmworld.com^$all
 ||pl.fohow.eu^$all
@@ -4978,7 +5016,9 @@
 ||pociagdoukrainy.pl^$all
 ||podarujmamiesukienke.pl^$all
 ||podbiegi.pl^$all
+||podbykiem.pl^$all
 ||pogodaparyz.pl^$all
+||pogodzinska.pl^$all
 ||pojzn.pl^$all
 ||pokolorujfb*.glt.pl^$all
 ||poland.fizzyslim.biz^$all
@@ -5024,10 +5064,13 @@
 ||premiumservice.pl^$all
 ||premium-offers.space^$all
 ||premium.ihuh.pl^$all
+||prescottdrive.pl^$all
 ||prevalue.pl^$all
 ||princessmask.pro^$all
+||privateinvestigator.pl^$all
 ||private.atlanticgam.es^$all
 ||prizelava.com^$all
+||prklublin.pl^$all
 ||pro102.pl^$all
 ||probolan50.pl^$all
 ||proficredit.pl^$all
@@ -5055,7 +5098,9 @@
 ||proventus.com.pl^$all
 ||provida.pl^$all
 ||pruszkowmieszkania.pl^$all
+||przedsiebieblog.pl^$all
 ||przedszkoleglobus.pl^$all
+||przedszkolekrainadziecka.pl^$all
 ||przyjaznyparczewski.pl^$all
 ||przyspieszkomputer.pl^$all
 ||przyspiesz.pl^$all
@@ -5135,6 +5180,7 @@
 ||restauracja-toscania.pl^$all
 ||restaurato.pl^$all
 ||retrortv.in.net^$all
+||revoltadiscreta.pl^$all
 ||re-uspol.pl^$all
 ||rig-przemysl.com.pl^$all
 ||rikoo.pl^$all
@@ -5147,6 +5193,7 @@
 ||rosaspasowka.pl^$all
 ||rosa-wypoczynek.pl^$all
 ||roswell47.pl^$all
+||roszadameble.pl^$all
 ||roulettenumber.com^$all
 ||roundupbarandgrill.com^$all
 ||rovingadventures.com^$all
@@ -5182,7 +5229,6 @@
 ||seansobox.pl^$all
 ||sebbike.pl^$all
 ||secondland.pl^$all
-||securebiz.pl^$all
 ||sekut.pl^$all
 ||sendspace.pl^$all
 ||sendspace.pw^$all
@@ -5220,7 +5266,6 @@
 ||sklep466452.shoparena.pl^$all
 ||sklepcolumbia.pl^$all
 ||sklepnbbuty.pl^$all
-||sklepnb.pl^$all
 ||skleptanie.pl^$all
 ||sklepterenowy.pl^$all
 ||skleptiande.pl^$all
@@ -5237,6 +5282,7 @@
 ||slawop.net^$all
 ||slimak-pozyczki.pl^$all
 ||slipknot1.pl^$all
+||sliwerski.pl^$all
 ||slodkibar.pl^$all
 ||sloneczne-termy.pl^$all
 ||slowkariera.pl^$all
@@ -5246,12 +5292,14 @@
 ||smoketech.pl^$all
 ||smokmadragon.pl^$all
 ||sms-z-internetu.pl^$all
+||smyczkowa.pl^$all
 ||sneakersshop.pl^$all
 ||sneakerstore.com.pl^$all
 ||sneakersypuma.pl^$all
-||sneakervclub.com^$all
 ||soagd.in.net^$all
 ||societyjezuufamtobie.pl^$all
+||socjomat.pl^$all
+||sognomasaz.pl^$all
 ||sokolagd.pl^$all
 ||sokratescafe.pl^$all
 ||solidarniplus.pl^$all
@@ -5262,6 +5310,7 @@
 ||soundshow.pl^$all
 ||souvre.pl^$all
 ||sp2mzc.pl^$all
+||spamtitan.pl^$all
 ||spartakiada2014.com.pl^$all
 ||spatiumdg.pl^$all
 ||spdobropole.pl^$all
@@ -5272,7 +5321,6 @@
 ||spirotiger.pl^$all
 ||spisradiowy.eu^$all
 ||spokeo.pl^$all
-||sportodziez.pl^$all
 ||sportowedzialdowo.pl^$all
 ||sportowetychy.pl^$all
 ||sportsklep.com.pl^$all
@@ -5307,6 +5355,7 @@
 ||stop-sms.pl^$all
 ||stowarzyszeniesedziow.pl^$all
 ||stowarzyszeniewkp.pl^$all
+||straz-pakoslawice.pl^$all
 ||streetrulez.pl^$all
 ||strefagotyku.pl^$all
 ||strefarho.pl^$all
@@ -5316,6 +5365,8 @@
 ||studiogreta.pl^$all
 ||studioidylla.pl^$all
 ||studiokalamarnica.pl^$all
+||studioprimadonna.pl^$all
+||studiosuwak.pl^$all
 ||studiujwopolu.pl^$all
 ||stuntoffer.com^$all
 ||stylowoimodnie.pl^$all
@@ -5371,6 +5422,7 @@
 ||tanie-wapnowanie.pl^$all
 ||tanzeelbuilders.com^$all
 ||tarnow360.pl^$all
+||tarnowskirap.pl^$all
 ||tatroscatering.com^$all
 ||technologia24.com^$all
 ||teespoon.co^$all
@@ -5415,7 +5467,6 @@
 ||topparagliding.pl^$all
 ||topseans.pl^$all
 ||top-oferty.net^$all
-||torebkioutlet.pl^$all
 ||torrenty--org.pl^$all
 ||totucafe.pl^$all
 ||townhill.pl^$all
@@ -5432,6 +5483,7 @@
 ||trinitybeautypoland.pl^$all
 ||trionz.pl^$all
 ||troubadourbaker.com^$all
+||truchanbud.pl^$all
 ||trustedirectdownload.com^$all
 ||trusttastic.com^$all
 ||trybikowo.pl^$all
@@ -5459,7 +5511,6 @@
 ||uggpoland.pl^$all
 ||uggtanio.pl^$all
 ||uggwyprzedaz.pl^$all
-||ukraine-poland.pl^$all
 ||ukrisa.pl^$all
 ||ukskrokus.pl^$all
 ||ukswidok.pl^$all
@@ -5469,6 +5520,7 @@
 ||underarmourbuty.com^$all
 ||unhallowed.pl^$all
 ||unident-union.pl^$all
+||uniflorpolska.pl^$all
 ||unmillondeutilidades.com^$all
 ||unverf.com^$all
 ||updatestar.com^$all
@@ -5478,14 +5530,15 @@
 ||usmiechtarnowa.pl^$all
 ||usunwirusa.pl^$all
 ||valentinosklep.pl^$all
+||valex.pl^$all
 ||vansallegro.pl^$all
+||vansbuty.pl^$all
 ||vansj.com^$all
 ||vansoldskoolpro.pl^$all
 ||vansoutlet.pl^$all
 ||vanspl.pl^$all
 ||vanspolska.com^$all
 ||vansprzecena.pl^$all
-||vansslipon.pl^$all
 ||vanswyprzedaz.pl^$all
 ||vantis-holding.com^$all
 ||vapormax.pl^$all
@@ -5510,6 +5563,7 @@
 ||vidzsource.net^$all
 ||vipcheats.us^$all
 ||vipon.pl^$all
+||virtualgarden.pl^$all
 ||virtualsklep.com^$all
 ||visalink.pl^$all
 ||vision2020.pl^$all
@@ -5520,6 +5574,7 @@
 ||vivenso.pl^$all
 ||vladoblog.info^$all
 ||vodplay.pl^$all
+||volleyclub.pl^$all
 ||votum-sa.pl^$all
 ||vsbuty.com^$all
 ||vsee.tk^$all
@@ -5527,6 +5582,7 @@
 ||vtix.pl^$all
 ||w2mobile.com^$all
 ||w65.pl^$all
+||wabs.pl^$all
 ||wallynosa.com^$all
 ||wardon.pl^$all
 ||warsawhardcore.pl^$all
@@ -5551,7 +5607,6 @@
 ||wirtuozseksu.pl^$all
 ||wisebanc.com^$all
 ||wkfilms.pl^$all
-||wkladpompy.pl^$all
 ||wkretowinach.pl^$all
 ||wkswielun.pl^$all
 ||wlatech.pl^$all
@@ -5579,6 +5634,7 @@
 ||wyspaofert.com^$all
 ||wytypowany-zwyciezca.com^$all
 ||wytypowany-zwyciezca.pl^$all
+||w-polsce.pl^$all
 ||xamak10.com^$all
 ||xbox1emulator.org^$all
 ||xbox360emulator.com^$all
@@ -5599,6 +5655,7 @@
 ||zajazdbanderoza.pl^$all
 ||zajazdoaza.pl^$all
 ||zajazduzenka.pl^$all
+||zaksiazke.pl^$all
 ||zakupeo.com^$all
 ||zakupyagd.net^$all
 ||zakupymax.net^$all
@@ -5606,8 +5663,8 @@
 ||zamedi.pl^$all
 ||zaprojektujiwybuduj.pl^$all
 ||zarobek4u.com^$all
-||zarobicpieniadze.com^$all
 ||zawijawa.pl^$all
+||zazynek.pl^$all
 ||zbig-spaw.pl^$all
 ||zbudujmy-pustelnie.pl^$all
 ||zdaj-to.pl^$all
@@ -5619,6 +5676,7 @@
 ||zespolkanaan.pl^$all
 ||zespolmayol.pl^$all
 ||zespolnaslub.pl^$all
+||zespolsygnet.pl^$all
 ||zespol-bonus.pl^$all
 ||zespol-sasiedzi.pl^$all
 ||zgol.pl^$all
@@ -5638,8 +5696,10 @@
 ||zsniemce.pl^$all
 ||zspbytonia.pl^$all
 ||zspjablkowo.pl^$all
+||zszdzary.pl^$all
 ||zs-czajkowski.pl^$all
 ||zukiewicz.com^$all
+||zuradzki.pl^$all
 ||zwellinder.pl^$all
 ||zwiekszycsprzedaz.pl^$all
 ||zxflux.pl^$all
@@ -5681,7 +5741,6 @@
 ||zdrowie-i-dieta.pl^$all
 !
 !@Przekierowują do innych stron z przekrętami
-||9xa.pl^$all
 ||185.34.52.4^$all
 ||actraffic.com^$all
 ||adaranth.com^$all
@@ -6240,7 +6299,6 @@
 ||google-*.smartphonesbonusoffers.icu^$all
 ||gplay-store.ru^$all
 ||gpmandiri.com^$all
-||grabyourluck.online^$all
 ||gratissos.com^$all
 ||grazefoot.com^$all
 ||grupoeq.com^$all
@@ -6294,7 +6352,6 @@
 ||islandmob.com^$all
 ||itorrenty.org^$all
 ||itstime.space^$all
-||itsweeps3.space^$all
 ||iurzad.net^$all
 ||i-chomik.pl^$all
 ||i-pko.eu^$all
@@ -6727,6 +6784,7 @@
 ||tuesyuioodpps.xyz^$all
 ||tunga.homedns.org^$all
 ||tvjovem.net^$all
+||tvkody.com^$all
 ||tvnewtop.pro^$all
 ||tvnowapp.net^$all
 ||tv-internetowa.pl^$all
