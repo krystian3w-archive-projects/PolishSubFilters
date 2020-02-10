@@ -11,6 +11,8 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+wielkahistoria.pl##.header-sticky.johannes-header
+opracowania.pl##.-fixedheader.main--header:style(position:static!important)
 wydawnictwoliterackie.pl##.all:style(position:absolute!important)
 wydawnictwoliterackie.pl##body > .top-box:style(position:static!important)
 individi.pl###site-navigation:style(position:static!important)
