@@ -3685,8 +3685,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Mon, 10 Feb 2020, 16:10 UTC+01
-!@Version: 2020.2.10.0
+!@Last modified: Tue, 11 Feb 2020, 17:32 UTC+01
+!@Version: 2020.2.11.0
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -4604,6 +4604,7 @@
 ||impulsband.pl^$all
 ||inagrody.pl^$all
 ||incompany.com.pl^$all
+||incruises.com^$all
 ||indiecakes.com^$all
 ||infogrypa.pl^$all
 ||infolinia-kontakt-telefon.pl^$all
@@ -4697,6 +4698,7 @@
 ||kgf-pryzmat.pl^$all
 ||kickstore.pl^$all
 ||kickz4u.pl^$all
+||kidparadise.pl^$all
 ||kidstudio.pl^$all
 ||kierujswiadomie.pl^$all
 ||kierunkowy48.pl^$all
@@ -7136,6 +7138,7 @@
 ||twojapaczka-24.com^$all
 ||twoje-seriale.tv^$all
 ||twojhoroskop.com^$all
+||twojkurier.com^$all
 ||u192389.stronazen.pl^$all
 ||udater.net^$all
 ||unitedmedsshop.com^$all
