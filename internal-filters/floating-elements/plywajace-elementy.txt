@@ -11,6 +11,7 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+goodspy.pl###header-bottom:style(position:static!important)
 wielkahistoria.pl##.header-sticky.johannes-header
 opracowania.pl##.-fixedheader.main--header:style(position:static!important)
 wydawnictwoliterackie.pl##.all:style(position:absolute!important)
