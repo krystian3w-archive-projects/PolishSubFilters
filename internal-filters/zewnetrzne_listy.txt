@@ -998,9 +998,39 @@
 !@Expires: 2 days
 !@Report domains not being properly blocked to: support@hexxiumcreations.com
 !@(YYYY/MM/DD)
-!@Version: 20200204
+!@Version: 20200220
 !@USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||ouroffercode.com^
+||nextoffer.pw^
+||gamesmaster2.wixsite.com^
+||trendoffer.website^
+||grabyourprize.club^
+||earnprize.site^
+||modpro.pw^
+||ogplus.pro^
+||appcash.best^
+||dailyprize.online^
+||elangy.life^
+||bestsweepstake.com^
+||newcode.live^
+||codeshop.us^
+||tf2hotgift.store^
+||gifttf2.store^
+||amarellis-spint.com^
+||amaryllis-spin.com^
+||skinsmax-roll.com^
+||farmcash.online^
+||privatecode.fun^
+||getcodes.store^
+||giftcard.tools^
+||aluckyday.xyz^
+||uply.best^
+||playgift.club^
+||gplayreward.com^
+||webgift.club^
+||mccl.best^
+||kiry.best^
 ||comegaming.com^
 ||fryingpan.store^
 ||tf2frost.com^
@@ -1029,7 +1059,6 @@
 ||nexxzy.com^
 ||betitem.com^
 ||skindefinder.com^
-||tf2modes.com^
 ||skinsunity.com^
 ||itemscheckbase.com^
 ||startgame.fun^
@@ -3685,8 +3714,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Thu, 20 Feb 2020, 22:38 UTC+01
-!@Version: 2020.2.20.3
+!@Last modified: Sat, 22 Feb 2020, 19:36 UTC+01
+!@Version: 2020.2.22.0
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -6118,7 +6147,7 @@
 ||zdrowie-i-dieta.pl^$all
 !
 !@Przekierowują do innych stron z przekrętami
-/^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)\.[a-z-]{5,22}[0-9]{1,8}\.info\//$document,domain=info
+/^https?:\/\/([\w]{1,4}\.|)(apps?|best|competition|game|mobile|play|prize|reward|sweeps)\.[a-z-]{4,22}[0-9]{1,8}\.info\//$document,domain=info
 ||185.34.52.4^$all
 ||actraffic.com^$all
 ||adaranth.com^$all
@@ -6156,6 +6185,7 @@
 ||fomaska.com^$all
 ||fork.juiceknee.xyz^$all
 ||forwardmoniterreq.icu^$all
+||fres-news.com^$all
 ||gamefiles.pl^$all
 ||getalinkandshare.com^$all
 ||giftprizewinner.com^$all
