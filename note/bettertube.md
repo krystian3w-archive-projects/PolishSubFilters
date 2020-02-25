@@ -1,3 +1,5 @@
+## Desktop
+
 ### install
 
 https://github.com/violentmonkey/violentmonkey#readme <br/>
@@ -15,3 +17,8 @@ open **Youtube to Invidious** js
 ```
 var instance='paste-here.your-instance';
 ```
+
+## Mobile
+
+https://instances.joinpeertube.org/instances <br/>
+https://github.com/TeamNewPipe/NewPipe#readme
