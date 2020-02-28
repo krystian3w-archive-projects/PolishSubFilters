@@ -998,9 +998,53 @@
 !@Expires: 2 days
 !@Report domains not being properly blocked to: support@hexxiumcreations.com
 !@(YYYY/MM/DD)
-!@Version: 20200220
+!@Version: 20200226
 !@USAGE: AVOID SUBDOMAINS, END ALL ENTRIES WITH ^
 !
+||freetricks.website^
+||giftcardpro.best^
+||robloxmods.com^
+||freegift001.000webhostapp.com^
+||bestgiftcard.store^
+||trkingrp.com^
+||atafree.com^
+||technomil.com^
+||genxcode4u.com^
+||filetrking.com^
+||giftcardstash.xyz^
+||gcard.top^
+||bestsweepstakes.xyz^
+||giveawayshop.club^
+||gcstorage.xyz^
+||getgifts.online^
+||giftcardgifts.xyz^
+||syllogift.xyz^
+||123codes.info^
+||wincode.live^
+||giftcard.5v.pl^
+||giftcardsking.club^
+||ecodes.online^
+||giftcardsking.cc^
+||gift-codes.org^
+||offerjust4u.com^
+||realrocco.com^
+||couponsite.site^
+||bidcode.xyz^
+||giftcardtool.us^
+||shopoffer.info^
+||megagiftcard.club^
+||gcstash.club^
+||easyegift.com^
+||giftgeeks.club^
+||win1kcodes.pw^
+||psn-codes.club^
+||gift4your.com^
+||unlimitedgiftcard.online^
+||skinspull-roll.com^
+||skinspull-rolls.com^
+||rise-skins.com^
+||riser-skins.com^
+||grate-skin.com^
 ||ouroffercode.com^
 ||nextoffer.pw^
 ||gamesmaster2.wixsite.com^
@@ -3714,8 +3758,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Wed, 26 Feb 2020, 18:57 UTC+01
-!@Version: 2020.2.26.0
+!@Last modified: Thu, 27 Feb 2020, 22:49 UTC+01
+!@Version: 2020.2.27.2
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -3799,6 +3843,7 @@
 ||akademiamocowania.pl^$all
 ||akademianaukowa.pl^$all
 ||akademiasw.pl^$all
+||akademiaszkraba.pl^$all
 ||akademiazarabianiawinternecie.pl^$all
 ||akcjainijob.pl^$all
 ||akitaken.pl^$all
@@ -3923,6 +3968,7 @@
 ||bazarownia.pl^$all
 ||bazartani.pl^$all
 ||bazasprawdzianow.pl^$all
+||bcsgleba.pl^$all
 ||bdz.com.pl^$all
 ||beatabajka.pl^$all
 ||becconet.com^$all
@@ -4007,6 +4053,7 @@
 ||buforstudio.pl^$all
 ||bunclok.pl^$all
 ||bustcream-pro.com^$all
+||butyadidaspolska.pl^$all
 ||butyadidastanie.pl^$all
 ||butyadidas.pl^$all
 ||butyairmaxtanio.pl^$all
@@ -4018,6 +4065,7 @@
 ||butyfila.pl^$all
 ||butyfitflop.pl^$all
 ||butyjordansklep.pl^$all
+||butykeenoutlet.pl^$all
 ||butymerrell.pl^$all
 ||butynbtanio.pl^$all
 ||butynewb.pl^$all
@@ -4067,6 +4115,7 @@
 ||cello24.net^$all
 ||centrumdxn.pl^$all
 ||centrummarek.pl^$all
+||centrummedycyny.pl^$all
 ||centrumnaukowe.eu^$all
 ||centrumofert.com^$all
 ||centrumrozwojuprestige.pl^$all
@@ -4180,6 +4229,7 @@
 ||daysandplaces.pl^$all
 ||dbo2.pl^$all
 ||dbwatchsoftware.pl^$all
+||deanteshop.pl^$all
 ||dearlife.pl^$all
 ||deathcaller.pl^$all
 ||decodorebasic.pl^$all
@@ -4267,6 +4317,7 @@
 ||ebuty.net.pl^$all
 ||ebuty.org.pl^$all
 ||eccobuty.pl^$all
+||eccooutletonline.pl^$all
 ||eccooutlet.pl^$all
 ||eccopl.pl^$all
 ||ecobutysklep.com^$all
@@ -4620,6 +4671,7 @@
 ||icarvision.pl^$all
 ||icojeszcze.pl^$all
 ||ideatur.pl^$all
+||ideazespolufilmowego.pl^$all
 ||idgarin.com^$all
 ||igrzyskasto.pl^$all
 ||ihydroflaskshop.com^$all
@@ -4674,6 +4726,7 @@
 ||jak-szybko-zarobic.com^$all
 ||jankazimierzsiwek.pl^$all
 ||jankotlarz.pl^$all
+||janod.pl^$all
 ||janparkiet.pl^$all
 ||jasnyogrod.pl^$all
 ||jaster.pl^$all
@@ -4774,6 +4827,7 @@
 ||koszulka2020.pl^$all
 ||kotletbezmiesa.pl^$all
 ||kotwicowisko.pl^$all
+||kozlowskavisage.pl^$all
 ||kpzkaj.pl^$all
 ||kraina-kopciuszka.pl^$all
 ||krakowparkiety.pl^$all
@@ -4912,6 +4966,7 @@
 ||martdiamonds.pl^$all
 ||martens1460.top^$all
 ||martenssklep.com^$all
+||martensysklep.pl^$all
 ||marvel-heroes.pl^$all
 ||marykay.pl^$all
 ||marzectoyoty.pl^$all
@@ -4921,6 +4976,7 @@
 ||matlag.pl^$all
 ||maungatautarilodge.com^$all
 ||maureenkile.com^$all
+||mayonez.pl^$all
 ||mayoume.pl^$all
 ||mazur-rejs.pl^$all
 ||mbtbutypolska.pl^$all
@@ -5106,6 +5162,7 @@
 ||ninderleht.pl^$all
 ||niskamaskincare.pl^$all
 ||nkbutysportowe.com^$all
+||nkforcesklep.pl^$all
 ||nknikeair.pl^$all
 ||nkpolskaallegro.pl^$all
 ||nkuop.com^$all
@@ -5155,6 +5212,7 @@
 ||odkwaszacz.pl^$all
 ||odmakaroniarzy.pl^$all
 ||odnawiamyelewacje.pl^$all
+||offerunt.pl^$all
 ||offerzone.click^$all
 ||oftmos.pl^$all
 ||ogladajfilmy.pl^$all
@@ -5184,6 +5242,7 @@
 ||onrbrygadapodlaska.pl^$all
 ||openity.pl^$all
 ||openscotland.pl^$all
+||opiekapaliatywna2010.pl^$all
 ||oplaca-sie.pl^$all
 ||oplanetach.pl^$all
 ||oponykarbownik.pl^$all
@@ -5236,6 +5295,7 @@
 ||pawelurbanczyk.pl^$all
 ||paznokcie-poznan.pl^$all
 ||pccooler.com.pl^$all
+||pcib.pl^$all
 ||pcmban.com^$all
 ||pcspeedup.com^$all
 ||pcsp.pl^$all
@@ -5250,6 +5310,7 @@
 ||perfect-coll.pl^$all
 ||phytolast.com^$all
 ||piachmen.pl^$all
+||piegowatydom.pl^$all
 ||pierre-lang.com^$all
 ||piestv.pl^$all
 ||pilotmovies.pl^$all
@@ -5451,6 +5512,7 @@
 ||raypath-international.com.pl^$all
 ||raypath.eu^$all
 ||rbaan.net^$all
+||rbffn.net^$all
 ||rbkkg.net^$all
 ||rbknt.com^$all
 ||rbreebokcrossfit.pl^$all
@@ -5542,6 +5604,7 @@
 ||salomonwyprzedaz.pl^$all
 ||salonmanager.pl^$all
 ||sandomir.pl^$all
+||sandrografia.pl^$all
 ||sangiovannipizza.com^$all
 ||satclub.top^$all
 ||sauconysklep.pl^$all
@@ -5560,6 +5623,7 @@
 ||serialefilmy.pl^$all
 ||serwator.pl^$all
 ||serwisagd-waw.pl^$all
+||serwisgaz.com.pl^$all
 ||serwislaptopowwarszawa.com.pl^$all
 ||serwis-ab.com.pl^$all
 ||serwis-laptopow24.pl^$all
@@ -5590,9 +5654,12 @@
 ||sklep466452.shoparena.pl^$all
 ||sklepcolumbia.pl^$all
 ||sklepnbbuty.pl^$all
+||skleppolo.pl^$all
 ||skleptanie.pl^$all
 ||sklepterenowy.pl^$all
 ||skleptiande.pl^$all
+||sklepunderarmour.pl^$all
+||sklepwolfskin.pl^$all
 ||sklep-bio.pl^$all
 ||sklep-colway.com^$all
 ||sklep-colway.pl^$all
@@ -5612,7 +5679,9 @@
 ||slodkibar.pl^$all
 ||sloneczne-termy.pl^$all
 ||slowkariera.pl^$all
+||slowl.pl^$all
 ||slownikoptyczny.pl^$all
+||slub2serc.pl^$all
 ||smartraport.pl^$all
 ||smart-m-system.com^$all
 ||smithsfloristva.com^$all
@@ -5647,7 +5716,9 @@
 ||spartakiada2014.com.pl^$all
 ||spatiumdg.pl^$all
 ||spdobropole.pl^$all
+||specodstrony.pl^$all
 ||spectacledanse.com^$all
+||spedrapid.com.pl^$all
 ||speedballin.pl^$all
 ||speedyshare.com^$all
 ||speedy.com.pl^$all
@@ -5824,6 +5895,7 @@
 ||timberland-polska.pl^$all
 ||timberlymotel.com^$all
 ||tniemyceny.net^$all
+||tojachtczarter.pl^$all
 ||topboxing.pl^$all
 ||topkotly.pl^$all
 ||topparagliding.pl^$all
@@ -5888,6 +5960,7 @@
 ||ultramax.pl^$all
 ||ultratrck.com^$all
 ||underarmourbuty.com^$all
+||underwear4u.pl^$all
 ||unhallowed.pl^$all
 ||unident-union.pl^$all
 ||uniflorpolska.pl^$all
@@ -5907,6 +5980,7 @@
 ||vansj.com^$all
 ||vansoldschool.pl^$all
 ||vansoldskoolpro.pl^$all
+||vansoutletpolska.pl^$all
 ||vansoutlet.pl^$all
 ||vanspl.pl^$all
 ||vanspolskasklep.pl^$all
@@ -5979,6 +6053,7 @@
 ||wielkaniespodzianka.pl^$all
 ||wifiprotector.com^$all
 ||wilanowskibiegkrolewski.pl^$all
+||willejana.pl^$all
 ||windgrojec.pl^$all
 ||winfactory.pl^$all
 ||winobalkanskie.pl^$all
@@ -6072,6 +6147,7 @@
 ||zielonakaruzela.pl^$all
 ||zielonydizajn.pl^$all
 ||ziemianyska.pl^$all
+||zimnewody.pl^$all
 ||zinzino.com^$all
 ||ziololecznictwo.pl^$all
 ||zjednoczonekrolestwo.pl^$all
@@ -6463,6 +6539,7 @@
 ||businesspuls.online^$all
 ||buz2mobile.com^$all
 ||calodobowe-wiadomosci-pl.eu^$all
+||calyfilmonline.pl^$all
 ||caneserve.com^$all
 ||carambaba.com^$all
 ||carolinakurier.com^$all
@@ -6471,6 +6548,7 @@
 ||cbdnewsdirect.com^$all
 ||cclive.istage.cloud^$all
 ||cda24.net^$all
+||cdatube.pl^$all
 ||cda-film.pl^$all
 ||cda-flix.pl^$all
 ||cengizguler.com.tr^$all
@@ -6485,6 +6563,7 @@
 ||chengjiaoyou.com^$all
 ||choljai.info^$all
 ||chomik24.com.pl^$all
+||chomikuj.*^$document,domain=~chomikuj.pl
 ||chomik-24.pl^$all
 ||chron-telefon.com^$all
 ||ciekawehistorie.pl^$all
@@ -6590,6 +6669,7 @@
 ||e-filmy24.pl^$all
 ||e-kurier24.net^$all
 ||e-paczka24.net^$all
+||e-yourmovies.com^$all
 ||e-yourmovies.pl^$all
 ||faberville.com^$all
 ||faccebook.5v.pl^$all
@@ -6641,12 +6721,15 @@
 ||filmonline.info.pl^$all
 ||filmovnia.pl^$all
 ||filmowo24.pl^$all
+||filmowo-24.com^$all
 ||filmplay.pl^$all
 ||filmserialeonlineee.blogspot.com^$all
 ||filmu.pl^$all
 ||filmyonline.com.pl^$all
 ||filmy-i-seriale.pl^$all
+||filmy-tv.pl^$all
 ||film-base.pl^$all
+||film-box.pl^$all
 ||film-milosc.pl^$all
 ||financial-times-appp.github.io^$all
 ||financial.org^$all
@@ -6770,6 +6853,7 @@
 ||itstime.space^$all
 ||iurzad.net^$all
 ||i-chomik.pl^$all
+||i-filmy.pl^$all
 ||i-ksiazka.pl^$all
 ||i-pko.eu^$all
 ||i-podgladacz.pl^$all
@@ -6828,7 +6912,7 @@
 ||leadzupc.com^$all
 ||leafdesign.jp^$all
 ||lecairtravels.com^$all
-||legalniewsieci.*^$domain=~legalniewsieci.pl|~list-manage.com
+||legalniewsieci.*^$document,domain=~legalniewsieci.pl
 ||legioncrest.com^$all
 ||lesantivirus.net^$all
 ||letswinstuff.com^$all
@@ -6948,6 +7032,7 @@
 ||onclickbright.com^$all
 ||onet24-polska.space^$all
 ||onliine.pl^$all
+||onlinekino.pl^$all
 ||onlinewideo.pl^$all
 ||onlyfiles.net^$all
 ||opel.km.ua^$all
@@ -7113,6 +7198,7 @@
 ||secure-pge.eu^$all
 ||seioodsoi.club^$all
 ||serialowo.pl^$all
+||serial.vod.co.pl^$all
 ||setup-firefox.host^$all
 ||sexmonitor.net^$all
 ||sexmonitor.top^$all
@@ -7157,6 +7243,7 @@
 ||steam-wallet-money.com^$all
 ||stomatologia-w.lublin.lu^$all
 ||streamgo.pl^$all
+||strefakina.pl^$all
 ||strony-fotograficzne.eu^$all
 ||structures-made-easy.co.uk^$all
 ||sukhumvithomes.com^$all
@@ -7252,6 +7339,7 @@
 ||vivo1.eu^$all
 ||vivo4.eu^$all
 ||vod24.pl^$all
+||vodfilmy.pl^$all
 ||vtopiuops.info^$all
 ||w3brasil.com^$all
 ||wanbuy.net^$all
@@ -7880,14 +7968,14 @@ pl##.rss:not(.block)
 ! Source: https://github.com/olegwukr/polish-privacy-filters/blob/master/adblock.txt
 !@Title: Polish Privacy Filters
 !@Oficjalne polskie filtry prywatności
-!@Last modified: 18 February 2020
+!@Last modified: 27 February 2020
 !@Expires: 2 days
-!@Version: 2020021801
+!@Version: 2020022701
 !@Support:
 !@  Github >> https://github.com/olegwukr/polish-privacy-filters/issues
 !@License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 !@Copyright (C) 2020
-!@v.2020021801 aktualizacja: wt, 18 lutego 2020, 20:55:00
+!@v.2020022701 aktualizacja: czw, 27 lutego 2020, 23:55:00
 !
 !
 !-----------------------Privacy filters block-----------------------!
@@ -7901,6 +7989,7 @@ xgemius.js$script
 ||lib.onet.pl/*/adp/$image
 ||p.typekit.net^
 /keen-tracking-*.js$script
+||darmowylicznik.pl$domain=~darmowylicznik.pl
 !
 !
 !-----------------------Privacy filters 2-----------------------!
