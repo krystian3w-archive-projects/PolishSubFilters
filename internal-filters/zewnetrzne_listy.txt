@@ -3758,8 +3758,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtry chroniące przed przekrętami takimi jak subskrypcje SMS
-!@Last modified: Thu, 27 Feb 2020, 22:49 UTC+01
-!@Version: 2020.2.27.2
+!@Last modified: Sat, 29 Feb 2020, 16:46 UTC+01
+!@Version: 2020.2.29.1
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -3787,8 +3787,10 @@
 ||24-sklep.pl^$all
 ||59fifty.pl^$all
 ||100dnidlasyrii.pl^$all
+||123kredyt.com^$all
 ||a1a.pl^$all
 ||a2multimedia.pl^$all
+||abckredyt.net^$all
 ||abc.prawo.link^$all
 ||abipoland.pl^$all
 ||absolutnieruchomosci.pl^$all
@@ -3868,6 +3870,7 @@
 ||allenit.pl^$all
 ||alle-perfumy.pl^$all
 ||allfiles.pl^$all
+||allianzloans.com^$all
 ||allstarwyprzedaz.pl^$all
 ||alpcity.pl^$all
 ||alpinking.pl^$all
@@ -3908,6 +3911,7 @@
 ||arkonfinance.pl^$all
 ||armiadawida.pl^$all
 ||aromagroup.pl^$all
+||arrow-finance.pl^$all
 ||artcons.pl^$all
 ||arthurraceway.com^$all
 ||artifex-rzemioslo.pl^$all
@@ -3939,6 +3943,7 @@
 ||autodestino.pl^$all
 ||autokemar.pl^$all
 ||autokraina.pl^$all
+||automatkredytowy.pl^$all
 ||autoprzewodnik.com.pl^$all
 ||autosalonpomorski.pl^$all
 ||autotapeta.pl^$all
@@ -3988,6 +3993,7 @@
 ||bestpromocenter.com^$all
 ||bestselections.top^$all
 ||betterware.pl^$all
+||bezbaz.net^$all
 ||bezbiku.pro^$all
 ||bezpieczne-nieruchomosci.pl^$all
 ||be-wild.pl^$all
@@ -4208,6 +4214,7 @@
 ||dabrowkawislocka.pl^$all
 ||dagcoin.org^$all
 ||dailyadultnews.com^$all
+||dampozyczke.pl^$all
 ||danchamp.pl^$all
 ||danielkulinski.pl^$all
 ||dariuszdopierala.pl^$all
@@ -4425,6 +4432,7 @@
 ||fajnewierszyki.pl^$all
 ||familyclean.pl^$all
 ||fargofinanse.pl^$all
+||fargonpozyczki.pl^$all
 ||farmagedon.pl^$all
 ||fasterfiles.net^$all
 ||fbhrobud.pl^$all
@@ -4455,6 +4463,7 @@
 ||filmy-premium.pl^$all
 ||filo-shop.pl^$all
 ||finansedladziecka.pl^$all
+||finansowapomoc.net^$all
 ||finclub.pl^$all
 ||finezo.pl^$all
 ||fireads.online^$all
@@ -5379,6 +5388,7 @@
 ||poltradewaletko.pl^$all
 ||pomelostudio.pl^$all
 ||pomerania-bn.pl^$all
+||pomockredytowa.net^$all
 ||pomocnapozyczka.pro^$all
 ||pomorskidom.pl^$all
 ||pomozbudowac.pl^$all
@@ -5444,6 +5454,8 @@
 ||proobuwie.pl^$all
 ||prooexpert.com^$all
 ||prophere.pl^$all
+||prostykredyt.net^$all
+||protelfinanse.pl^$all
 ||prouve.com^$all
 ||provanto.pl^$all
 ||proventus.com.pl^$all
@@ -5830,6 +5842,7 @@
 ||szybkapozyczkateraz.pl^$all
 ||szybkaupadlosc.pl^$all
 ||szybka-wyplata.pl^$all
+||szybkikredyt.net^$all
 ||t21.pl^$all
 ||tablicaallegro.pl^$all
 ||tajonis.com^$all
@@ -5928,6 +5941,7 @@
 ||twochefs-pizzeria.pl^$all
 ||twojagieldaofert.pl^$all
 ||twoja-kariera.pl^$all
+||twoja-pozyczka.com^$all
 ||twoja-wygrana.com^$all
 ||twojepiekary.pl^$all
 ||twoje-piekno.pl^$all
