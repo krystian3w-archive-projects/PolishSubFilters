@@ -22,3 +22,5 @@ var instance='paste-here.your-instance';
 
 https://instances.joinpeertube.org/instances <br/>
 https://github.com/TeamNewPipe/NewPipe#readme
+
+https://github.com/ajayyy/SponsorBlock#readme
