@@ -3,6 +3,8 @@
 https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/safe-linux.md
 ```
 
+# Desktop
+
 ## WireGuard
 ```
 https://github.com/angristan/wireguard-install#readme
