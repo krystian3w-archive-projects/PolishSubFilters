@@ -3,7 +3,7 @@
 https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/safe-linux.md
 ```
 
-# WireGuard
+## WireGuard
 ```
 https://github.com/angristan/wireguard-install#readme
 ```
@@ -16,7 +16,7 @@ chmod +x wireguard-install.sh
 sudo ./wireguard-install.sh
 ```
 
-# Yggdrasil
+## Yggdrasil
 ```
 https://yggdrasil-network.github.io/about.html
 ```
@@ -41,7 +41,7 @@ run
 systemctl restart yggdrasil
 ```
 
-# TigerVNC
+## TigerVNC
 ```
 https://github.com/TigerVNC/tigervnc
 ```
@@ -58,3 +58,18 @@ add to putty at `Connection/SSH/Tunnels`
 localhost:5901
 ```
 save
+
+
+# Android
+
+## Shadowsocks
+
+### Server
+```
+https://github.com/shadowsocks/shadowsocks-libev
+```
+
+### Client
+```
+https://play.google.com/store/apps/details?id=xyz.truenight.shadowsocks&hl=en
+```
