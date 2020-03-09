@@ -1,7 +1,7 @@
 ! Checksum: aC7iDp55qWAyWM8KuQakPA
 ! Title: Wizjer E-Handlu
 ! Collaborators: KonoromiHimaries
-! Version: 20191110
+! Version: 20200309
 ! Expires: 3 days
 ! Wymagane:
 !   Rozszerzenia >> uBlock Origin lub Nano Adblocker
@@ -74,3 +74,6 @@ www.zadowolenie.pl##.b-adZone_wide:nth-of-type(5)
 !> https://github.com/AdguardTeam/AdguardFilters/issues/43825
 teamquest.pl##.advHeader.blog.container
 !
+!& sklep, wew
+!> https://github.com/MajkiIT/polish-ads-filter/issues/15798
+klimacold.com.pl##div[id].dgd_stb_box
