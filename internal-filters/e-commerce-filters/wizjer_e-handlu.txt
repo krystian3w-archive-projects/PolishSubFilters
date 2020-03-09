@@ -1,4 +1,4 @@
-! Checksum: 0aQgNA5Tz2uLDTPDWnygiQ
+! Checksum: Q0DLgKOC6G+SNGNpJfqfJQ
 ! Title: Wizjer E-Handlu
 ! Collaborators: KonoromiHimaries
 ! Version: 20200309
