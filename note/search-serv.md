@@ -17,6 +17,9 @@ https://www.mojeek.com/
 ```
 https://www.qwant.com/
 ```
+```
+https://yandex.pl/
+```
 
 ### Chrome
 
