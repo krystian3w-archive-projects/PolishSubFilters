@@ -3758,8 +3758,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i nieprawdziwe informacje.
-!@Last modified: Wed, 11 Mar 2020, 11:30 UTC+01
-!@Version: 2020.3.11.1
+!@Last modified: Fri, 13 Mar 2020, 16:43 UTC+01
+!@Version: 2020.3.13.2
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -4843,6 +4843,7 @@
 ||keepitavocado.com^$all
 ||keeprunning.pl^$all
 ||keeptube.pl^$all
+||keykong.eu^$all
 ||kgf-pryzmat.pl^$all
 ||kickstore.pl^$all
 ||kickz4u.pl^$all
@@ -6601,6 +6602,7 @@
 ||adobe.5v.pl^$all
 ||agipasesores.com^$all
 ||agricoletrade.com^$all
+||agroturist.com.pl^$all
 ||ailegro.pl.ua^$all
 ||akazoo.pl^$all
 ||aktpl.com^$all
@@ -6650,6 +6652,7 @@
 ||bankmillennium.fun^$all
 ||bankmillennium.site^$all
 ||barcaacademyistanbul.com^$all
+||barometrwhc.pl^$all
 ||baseflix.pl^$all
 ||bazafilm.pl^$all
 ||begin.digitabook.net^$all
@@ -6657,6 +6660,7 @@
 ||beka.pl^$all
 ||bemydate.mobi^$all
 ||benzkartel.duckdns.org^$all
+||beproactive.com.pl^$all
 ||best-sales.top^$all
 ||bikelovers.blog.br^$all
 ||bitcoincodesverigerecension.com^$all
@@ -6685,6 +6689,9 @@
 ||bubblelife70.life^$all
 ||bulbulstore.com^$all
 ||businesspuls.online^$all
+||butyasicskayano.com^$all
+||butyreebokpl.eu^$all
+||butyultraboost.com^$all
 ||buz2mobile.com^$all
 ||calodobowe-wiadomosci-pl.eu^$all
 ||calyfilmonline.pl^$all
@@ -6725,6 +6732,7 @@
 ||click2000.host^$all
 ||climblike.com^$all
 ||clubedoestudante.net.br^$all
+||cme-srem.pl^$all
 ||codenpic.com^$all
 ||colorking.es^$all
 ||colormessa.info^$all
@@ -6738,8 +6746,10 @@
 ||customernoble.com^$all
 ||cybermagicindia.com^$all
 ||czasnakino.pl^$all
+||dachy-kobus.pl^$all
 ||daily-jokes.net^$all
 ||danangluxury.com^$all
+||darknessintheforest.pl^$all
 ||dark-forum.net^$all
 ||darmowetesty.com^$all
 ||darmowe-doladowania.net.pl^$all
@@ -6748,6 +6758,7 @@
 ||dentalsearchsolutions.com^$all
 ||dephantomz.duckdns.org^$all
 ||derikaosos.info^$all
+||desu4family.com.pl^$all
 ||deviwijiyanti.web.id^$all
 ||dhl-paczka.eu^$all
 ||dirproperties.com^$all
@@ -6790,6 +6801,7 @@
 ||easypdfcombine.com^$all
 ||easy-service.org^$all
 ||ebd-cda.pl^$all
+||ebfgoldenclub.pl^$all
 ||ebookeo.pl^$all
 ||ecampuskbds.com^$all
 ||ecdi14.eu^$all
@@ -6853,6 +6865,7 @@
 ||fbtoken.evai.pl^$all
 ||fernanosood.info^$all
 ||fifidossaltosaltos.com^$all
+||filapl.pl^$all
 ||filebay.org^$all
 ||filecom.net^$all
 ||fileconvertpro.co^$all
@@ -6887,6 +6900,7 @@
 ||film-base.pl^$all
 ||film-box.pl^$all
 ||film-milosc.pl^$all
+||filser.co^$all
 ||financial-times-appp.github.io^$all
 ||financial.org^$all
 ||finansoweswiry.pl^$all
@@ -6905,6 +6919,7 @@
 ||fortunatetime.xyz^$all
 ||fotki-kliknij.eu^$all
 ||fotoografie-pobierz.eu^$all
+||fotosefer.pl^$all
 ||foxrpas.com^$all
 ||franciszkakurier.com^$all
 ||freefollower.eu^$all
@@ -6919,10 +6934,12 @@
 ||fullplayer.pl^$all
 ||fun2cell.net^$all
 ||functional-business.com^$all
+||fundacjaazyl.pl^$all
 ||funsolo.net^$all
 ||funtoonez.com^$all
 ||futurepay.globway.eu^$all
 ||gagrat.co^$all
+||galeriapiecowa.com.pl^$all
 ||gawaher-services.com^$all
 ||gayza.net^$all
 ||gazetainfo24tv.hekko24.pl^$all
@@ -6991,6 +7008,7 @@
 ||ilovemobi.com^$all
 ||industry-deals.com^$all
 ||inesmanila.com^$all
+||infomiasto24.pl^$all
 ||infonews24.com.pl^$all
 ||inovscope.pt^$all
 ||inpost24.me^$all
@@ -7019,15 +7037,19 @@
 ||jamster.pl^$all
 ||jannahqu.org^$all
 ||jannatkhah.ir^$all
+||jantar-ostroleka.pl^$all
 ||jasaweb.biz^$all
 ||jbfilmyseriale.pl^$all
 ||jmbase.my^$all
+||joannabaginska.com.pl^$all
 ||jodakurier.com^$all
 ||joplionnsld.xyz^$all
 ||juicywin.pl^$all
 ||jutup.pl^$all
 ||kaaryathalo.com^$all
 ||kajakurier.com^$all
+||kaloryferypoznan.pl^$all
+||kanapa.tv^$all
 ||karencupp.com^$all
 ||karenshealthfoods.com^$all
 ||kasa-sms.pl^$all
@@ -7073,6 +7095,7 @@
 ||l3f.info^$all
 ||labersa.com^$all
 ||larissalinhares.com.br^$all
+||laryngologia-lodz2017.pl^$all
 ||leadzupc.com^$all
 ||leafdesign.jp^$all
 ||lecairtravels.com^$all
@@ -7109,6 +7132,8 @@
 ||maliciousdns.msftncsi.com^$all
 ||mantoropols.xyz^$all
 ||marcofama.it^$all
+||mardimex.com.pl^$all
+||marianpankowski.pl^$all
 ||masterprof.warzonedns.com^$all
 ||maxitrade.com^$all
 ||max-host.pl^$all
@@ -7135,6 +7160,7 @@
 ||mobstarter.com^$all
 ||modello.co.il^$all
 ||modeloi7nove.cf^$all
+||mojapaczka24.net^$all
 ||mojechwile.pl^$all
 ||momoxxio.com^$all
 ||movienet.pl^$all
@@ -7155,6 +7181,7 @@
 ||najlepszewrozby.pl^$all
 ||naleznoscgov.eu^$all
 ||namierz-telefon.pl^$all
+||naprzekor.com.pl^$all
 ||nasza-emigracja.pl^$all
 ||naszezycie.com^$all
 ||nataliakurier.com^$all
@@ -7178,6 +7205,7 @@
 ||new-message.co^$all
 ||nfbio.com^$all
 ||ngomavibe.co.ke^$all
+||nielukrowana.pl^$all
 ||njb-gmbh.com^$all
 ||nomadztruck.com^$all
 ||nonstopvideos.pl^$all
@@ -7212,6 +7240,7 @@
 ||oplata-zaleglosci.eu^$all
 ||oplatyi.pl^$all
 ||orange-kodzik.890m.com^$all
+||orzelprusice.pl^$all
 ||oszczedzanie-na-ekranie.pl^$all
 ||otomoto.group^$all
 ||otube.pl^$document
@@ -7280,6 +7309,7 @@
 ||pocztex-48.net^$all
 ||pod004.site^$all
 ||podologik.ca^$all
+||pointmanager.pl^$all
 ||poland-news.pl^$all
 ||policja24.eu^$all
 ||polskapaczka24.net^$all
@@ -7362,7 +7392,9 @@
 ||salonmotoryzacyjny.lublin.ovh^$all
 ||samuraibangalore.com^$all
 ||sarnisas.info^$all
+||saw-bud.com.pl^$all
 ||saxtorph.net^$all
+||scianyjakmalowane.pl^$all
 ||sculptureco.com.au^$all
 ||seansikowo.pl^$all
 ||searchrapid.pl^$all
@@ -7385,10 +7417,14 @@
 ||sigma1.eu^$all
 ||skidrowcrack.com^$all
 ||skippyfile.com^$all
+||sklepszkolen.pl^$all
+||slubneauta.com.pl^$all
 ||smartcare.xja.pl^$all
 ||smartconnect.duckdns.org^$all
 ||smkmotala.com^$all
 ||smsiaki.eu^$all
+||smsiak.pl^$all
+||smsy24.pl^$all
 ||sms-za-darmo.pl^$all
 ||sniadanioweinfo.pl^$all
 ||socialbump.hekko24.pl^$all
@@ -7428,12 +7464,16 @@
 ||supercrystal.am^$all
 ||superserwisy.pl^$all
 ||super-pay.me^$all
+||swiezyblog.com.pl^$all
 ||syds588.cn^$all
 ||syncgreatlyquicksystem.icu^$all
+||synergiareklama.pl^$all
 ||system-team-online.site^$all
+||szkolapiekoszow.pl^$all
 ||szkolenie.m.poznan.pm^$all
 ||szlonepromocje.com^$all
 ||szmoldparts.com^$all
+||szpitaledlaludzi.pl^$all
 ||s-pay24.com^$all
 ||tabxolabs.com^$all
 ||tankhoi.vn^$all
@@ -7459,6 +7499,7 @@
 ||thefortunatenutrition.com^$all
 ||themarketriser.com^$all
 ||themovienation.com^$all
+||thenorthfacepolska.pl^$all
 ||thepropertydealerz.com^$all
 ||the-bitcoin-profit.com^$all
 ||thinhvuongmedia.com^$all
@@ -7474,6 +7515,7 @@
 ||torrento.pl^$all
 ||tpc.hu^$all
 ||trafisz.com^$all
+||trella.com.pl^$all
 ||tropiccritics.com^$all
 ||truegamers.ga^$all
 ||trunganh.xyz^$all
@@ -7486,13 +7528,16 @@
 ||tv-internetowa.pl^$all
 ||tv-maniak.pl^$all
 ||twojaenea.pl^$all
+||twojalaweta.com.pl^$all
 ||twojapaczka-24.com^$all
+||twoje50zl.pl^$all
 ||twoje-seriale.tv^$all
 ||twojhoroskop.com^$all
 ||twojkurier.com^$all
 ||twoj-kurier.com^$all
 ||u192389.stronazen.pl^$all
 ||udater.net^$all
+||uggclassic.pl^$all
 ||unitedmedsshop.com^$all
 ||unitedproductsllc.net^$all
 ||update-1.com^$all
@@ -7563,6 +7608,7 @@
 ||wypozycz-film.pl^$all
 ||wys24h.eu^$all
 ||wysylki.net^$all
+||wzorydokumentow.com.pl^$all
 ||xinlou.info^$all
 ||xoreha84.bid^$all
 ||yeuquynhnhai.com^$all
@@ -7578,6 +7624,7 @@
 ||za10groszy.pl^$all
 ||zajonc.de^$all
 ||zalukaj*.*^$all,domain=~zalukaj.com
+||zaluknij.pl^$all
 ||zamowienia-priorytetowe.pl^$all
 ||zaplata*.tk^$all
 ||zarabativaisazartom.net^$all
@@ -7585,12 +7632,14 @@
 ||zasilkonto.cba.pl^$all
 ||zasil-konto.tk^$all
 ||zaswiadczeniekrk.pl^$all
+||zespolcwiklice.pl^$all
 ||zgarnijplik.pl^$all
 ||zgarnij.net^$all
 ||zhaoyouxiu.com^$all
 ||zhouliang.info^$all
 ||zobaczto.eu^$all
 ||zoracle.com^$all
+||zspkoscielec.pl^$all
 ||zumodi.com^$all
 ||zweryfiikujdane.tk^$all
 ||*kurier.com/oplata*$all
