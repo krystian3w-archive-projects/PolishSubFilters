@@ -3758,8 +3758,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i nieprawdziwe informacje.
-!@Last modified: Sat, 14 Mar 2020, 10:42 UTC+01
-!@Version: 2020.3.14.0
+!@Last modified: Sun, 15 Mar 2020, 17:19 UTC+01
+!@Version: 2020.3.15.0
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -6664,6 +6664,7 @@
 ||best-sales.top^$all
 ||bikelovers.blog.br^$all
 ||bitcoincodesverigerecension.com^$all
+||bitcoineraprounitedkingdomreview.com^$all
 ||bitcoinera-appl.com^$all
 ||bitcoins-profit.com^$all
 ||bitcointodaynews.me^$all
@@ -6686,6 +6687,7 @@
 ||brooklynlilly.com^$all
 ||btcprofitnow.website^$all
 ||btc-evo.com^$all
+||btc-outlet.com^$all
 ||bubblelife70.life^$all
 ||bulbulstore.com^$all
 ||businesspuls.online^$all
@@ -6724,7 +6726,6 @@
 ||chomlkui.pl^$all
 ||chron-telefon.com^$all
 ||ciekawehistorie.pl^$all
-||cinektyper.blogspot.com^$all
 ||cinemaplanet.pl^$all
 ||cinematicfanatic.com^$all
 ||circultural.com^$all
@@ -6826,6 +6827,7 @@
 ||ericius.eu^$all
 ||eroutks.co^$all
 ||esemeso.pl^$all
+||espaylink.net^$all
 ||euroausili.it^$all
 ||ewciakurier.com^$all
 ||ewills.access.ly^$all
@@ -6893,7 +6895,6 @@
 ||filmowo24.pl^$all
 ||filmowo-24.com^$all
 ||filmplay.pl^$all
-||filmserialeonlineee.blogspot.com^$all
 ||filmu.pl^$all
 ||filmvod.pl^$all
 ||filmyonline.com.pl^$all
@@ -7177,6 +7178,7 @@
 ||mutlukadinlarakademisi.com^$all
 ||mydnssbox.gleeze.com^$all
 ||myeforsa.pl^$all
+||mzgov.net^$all
 ||m.smsquiz.pl^$all
 ||nadhirotultaqwa.com^$all
 ||nagroda-sms.pl^$all
@@ -7436,6 +7438,7 @@
 ||solarpl.pl^$all
 ||soo.sg^$all
 ||spaceforyou.cc^$all
+||special-news.myfreesites.net^$all
 ||specjalniedlaciebie.com^$all
 ||speedfile.info^$all
 ||sportowy-stream.pl^$all
@@ -7653,6 +7656,7 @@
 ||adrianzajewicz.blogspot.com^$all
 ||aktualizacjafacebooka.blogspot.com^$all
 ||barsy*.blogspot.com^$all
+||cinektyper.blogspot.com^$all
 ||colors-app.blogspot.com^$all
 ||czas-na-fb*.blogspot.com^$all
 ||darmowedoladowania25.blogspot.com^$all
@@ -7678,6 +7682,7 @@
 ||fejspodgllaadacz.blogspot.com^$all
 ||fejspodglladacz.blogspot.com^$all
 ||filmoo-maniacy.blogspot.com^$all
+||filmserialeonlineee.blogspot.com^$all
 ||freeiqtest*.blogspot.com^$all
 ||hackidomsp.blogspot.com^$all
 ||informacjeszok24.blogspot.com^$all
