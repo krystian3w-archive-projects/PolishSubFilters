@@ -3758,8 +3758,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i nieprawdziwe informacje.
-!@Last modified: Sat, 21 Mar 2020, 14:49 UTC+01
-!@Version: 2020.3.21.1
+!@Last modified: Mon, 23 Mar 2020, 18:37 UTC+01
+!@Version: 2020.3.23.1
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -3775,6 +3775,7 @@
 |https://aten.com/$document
 ||1elt.pl^$all
 ||1maja18.pl^$all
+||1szychta.org.pl^$all
 ||2easy.pl^$all
 ||2widelce.pl^$all
 ||4ksport.pl^$all
@@ -3791,6 +3792,7 @@
 ||59fifty.pl^$all
 ||100dnidlasyrii.pl^$all
 ||123kredyt.com^$all
+||a0copyplot.pl^$all
 ||a1a.pl^$all
 ||a2multimedia.pl^$all
 ||aaakotkidwa.pl^$all
@@ -3806,6 +3808,7 @@
 ||acninc.com^$all
 ||acontrario.pl^$all
 ||activa-ks.pl^$all
+||actus.org.pl^$all
 ||act-natural-sklep.pl^$all
 ||act-natural.pl^$all
 ||act.poznan.pl^$all
@@ -3886,12 +3889,14 @@
 ||aldaniti.net^$all
 ||aldashoes.eu^$all
 ||aldashoes.pl^$all
+||aldorasystem.pl^$all
 ||alejagowniarzy.pl^$all
 ||alerter.pl^$all
 ||aleshop.pl^$all
 ||alexsoff.com^$all
 ||ale-dowcip.pl^$all
 ||alfabetnieruchomosci.pl^$all
+||alfasj.com.pl^$all
 ||alfa-projekt.com.pl^$all
 ||alim.com.pl^$all
 ||allenit.pl^$all
@@ -3908,6 +3913,7 @@
 ||alsbean.com^$all
 ||alteregocafe.pl^$all
 ||altid-ad.com^$all
+||alxmar.pl^$all
 ||al-atelier.pl^$all
 ||amadaxtreme.pl^$all
 ||amber-road.pl^$all
@@ -3951,6 +3957,7 @@
 ||arkonfinance.pl^$all
 ||armiadawida.pl^$all
 ||armia-pana.pl^$all
+||armix.com.pl^$all
 ||aromagroup.pl^$all
 ||arrow-finance.pl^$all
 ||artcons.pl^$all
@@ -3986,6 +3993,7 @@
 ||autelekom.pl^$all
 ||autodestino.pl^$all
 ||autodom-viofor.com.pl^$all
+||autoelektronika-nowysacz.pl^$all
 ||autokemar.pl^$all
 ||autokraina.pl^$all
 ||automatkredytowy.pl^$all
@@ -3996,7 +4004,6 @@
 ||avantfestival.pl^$all
 ||avanti-pizza.pl^$all
 ||avema.pl^$all
-||aveplay.com^$all
 ||aveprize.com^$all
 ||avita.net.pl^$all
 ||awarialaptopa.pl^$all
@@ -4017,6 +4024,7 @@
 ||barometrwhc.pl^$all
 ||bartekzukiewicz.pl^$all
 ||bartozziproject.com^$all
+||basecampzakopane.pl^$all
 ||basf-polmaraton.pl^$all
 ||basnogorach.pl^$all
 ||bazarownia.pl^$all
@@ -4045,7 +4053,6 @@
 ||bestpromocenter.com^$all
 ||bestselections.top^$all
 ||betterware.pl^$all
-||bezbaz.net^$all
 ||bezbiku.pro^$all
 ||bezpieczne-nieruchomosci.pl^$all
 ||be-wild.pl^$all
@@ -4093,6 +4100,7 @@
 ||bmwklubbydgoszcz.pl^$all
 ||bnewsb.com^$all
 ||bninski.pl^$all
+||bobopstryk.pl^$all
 ||bodykarma.pl^$all
 ||bodysecretrevelation.com^$all
 ||bohema-suprasl.pl^$all
@@ -4172,7 +4180,6 @@
 ||butysportowe-online.pl^$all
 ||butysuperstar.pl^$all
 ||butytblpromocje.pl^$all
-||butytimberlandtanio.pl^$all
 ||butyuggaustralia.pl^$all
 ||butyultraboost.com^$all
 ||butyultraboost.pl^$all
@@ -4192,6 +4199,7 @@
 ||camiliana.pl^$all
 ||capri-zwolen.pl^$all
 ||carson2polska.com^$all
+||carvertical.com^$all
 ||casadasklep.pl^$all
 ||casada.pl^$all
 ||cashbackworld.com^$all
@@ -4252,6 +4260,7 @@
 ||cloudtokenwallet.com^$all
 ||club4you.pl^$all
 ||clubitaliano.pl^$all
+||club-cynamon.pl^$all
 ||clydecourt.pl^$all
 ||cme-srem.pl^$all
 ||cnto.pl^$all
@@ -4368,9 +4377,11 @@
 ||digalovski.pl^$all
 ||digitalbugs.pl^$all
 ||digitalcut.pl^$all
+||dint.com.pl^$all
 ||diorsklep.pl^$all
 ||dirtythekitchen.com^$all
 ||dketrade.top^$all
+||dkgraf.pl^$all
 ||dlagier.com^$all
 ||dlf.pl^$all
 ||dlmyfile.com^$all
@@ -4446,7 +4457,6 @@
 ||ebfgoldenclub.pl^$all
 ||ebook4all.com.pl^$all
 ||ebuty.net.pl^$all
-||ebuty.org.pl^$all
 ||eccobuty.pl^$all
 ||eccointrinsic.pl^$all
 ||eccooutletonline.pl^$all
@@ -4460,6 +4470,7 @@
 ||eco-flow.pl^$all
 ||eco-wiert.pl^$all
 ||ecpp.pl^$all
+||edelivery2018.pl^$all
 ||edenslask.pl^$all
 ||edofinansowania.eu^$all
 ||eduhull.pl^$all
@@ -4560,6 +4571,7 @@
 ||e-cda.pl^$all
 ||e-dorecz.pl^$all
 ||e-fohow.pl^$all
+||e-kostrzyn.pl^$all
 ||e-krezus.pl^$all
 ||e-lektrosklep.com^$all
 ||e-naturessunshine.com^$all
@@ -4589,8 +4601,10 @@
 ||fdf24.pl^$all
 ||feed.engage.im^$all
 ||feel-more.pl^$all
+||felicjanandrzejczak.com.pl^$all
 ||fenixsiennica.pl^$all
 ||fenoria.pl^$all
+||festival-dialog-wroclaw.pl^$all
 ||fevitum.pl^$all
 ||fforum.pisz.pl^$all
 ||fhgfffdsf9.appspot.com^$all
@@ -4628,8 +4642,10 @@
 ||firegifts.pl^$all
 ||firenzepunk.pl^$all
 ||firesub.pl^$all
+||firma-kalita.pl^$all
 ||firstweb.pl^$all
 ||fitness-house.pl^$all
+||fitsweets.pl^$all
 ||fit-buzz.com^$all
 ||fit-smerfetka.pl^$all
 ||fizjoreha.pl^$all
@@ -4712,6 +4728,7 @@
 ||gazo-progress.com.pl^$all
 ||gbptest.net^$all
 ||gbtitansrfc.com^$all
+||gce-mennica.pl^$all
 ||geekbook.pl^$all
 ||gelnimbus.pl^$all
 ||gemverify.com^$all
@@ -4800,6 +4817,7 @@
 ||gucciskleponline.pl^$all
 ||guitarforce.pl^$all
 ||gustaw-harnas.pl^$all
+||gymrace.pl^$all
 ||gysannapolis.com^$all
 ||hackidogier.pl^$all
 ||hadesklub.pl^$all
@@ -4859,6 +4877,7 @@
 ||hostedfiles.net^$all
 ||hotchkissflowersco.com^$all
 ||hotelcaro.com.pl^$all
+||hotele-luksusowe.com.pl^$all
 ||hotelpodstolice.pl^$all
 ||hsfactory.pl^$all
 ||http4u.pl^$all
@@ -4879,6 +4898,7 @@
 ||ideatur.pl^$all
 ||ideazespolufilmowego.pl^$all
 ||idgarin.com^$all
+||iglesia.pl^$all
 ||igrzyskasto.pl^$all
 ||ihydroflaskshop.com^$all
 ||ikaart.pl^$all
@@ -4924,8 +4944,10 @@
 ||itvwro.pl^$all
 ||iv24.pl^$all
 ||iwonadzitko.pl^$all
+||izabelarogowska.pl^$all
 ||izakowalska.pl^$all
 ||izamakeup.pl^$all
+||izofiber.pl^$all
 ||i-cda.pl^$all
 ||i-mobi.pl^$all
 ||i-store365.com^$all
@@ -4969,6 +4991,7 @@
 ||jump.ogtrk.net^$all
 ||jurbywatergardens.com^$all
 ||justdoit-polska.com^$all
+||justinapart.pl^$all
 ||justpolska.pl^$all
 ||ju-ma.pl^$all
 ||k4home.pl^$all
@@ -5022,7 +5045,6 @@
 ||kino-centrum.pl^$all
 ||kino-tv.pl^$all
 ||kinujemy.pl^$all
-||kirchbaum.pl^$all
 ||kitcarforum.pl^$all
 ||kiteowisko.pl^$all
 ||kiwiapartament.pl^$all
@@ -5071,6 +5093,7 @@
 ||kotwicowisko.pl^$all
 ||kozlowskavisage.pl^$all
 ||kpzkaj.pl^$all
+||krainakuhailana.pl^$all
 ||kraina-kopciuszka.pl^$all
 ||krakowparkiety.pl^$all
 ||krakow-elektryk24.pl^$all
@@ -5110,7 +5133,9 @@
 ||kurtkanova.pl^$all
 ||kurtkiwyprzedaz.pl^$all
 ||kuwikciesielski.pl^$all
+||kuznialudzizaradnych.pl^$all
 ||kuzniamagii.pl^$all
+||kuzniauwb.pl^$all
 ||kwadratowyswia.pl^$all
 ||kwaterynasezon.pl^$all
 ||kwiaciarnianadworcu.pl^$all
@@ -5214,6 +5239,7 @@
 ||magiaperspektywy.pl^$all
 ||magiczne-cytaty.pl^$all
 ||magiskmanager.com^$all
+||majcioch.pl^$all
 ||majorclass.pl^$all
 ||makarenagaski.pl^$all
 ||maksymrzeminski.pl^$all
@@ -5384,6 +5410,7 @@
 ||muzadomweselny.pl^$all
 ||muzyczne-atelier.pl^$all
 ||myacn.eu^$all
+||mydates.com^$all
 ||mydiabetycy.pl^$all
 ||myduolife.com^$all
 ||myfishday.pl^$all
@@ -5415,6 +5442,7 @@
 ||naprzekor.com.pl^$all
 ||nartypomorze.pl^$all
 ||narzedziareczne.com.pl^$all
+||narzedzia.club^$all
 ||nasdacoin.io^$all
 ||nashop.pl^$all
 ||nasipupile.pl^$all
@@ -5443,7 +5471,6 @@
 ||neonetmax.in.net^$all
 ||neopozyczki.pl^$all
 ||neospes.com^$all
-||neotech.in.net^$all
 ||nepomucen-dorohusk.pl^$all
 ||netleaders.com^$all
 ||netwita.pl^$all
@@ -5517,6 +5544,7 @@
 ||nyctrk.com^$all
 ||oazaborek.pl^$all
 ||oberzapodorzechem.pl^$all
+||objawytarczycy.com.pl^$all
 ||obos-ankiety.pl^$all
 ||obserwujecie.pl^$all
 ||obudzgeniusza.pl^$all
@@ -5534,7 +5562,6 @@
 ||odkryjfb.pl^$all
 ||odkwaszacz.pl^$all
 ||odmakaroniarzy.pl^$all
-||odnawiamyelewacje.pl^$all
 ||odysseyreact.pl^$all
 ||odziezpl.pl^$all
 ||offerunt.pl^$all
@@ -5544,6 +5571,7 @@
 ||ogladaj.online^$all
 ||ogladamy24.pl^$all
 ||ogloszeniagratis.pl^$all
+||ogrodek.club^$all
 ||ohkrab.pl^$all
 ||okazjeinternetowe.pl^$all
 ||okiempawla.pl^$all
@@ -5578,6 +5606,7 @@
 ||optidee.nl^$all
 ||optimask-pro.com^$all
 ||oranzadaklub.pl^$all
+||orcadive.pl^$all
 ||organiclife.com.pl^$all
 ||organicmed.pl^$all
 ||organogold.com^$all
@@ -5652,6 +5681,7 @@
 ||phytolast.com^$all
 ||piachmen.pl^$all
 ||piegowatydom.pl^$all
+||pieknoiuroda-fm.pl^$all
 ||pierre-lang.com^$all
 ||piestv.pl^$all
 ||piknikarabski.pl^$all
@@ -5668,6 +5698,7 @@
 ||pizzaeuforia.com^$all
 ||pizzaramzes.pl^$all
 ||pjszop.pl^$all
+||pksbialapodlaska.pl^$all
 ||pl1nk.pl^$all
 ||plainsviewfarm.com^$all
 ||plastiquedesign.pl^$all
@@ -5729,10 +5760,10 @@
 ||polskieksporter.pl^$all
 ||polskifilm.com.pl^$all
 ||poltradewaletko.pl^$all
+||pomalujmnie.pl^$all
 ||pomelostudio.pl^$all
 ||pomerania-bn.pl^$all
 ||pomockredytowa.net^$all
-||pomocnapozyczka.pro^$all
 ||pomorskidom.pl^$all
 ||pomozbudowac.pl^$all
 ||popcornvod.com^$all
@@ -5754,7 +5785,6 @@
 ||pozyczkanatelefon24.pl^$all
 ||pozyczka-minutowa.pl^$all
 ||pozyczka-tanio-szybko.pl^$all
-||pozyczka.click^$all
 ||pozyczkiprywatne.com^$all
 ||pozyczki-prywatne.com.pl^$all
 ||pozyczki-prywatne.com^$all
@@ -5778,6 +5808,7 @@
 ||premium.ihuh.pl^$all
 ||prescottdrive.pl^$all
 ||prevalue.pl^$all
+||prezentacje-wiab.pl^$all
 ||princessmask.pro^$all
 ||privateinvestigator.pl^$all
 ||private.atlanticgam.es^$all
@@ -5787,7 +5818,6 @@
 ||probolan50.pl^$all
 ||proficredit.pl^$all
 ||profitechnik.pl^$all
-||profitmaximizerpl.com^$all
 ||profitmaximizer.co^$all
 ||profittravel.pl^$all
 ||profit-trader.net^$all
@@ -5837,6 +5867,7 @@
 ||pse-polnoc.pl^$all
 ||psiakademia.pl^$all
 ||pspsport.pl^$all
+||psycholozki.com.pl^$all
 ||pszczelezycie.pl^$all
 ||pszczynskieaktywnie.pl^$all
 ||ptmedia.com.pl^$all
@@ -5896,6 +5927,7 @@
 ||rbreebokcrossfit.pl^$all
 ||rbxfree.com^$all
 ||rddwawelno.pl^$all
+||reactelement.pl^$all
 ||reaganlighting.com^$all
 ||real-app.date^$all
 ||reasport.pl^$all
@@ -5953,6 +5985,7 @@
 ||robertlesiuk.pl^$all
 ||robloxhack.pl^$all
 ||roboclean-poland.com^$all
+||rolluphurt.com.pl^$all
 ||romad.com.pl^$all
 ||romind27.com^$all
 ||roofgardenrecords.com^$all
@@ -6017,6 +6050,7 @@
 ||sekut.pl^$all
 ||sendspace.pl^$all
 ||sendspace.pw^$all
+||sensecafe.com.pl^$all
 ||seobar.pl^$all
 ||seomarkecik.pl^$all
 ||sercedzwonu.pl^$all
@@ -6098,6 +6132,7 @@
 ||slowl.pl^$all
 ||slownikoptyczny.pl^$all
 ||slubneauta.com.pl^$all
+||sluchawafm.pl^$all
 ||smartraport.pl^$all
 ||smart-m-system.com^$all
 ||smithsfloristva.com^$all
@@ -6146,6 +6181,7 @@
 ||spisfirm24.pl^$all
 ||spisradiowy.eu^$all
 ||splitrock.pl^$all
+||splot.org.pl^$all
 ||spluczto.pl^$all
 ||splywysuprasl.pl^$all
 ||spmsystem.pl^$all
@@ -6189,6 +6225,7 @@
 ||stolarniaweronika.pl^$all
 ||stopkomornikowi.pl^$all
 ||stop-sms.pl^$all
+||stotom.pl^$all
 ||stowarzyszeniesedziow.pl^$all
 ||stowarzyszeniewkp.pl^$all
 ||straz-pakoslawice.pl^$all
@@ -6218,6 +6255,7 @@
 ||supergabuty.pl^$all
 ||supergapolska.pl^$all
 ||superhiperwakacje.com.pl^$all
+||supermedia.in.net^$all
 ||supersciezka.pl^$all
 ||superstarbuty.com^$all
 ||superstarbuty.pl^$all
@@ -6279,11 +6317,9 @@
 ||talkfusion.com^$all
 ||talksinthecity.pl^$all
 ||tangozwabrzycha.pl^$all
-||taniebutyfirmowe.pl^$all
 ||taniebutymaster.com^$all
 ||taniebutyonlinesklep.pl^$all
 ||taniebutysklep.pl^$all
-||taniebutysportowe.com^$all
 ||taniecchojnice.pl^$all
 ||taniec-elfuego.pl^$all
 ||taniemedia.pl^$all
@@ -6317,7 +6353,6 @@
 ||thelifeness.pl^$all
 ||thelogo.pl^$all
 ||thenorthfacepl.pl^$all
-||thenorthfacepolska.pl^$all
 ||thenorthfacesklep.pl^$all
 ||thermomix.vorwerk.pl^$all
 ||thesite.pl^$all
@@ -6332,7 +6367,6 @@
 ||tiande.wroclaw.pl^$all
 ||tiens.pl^$all
 ||tigergym.com.pl^$all
-||tilestep.com/jbl$all
 ||tilido.com^$all
 ||timberlandchukka.pl^$all
 ||timberlandeurosprint.pl^$all
@@ -6343,6 +6377,7 @@
 ||timberland-polska.pl^$all
 ||timberlymotel.com^$all
 ||tlumacz-wloskiego.com.pl^$all
+||tnfpl.pl^$all
 ||tniemyceny.net^$all
 ||tocho.pl^$all
 ||tojachtczarter.pl^$all
@@ -6383,6 +6418,7 @@
 ||trybikowo.pl^$all
 ||trzywolnemysli.pl^$all
 ||tumieszkamtukupuje.pl^$all
+||tunele-rozsaczajace.pl^$all
 ||tuniaf.com^$all
 ||tupperware.pl^$all
 ||tustrzelin.pl^$all
@@ -6478,7 +6514,6 @@
 ||veltocars.com.pl^$all
 ||verifycaptcha.com^$all
 ||versalka.pl^$all
-||verypl.net^$all
 ||veryvoga.pl^$all
 ||vesda.pl^$all
 ||vfastdownload.com^$all
@@ -6492,7 +6527,6 @@
 ||visalink.pl^$all
 ||visegrad4bicyclerace.pl^$all
 ||vision2020.pl^$all
-||viskon.pl^$all
 ||visvet.pl^$all
 ||vitajuice.com.pl^$all
 ||vital-fit.pl^$all
@@ -6529,6 +6563,8 @@
 ||weselebukowa.pl^$all
 ||wesolywagonik.pl^$all
 ||wetrokietnica.pl^$all
+||wettinlegal.pl^$all
+||wicher-grabowo.pl^$all
 ||wieczorowapora.pl^$all
 ||wielkanagroda.com^$all
 ||wielkaniespodzianka.pl^$all
@@ -6561,6 +6597,7 @@
 ||wpunkcie.pl^$all
 ||wraplo.pl^$all
 ||wrig.pl^$all
+||wroclaw2012festival.pl^$all
 ||wrzeszcz-pallotyni.pl^$all
 ||wsmwarszawa.pl^$all
 ||wspieramyplodnosc.pl^$all
@@ -6594,6 +6631,7 @@
 ||xbox1emulator.org^$all
 ||xbox360emulator.com^$all
 ||xmlgrab.com^$all
+||xn--adidasgazellemskie-qnc.pl^$all
 ||xn--fitflopsanday-7hc.pl^$all
 ||xn--pandorabiuteria-qkd.pl^$all
 ||xn--poyczaj-xwb.online.pl^$all
@@ -6604,6 +6642,7 @@
 ||yourofferpro.com^$all
 ||yourpayment.online^$all
 ||yourperlebleue.com^$all
+||you-and-me.pl^$all
 ||yummymobile.pl^$all
 ||zaadoptujstacjeladowania.com.pl^$all
 ||zabiczyn.pl^$all
@@ -6614,7 +6653,6 @@
 ||zajazdwika.pl^$all
 ||zaksiazke.pl^$all
 ||zakupyagd.net^$all
-||zakupymax.net^$all
 ||zalukajfilmy.pl^$all
 ||zamedi.pl^$all
 ||zamieszkajwmlawie.pl^$all
@@ -6662,7 +6700,6 @@
 ||zpafiska.pl^$all
 ||zpotrzebyserc.pl^$all
 ||zrobswiatlo.pl^$all
-||zs1chocznia.pl^$all
 ||zskleczany.pl^$all
 ||zsklembow.pl^$all
 ||zsniemce.pl^$all
@@ -6755,6 +6792,7 @@
 ||eastmostlitharges.online^$all
 ||eeu.pl^$all
 ||eworldtrack.com^$all
+||fbdowner.com^$all
 ||feernews.biz^$all
 ||filmowo.co^$all
 ||firecpa.com^$all
@@ -7135,13 +7173,11 @@
 ||doladowania-telefonu.pl^$all
 ||doladujfona.net^$all
 ||doladujfona.org^$all
-||domainreward.site^$all
 ||domniespodzianek.com^$all
 ||doski.by^$all
 ||dostawy24.com ^$all
 ||dotabet100.com^$all
 ||dotabet103.com^$all
-||download24.site^$all
 ||downloadfiles.pl^$all
 ||downloadnature.com^$all
 ||downloads-mobile.com^$all
@@ -7255,6 +7291,7 @@
 ||filmplay.pl^$all
 ||filmu.pl^$all
 ||filmvod.pl^$all
+||filmy4u.pl^$all
 ||filmyonline.com.pl^$all
 ||filmy-i-seriale.pl^$all
 ||filmy-tv.pl^$all
@@ -7326,6 +7363,7 @@
 ||google-*.smartphonesbonusoffers.icu^$all
 ||gplay-store.ru^$all
 ||gpmandiri.com^$all
+||graotron.biz^$all
 ||gratissos.com^$all
 ||grazefoot.com^$all
 ||gromka.host^$all
@@ -7446,8 +7484,8 @@
 ||kurierjagoda.org^$all
 ||kurierr.eu^$all
 ||kurierstas.info^$all
+||kurier-platnosci.services^$all
 ||kurier-pocztex24.com^$all
-||l2f.info^$all
 ||l3f.info^$all
 ||labersa.com^$all
 ||larissalinhares.com.br^$all
@@ -7487,6 +7525,7 @@
 ||maliciousdns.msftncsi.com^$all
 ||mantoropols.xyz^$all
 ||marcofama.it^$all
+||maska-oddechowa-kn95-pl.com^$all
 ||masterprof.warzonedns.com^$all
 ||maxitrade.com^$all
 ||max-host.pl^$all
@@ -7529,6 +7568,7 @@
 ||mutlukadinlarakademisi.com^$all
 ||mydnssbox.gleeze.com^$all
 ||myeforsa.pl^$all
+||mytraffic.pl^$all
 ||mzgov.net^$all
 ||m.smsquiz.pl^$all
 ||nadhirotultaqwa.com^$all
@@ -7603,7 +7643,6 @@
 ||paczkomaty-pl.tk^$all
 ||paifi.net^$all
 ||pamelambarnettcounseling.com^$all
-||paraphingxmfevapk.xyz^$all
 ||patrickglobalusa.com^$all
 ||pay2me.pl^$all
 ||pay24-paczka.com^$all
@@ -7660,7 +7699,6 @@
 ||pocztexpolska24.com^$all
 ||pocztex-24.link^$all
 ||pocztex-48.net^$all
-||pod004.site^$all
 ||podatek2020.net^$all
 ||podatkigov.net^$all
 ||podologik.ca^$all
@@ -7784,7 +7822,6 @@
 ||soft4click.com^$all
 ||softmania.pl^$all
 ||softsmart.mobi^$all
-||solarpl.pl^$all
 ||soo.sg^$all
 ||spaceforyou.cc^$all
 ||special-news.myfreesites.net^$all
@@ -7983,6 +8020,7 @@
 ||zgarnij.net^$all
 ||zhaoyouxiu.com^$all
 ||zhouliang.info^$all
+||zobaczfilm.com^$all
 ||zobaczto.eu^$all
 ||zoracle.com^$all
 ||zumodi.com^$all
@@ -8169,14 +8207,14 @@ kadantiscam.netlify.com###kadetect
 !@Codename: PASS
 !@Description: Filtry blokujące i ukrywające elementy RSS oraz resztki po ukrytych newsletterach złączonych z elementami społecznościowymi na polskojęzycznych stronach.
 !@Używanie listy „Polski Antyirytujący Dodatek Specjalny" jest jednoznaczne ze świadomością, co do jej zawartości (co blokuje itp.) a twórcy nie ponoszą odpowiedzialności za niewiedzę użytkownika.
-!@Last modified: Mon, 16 Mar 2020, 00:55 UTC+01
-!@Version: 2020.3.2
+!@Last modified: Mon, 23 Mar 2020, 00:55 UTC+01
+!@Version: 2020.3.3
 !@Expires: 7 days
 !@Support:
 !@  Github => https://github.com/PolishFiltersTeam/PolishAntiAnnoyingSpecialSupplement/issues
 !@License: CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
 !@Copyright © 2020 Polish Filters Team
-!@Aktualizacja: pon, 16 mar 2020, 00:55 UTC+01
+!@Aktualizacja: pon, 23 mar 2020, 00:55 UTC+01
 !
 !
 !@Specyficzne reguły ukrywające
@@ -8245,13 +8283,14 @@ dziennikwschodni.pl##.read-us-widget__social-item:nth-of-type(3)
 dziennik.com##.t-right.omega.g3
 egospodarka.pl##.ego-ico4
 ekorekta24.pl##a.social:nth-of-type(3)
-ekorekta24.pl###nksub_sidebar, #nksub-body-bg
+ekorekta24.pl,niezlasztuka.net###nksub_sidebar, #nksub-body-bg
 eksiazki.az.pl##.subscribe > a[href="http://feeds.feedburner.com/e-ksiazki"]
 elk.pl##.small-rss, .small-rss-t
 emea.flow.microsoft.com##.c-hyperlink[title="RSS"]
 energa-operator.pl###footmenu-item-4
 epremki.com##li:nth-of-type(3) > a[href^="https://epremki.com/misc.php"]
 euractiv.pl##.subscribe-link
+ewaipiotr.pl##.menu-icon-rss
 exsites.pl##a[title="RSS"]
 e-katalog.intercars.com.pl###sf_rozwin
 f1.dziel-pasje.pl##.kf_social3 > li:nth-of-type(3)
@@ -8366,6 +8405,7 @@ nj24.pl###footer-feed-icon
 ock.gov.pl,straz.gov.pl##.col-xs-6.col-sm-6.col-md-2.col-lg-2 > h2
 oculino.com##.site-social-icons-rss
 ogloszenioteka.pl##a[href="http://ogloszenioteka.pl/feed.php"]
+oiot.pl##.menu-icon-rss.menu-icon
 oknonawagrowiec.pl##.theiaStickySidebar > div[id^="penci-social-counter-"]
 onetech.pl###social
 orlen.pl##.newsletterAndRss
@@ -8491,6 +8531,7 @@ wykop.pl##a[href^="https://www.wykop.pl/rss"]
 xboxforum.pl##.p-footer-rssLink
 yafud.pl##a[href="http://feedproxy.google.com/YAFUD"]
 yuliyababich.eu###StaticPanel > #AnimalPanel
+yves-rocher.pl##.l-footer__services div.service__column:nth-of-type(2)
 zaufanatrzeciastrona.pl##.sidebar-box-wrap:nth-of-type(2) > .sidebar-box
 zbooy.pl##a[href^="/360/rss.xml"] > img
 zlotyaniol.pl###ic3
@@ -8523,6 +8564,7 @@ zuch.media##.fw-footer-social > a:nth-of-type(4)
 ||pionki24.pl/images/index_r.png
 ||podsluchane.pl/sdb-rss.png
 ||police24.pl/templates/zp24/images/livemarks.png
+||propertynews.pl/images/2018/icons/rss-wh.png$image
 ||purepc.pl/skin/m_rs.png
 ||rmf24.pl/s/classic/ikony@2x.png
 ||rynek-kolejowy.pl/themes/rssmiddle.png
