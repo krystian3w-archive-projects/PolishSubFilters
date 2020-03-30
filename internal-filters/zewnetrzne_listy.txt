@@ -3758,8 +3758,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i nieprawdziwe informacje.
-!@Last modified: Sat, 28 Mar 2020, 13:07 UTC+01
-!@Version: 2020.3.28.3
+!@Last modified: Mon, 30 Mar 2020, 17:26 UTC+02
+!@Version: 2020.3.30.3
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -5255,6 +5255,7 @@
 ||lukaszcholuj.pl^$all
 ||lululo.pl^$all
 ||lumenphoto.pl^$all
+||lunzo.pl^$all
 ||lutra.pl^$all
 ||lyconet.com^$all
 ||lyoness.com^$all
@@ -5635,7 +5636,6 @@
 ||oranzadaklub.pl^$all
 ||orbis-pictus.pl^$all
 ||orcadive.pl^$all
-||organiclife.com.pl^$all
 ||organicmed.pl^$all
 ||organogold.com^$all
 ||orkiestrawszechczasow.pl^$all
@@ -5966,6 +5966,7 @@
 ||redirectzone.com^$all
 ||redrct.online^$all
 ||reducelant.com^$all
+||red-mobile.pl^$all
 ||reebokfurylite.pl^$all
 ||reeboknpcii.pl^$all
 ||reebokoutlet.pl^$all
@@ -7054,6 +7055,7 @@
 ||50kaweek.live^$all
 ||50kzl.pl^$all
 ||100sport.tv^$all
+||247platnosci.online^$all
 ||7228.eu^$all
 ||50000zl.site^$all
 ||59055.cn^$all
@@ -7253,6 +7255,8 @@
 ||dspinner.net^$all
 ||dultrasolutions.duckdns.org^$all
 ||durakbufecengelkoy.com^$all
+||dzienniknews.com.pl^$all
+||dzienniknews.pl^$all
 ||dziennikprasowy.eu^$all
 ||dziennikprasowy.pusiaweb.com^$all
 ||dziennik.warszawa.pl^$all
@@ -7324,6 +7328,7 @@
 ||fakturo-wnia.gq^$all
 ||fakturo-wnia.ml^$all
 ||fakty24-live.eu^$all
+||fakty24-swiat.pl^$all
 ||faktypolska*.b-cdn.net^$all
 ||fakty-koronawirus24.pl^$all
 ||fakty-sniadaniowe-pl.com^$all
@@ -7428,6 +7433,7 @@
 ||globile.co^$all
 ||gloryone.pl^$subdocument,domain=tictac.pl
 ||gls-parcel.com^$all
+||gnreg.com^$all
 ||goadvert.pk^$all
 ||gogameportal.com^$all
 ||goleta105.com^$all
@@ -7801,6 +7807,7 @@
 ||polskapaczka24.net^$all
 ||polska-gazeta-dnia.pl^$all
 ||polskieinformacje24.eu^$all
+||polskiemedia.online^$all
 ||polskie-newsy.com.pl^$all
 ||polski-poranek-pl.com^$all
 ||polski-poranek.pl^$all
@@ -7850,6 +7857,7 @@
 ||quiz-fun.com.my^$all
 ||rachinfo.com^$all
 ||radiorage.com^$all
+||radkokurier.org^$all
 ||randewoo.ir^$all
 ||randomelements.co.uk^$all
 ||rangreality.com^$all
@@ -7857,6 +7865,7 @@
 ||rcplus.net.pl^$all
 ||realnyzarobek.pl^$all
 ||refferalstaff.com^$all
+||regulamin-wp.com^$all
 ||reg-me.pl^$all
 ||rehabilitant.rzeszow.re^$all
 ||relayimmo.com^$all
@@ -8081,6 +8090,7 @@
 ||worldprize.pl^$all
 ||wosp.online^$all
 ||wplogin.5v.pl^$all
+||wp-regulamin.com^$all
 ||wrozbyonline.net^$all
 ||wszyscyrodacy.com^$all
 ||wszystkowpolsce.online^$all
@@ -8133,7 +8143,8 @@
 ||zoracle.com^$all
 ||zumodi.com^$all
 ||zweryfiikujdane.tk^$all
-||*kurier.com/oplata*$document
+||*kurier.com/oplata*$document,domain=com
+||*kurier.org/oplata*$document,domain=org
 ||*-*.r*.cf*.rackcdn.com^$document
 ||*.24.eu^$document
 !
