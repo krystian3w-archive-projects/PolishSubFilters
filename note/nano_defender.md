@@ -131,7 +131,7 @@ userResourcesLocation https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/N
 
 <code>https://polishannoyancefilters.netlify.com/otherfiltersforadblockers/</code>
 
-<code>https://github.com/MajkiIT/polish-ads-filter#about</code>
+<code>https://majkiit.github.io/polish-ads-filter/</code>
 
 <code>https://filterlists.com/</code>
 
