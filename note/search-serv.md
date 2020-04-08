@@ -41,6 +41,9 @@ https://www.mojeek.com/search?q=%s
 ```
 https://www.qwant.com/?q=%s
 ```
+```
+https://yandex.pl/search/?text=%s
+```
 
 ### Firefox
 
