@@ -45,11 +45,5 @@ https://www.qwant.com/?q=%s
 ### Firefox
 
 ```
-https://addons.mozilla.org/pl/firefox/addon/privacytools-searx/
-```
-```
-https://addons.mozilla.org/pl/firefox/addon/mojeek-uk-community/
-```
-```
-https://addons.mozilla.org/en-US/firefox/addon/qwant-lite/
+https://addons.mozilla.org/en-US/firefox/addon/add-custom-search-engine/
 ```
