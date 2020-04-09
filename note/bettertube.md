@@ -24,3 +24,7 @@ https://instances.joinpeertube.org/instances <br/>
 https://github.com/TeamNewPipe/NewPipe#readme
 
 https://github.com/ajayyy/SponsorBlock#readme
+
+## CPU
+
+https://github.com/erkserkserks/h264ify#readme
