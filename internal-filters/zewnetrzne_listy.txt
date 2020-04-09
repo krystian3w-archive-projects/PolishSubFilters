@@ -3758,8 +3758,8 @@
 !@Homepage: https://kadantiscam.netlify.com
 !@Title: KAD - Przekręty
 !@Description: Filtry chroniące przed różnego rodzaju przekrętami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i nieprawdziwe informacje.
-!@Last modified: Wed, 08 Apr 2020, 17:09 UTC+02
-!@Version: 2020.4.8.1
+!@Last modified: Thu, 09 Apr 2020, 13:31 UTC+02
+!@Version: 2020.4.9.1
 !@Expires: 2 days
 !@Licencja: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 !
@@ -6818,6 +6818,7 @@
 !
 !@Promocja pseudonauki / Fake news
 !@Nieprawdziwe, wprowadzające w błąd informacje lub podobne.
+||7777777blog.wordpress.com^$all
 ||aju.pl^$all
 ||alexjones.pl^$all
 ||biotalerz.pl^$all
@@ -6866,6 +6867,7 @@
 ||witariada.com^$all
 ||witnatura.pl^$all
 ||wodaplazmowana.com^$all
+||wolna-polska.pl^$all
 ||wolnemedia.net^$all
 ||zdrowie-i-dieta.pl^$all
 ||zmianynaziemi.pl^$all
@@ -7206,6 +7208,7 @@
 ||blog.internationalfertilityacademy.com^$all
 ||blog.lalalalala.club^$all
 ||blog.medkad.com^$all
+||bokenea.pl^$all
 ||bondagetrip.com^$all
 ||bondbengals.info^$all
 ||bonus.gamblingz.net^$all
@@ -7223,6 +7226,7 @@
 ||btc-outlet.com^$all
 ||bubblelife70.life^$all
 ||bulbulstore.com^$all
+||bundle-deals.com^$all
 ||businesspuls.online^$all
 ||buz2mobile.com^$all
 ||calodobowe-wiadomosci-pl.eu^$all
@@ -7251,6 +7255,7 @@
 ||charisministries.id^$all
 ||chefeladlevi.com^$all
 ||chengjiaoyou.com^$all
+||childalertfakt.*^$all
 ||choljai.info^$all
 ||chomik24.com.pl^$all
 ||chomikuj.*^$document,domain=~chomikuj.pl
@@ -7364,6 +7369,7 @@
 ||elememory.com^$all
 ||elwirakurier.com^$all
 ||endofhisrope.net^$all
+||enea-sa.pl^$all
 ||energabok.pl^$all
 ||eoplaty.net^$all
 ||epaka247.net^$all
@@ -7378,6 +7384,7 @@
 ||ewciakurier.com^$all
 ||ewills.access.ly^$all
 ||exeos.ws^$all
+||express-dhl.com^$all
 ||express-pocztex.com^$all
 ||ex-torrentycom.5v.pl^$all
 ||eyupp.com^$all
@@ -7478,6 +7485,7 @@
 ||footoografie-pobieralnia.eu^$all
 ||forfollow.net^$all
 ||forstriko.com^$all
+||fortunatefellow.xyz^$all
 ||fortunatetime.xyz^$all
 ||fotki-kliknij.eu^$all
 ||fotoografie-pobierz.eu^$all
@@ -7523,6 +7531,7 @@
 ||giftdomain.site^$all
 ||gifts-for-free.online^$all
 ||gigup.net^$all
+||giuliakurier.org^$all
 ||givehopeahand.org^$all
 ||giveskincs.nd.pl^$all
 ||globile.co^$all
@@ -7616,6 +7625,7 @@
 ||itstime.space^$all
 ||iurzad.net^$all
 ||i-chomik.pl^$all
+||i-dziewczynkaporwana.pl^$all
 ||i-films.pl^$all
 ||i-filmy.pl^$all
 ||i-ksiazka.pl^$all
@@ -7834,6 +7844,7 @@
 ||onlinereward.site^$all
 ||onlinesweepstakes.blue^$all
 ||onlinewideo.pl^$all
+||online-platnosci.services^$all
 ||onlyfiles.net^$all
 ||opel.km.ua^$all
 ||openwire.tv^$all
@@ -7857,6 +7868,7 @@
 ||paifi.net^$all
 ||pakafast4you24h.club^$all
 ||pamelambarnettcounseling.com^$all
+||panel.home.pl.muna.it^$all
 ||panel.home.pl.vespaclub.com^$all
 ||paqu24.com^$all
 ||patrickglobalusa.com^$all
@@ -7940,6 +7952,7 @@
 ||pomoc.kylos.pl^$all
 ||pornmania.pl^$all
 ||post-341478.info^$all
+||poszukiwanadziewczynka.eu^$all
 ||powaifinearts.org^$all
 ||po.fyybox.com^$all
 ||ppl-puls.gloryft.com^$all
@@ -8039,6 +8052,7 @@
 ||serialowo.pl^$all
 ||serial.vod.co.pl^$all
 ||server078515.nazwa.pl^$all
+||server730889.nazwa.pl^$all
 ||server836207.nazwa.pl^$all
 ||server905483.nazwa.pl^$all
 ||service-pay.company^$all
@@ -8083,7 +8097,9 @@
 ||sprawa-531.eu^$all
 ||sprawdzikk.v0r.org^$all
 ||sprnr*.net^$all
+||sslpayu.pl^$all
 ||sslplatnosc.online^$all
+||ssl-payu.pl^$all
 ||ssl.bezpieczne-platnosci.pl^$all
 ||stackspay.com^$all
 ||stakim.org^$all
@@ -8421,8 +8437,8 @@ kadantiscam.netlify.com,kadantiscam.netlify.app###kadetect
 !@Title: KAD - Whitelista Stron Kontrowersyjnych
 !@KAD - The Whitelist of the Controversial Pages
 !@Description: Ta lista wyłącza blokowanie kontrowersyjnych stron przez KAD (https://github.com/PolishFiltersTeam/KAD/issues/649).
-!@Last modified: Sun, 05 Apr 2020, 13:38 UTC+02
-!@Version: 2020.4.5.0
+!@Last modified: Thu, 09 Apr 2020, 10:59 UTC+02
+!@Version: 2020.4.9.0
 !@Expires: 2 days
 !@Kontakt, zgłoszenia i informacje: https://kadantiscam.netlify.com/#contact
 !@Liczba użytych filtrów "0 na 0" wynika z użycia modyfikatora badfilter.
@@ -8431,6 +8447,7 @@ kadantiscam.netlify.com,kadantiscam.netlify.app###kadetect
 !
 !@Promocja pseudonauki / Fake news
 !@Nieprawdziwe, wprowadzające w błąd informacje lub podobne.
+||7777777blog.wordpress.com^$all,badfilter
 ||aju.pl^$all,badfilter
 ||alexjones.pl^$all,badfilter
 ||biotalerz.pl^$all,badfilter
@@ -8479,6 +8496,7 @@ kadantiscam.netlify.com,kadantiscam.netlify.app###kadetect
 ||witariada.com^$all,badfilter
 ||witnatura.pl^$all,badfilter
 ||wodaplazmowana.com^$all,badfilter
+||wolna-polska.pl^$all,badfilter
 ||wolnemedia.net^$all,badfilter
 ||zdrowie-i-dieta.pl^$all,badfilter
 ||zmianynaziemi.pl^$all,badfilter
