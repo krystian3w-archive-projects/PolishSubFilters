@@ -194,6 +194,8 @@ komputerowapasja.pl##footer #custom_html-4
 !
 cba.pl##body > div[style*="background"][style*="black"]:has([href*="://www.cba.pl/pl/donate/"])
 !
+sendgb.com##.buymeacoffe
+!
 !2$----------------------{ no-pl }----------------------!
 !
 www.bitchute.com##.membership-container
