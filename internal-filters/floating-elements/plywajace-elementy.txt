@@ -11,6 +11,7 @@
 !
 !1$----------------------{ nagłówki }----------------------!
 !
+www.donald.pl##header:style(position:absolute!important)
 kb.pl###header0:style(position:static!important)
 posty.pl##.nav:style(position:absolute!important)
 goodspy.pl###header-bottom:style(position:static!important)
