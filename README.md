@@ -18,4 +18,4 @@ Informacje:
 
 [![Riot](https://img.shields.io/badge/Riot-chat-brightgreen.svg)](https://riot.im/app/#/room/!IPhdjtOfWxVbiddKOo:matrix.org?via=matrix.org)
 [![Leak](https://img.shields.io/badge/Leak-check-orange.svg)](https://browserleaks.com/)
-[![Unique](https://img.shields.io/badge/Unique-check-red.svg)](https://amiunique.org/fp)
+[![Unique](https://img.shields.io/badge/Unique-check-red.svg)](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/pp-media.md)
