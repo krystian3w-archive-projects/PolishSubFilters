@@ -32,7 +32,7 @@
 
 2. zainstaluj podane dodatki zgodnie z kolejnością
 
-#### na Firefox Quantum ( [działa tylko z ublockiem origin](https://github.com/konoromihimaries/polishsubfilters/blob/master/note/nano_defender.md#aby-zainstalowa%C4%87-nano-defender-z-ublockiem-origin) )
+#### na Firefox Quantum ( [działa z ublockiem origin](https://github.com/konoromihimaries/polishsubfilters/blob/master/note/nano_defender.md#aby-zainstalowa%C4%87-nano-defender-z-ublockiem-origin) )
 
 1. wejdź w poniższe linki
 
@@ -46,7 +46,7 @@
 
 2. zainstaluj podane dodatki
 
-#### na Firefox Quantum w wersji **mobilnej** ( [działa tylko z ublockiem origin](https://github.com/konoromihimaries/polishsubfilters/blob/master/note/nano_defender.md#aby-zainstalowa%C4%87-nano-defender-z-ublockiem-origin) )
+#### na Firefox Quantum w wersji **mobilnej** ( [działa z ublockiem origin](https://github.com/konoromihimaries/polishsubfilters/blob/master/note/nano_defender.md#aby-zainstalowa%C4%87-nano-defender-z-ublockiem-origin) )
 
 1. wejdź w poniższe linki
 
@@ -60,7 +60,7 @@
 
 2. zainstaluj podane dodatki
 
-#### na Yandex w wersji **mobilnej** ( [działa tylko z Nano Adblockerem](https://chrome.google.com/webstore/detail/nano-adblocker/gabbbocakeomblphkmmnoamkioajlkfo) )
+#### na Yandex w wersji **mobilnej** ( [działa z Nano Adblockerem](https://chrome.google.com/webstore/detail/nano-adblocker/gabbbocakeomblphkmmnoamkioajlkfo) )
 
 1. wejdź w poniższe linki
 
