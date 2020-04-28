@@ -1,9 +1,3 @@
-# Unblock Google
-```
-https://github.com/Ibit-to/google-unlocked#readme
-```
-
-
 ## Search Engines
 
 ### Chrome
