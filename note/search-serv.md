@@ -5,21 +5,6 @@ https://github.com/Ibit-to/google-unlocked#readme
 
 
 ## Search Engines
-```
-https://stats.searx.xyz/
-```
-```
-https://duckduckgo.com/
-```
-```
-https://www.mojeek.com/
-```
-```
-https://www.qwant.com/
-```
-```
-https://yandex.pl/
-```
 
 ### Chrome
 
