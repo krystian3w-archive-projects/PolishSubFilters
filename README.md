@@ -14,8 +14,8 @@ Informacje:
 
 ~ firefox [https://github.com/qarmin/instrukcje-i-tutoriale](https://github.com/qarmin/Instrukcje-i-Tutoriale/blob/master/FirefoxBezpieczenstwo.md#readme) </br>
 ~ chromium [https://github.com/henrypp/chrlauncher](https://github.com/henrypp/chrlauncher#chrlauncher-----) / [EXT](https://github.com/NeverDecaf/chromium-web-store#chromium-web-store) </br>
-~ dns [md](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/dns-serv.md#readme) / vpn [gist](https://gist.github.com/joepie91/5a9909939e6ce7d09e29) / cookie [md](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/cookie-3rd.md) / search [md](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/search-serv.md#readme) / w10 [md](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/w10-servic.md#readme)
+~ dns [md](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/dns-serv.md#readme) / vpn [gist](https://gist.github.com/joepie91/5a9909939e6ce7d09e29) / tube [md](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/bettertube.md#readme) / search [md](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/search-serv.md#readme) / w10 [md](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/w10-servic.md#readme)
 
 [![Riot](https://img.shields.io/badge/Riot-chat-brightgreen.svg)](https://riot.im/app/#/room/!IPhdjtOfWxVbiddKOo:matrix.org?via=matrix.org)
 [![Leak](https://img.shields.io/badge/Leak-check-orange.svg)](https://browserleaks.com/)
-[![Unique](https://img.shields.io/badge/Unique-check-red.svg)](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/pp-media.md)
+[![Unique](https://img.shields.io/badge/Unique-check-red.svg)](https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/pp-media.md#readme)
