@@ -2,7 +2,7 @@
 
 ### aby zainstalować nano adblocker z nano defenderem
 
-#### na Chrome
+#### na Chrome ( [działa z ublockiem origin](https://github.com/konoromihimaries/polishsubfilters/blob/master/note/nano_defender.md#aby-zainstalowa%C4%87-nano-defender-z-ublockiem-origin) )
 
 1. wejdź w poniższe linki
 
@@ -16,7 +16,7 @@
 
 2. zainstaluj podane dodatki
 
-#### na Operze
+#### na Operze ( [działa z ublockiem origin](https://github.com/konoromihimaries/polishsubfilters/blob/master/note/nano_defender.md#aby-zainstalowa%C4%87-nano-defender-z-ublockiem-origin) )
 
 1. wejdź w poniższe linki
 
