@@ -18,7 +18,9 @@ open **Youtube to Invidious** js
 var instance='paste-here.your-instance';
 ```
 
-https://github.com/ajayyy/SponsorBlock#readme
+https://github.com/ajayyy/SponsorBlock#readme <br/>
+https://github.com/lawfx/YoutubeNonStop#readme
+
 
 ## CPU
 
