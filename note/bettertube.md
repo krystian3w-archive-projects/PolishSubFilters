@@ -2,12 +2,10 @@
 
 ### install
 
-https://github.com/violentmonkey/violentmonkey#readme <br/>
-https://add0n.com/stylus.html
+https://github.com/violentmonkey/violentmonkey#readme
 
 ### add scripts
 
-https://greasyfork.org/en/scripts/370461-invidious-redirect <br/>
 https://greasyfork.org/en/scripts/375264-youtube-to-invidious <br/>
 
 ### change source
@@ -17,6 +15,8 @@ open **Youtube to Invidious** js
 ```
 var instance='paste-here.your-instance';
 ```
+
+### optional
 
 https://github.com/ajayyy/SponsorBlock#readme <br/>
 https://github.com/lawfx/YoutubeNonStop#readme
