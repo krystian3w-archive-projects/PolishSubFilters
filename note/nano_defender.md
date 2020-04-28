@@ -60,7 +60,7 @@
 
 2. zainstaluj podane dodatki
 
-#### na Yandex w wersji **mobilnej** ( [działa z Nano Adblockerem](https://chrome.google.com/webstore/detail/nano-adblocker/gabbbocakeomblphkmmnoamkioajlkfo) )
+#### na Yandex w wersji **mobilnej** ( [działa z nano adblockerem](https://chrome.google.com/webstore/detail/nano-adblocker/gabbbocakeomblphkmmnoamkioajlkfo) )
 
 1. wejdź w poniższe linki
 
