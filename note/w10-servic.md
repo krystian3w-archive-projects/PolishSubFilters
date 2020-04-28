@@ -12,3 +12,6 @@ open `cmd` as admin
 ```
 powercfg -h off
 ```
+
+## Safe NET
+<code>https://github.com/KonoromiHimaries/PolishSubFilters/blob/master/note/safe-net.md#readme</code>
