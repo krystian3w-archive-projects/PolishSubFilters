@@ -9,6 +9,9 @@ https://dnsprivacy.org/wiki/display/DP/DNS+Privacy+Daemon+-+Stubby
 ```
 https://gist.github.com/ookangzheng/c8fba46fe1dbcc8152e3231f53f91e86
 ```
+```
+https://www.privacytools.io/providers/dns/#dns
+```
 
 ### Check hash
 
