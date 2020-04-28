@@ -18,11 +18,6 @@ open **Youtube to Invidious** js
 var instance='paste-here.your-instance';
 ```
 
-## Mobile
-
-https://instances.joinpeertube.org/instances <br/>
-https://github.com/TeamNewPipe/NewPipe#readme
-
 https://github.com/ajayyy/SponsorBlock#readme
 
 ## CPU
