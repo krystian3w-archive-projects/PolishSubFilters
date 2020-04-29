@@ -119,8 +119,6 @@ userResourcesLocation https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/N
 
 ([Subskrybuj][NanoBase]) <code>https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoFilters/NanoBase.txt</code>
 
-([Subskrybuj][NanoAnnoyance]) <code>https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoFilters/NanoAnnoyance.txt</code>
-
 ([Subskrybuj][AdblockWarningRemovalList]) <code>https://easylist-downloads.adblockplus.org/antiadblockfilters.txt</code>
 
 </ul>
@@ -135,7 +133,6 @@ userResourcesLocation https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/N
 
 [NanoDefender]: https://subscribe.adblockplus.org/?location=https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoMirror/NanoDefender.txt&title=Nano%20Defender%20Integration
 [NanoBase]: https://subscribe.adblockplus.org/?location=https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoFilters/NanoBase.txt&title=Nano%20filters
-[NanoAnnoyance]: https://subscribe.adblockplus.org/?location=https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoFilters/NanoAnnoyance.txt&title=Nano%20filters%20-%20Annoyance
 [AdblockWarningRemovalList]: https://subscribe.adblockplus.org/?location=https://easylist-downloads.adblockplus.org/antiadblockfilters.txt&title=Adblock%20Warning%20Removal%20List
 
 ##
