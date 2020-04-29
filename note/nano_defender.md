@@ -119,8 +119,6 @@ userResourcesLocation https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/N
 
 ([Subskrybuj][NanoBase]) <code>https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoFilters/NanoBase.txt</code>
 
-([Subskrybuj][NanoWhitelist]) <code>https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoFilters/NanoWhitelist.txt</code>
-
 ([Subskrybuj][NanoAnnoyance]) <code>https://gitcdn.xyz/repo/NanoAdblocker/NanoFilters/master/NanoFilters/NanoAnnoyance.txt</code>
 
 ([Subskrybuj][AdblockWarningRemovalList]) <code>https://easylist-downloads.adblockplus.org/antiadblockfilters.txt</code>
