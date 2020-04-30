@@ -19,7 +19,8 @@ var instance='paste-here.your-instance';
 ### optional
 
 https://github.com/ajayyy/SponsorBlock#readme <br/>
-https://github.com/lawfx/YoutubeNonStop#readme
+https://github.com/lawfx/YoutubeNonStop#readme <br />
+https://github.com/pietervanheijningen/clickbait-remover-for-youtube
 
 ### cpu
 
