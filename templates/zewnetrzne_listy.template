@@ -24,4 +24,8 @@
 ! Source: https://github.com/metaphoricgiraffe/tracking-filters/blob/master/trackingfilters.txt
 @URLinclude https://raw.githubusercontent.com/metaphoricgiraffe/tracking-filters/master/trackingfilters.txt
 !
+!
+! Source: https://github.com/hoshsadiq/adblock-nocoin-list/blob/master/nocoin.txt
+@URLinclude https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
+!
 !#endif
