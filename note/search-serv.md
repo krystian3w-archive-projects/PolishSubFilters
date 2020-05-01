@@ -5,11 +5,14 @@
 ```
 chrome://settings/searchEngines
 ```
+```
+https://searx.space/
+```
 
 Adres URL z parametrem %s zamiast zapytania
 
 ```
-https://searx.site/?q=%s&categories=general&language=pl-PL
+https://search.privacytools.io/?q=%s&categories=general&language=pl-PL
 ```
 ```
 https://duckduckgo.com/?q=%s
