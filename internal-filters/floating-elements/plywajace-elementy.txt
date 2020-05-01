@@ -794,6 +794,7 @@ radio111.pl##.page-header:style(position:absolute!important)
 !
 !2$----------------------{ flanki }----------------------!
 !
+nczas.com##.td-ss-main-sidebar:style(position:static!important)
 hardcorowo.pl##.right.ad-float:style(position:absolute!important)
 dzienniknarodowy.pl###sidebar:style(position:static!important;padding-top:45px!important)
 encyklopediateatru.pl##.index:style(position:static!important)
