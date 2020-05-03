@@ -1,5 +1,12 @@
 ## Search Engines
 
+
+### Firefox
+
+```
+https://addons.mozilla.org/en-US/firefox/addon/add-custom-search-engine/
+```
+
 ### Chrome
 
 ```
@@ -25,10 +32,4 @@ https://www.qwant.com/?q=%s
 ```
 ```
 https://yandex.pl/search/?text=%s
-```
-
-### Firefox
-
-```
-https://addons.mozilla.org/en-US/firefox/addon/add-custom-search-engine/
 ```
