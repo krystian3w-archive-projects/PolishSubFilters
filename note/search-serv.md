@@ -33,3 +33,9 @@ https://www.qwant.com/?q=%s
 ```
 https://yandex.pl/search/?text=%s
 ```
+
+### Cookie
+
+```
+chrome://settings/clearBrowserData
+```
