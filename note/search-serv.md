@@ -34,8 +34,14 @@ https://www.qwant.com/?q=%s
 https://yandex.pl/search/?text=%s
 ```
 
-### Cookie
+### Cookies
 
 ```
 chrome://settings/clearBrowserData
+```
+
+### Permissions
+
+```
+chrome://settings/content
 ```
