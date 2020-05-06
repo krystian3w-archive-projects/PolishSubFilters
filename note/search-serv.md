@@ -34,13 +34,13 @@ https://www.qwant.com/?q=%s
 https://yandex.pl/search/?text=%s
 ```
 
-### Cookies
+#### Cookies
 
 ```
 chrome://settings/clearBrowserData
 ```
 
-### Permissions
+#### Permissions
 
 ```
 chrome://settings/content
