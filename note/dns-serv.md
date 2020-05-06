@@ -62,7 +62,10 @@ cp /etc/resolv.conf.save /etc/resolv.conf
 #### select new dns
 
 ```
-nano /etc/stubby/stubby.yml
+sudo nano /etc/stubby/stubby.yml
+```
+```
+sudo nano /etc/systemd/resolved.conf
 ```
 
 ##
