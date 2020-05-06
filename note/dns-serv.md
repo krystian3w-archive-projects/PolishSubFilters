@@ -70,6 +70,19 @@ sudo nano /etc/systemd/resolved.conf
 
 ##
 
+### Status
+
+```
+sudo systemctl status stubby
+```
+```
+sudo systemctl restart stubby
+```
+```
+sudo systemctl start stubby
+sudo systemctl enable stubby
+```
+
 ### Local DNS
 
 ipv4
