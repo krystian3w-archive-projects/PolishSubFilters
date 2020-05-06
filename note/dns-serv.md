@@ -48,8 +48,8 @@ apt install stubby
 ```
 
 ```
-nano /etc/resolv.conf
-cp /etc/resolv.conf /etc/resolv.conf.save
+sudo nano /etc/resolv.conf
+sudo cp /etc/resolv.conf /etc/resolv.conf.save
 ```
 
 #### create start.sh
